@@ -18,10 +18,8 @@ During each [[#Round]] of *Initiative*, each character's in the scene is restric
 ## Actions
 Actions, mechanically, are the game actions a character takes at any time. A character spends Action Points (AP) to take those actions. 
 
-A number of Actions are available to all characters, known as [[#Generic Actions]], but the large portion of Actions a given character can take come from their [[Character Archetype]].
+A number of Actions are available to all characters, known as [[Generic Actions]], but the large portion of Actions a given character can take come from their [[Features]] and [[Traits]].
 
 During *Initiative*, at the beginning of a character's turn, they have two Action Points to spend as they wish. A character may take as many [[#Actions]] as they can pay for until they take an Action that Ends their Turn or they voluntarily do so.
 
 At the End of a character's turn, any remaining Action Points are lost. A character may not spend Action Points during another character's turn.
-
-##### Generic Actions

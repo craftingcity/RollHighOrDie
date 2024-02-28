@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a85ef13641ed2fa",
+        "id": "3f07713ce8d8741d",
         "type": "tabs",
         "children": [
           {
-            "id": "0161152272af62c7",
+            "id": "dcba44546a14f70c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Core Rules/Action Economy/Actions During Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core Rules/Action Economy/Actions During Encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Core Rules/Action Economy/Actions During Encounters.md"
+              }
             }
           }
         ]
@@ -138,6 +142,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0161152272af62c7",
-  "lastOpenFiles": []
+  "active": "81be0ec429f61494",
+  "lastOpenFiles": [
+    "Core Rules/Action Economy/Generic Actions.md",
+    "Core Rules/Action Economy/Actions During Encounters.md",
+    "Core Rules/Character Rules/Character Archetype.md",
+    "Core Rules/Character Rules/Ability Scores.md",
+    "Character Sheet.md",
+    "Core Rules/Character Rules/Conditions.md",
+    "Core Rules/Equipment and Inventories/Inventory Management.md",
+    "Core Rules/Equipment and Inventories/Weapon Proficiencies.md",
+    "Core Rules/Equipment and Inventories/Ranged Weapons.md",
+    "Core Rules/Equipment and Inventories/Melee Weapons.md",
+    "Core Rules/Character Rules/Experience.md",
+    "Core Rules/Equipment and Inventories",
+    "Core Rules/Action Economy",
+    "Core Rules/Character Rules/Features.md",
+    "Core Rules/Character Rules/Traits.md",
+    "Character Rules/Systems"
+  ]
 }
