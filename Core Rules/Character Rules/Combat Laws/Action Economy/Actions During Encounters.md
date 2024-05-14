@@ -16,9 +16,9 @@ Throughout RHoD, time is measured in different ways. A [[#Round]] is six seconds
 During each [[#Round]] of *Initiative*, each character's in the scene is restricted to this six second window, during which time, they will take a number of mechanical [[#Actions]].
 
 ## Actions
-Actions, mechanically, are the game actions a character takes at any time. A character spends Action Points (AP) to take those actions. 
+Actions, mechanically, are the game actions a character takes during their turn. A character spends Action Points (AP) to take those actions. 
 
-A number of Actions are available to all characters, known as [[Generic Actions]], but the large portion of Actions a given character can take come from their [[Features]] and [[Traits]].
+A number of Actions are available to all characters, known as [[Generic Actions]], but the large portion of Actions a given character can use come from their chosen [[Features]] and [[Traits]].
 
 During *Initiative*, at the beginning of a character's turn, they have two Action Points to spend as they wish. A character may take as many [[#Actions]] as they can pay for until they take an Action that Ends their Turn or they voluntarily do so.
 

@@ -2,12 +2,12 @@ Character Name:
 Actor Name:
 
 [[Ability Scores]]:
-	[[STRENGTH]]: (__)
-	[[DEXTERITY]]: (__)
-	[[CONSTITUTION]]: (__)
-	[[INTELLIGENCE]]: (__)
-	[[WISDOM]]: (__)
-	[[CHARISMA]]: (__)
+	STRENGTH: (__)
+	DEXTERITY: (__)
+	CONSTITUTION: (__)
+	INTELLIGENCE: (__)
+	WISDOM: (__)
+	CHARISMA] (__)
 
 Character Features:
 	Current [[Experience]]:
@@ -17,16 +17,16 @@ Character Features:
 [[Character Status]]:
 	[[Defenses]]:
 		## Reactive Defenses
-		Relfex:
-		Will:
-		Fortitude:
+		[[Defenses#Reflex]]:
+		[[Defenses#Will]]:
+		[[Defenses#Fortitude]]
 		## Ablative Defenses
-		Vitality:
-		Armoring:
+		[[Defenses#Armoring]]:
+		[[Defenses#Vitality]]:
 	
-	[[Conditions]]:
-		[[Emboldenments]]:
-		[[Ailments]]:
+	[[Condition]]:
+		[[Emboldenment]]:
+		[[Ailment]]:
 	
 	[[Equipment]]:
 		Worn/Wielded:
