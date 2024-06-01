@@ -93,9 +93,9 @@ If you hit your target, you deal your Weapon Damage as normal.
 ###### REQ: 1EXP
 ###### W+2 AP
 ###### USE: Ranged Weapon
-''
+'Physics can be a fickle law, but when bent just right, a shot can kill two people while looking like a full miss.'
 
-Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make one Attack Roll with advantage. Use this Roll to hit against both targets' Reflex.
+Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make one Attack Roll against both targets' Reflex.
 
 If you hit either target, you deal your Weapon Damage as normal to that target.
 
@@ -113,7 +113,7 @@ Target a creature you have attacked this turn that is currently within your Weap
 ###### REQ: 1EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
-''
+'Drama and Morale are as much a part of combat as M'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Will.
 
