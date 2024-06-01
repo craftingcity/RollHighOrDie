@@ -91,13 +91,13 @@ If you hit your target, you deal your Weapon Damage as normal.
 
 ## Splitshot
 ###### REQ: 1EXP
-###### 2W AP
+###### W+2 AP
 ###### USE: Ranged Weapon
 ''
 
-Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make an Attack Roll with advantage. Use this total to hit against both targets' Reflex.
+Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make one Attack Roll with advantage. Use this Roll to hit against both targets' Reflex.
 
-If you hit your target, you deal your Weapon Damage as normal.
+If you hit either target, you deal your Weapon Damage as normal to that target.
 
 You may only use this feature once between Long Rests.
 
