@@ -158,7 +158,7 @@ You may only use this feature once per turn.
 ###### REQ: 2EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
-'With a well timed strike, you hamper your opponent's mobility
+'With a well timed strike, you hamper your opponent's mobility, and punish them for trying you.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
 
@@ -168,7 +168,7 @@ If you hit your target, you deal your Weapon Damage as normal, and you apply a s
 ###### REQ: 2EXP
 ###### W+2 AP
 ###### USE: Melee Weapon - Bludgeoning
-''
+'And whoever said everything *wasn't* a nail.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
 
