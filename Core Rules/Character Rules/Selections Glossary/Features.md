@@ -103,21 +103,23 @@ You may only use this feature once between Long Rests.
 
 ## Riposte
 ###### REQ: 1EXP
-###### 2 AP
+###### W AP
 ###### USE: Melee Weapon - Light or Quick
-''
+'You recall the fighting style of your opponent, and know you can use it to your advantage to gain a strike.'
 
 Target a creature you have attacked this turn that is currently within your Weapon Range. Until the beginning of your next turn, the first time your target attacks you while they are within your Weapon Range, make an Attack Roll against that target's Reflex.
+
+If you hit, you impose -3 to your target
 
 ## Sly Flourish
 ###### REQ: 1EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
-'Drama and Morale are as much a part of combat as M'
+'Drama and Morale are as much a part of combat as Manpower and Equipment - show 'em who's boss.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Will.
 
-If you hit your target, you deal your Weapon Damage, but use your Charisma Modifier instead of your Weapon Ability Modifier.
+If you hit your target, use your Charisma Modifier instead of your Weapon Ability Modifier to deal your Weapon Damage.
 
 ## Trickshot
 ###### REQ: 1EXP
