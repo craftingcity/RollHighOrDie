@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a112356671443921",
+        "id": "42790229b894dad0",
         "type": "tabs",
         "children": [
           {
-            "id": "7e5790d98ff962d7",
+            "id": "6b290e877ebd800b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e2d9785e9853c52c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,67 @@
             }
           },
           {
-            "id": "7b46b6f39e49a9f6",
+            "id": "efcc3fba5c11b7af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
+                "file": "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b16f8e70874c6689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "37b5e69829a007bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f6938f21d97e8a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9afc1a96ba63b05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Selections Glossary/Traits.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -61,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"hit die",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +138,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -98,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
+                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
+                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md"
+                "file": "Core Rules/Character Rules/Selections Glossary/Features.md"
               }
             }
           }
@@ -160,31 +221,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b46b6f39e49a9f6",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
-    "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
     "Core Rules/Character Rules/Defenses.md",
-    "Core Rules/Character Rules/Condition.md",
+    "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
+    "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
+    "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
+    "Core Rules/Character Rules/Selections Glossary/Traits.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
+    "Character Sheet.md",
+    "Core Rules/Character Rules/Ability Scores.md",
+    "Core Rules/Character Rules/Surviving.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+    "Core Rules/Character Rules/Condition.md",
+    "Core Rules/Character Rules/Experience.md",
     "Core Rules/Character Rules/Selections Glossary/Emboldenment.md",
     "Core Rules/Character Rules/Selections Glossary/Ailment.md",
     "Core Rules/Character Rules/Selections Glossary",
-    "Character Sheet.md",
-    "Core Rules/Character Rules/Ability Scores.md",
     "Untitled.md",
     "Core Rules/Equipment and Inventories/Weapon Proficiencies.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
-    "Core Rules/Character Rules/Experience.md",
     "Core Rules/Character Rules/Combat Laws",
     "Templates",
     "Core Rules/Character Rules/Character Archetype.md",
     "Core Rules/Character Rules/Equipment and Inventories",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
-    "Core Rules/Character Rules/Selections Glossary/Features.md",
-    "Core Rules/Character Rules/Selections Glossary/Traits.md",
     "Character Rules/Systems"
   ]
 }

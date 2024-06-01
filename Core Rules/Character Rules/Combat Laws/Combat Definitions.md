@@ -1,9 +1,9 @@
 # Preamble
 A number of positions and circumstances during combat will effect the outcome of that combat - who lives and who dies. The following sections will discuss the rules and definitions of how any combat generally operates.
 
-## Positioning
-The most important concept in combat is positioning. Where can I be to hit you when you can't hit me back? Where can I most effectively help my side win?
+## Timing
 
+## Positioning
 While you are in combat, RHoD assumes your character will occupy a 5ft square at any given time. 
 
 You may not end your turn occupying the same space as any other creature. You may pass through a space occupied by an ally without penalty, but you may not pass through a space occupied by someone who considers you hostile.
@@ -15,7 +15,7 @@ When you make an Attack, you must first establish Line of Sight with your target
 When you make an attack, if the space you occupy is above the space your target occupies, you gain +5 to that attack.
 
 #### Environmental Damage
-When a character is pushed, if they are pushed into an object or wall, they take an amount of damage. 
+When a character is pushed, if they are pushed into an object or wall they cannot pass through, they take 1d6 bludgeoning damage for every 5ft they cannot be pushed.
 
 ## Stance & Cover
 ### Stances
@@ -34,12 +34,12 @@ While you are in the Low Ready Stance, you have +2 on Stealth Rolls and a +1 to 
 ###### Crouched
 Crouched is a lowered position, where your character has lowered themselves at the knees or hips. This stance is favorable for Ranged combatants, who experience a more consistent aiming experience, but it can be detrimental for those combatants who rely on mobility and martial prowess.
 
-While you are in the Crouched Stance, your Speed is halved, you gain a +3 bonus to Ranged Attacks, and you treat Low Cover as High Cover.
+While you are in the Crouched Stance, you cannot run, you gain a +3 bonus to Ranged Attacks, and you treat Low Cover as High Cover.
 
 ###### Prone
 Prone is a fully lowered position, where your character has their chest or back upon the ground. This stance is rarely favorable for any combatant, and likely should be reserved for taking "deep" cover.
 
-While you are in the Crouched Stance, your Speed is halved, you treat Low Cover as High Cover, and No Cover as Low Cover.
+While you are in the Prone Stance, you cannot run, you treat Low Cover as High Cover, and No Cover as Low Cover. Attacks against you that originate within 10' have Advantage.
 
 ### Cover
 Cover is any barrier between you and your opposition. Taking effective Cover during combat is a life-saving strategy.
@@ -55,3 +55,5 @@ You are adjacent to Low Cover, such as a mid-sized crate. You have Line of Sight
 
 ###### No Cover
 You are not adjacent to any cover.
+
+## Lighting

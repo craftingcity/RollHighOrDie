@@ -1,34 +1,69 @@
 # Preamble
 While most Actions a character will use throughout a game of RHoD come from their chosen [[Features]] and/or [[Traits]], the following Actions are available to most if not all characters in the world of RHoD.
 
+## Attack
+###### W AP
+'You attack your opposition with a weapon and the intention to damage them into compliance. Or destruction.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll by making an Ability Check using your Weapon Ability, then adding your Proficiency Modifier and any other bonuses or deficits. This is your Attack Roll Total.
+
+Compare your Attack Roll Total to your target's Relevant Defense for your Weapon. If your Total is greater or equal to the target's Defense, you've "hit". 
+
+When you "hit", roll your Weapon Damage and add your Weapon Ability Modifier. The target of your Attack takes that much damage.
+
+## Grapple
+
+## Shove
+
+## Maneuver
+###### 2 AP
+'You move, positioning yourself in the most favorable position you can yet reach.'
+
+Choose one:
+	- You may change your Stance.
+	- You may run up to 10 feet.
+	- You may climb, crawl, or jump up to 5 feet.
+
+## Detect
+###### 2AP
+'You take a moment to scan your surroundings, identifying hidden threats and relevant information within the area.'
+
+Make a Wisdom (Perception) Ability Check. Any creatures in the area under the 'Hidden' [[Condition]] must make a Stealth Skill Check equal or greater than your total, or they are no longer 'Hidden'.
+
 ## Aid
-###### 1AP
+###### 2 AP
 'You provide assistance to an ally, increasing their chances of success.'
 
 Target a willing creature within 5ft of you. You provide them with the 'Aided' [[Emboldenment]] as you move to assist them on their next action.
 
-Taking this action will end your turn.
-
-## Attack
-###### 1AP
-'You attack your opposition with a weapon and the intention to damage them into compliance. Or destruction.'
-
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll by making an Ability Check using your Weapon's Attack Ability, then adding your Proficiency Modifier. This is your Attack Roll Total.
-
-Compare your Attack Roll Total to your target's Relevant Defense for your Weapon. If your Total is greater or equal to the target's Defense, you've "hit". 
-
-When you "hit", roll your Weapon Damage and add your Weapon Damage Modifier. The target of your Attack takes that much damage.
-
-## Maneuver
-###### 1AP
-
-## Detect
-###### 1AP
-'You take a moment to scan your surroundings, identifying hidden threats and relevant information within the area.'
-
-Make a Wisdom (Perception) Ability Check. Any creatures in the area under the 'Hidden' [[Condition]] must make a Dexterity (Stealth) Ability Check equal or greater than your total, or they are no longer 'Hidden'.
-
 ## Interact
-###### 0AP
+###### 1AP
+'You take a moment to grab, pull, or push in a simple quick motion.'
 
+You manipulate an object.
 
+> The following actions fall under the Interact Generic Action;
+> 	- grabbing an item you can reach
+> 	- drawing or holstering a weapon
+> 	- opening a door
+> 	- using a consumable item
+
+## Reload
+###### 2AP
+''
+
+You reload a Weapon in your hand.
+
+## Unjam
+###### 2AP
+''
+
+You attempt to unjam a Weapon in your hand. Make a Manipulate Skill Check. If the result is 14 or greater, you unjam your weapon.
+
+## Hide
+###### 2AP
+''
+
+You attempt to conceal yourself. Make a Stealth Skill Check. If a creature that considers you hostile has Line of Sight on you, you make the check with Disadvantage.
+
+If the result is 14 or greater, you are under the 'Hidden' [[Condition]].

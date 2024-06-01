@@ -59,9 +59,10 @@ Each Weapon has a Range, an associated Ability used during your attack and damag
 
 ### Melee
 
-| Name | Weapon Range | Weapon Ability | Relevant Defense | Weapon Damage | Weapon Damage Modifier | Tags |
-| ---- | ------------ | -------------- | ---------------- | ------------- | ---------------------- | ---- |
-|      |              |                |                  |               |                        |      |
+| Name | Weapon Range | Weapon Ability | Relevant Defense | Weapon Damage | Tags |
+| ---- | ------------ | -------------- | ---------------- | ------------- | ---- |
+|      |              |                |                  |               |      |
+|      |              |                |                  |               |      |
 
 
 ### Ranged
