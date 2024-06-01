@@ -158,7 +158,7 @@ You may only use this feature once per turn.
 ###### REQ: 2EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
-''
+'With a well timed strike, you hamper your opponent's mobility
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
 
