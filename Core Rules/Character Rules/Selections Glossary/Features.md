@@ -144,7 +144,7 @@ You may only use this feature once per turn.
 ###### REQ: 2EXP
 ###### W AP
 ###### USE: Melee Weapon - Light or Quick
-''
+'The concept of fire and maneuver applies more commonly to ranged combats, but you find the strategy quite enticing.'
 
 Make a Maneuver. 
 
