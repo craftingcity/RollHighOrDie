@@ -7,25 +7,29 @@ Some Features have Prerequisites that you must meet or surpass before you are el
 ## Second Wind
 ###### REQ: 1EXP
 ###### 2AP
-''
+'You hurt, bad. It's not enough to kill you, so it won't be enough to stop you.'
 
-Expend a Hit Die. You gain the number rolled plus you Constitution Modifier as Vitality.
+Expend two Hit Die. You gain the number rolled plus twice your Constitution Modifier as Vitality.
+
+You may only use this feature once between Long Rests.
 
 ## Engage
 ###### REQ: 1EXP
 ###### W+2 AP
 ###### USE: Melee Weapon
-''
+'You will be their biggest threat, and they need to know it.'
 
 Target a creature within your Weapon Range and establish Line of Sight.
 
-Until the beginning of your next turn, the target is under the 'Engaged' [[Ailment]].
+Make an Attack Roll against that target's Will. If you hit, you deal your Weapon Damage as normal, and you impose the 'Engaged' [[Ailment]].
+
+You may not use this feature again until your target is no longer 'Engaged'.
 
 ## Cleave
 ###### REQ: 1EXP 
 ###### W+1 AP
 ###### USE: Melee Weapon - Slashing
-'You make a wide strike, taking a single strike and extending it into one-and-a-half.'
+'You make a wide strike, taking a single attack and extending it into one-and-a-half.'
 
 Target a creature within your Weapon Range and another creature within your Weapon Range adjacent to the first, and establish Line of Sight with both. Make an Attack Roll against both targets' Reflex. 
 
@@ -37,7 +41,7 @@ If you are wielding a Weapon that additionally has the Two-Handed or Heavy Tags,
 ###### REQ: 1EXP 
 ###### W AP
 ###### USE: Melee - Light or Quick or Ranged Weapon
-''
+'When the opportunity presents itself, it would be frankly rude to refuse a good poke!'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. 
 
@@ -47,7 +51,7 @@ If you hit your target, you deal your Weapon Damage. If you had Advantage on thi
 ###### REQ: 1EXP 
 ###### W AP
 ###### USE: Melee Weapon
-'With intention and confidence, you strike out and push back, allowing you to take the positional advantage.'
+'With intention and confidence, you strike out and push forward, allowing you to take the positional advantage.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
 
@@ -57,7 +61,7 @@ If you hit your target, you deal your Weapon Damage as normal and push your targ
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
-''
+'With skill and force, you force your opponent onto the floor, taking what could be their final breaths.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
 
@@ -67,7 +71,7 @@ If you hit your target, you deal your Weapon Damage as normal and you force your
 ###### REQ: 1EXP
 ###### W+1 AP
 ###### USE: Melee Weapon
-''
+'You push forward so your allies can pull back for positional advantage or recovery.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
 
@@ -79,7 +83,7 @@ Then, an Ally within 10' of your target makes a Maneuver.
 ###### REQ: 1EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
-''
+'With baited breath, you find the weakest point in your opponent's armor, and release.'
 
 Target a creature within your Weapon Range and establish Line of Sight. You gain +2 to hit that creature with this attack. Make an Attack Roll against that target's Reflex.
 
@@ -94,6 +98,8 @@ If you hit your target, you deal your Weapon Damage as normal.
 Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make an Attack Roll with advantage. Use this total to hit against both targets' Reflex.
 
 If you hit your target, you deal your Weapon Damage as normal.
+
+You may only use this feature once between Long Rests.
 
 ## Riposte
 ###### REQ: 1EXP
@@ -197,7 +203,7 @@ Make a Maneuver.
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier.
 
-You may only use this Feature once between Long Rests.
+You may only use this feature once between Long Rests.
 
 ## Opportune Pushback
 ###### REQ: 2EXP, 3+TMK
@@ -219,7 +225,7 @@ If you hit that creature, deal your Weapon Damage as normal. You impose -3 to th
 
 ## Fleet Foot
 ###### REQ: 2EXP, 3+TMK
-###### 4 AP
+###### 3 AP
 ''
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may climb, crawl, or jump up to 10' instead of 5'.
