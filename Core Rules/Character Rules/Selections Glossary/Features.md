@@ -109,7 +109,7 @@ You may only use this feature once between Long Rests.
 
 Target a creature you have attacked this turn that is currently within your Weapon Range. Until the beginning of your next turn, the first time your target attacks you while they are within your Weapon Range, make an Attack Roll against that target's Reflex.
 
-If you hit, you impose -3 to your target
+If you hit, you impose -3 to your target's Attack Roll, and you deal your Weapon Damage as normal.
 
 ## Sly Flourish
 ###### REQ: 1EXP
@@ -125,7 +125,7 @@ If you hit your target, use your Charisma Modifier instead of your Weapon Abilit
 ###### REQ: 1EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
-''
+'In the rhythm of combat, you find your opponents weakness and use it against them.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. 
 
@@ -134,7 +134,7 @@ If you hit, you deal your Weapon Damage as normal, and you have Advantage your n
 ## Up and Gone
 ###### REQ: 1EXP
 ###### 2 AP
-''
+'Now you see me...'
 
 Make a Maneuver, then Hide.
 
@@ -151,6 +151,8 @@ Make a Maneuver.
 Then, Target a creature that was or currently is within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
 
 If you hit your target, you deal your Weapon Damage as normal.
+
+You may only use this feature once per turn.
 
 ## Hobble
 ###### REQ: 2EXP
