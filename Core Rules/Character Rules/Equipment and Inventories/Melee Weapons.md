@@ -5,7 +5,8 @@ Given this, weapons can be mutable while you are playing - you may replace, gain
 
 ## Bases
 #### Short Blunt
-Short Blunt weapons include 
+Short Blunt weapons include items such as batons, hammers, or war clubs - instruments that can usually be held in one hand and deal a force to a single point.
+
 #### Long Blunt
 #### Short Blade
 #### Long Blade
