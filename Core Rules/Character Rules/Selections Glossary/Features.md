@@ -182,6 +182,14 @@ If you hit your target, you deal thrice your Weapon Damage, and you may not use 
 
 Target an ally within 5' of you. Until the beginning of your next turn, if they are the target of an attack and they are still within 5' of you, you are the target of that attack instead.
 
+## Reckless Stance
+###### REQ: 2EXP
+###### 2 AP
+###### Use: Melee Weapon
+''
+Until the beginning of your next turn, you impose Advantage on Melee Attacks against you, and when you hit a target with a Melee Weapon, you deal an additional Weapon Damage Die.
+
+
 ## Bugout
 ###### REQ: 2EXP
 ###### 2 AP
@@ -233,6 +241,19 @@ If you hit that creature, deal your Weapon Damage as normal. You impose -3 to th
 ''
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may climb, crawl, or jump up to 10' instead of 5'.
+
+## Tank Up
+###### REQ: 2EXP, 3+TMK
+###### 3 AP
+###### USE: Armor - Heavy
+''
+
+Until the beginning of your next turn, you gain 2 Damage Resistance.
+
+## Tank Up
+###### REQ: 2EXP, 3+TMK
+###### 3 AP
+###### USE: Armor - Heavy
 
 ### Arcane Features
 ### Divine Features

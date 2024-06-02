@@ -30,6 +30,9 @@ If you take damage that would reduce your Armoring to less than 0, instead, it r
 
 Your character's Armoring will depend on your currently worn Equipment.
 
+###### Damage Resistance (DR)
+While you have more than 0 Armoring, you reduce any damage you would by your current Damage Resistance total.
+
 ###### True Damage
 There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
 
