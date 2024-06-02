@@ -3,10 +3,9 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 Given this, weapons can be mutable while you are playing - you may replace, gain, or remove Tags from your Base weapon - so long as your character has the knowledge and makes the effort, they can change may aspects of their weapon.
 
-All weapons require 
-
 ## Bases
 #### Short Blunt
+Short Blunt weapons include 
 #### Long Blunt
 #### Short Blade
 #### Long Blade
