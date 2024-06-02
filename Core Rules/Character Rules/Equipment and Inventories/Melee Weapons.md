@@ -7,14 +7,15 @@ Given this, weapons can be mutable while you are playing - you may replace, gain
 #### Short Blunt
 Short Blunt weapons include items such as batons, hammers, or war clubs - instruments that can usually be held in one hand and deal a force to a single point.
 
-A basic Short Blunt weapons has the following Tags;
-	- Weapon Size (Small)
-	- Weapon Range (Melee)
+A Short Blunt Weapon Base has the following Tags;
+	- Size (Small)
+	- Range (Melee - 5ft)
 	- Weapon Ability (Strength)
 	- Relevant Defense (Reflex)
 	- Weapon Damage Dice (1d4)
 
 #### Long Blunt
+Long Blunt weapons range from the simple shovel to the military maul. Long Blunt weapons 
 #### Short Blade
 #### Long Blade
 #### Axe
