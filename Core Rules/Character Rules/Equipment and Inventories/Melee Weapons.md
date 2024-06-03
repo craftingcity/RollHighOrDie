@@ -25,6 +25,7 @@ A Long Blunt Weapon Base has the following Tags;
 	- Relevant Defense (Reflex)
 	- Weapon Damage Dice (1d6)
 	- Weapon Damage Type (Bludgeoning)
+	- Versatile (1d8)
 
 #### Short Blade
 Short Blades are your shanks, shivs, daggers, and short swords. History's favorite tool.
@@ -47,9 +48,18 @@ A Long Blade Weapon Base has the following Tags;
 	- Relevant Defense (Reflex)
 	- Weapon Damage Dice (1d6)
 	- Weapon Damage Type (Slashing)
+	- Versatile (1d8)
 
 #### Axe
-Axes are a simple category of weapon, that spans the width of the humble hatchet and the glorious great axe. While an atypical weapon of war, the axe shines in the hands of a
+Axes are a simple category of weapon, that spans the width of the humble hatchet and the glorious great axe. While an atypical weapon of war, the axe earns its place as a staple of intimidation and necessity.
+
+An Axe Weapon Base has the following Tags;
+	- Size (Medium)
+	- Range (Melee - 5ft)
+	- Weapon Ability (Strength)
+	- Relevant Defense (Reflex)
+	- Weapon Damage Dice (1d6)
+	- Weapon Damage Type (Slashing)
 
 #### Polearm
 #### Flexible
