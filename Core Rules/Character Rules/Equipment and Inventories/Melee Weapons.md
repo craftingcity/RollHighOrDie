@@ -25,7 +25,15 @@ A Long Blunt Weapon Base has the following Tags;
 	- Weapon Damage Dice (1d6)
 
 #### Short Blade
-Short Blades 
+Short Blades are your shanks, shivs, daggers, and shortswords. Timing and precision are the tools of the blade.
+
+A Short Blade Weapon Base has the following Tags;
+	- Size (Small)
+	- Range (Melee - 5ft)
+	- Weapon Ability (Dexterity)
+	- Relevant Defense (Reflex)
+	- Weapon Damage Dice (1d4)
+
 #### Long Blade
 #### Axe
 #### Polearm
