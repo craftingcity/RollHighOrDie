@@ -113,7 +113,11 @@ This Tag is immutable, and cannot be changed.
 This is the Defense that the Weapon targets to determine hit or miss during a Generic Attack. The vast majority of Weapons target Reflex.
 
 #### Weapon Damage Dice
+This is the amount and type of dice you will roll to deal damage with this Weapon.
+
 #### Weapon Damage Type
+This is the type of damage that the Weapon deals. Mundane Weapons only ever deal Piercing, Bludgeoning, and or Slashing damage.
+
 ### Mundane Tags
 #### Light
 #### Heavy
