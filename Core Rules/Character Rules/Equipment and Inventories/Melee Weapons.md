@@ -88,7 +88,12 @@ A Flexible Weapon Base has the following Tags;
 ### Required Tags
 All Weapons must have the following Tags, as each is mechanically relevant.
 #### Size
-This is the mechanical Size of the item.
+This is the mechanical Size of the item - Small, Medium, or Large - and is only used for inventory management. 
+
+Short Blunt and Short Blade Weapons must be Small.
+
+Long Blunt and Long Blade Weapons must be Medium or Large.
+
 #### Range
 #### Weapon Ability
 #### Relevant Defense
