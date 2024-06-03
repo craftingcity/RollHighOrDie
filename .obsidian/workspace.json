@@ -82,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -243,13 +239,13 @@
       }
     ]
   },
-  "active": "b477c0b0f6cfa579",
+  "active": "d9b31e38d58909e8",
   "lastOpenFiles": [
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
     "Core Rules/Character Rules/Experience.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Surviving.md",
     "Core Rules/Character Rules/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",

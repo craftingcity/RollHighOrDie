@@ -132,7 +132,9 @@ This Weapon's Ability is Strength.
 A Small creature makes Attacks with this Weapon with Disadvantage.
 
 #### Quick
-While this Weapon is Equipped or Sheathed
+While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
+
+
 
 #### Versatile
 #### Two-Handed
