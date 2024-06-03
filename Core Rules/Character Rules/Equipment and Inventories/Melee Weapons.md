@@ -88,7 +88,7 @@ A Flexible Weapon Base has the following Tags;
 ### Required Tags
 All Weapons must have the following Tags, as each is mechanically relevant.
 
-Some Tags are considered "inherent". This means that changing this Tag may involve recategorizing the weapon under a different Base, according to your Referee's discression. 
+Some Tags are considered "inherent". This means that changing that Tag may involve recategorizing the weapon under a different Base, according to your Referee's discretion. 
 
 #### Size
 This is the mechanical Size of the weapon - Small, Medium, or Large - and is only used for inventory management. 
@@ -105,6 +105,8 @@ Short Blunt and Short Blade Weapons inherently have a range of 5ft.
 Polearms inherently have a range of 10ft.
 
 #### Weapon Ability
+This is the Ability Score relevant to hitting and dealing damage with this weapon.
+
 #### Relevant Defense
 #### Weapon Damage Dice
 #### Weapon Damage Type
