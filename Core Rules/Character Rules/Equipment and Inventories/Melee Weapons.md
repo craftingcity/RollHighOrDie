@@ -110,6 +110,8 @@ This is the Ability Score relevant to hitting and dealing damage with this weapo
 This Tag is immutable, and cannot be changed.
 
 #### Relevant Defense
+This is the Defense that the Weapon targets to determine hit or miss.
+
 #### Weapon Damage Dice
 #### Weapon Damage Type
 ### Mundane Tags
