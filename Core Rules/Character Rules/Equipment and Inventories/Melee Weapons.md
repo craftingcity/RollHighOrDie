@@ -36,7 +36,7 @@ A Short Blade Weapon Base has the following Tags;
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
 	- Weapon Damage Dice (1d4)
-	- Weapon Damage Type (Peircing)
+	- Weapon Damage Type (Piercing)
 
 #### Long Blade
 Long Blades are the most typical weapons of melee combat - from the longsword to the claymore, these blades are built to protect you and yours from the opposition.
@@ -74,6 +74,18 @@ A Polearm Weapon Base has the following Tags;
 	- Two-Handed
 
 #### Flexible
-Flexible weapons are the least commonly used category of weapon. Whips, Chainlocks, and Flails are a
+Flexible weapons are the least commonly used category of weapon. Whips, Chainlocks, and Flails are all examples of Flexible weapons - in the right hands, a simple strip of leather controls the battlefield.
+
+A Flexible Weapon Base has the following Tags;
+	- Size (Small)
+	- Range (Melee - 10ft)
+	- Weapon Ability (Dexterity)
+	- Relevant Defense (Reflex)
+	- Weapon Damage Dice (1d4)
+	- Weapon Damage Type (Piercing)
 
 ## Tags
+### Required Tags
+#### Size
+#### Range
+#### Weapon Ability
