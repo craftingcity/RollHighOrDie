@@ -124,10 +124,16 @@ You may choose Strength or Dexterity as this Weapon's Ability.
 
 For W AP, you may throw this weapon. Target a creature within 30', and establish Line of Sight. Make an Attack Roll with Disadvantage against that target's Reflex.
 
-If you hit, and your target is within 15', you deal your Weapon Damage as normal. 
+If you hit, and your target is within 15', you deal your Weapon Damage as normal. Otherwise, if you hit, you deal half your Weapon Damage.
 
 #### Heavy
+This Weapon's Ability is Strength.
+
+A Small creature makes Attacks with this Weapon with Disadvantage.
+
 #### Quick
+While this Weapon is Equipped
+
 #### Versatile
 #### Two-Handed
 #### Unwieldy
