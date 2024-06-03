@@ -25,7 +25,7 @@ A Long Blunt Weapon Base has the following Tags;
 	- Weapon Damage Dice (1d6)
 
 #### Short Blade
-Short Blades are your shanks, shivs, daggers, and shortswords. Humanity's favorite tool since forever.
+Short Blades are your shanks, shivs, daggers, and shortswords. History's favorite tool.
 
 A Short Blade Weapon Base has the following Tags;
 	- Size (Small)
@@ -35,6 +35,8 @@ A Short Blade Weapon Base has the following Tags;
 	- Weapon Damage Dice (1d4)
 
 #### Long Blade
+Long Blades are the more sophisticated 
+
 #### Axe
 #### Polearm
 #### Flexible
