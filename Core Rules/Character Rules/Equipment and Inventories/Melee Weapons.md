@@ -132,7 +132,7 @@ This Weapon's Ability is Strength.
 A Small creature makes Attacks with this Weapon with Disadvantage.
 
 #### Quick
-While this Weapon is Equipped
+While this Weapon is Equipped or Sheathed
 
 #### Versatile
 #### Two-Handed

@@ -20,10 +20,10 @@ The slots given are as follows;
 	- Armor Worn (Large)
 	- Main Hand (Medium)
 	- Off Hand (Medium)
-	- Holstered Weapon (Medium)
+	- Sheath (Medium)
 	- Coinpurse (Small)
 
-In addition to these 'equipment' Slots, a character gains a number of additional slots based on their Strength Modifier, assumed to be the straps, bags, and pouches an Adventurer acquires over time. 
+In addition to these 'equipment' Slots, a character gains a number of additional slots based on their Strength Modifier, assumed to be the additional straps, bags, and pouches an Adventurer acquires over time. 
 
 Characters who are considered Large gain an effective +4 to their Strength Modifier and characters who are considered Small incur an effective -4 to their Strength Modifier for calculating the number of 'strength' slots a character receives.
 
