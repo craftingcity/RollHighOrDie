@@ -134,7 +134,7 @@ A Small creature makes Attacks with this Weapon with Disadvantage.
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
 
-
+You do not incur Disadvantage when making Ranged Attacks with this weapon while a hostile creature is within 5'.
 
 #### Versatile
 #### Two-Handed

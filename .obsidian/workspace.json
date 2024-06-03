@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feature",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 691.5
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -239,7 +239,7 @@
       }
     ]
   },
-  "active": "d9b31e38d58909e8",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
