@@ -89,3 +89,15 @@ A Flexible Weapon Base has the following Tags;
 #### Size
 #### Range
 #### Weapon Ability
+#### Relevant Defense
+#### Weapon Damage Dice
+#### Weapon Damage Type
+### Additional Tags
+#### Light
+#### Heavy
+#### Very Heavy
+#### Quick
+#### Versatile
+#### Two-Handed
+#### Unwieldy
+#### Throwable
