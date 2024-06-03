@@ -122,7 +122,7 @@ This is the type of damage that the Weapon deals. Mundane Weapons only ever deal
 #### Light
 You may choose Strength or Dexterity as this Weapon's Ability.
 
-For W AP, you may throw this weapon at a target within 30'. If
+For W AP, you may throw this weapon. Target a creature within 30', and establish Line of Sight. Make an Attack Roll with Disadvantage a
 #### Heavy
 #### Quick
 #### Versatile
