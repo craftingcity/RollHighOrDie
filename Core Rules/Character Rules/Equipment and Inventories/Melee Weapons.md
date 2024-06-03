@@ -105,7 +105,9 @@ Short Blunt and Short Blade Weapons inherently have a range of 5ft.
 Polearms inherently have a range of 10ft.
 
 #### Weapon Ability
-This is the Ability Score relevant to hitting and dealing damage with this weapon.
+This is the Ability Score relevant to hitting and dealing damage with this weapon - either Strength or Dexterity. No other Ability Scores are relevant in this regard.
+
+This Tag is immutable, and cannot be changed.
 
 #### Relevant Defense
 #### Weapon Damage Dice
