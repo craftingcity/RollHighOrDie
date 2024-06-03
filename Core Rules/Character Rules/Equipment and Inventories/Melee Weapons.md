@@ -116,10 +116,13 @@ This is the Defense that the Weapon targets to determine hit or miss during a Ge
 This is the amount and type of dice you will roll to deal damage with this Weapon.
 
 #### Weapon Damage Type
-This is the type of damage that the Weapon deals. Mundane Weapons only ever deal Piercing, Bludgeoning, and or Slashing damage.
+This is the type of damage that the Weapon deals. Mundane Weapons only ever deal Piercing, Bludgeoning, and/or Slashing damage.
 
 ### Mundane Tags
 #### Light
+
+
+This Weapon can be thrown, but it was not made to do so.
 #### Heavy
 #### Quick
 #### Versatile
