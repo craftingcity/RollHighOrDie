@@ -24,6 +24,7 @@ A Long Blunt Weapon Base has the following Tags;
 	- Weapon Ability (Strength)
 	- Relevant Defense (Reflex)
 	- Weapon Damage Dice (1d6)
+	- Weapon Damage Type (Bludgeoning)
 
 #### Short Blade
 Short Blades are your shanks, shivs, daggers, and shortswords. History's favorite tool.
@@ -34,6 +35,7 @@ A Short Blade Weapon Base has the following Tags;
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
 	- Weapon Damage Dice (1d4)
+	- Weapon Damage Type (Peircing)
 
 #### Long Blade
 Long Blades are the most typical weapons of melee combat - from the longsword to the claymore, these blades are built to protect you and yours from the opposition.
@@ -44,9 +46,10 @@ A Long Blade Weapon Base has the following Tags;
 	- Weapon Ability (Strength)
 	- Relevant Defense (Reflex)
 	- Weapon Damage Dice (1d6)
+	- Weapon Damage Type (Slashing)
 
 #### Axe
-
+Axes are a simple category of weapon, that spans the width of the humble hatchet and the grand greataxe
 
 #### Polearm
 #### Flexible
