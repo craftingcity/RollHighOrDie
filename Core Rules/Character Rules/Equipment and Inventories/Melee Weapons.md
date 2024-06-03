@@ -62,6 +62,17 @@ An Axe Weapon Base has the following Tags;
 	- Weapon Damage Type (Slashing)
 
 #### Polearm
+Polearms are most commonly recognized as a big stick with a few pointy bits on the end. Spears, Glaives, Halberds. These polearms are all simple weapons on a longer handle.
+
+A Polearm Weapon Base has the following Tags;	
+	- Size (Large)
+	- Range (Melee - 5ft)
+	- Weapon Ability (Strength)
+	- Relevant Defense (Reflex)
+	- Weapon Damage Dice (1d6)
+	- Weapon Damage Type (Slashing)
+
+
 #### Flexible
 
 ## Tags
