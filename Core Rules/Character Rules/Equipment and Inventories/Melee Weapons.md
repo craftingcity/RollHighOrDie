@@ -27,7 +27,7 @@ A Long Blunt Weapon Base has the following Tags;
 	- Weapon Damage Type (Bludgeoning)
 
 #### Short Blade
-Short Blades are your shanks, shivs, daggers, and shortswords. History's favorite tool.
+Short Blades are your shanks, shivs, daggers, and short swords. History's favorite tool.
 
 A Short Blade Weapon Base has the following Tags;
 	- Size (Small)
@@ -49,7 +49,7 @@ A Long Blade Weapon Base has the following Tags;
 	- Weapon Damage Type (Slashing)
 
 #### Axe
-Axes are a simple category of weapon, that spans the width of the humble hatchet and the grand greataxe
+Axes are a simple category of weapon, that spans the width of the humble hatchet and the glorious great axe. While an atypical weapon of war, the axe shines in the hands of a
 
 #### Polearm
 #### Flexible
