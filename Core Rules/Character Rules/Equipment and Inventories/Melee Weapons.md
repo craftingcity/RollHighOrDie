@@ -13,6 +13,7 @@ A Short Blunt Weapon Base has the following Tags;
 	- Weapon Ability (Strength)
 	- Relevant Defense (Reflex)
 	- Weapon Damage Dice (1d4)
+	- Weapon Damage Type (Bludgeoning)
 
 #### Long Blunt
 Long Blunt weapons range from the working shovel to the military maul - heavy implements of brute force. The long handled older sibling of the Short Blunt weapon.
@@ -35,9 +36,18 @@ A Short Blade Weapon Base has the following Tags;
 	- Weapon Damage Dice (1d4)
 
 #### Long Blade
-Long Blades are the more sophisticated 
+Long Blades are the most typical weapons of melee combat - from the longsword to the claymore, these blades are built to protect you and yours from the opposition.
+
+A Long Blade Weapon Base has the following Tags;
+	- Size (Medium)
+	- Range (Melee - 5ft)
+	- Weapon Ability (Strength)
+	- Relevant Defense (Reflex)
+	- Weapon Damage Dice (1d6)
 
 #### Axe
+
+
 #### Polearm
 #### Flexible
 
