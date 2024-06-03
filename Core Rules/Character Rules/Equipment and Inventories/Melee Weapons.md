@@ -87,14 +87,22 @@ A Flexible Weapon Base has the following Tags;
 ## Tags
 ### Required Tags
 All Weapons must have the following Tags, as each is mechanically relevant.
+
+While these tags are 
 #### Size
-This is the mechanical Size of the item - Small, Medium, or Large - and is only used for inventory management. 
+This is the mechanical Size of the weapon - Small, Medium, or Large - and is only used for inventory management. 
 
-Short Blunt and Short Blade Weapons must be Small.
+Short Blunt and Short Blade Weapons inherently are Small.
 
-Long Blunt and Long Blade Weapons must be Medium or Large.
+Long Blunt and Long Blade Weapons inherently are Medium or Large.
 
 #### Range
+This is the mechanical Range of the weapon.
+
+Short Blunt and Short Blade Weapons inherently have a range of 5ft.
+
+Polearms inherently have a range of 10ft.
+
 #### Weapon Ability
 #### Relevant Defense
 #### Weapon Damage Dice
