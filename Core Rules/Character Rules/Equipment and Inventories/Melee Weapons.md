@@ -88,7 +88,7 @@ A Flexible Weapon Base has the following Tags;
 ### Required Tags
 All Weapons must have the following Tags, as each is mechanically relevant.
 
-Some Tags are considered "inherent". This means that changing this Tag may involve recategorizing the weapon under a different Base. 
+Some Tags are considered "inherent". This means that changing this Tag may involve recategorizing the weapon under a different Base, according to your Referee's discression. 
 
 #### Size
 This is the mechanical Size of the weapon - Small, Medium, or Large - and is only used for inventory management. 

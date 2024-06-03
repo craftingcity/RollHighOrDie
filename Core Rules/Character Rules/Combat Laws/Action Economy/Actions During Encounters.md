@@ -1,7 +1,7 @@
 # Preamble
 When you find yourself in a situation that you recognize as dangerous, your body begins to pump adrenaline through your veins. As you begin to consciously analyze your surroundings, your body will prepare itself for immediate action and reaction.
 
-In our game of RHoD, your character will find themselves in dangerous situations commonly. During a time when your character's mortal life could be threatened, or you are entering a hazardous space, your Referee may [[#Call for Initiative]], and begin to section time into [[#Round]]s. This is known as an *Encounter*.
+In our game of RHoD, your character will find themselves in dangerous situations commonly. During a time when your character's mortal life could be threatened, or you are entering a hazardous space, your Referee may [[#Call for Initiative]], and begin to section time into [[#Round]]s. This portion of our game is known as an *Encounter*.
 
 During each [[#Round]], you will take [[#Actions]] as your character in an attempt to complete your goal or otherwise resolve the *Encounter*.
 
@@ -13,13 +13,11 @@ When *Initiative* is called, you will make a Dexterity Ability Check. This repre
 ##### Round
 Throughout RHoD, time is measured in different ways. A [[#Round]] is six seconds. It likely took you more than a few [[#Round]]s to read this page, let alone this chapter.
 
-During each [[#Round]] of *Initiative*, each character's in the scene is restricted to this six second window, during which time, they will take a number of mechanical [[#Actions]].
+During each [[#Round]] of *Initiative*, each character in the scene is restricted to a six second window of time during which they will take a number of mechanical [[#Actions]].
 
 ## Actions
-Actions, mechanically, are the game actions a character takes during their turn. A character spends Action Points (AP) to take those actions. 
+Actions, mechanically, are the [[Features]], [[Traits]], or [[Generic Actions]] a character uses during their turn. A character spends Action Points (AP) to take those actions. 
 
-A number of Actions are available to all characters, known as [[Generic Actions]], but the large portion of Actions a given character can use come from their chosen [[Features]] and [[Traits]].
-
-During *Initiative*, at the beginning of a character's turn, they gain a number of Action Points equal to half their Dexterity Score. A character may take as many [[#Actions]] as they can pay for until they take an Action that Ends their Turn or they voluntarily do so.
+During *Initiative*, at the beginning of a character's turn, they gain a number of Action Points equal to half their Dexterity Score. A character may take as many [[#Actions]] as they can pay for on their turn.
 
 At the End of a character's turn, any remaining Action Points are lost. A character may not spend Action Points during another character's turn.

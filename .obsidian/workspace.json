@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Referee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,14 +150,14 @@
   },
   "active": "3566c937d2cf3c69",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Selections Glossary/Features.md",
+    "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+    "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Experience.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Surviving.md",
     "Core Rules/Character Rules/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
-    "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Core Rules/Character Rules/Selections Glossary/Traits.md",
     "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
