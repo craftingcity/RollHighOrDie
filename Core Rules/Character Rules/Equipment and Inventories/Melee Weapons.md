@@ -86,7 +86,9 @@ A Flexible Weapon Base has the following Tags;
 
 ## Tags
 ### Required Tags
+All Weapons must have the following Tags, as each is mechanically relevant.
 #### Size
+This is the mechanical Size of the item.
 #### Range
 #### Weapon Ability
 #### Relevant Defense
