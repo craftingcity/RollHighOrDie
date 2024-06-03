@@ -120,9 +120,9 @@ This is the type of damage that the Weapon deals. Mundane Weapons only ever deal
 
 ### Mundane Tags
 #### Light
+You may choose Strength or Dexterity as this Weapon's Ability.
 
-
-This Weapon can be thrown, but it was not made to do so.
+For W AP, you may throw this weapon at a target within 30'. If
 #### Heavy
 #### Quick
 #### Versatile
