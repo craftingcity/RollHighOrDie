@@ -16,7 +16,7 @@ A Short Blunt Weapon Base has the following Tags;
 	- Weapon Damage Type (Bludgeoning)
 
 #### Long Blunt
-Long Blunt weapons range from the working shovel to the military maul - heavy implements of brute force. The long handled older sibling of the Short Blunt weapon.
+Long Blunt weapons range from the working shovel to the military maul - implements of brute force. The long handled older sibling of the Short Blunt weapon.
 
 A Long Blunt Weapon Base has the following Tags;
 	- Size (Medium)
@@ -73,7 +73,7 @@ A Polearm Weapon Base has the following Tags;
 	- Weapon Damage Type (Slashing)
 	- Two-Handed
 
-
 #### Flexible
+Flexible weapons are the least commonly used category of weapon. Whips, Chainlocks, and Flails are a
 
 ## Tags
