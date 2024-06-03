@@ -25,6 +25,7 @@ A Long Blunt Weapon Base has the following Tags;
 	- Weapon Damage Dice (1d6)
 
 #### Short Blade
+Short Blades 
 #### Long Blade
 #### Axe
 #### Polearm

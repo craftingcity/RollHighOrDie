@@ -208,7 +208,7 @@ You are no longer under the 'Engaged' [[Ailment]].
 Make a Maneuver.
 
 ## Bloody Regeneration
-###### REQ: 2EXP, 3+TMK
+###### REQ: 2EXP, 5+TMK
 ###### 1 AP
 ###### USE: One or more Wounds
 ''
@@ -218,7 +218,7 @@ You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your
 You may only use this feature once between Long Rests.
 
 ## Opportune Pushback
-###### REQ: 2EXP, 3+TMK
+###### REQ: 2EXP, 5+TMK
 ###### 2 AP
 ###### Use: Melee Weapon
 ''
@@ -226,7 +226,7 @@ You may only use this feature once between Long Rests.
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker 5' into a space within 10' of you.
 
 ## Cover Fire
-###### REQ: 2EXP, 3+TMK
+###### REQ: 2EXP, 5+TMK
 ###### 2W AP
 ###### USE: Ranged Weapon
 ''
@@ -236,22 +236,22 @@ Target an ally you can see. Until the beginning of your turn, when they are the 
 If you hit that creature, deal your Weapon Damage as normal. You impose -3 to that creature's Attack Roll against your target ally.
 
 ## Fleet Foot
-###### REQ: 2EXP, 3+TMK
+###### REQ: 2EXP, 5+TMK
 ###### 3 AP
 ''
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may climb, crawl, or jump up to 10' instead of 5'.
 
 ## Tank Up
-###### REQ: 2EXP, 3+TMK
+###### REQ: 2EXP, 5+TMK
 ###### 3 AP
 ###### USE: Armor - Heavy
 ''
 
 Until the beginning of your next turn, you gain 2 Damage Resistance.
 
-## Tank Up
-###### REQ: 2EXP, 3+TMK
+## XXXXXX
+###### REQ: 2EXP, 5+TMK
 ###### 3 AP
 ###### USE: Armor - Heavy
 

@@ -5,4 +5,4 @@ At the conclusion of an Encounter, each participating character will gain a numb
 
 During a Full Rest, a character may spend the Experience they have gained in exchange for [[Features]] and [[Traits]] they are eligible for.
 
-The total number of [[Features]] and [[Traits]] a character has is often a eligibility requirement and is known as their Total Mechanics Known.
+The total number of [[Features]] and [[Traits]] a character has is often a eligibility requirement and is known as their Total Mechanics Known (TMK).
