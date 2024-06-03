@@ -15,7 +15,7 @@ A Short Blunt Weapon Base has the following Tags;
 	- Weapon Damage Dice (1d4)
 
 #### Long Blunt
-Long Blunt weapons range from the simple shovel to the military maul. The long handled older sibling of the Short Blunt weapon.
+Long Blunt weapons range from the working shovel to the military maul - heavy implements of brute force. The long handled older sibling of the Short Blunt weapon.
 
 A Long Blunt Weapon Base has the following Tags;
 	- Size (Medium)
