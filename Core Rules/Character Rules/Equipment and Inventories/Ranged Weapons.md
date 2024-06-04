@@ -83,6 +83,6 @@ This Tag is immutable, and cannot be changed.
 This is the Defense that the Weapon targets to determine hit or miss during a Generic Attack. The vast majority of Weapons target Reflex.
 
 #### Ammunition (X)
-This is the 
+This is the maximum ammunition capacity of this Weapon. When you take an Attack with t
 ### Mundane Tags
 ### Specialized Tags
