@@ -140,6 +140,10 @@ You do not incur Disadvantage when making Ranged Attacks with this weapon while 
 This Weapon is designed to be used in one or both hands. When wielded on both hands, this Weapon's Damage Dice increases to the value and type indicated.
 
 #### Two-Handed
+This Weapon must be used in both hands.
+
 #### Unwieldy
+When you use this Weapon to Attack a creature within 
+
 #### Throwable
 ### Specialized Tags
