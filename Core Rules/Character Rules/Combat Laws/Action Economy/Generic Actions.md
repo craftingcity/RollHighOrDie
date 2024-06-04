@@ -45,9 +45,8 @@ You manipulate an object.
 > The following actions fall under the Interact Generic Action;
 > 	- grabbing an item you can reach
 > 	- drawing or holstering a weapon
-> 	- 
 > 	- opening a door
-> 	- using a consumable item
+> 	- using a consumable item on yourself
 
 ## Reload
 ###### 2AP
@@ -55,13 +54,13 @@ You manipulate an object.
 
 You reload a Weapon in your hand with as much ammunition as you can.
 
-You may increase that Weapon's Loaded Ammunition for as much Ammunition up to it's Maximum Capacity
+You may increase that Weapon's Loaded Ammunition for as much Ammunition as you are carrying up to it's Maximum Capacity.
 
 ## Unjam
 ###### 2AP
 ''
 
-You attempt to unjam a Weapon in your hand. Make a Manipulate Skill Check. If the result is 14 or greater, you unjam your weapon.
+You attempt to unjam a Weapon in your hand. Make a Manipulate Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you unjam your weapon.
 
 ## Hide
 ###### 2AP
