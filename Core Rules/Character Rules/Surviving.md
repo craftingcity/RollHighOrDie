@@ -15,7 +15,13 @@ We all must eat. If you do not eat, you do not physically have the energy you re
 
 When you are Travelling or Resting you may fulfill your character's need for Food. A Ration contains a full day's Food - three full meals.
 
-When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Food you've eaten.
+When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Food you've eaten;
+
+If you eat a Full Ration, you are no longer under the 'Hungry' or 'Starving' [[Condition]].
+
+If you eat a Half Ration, you gain the 'Hungry' [[Condition]].
+
+If you eat no Ration, you gain the 'Starving' [[Condition]].
 
 ## Water
 Water is the base of life. When you do not drink, you will quickly experience the internal gnawing of dehydration.
@@ -24,6 +30,12 @@ When you are Travelling or Resting you may fulfill your character's need for Wat
 
 When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Water you've drank.
 
+If you drink a Full Ration, you are no longer under the 'Dehydrated' [[Condition]].
+
+If you drink a Half Ration, you gain the 'Dehydrated' [[Condition]].
+
+If you drink no Ration, you gain the 'Dehydrated' [[Condition]]. Make a Death Call.
+
 ## Rest
 Rest allows your body to perform the unconscious processes that will rejuvenate and recuperate your physical and mental health.
 
@@ -31,4 +43,8 @@ While you are Resting, you will fulfill your character's need for Rest.
 
 When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Rest you've had.
 
-## Vitality
+If you Rest for 8 or more hours, you lose one stack of the 'Exhausted' [[Condition]] or you gain the 'Well Rested' [[Condition]] if you have no 'Exhausted' stacks.
+
+If you Rest for more than 4 hours, but less than 8, you experience no mechanical benefit or detriment.
+
+If you Rest for less than 4 hours, you gain one stack of the 'Exhausted' [[Condition]].

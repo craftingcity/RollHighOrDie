@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "222a420d446a7859",
+        "id": "2f4b4207e6ffd83f",
         "type": "tabs",
         "children": [
           {
-            "id": "d9b31e38d58909e8",
+            "id": "d879d6dda41ae8cb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,8 +140,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9b31e38d58909e8",
+  "active": "d879d6dda41ae8cb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
