@@ -30,9 +30,11 @@ When you are Travelling or Resting you may fulfill your character's need for Wat
 
 When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Water you've drank.
 
-If you drink a Full Ration, you are no longer under the 'Dehydrated' condition.
+If you drink a Full Ration, you are no longer under the 'Dehydrated' [[Condition]].
 
-If you drink a Half Ration, you gain the ''
+If you drink a Half Ration, you gain the 'Dehydrated' [[Condition]].
+
+If you drink no Ration, you gain the 'Dehydrated' [[Condition]]. Make a Death Call.
 
 ## Rest
 Rest allows your body to perform the unconscious processes that will rejuvenate and recuperate your physical and mental health.
@@ -40,5 +42,7 @@ Rest allows your body to perform the unconscious processes that will rejuvenate 
 While you are Resting, you will fulfill your character's need for Rest.
 
 When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Rest you've had.
+
+If you consecutively Rest for more than 
 
 ## Vitality
