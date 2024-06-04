@@ -101,7 +101,9 @@ Large Weapons cost 4 AP to Attack with.
 
 Short Blunt and Short Blade Weapons inherently are Small.
 
-Long Blunt, Long Blade, Axe, and Polearm Weapons inherently are Medium or Large.
+Long Blunt, Long Blade, and Axe Weapons inherently are Medium or Large.
+
+Polearm Weapons are inherently Large.
 
 #### Range
 This is the mechanical Range of the weapon.
