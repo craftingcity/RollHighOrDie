@@ -35,8 +35,17 @@ A Crossbow Weapon Base has the following Tags;
 	- Ammunition (1)
 
 #### Pistol
-Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds
+Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of these projectiles before it must be reloaded.
+
+A Pistol Weapon Base has the following Tags;
+	- Size (Small)
+	- Range (45'/135')
+	- Weapon Ability (Dexterity)
+	- Relevant Defense (Reflex)
+	- Ammunition (5)
+
 #### Rifle
+Harnessing the m
 
 ## Tags
 ### Required Tags
