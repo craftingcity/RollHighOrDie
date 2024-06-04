@@ -15,7 +15,9 @@ We all must eat. If you do not eat, you do not physically have the energy you re
 
 When you are Travelling or Resting you may fulfill your character's need for Food. A Ration contains a full day's Food - three full meals.
 
-When a day passes or you take a Full Rest, if you have eaten a 
+When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Food you've eaten.
+
+If you eat a Full Ration, you are no longer under the 'Hungry' or 'Starving' [[Condition]].
 
 ## Water
 Water is the base of life. When you do not drink, you will quickly experience the internal gnawing of dehydration.
