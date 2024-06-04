@@ -15,7 +15,7 @@ A Sling Weapon Base has the following Tags;
 	- Ammunition (1)
 
 #### Bow
-Using the power of elastics, Bows fire 
+Using the power of elastics, Bows fire arrows at high speeds to pierce through armoring and cause significant internal damage.
 
 #### Crossbow
 #### Pistol
