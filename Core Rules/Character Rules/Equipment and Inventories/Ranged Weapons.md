@@ -23,6 +23,7 @@ A Bow Weapon Base has the following Tags;
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
 	- Ammunition
+	- Two-Handed
 
 #### Crossbow
 Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow called a bolt at high speeds and with great accuracy.
@@ -33,6 +34,7 @@ A Crossbow Weapon Base has the following Tags;
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
 	- Ammunition (1)
+	- Two-Handed
 
 #### Pistol
 Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of these projectiles before it must be reloaded.
@@ -88,4 +90,8 @@ This is the Maximum Capacity of Ammunition for this Weapon.
 When you take an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
 
 ### Mundane Tags
+#### Quick
+While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
+
+You do not incur Disadvantage when making Ranged Attacks with this weapon while a hostile creature is within 5'.
 ### Specialized Tags
