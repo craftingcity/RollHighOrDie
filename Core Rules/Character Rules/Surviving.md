@@ -45,7 +45,7 @@ When a day passes or you take a Full Rest, you will gain or lose conditions base
 
 If you Rest for 8 or more hours, you lose one stack of the 'Exhausted' [[Condition]] or you gain the 'Well Rested' [[Condition]] if you have no 'Exhausted' stacks.
 
-If you Rest for more than 4 hours, but less than 8, you experience no mechanical benefit or detr.
+If you Rest for more than 4 hours, but less than 8, you experience no mechanical benefit or detriment.
 
 If you Rest for less than 4 hours, you gain one stack of the 'Exhausted' [[Condition]].
 
