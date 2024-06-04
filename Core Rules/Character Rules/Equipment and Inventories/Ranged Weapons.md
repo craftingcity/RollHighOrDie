@@ -64,11 +64,17 @@ All Weapons must have the following Tags, as each is mechanically relevant.
 Some Tags are considered "inherent". This means that changing that Tag may involve recategorizing the weapon under a different Base, according to your Referee's discretion. 
 
 #### Size
-This is the mechanical Size of the weapon - Small, Medium, or Large - and is only used for inventory management. 
+This is the mechanical Size of the weapon - Small, Medium, or Large - and is used to determine the AP cost of Attacking with the Weapon.
 
-Short Blunt and Short Blade Weapons inherently are Small.
+Small Weapons cost 2 AP to Attack with.
 
-Long Blunt and Long Blade Weapons inherently are Medium or Large.
+Medium Weapons cost 3 AP to Attack with.
+
+Large Weapons cost 4 AP to Attack with.
+
+Sling Weapons and Pistol Weapons are inherently Small.
+
+Bow Weapons, Crossbow Weapons, and Rifle Weapons are inherently Medium or Large.
 
 #### Range
 This is the mechanical Range of the weapon.
