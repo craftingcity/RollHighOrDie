@@ -85,7 +85,7 @@ This is the Defense that the Weapon targets to determine hit or miss during a Ge
 #### Ammunition (X)
 This is the Maximum Capacity of Ammunition for this Weapon. 
 
-When you take an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can Attack with this Weapon.
+When you take an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
 
 ### Mundane Tags
 ### Specialized Tags

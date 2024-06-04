@@ -52,7 +52,9 @@ You manipulate an object.
 ###### 2AP
 ''
 
-You reload a Weapon in your hand. That Weapon's Loaded 
+You reload a Weapon in your hand with as much ammunition as you can.
+
+You may increase your
 
 ## Unjam
 ###### 2AP
