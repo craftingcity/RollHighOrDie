@@ -137,7 +137,7 @@ While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initi
 You do not incur Disadvantage when making Ranged Attacks with this weapon while a hostile creature is within 5'.
 
 #### Versatile (yDx)
-This Weapon is designed to be used in one or both hands. When wielded on both hands, this Weapon's Damage Dice increases to the value and type indicated.
+This Weapon is designed to be used in one or both hands. When wielded on both hands, this Weapon's Damage Dice increases to the value (y) and type (x) indicated.
 
 #### Two-Handed
 This Weapon must be used in both hands.

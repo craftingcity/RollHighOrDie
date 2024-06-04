@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2f4b4207e6ffd83f",
-        "type": "tabs",
+        "id": "e14a28d033fa5281",
+        "type": "split",
         "children": [
           {
-            "id": "d879d6dda41ae8cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "2f4b4207e6ffd83f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d879d6dda41ae8cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b929d2070143c950",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41bd8052119c2bbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -82,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md"
+              }
             }
           }
         ]
@@ -140,11 +173,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d879d6dda41ae8cb",
+  "active": "41bd8052119c2bbe",
   "lastOpenFiles": [
+    "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
     "Core Rules/Character Rules/Experience.md",
@@ -165,7 +199,6 @@
     "Core Rules/Character Rules/Ability Scores.md",
     "Untitled.md",
     "Core Rules/Equipment and Inventories/Weapon Proficiencies.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Combat Laws",
     "Templates",
     "Core Rules/Character Rules/Character Archetype.md",
