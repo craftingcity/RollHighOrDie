@@ -17,6 +17,13 @@ A Sling Weapon Base has the following Tags;
 #### Bow
 Using the power of elastics, Bows fire arrows at high speeds to pierce through armoring and cause significant internal damage.
 
+A Bow Weapon Base has the following Tags;
+	- Size (Medium)
+	- Range (75'/150')
+	- Weapon Ability (Dexterity)
+	- Relevant Defense (Reflex)
+	- Ammunition (1)
+
 #### Crossbow
 #### Pistol
 #### Rifle
