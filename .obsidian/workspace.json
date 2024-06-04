@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rules/Character Rules/Surviving.md",
+                "file": "Core Rules/Character Rules/Defenses.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Exhausted",
+                "query": "vital",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Surviving.md",
+                "file": "Core Rules/Character Rules/Defenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Surviving.md",
+                "file": "Core Rules/Character Rules/Defenses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Surviving.md"
+                "file": "Core Rules/Character Rules/Defenses.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "3566c937d2cf3c69",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Surviving.md",
+    "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
