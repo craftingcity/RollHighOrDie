@@ -39,7 +39,7 @@ Harnessing the mystic or the scientific, Pistols fire small projectiles at imper
 
 A Pistol Weapon Base has the following Tags;
 	- Size (Small)
-	- Range (60'/135')
+	- Range (60'/180')
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
 	- Ammunition (5)
@@ -49,9 +49,40 @@ Harnessing the mystic or the scientific, Rifles are the older, more militaristic
 
 A Rifle Weapon Base has the following Tags;
 	- Size (Medium)
-	- Range ()
+	- Range (120'/360')
+	- Weapon Ability (Dexterity)
+	- Relevant Defense (Reflex)
+	- Ammunition (10)
 
 ## Tags
 ### Required Tags
+All Weapons must have the following Tags, as each is mechanically relevant.
+
+Some Tags are considered "inherent". This means that changing that Tag may involve recategorizing the weapon under a different Base, according to your Referee's discretion. 
+
+#### Size
+This is the mechanical Size of the weapon - Small, Medium, or Large - and is only used for inventory management. 
+
+Short Blunt and Short Blade Weapons inherently are Small.
+
+Long Blunt and Long Blade Weapons inherently are Medium or Large.
+
+#### Range
+This is the mechanical Range of the weapon.
+
+Short Blunt and Short Blade Weapons inherently have a range of 5ft.
+
+Polearms inherently have a range of 10ft.
+
+#### Weapon Ability
+This is the Ability Score relevant to hitting and dealing damage with this weapon - either Strength or Dexterity. No other Ability Scores are relevant in this regard.
+
+This Tag is immutable, and cannot be changed.
+
+#### Relevant Defense
+This is the Defense that the Weapon targets to determine hit or miss during a Generic Attack. The vast majority of Weapons target Reflex.
+
+#### Ammunition (X)
+This is the 
 ### Mundane Tags
 ### Specialized Tags
