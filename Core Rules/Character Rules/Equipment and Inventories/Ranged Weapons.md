@@ -39,13 +39,17 @@ Harnessing the mystic or the scientific, Pistols fire small projectiles at imper
 
 A Pistol Weapon Base has the following Tags;
 	- Size (Small)
-	- Range (45'/135')
+	- Range (60'/135')
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
 	- Ammunition (5)
 
 #### Rifle
-Harnessing the m
+Harnessing the mystic or the scientific, Rifles are the older, more militaristic older sibling of the humble Pistol.
+
+A Rifle Weapon Base has the following Tags;
+	- Size (Medium)
+	- Range ()
 
 ## Tags
 ### Required Tags
