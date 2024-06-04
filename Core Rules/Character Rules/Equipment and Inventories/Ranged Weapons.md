@@ -10,6 +10,9 @@ Using the power of momentum, Slings fire a number of small projectiles, includin
 A Sling Weapon Base has the following Tags;
 	- Size (Small)
 	- Range (30'/60')
+	- Weapon Ability (Dexterity)
+	- Relevant Defense (Reflex)
+	- Ammunition ()
 
 #### Bow
 #### Crossbow
