@@ -12,7 +12,8 @@ A Short Blunt Weapon Base has the following Tags;
 	- Range (Melee - 5ft)
 	- Weapon Ability (Strength)
 	- Relevant Defense (Reflex)
-	- Weapon Damage Dice (1d4)
+	- Weapon Damage Dice (1d6)
+	- Weapon Damage Type (Bludgeoning)
 
 #### Long Blunt
 Long Blunt weapons range from the working shovel to the military maul - heavy implements of brute force. The long handled older sibling of the Short Blunt weapon.
@@ -22,7 +23,8 @@ A Long Blunt Weapon Base has the following Tags;
 	- Range (Melee - 5ft)
 	- Weapon Ability (Strength)
 	- Relevant Defense (Reflex)
-	- Weapon Damage Dice (1d6)
+	- Weapon Damage Dice (1d8)
+	- Weapon Damage Type (Bludgeoning)
 
 #### Short Blade
 Short Blades are your shanks, shivs, daggers, and shortswords. Humanity's favorite tool since forever.
@@ -32,7 +34,8 @@ A Short Blade Weapon Base has the following Tags;
 	- Range (Melee - 5ft)
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
-	- Weapon Damage Dice (1d4)
+	- Weapon Damage Dice (1d6)
+	- Weapon Damage Type (Slashing)
 
 #### Long Blade
 #### Axe
