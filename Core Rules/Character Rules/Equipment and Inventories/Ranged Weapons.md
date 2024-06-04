@@ -25,6 +25,13 @@ A Bow Weapon Base has the following Tags;
 	- Ammunition (1)
 
 #### Crossbow
+Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow called a bolt at high speeds and with great accuracy.
+
+A Crossbow Weapon Base has the following Tags;
+	- Size (Medium)
+	- Range (60'/120')
+	- Wea
+
 #### Pistol
 #### Rifle
 
