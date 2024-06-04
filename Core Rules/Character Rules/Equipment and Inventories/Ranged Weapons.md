@@ -12,9 +12,11 @@ A Sling Weapon Base has the following Tags;
 	- Range (30'/60')
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
-	- Ammunition ()
+	- Ammunition (1)
 
 #### Bow
+Using the power of elastics, Bows fire 
+
 #### Crossbow
 #### Pistol
 #### Rifle
