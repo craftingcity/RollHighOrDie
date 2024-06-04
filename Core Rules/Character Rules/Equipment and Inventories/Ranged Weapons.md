@@ -5,6 +5,7 @@ Given this, weapons can be mutable while you are playing - you may replace, gain
 
 ## Bases
 #### Sling
+Using the power of momentum, 
 #### Bow
 #### Crossbow
 #### Pistol
