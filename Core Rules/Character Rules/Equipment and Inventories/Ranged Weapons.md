@@ -22,7 +22,7 @@ A Bow Weapon Base has the following Tags;
 	- Range (75'/150')
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
-	- Ammunition (1)
+	- Ammunition
 
 #### Crossbow
 Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow called a bolt at high speeds and with great accuracy.
@@ -30,9 +30,12 @@ Using the power of elastics and the stability of the buttstock, Crossbows fire a
 A Crossbow Weapon Base has the following Tags;
 	- Size (Medium)
 	- Range (60'/120')
-	- Wea
+	- Weapon Ability (Dexterity)
+	- Relevant Defense (Reflex)
+	- Ammunition (1)
 
 #### Pistol
+Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds
 #### Rifle
 
 ## Tags
