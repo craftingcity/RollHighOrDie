@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "222a420d446a7859",
-        "type": "tabs",
+        "id": "9b56802ff1a22b58",
+        "type": "split",
         "children": [
           {
-            "id": "d9b31e38d58909e8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "cf58fa595340d305",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3566c937d2cf3c69",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f7d4ccd56bab0076",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e813a5bd7896149d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -66,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 691.5
+    "width": 300
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -144,115 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "b0421d8ba186425f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7167bb9bbc0eb91a",
-        "type": "window",
-        "children": [
-          {
-            "id": "1bb831ff337a6900",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f0e41e6e9e1a200b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "2896b18b486136ad",
-        "type": "window",
-        "children": [
-          {
-            "id": "1249c72318815680",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3566c937d2cf3c69",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "baf6b46f3e478d41",
-        "type": "window",
-        "children": [
-          {
-            "id": "0b8d59918e121238",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b477c0b0f6cfa579",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b477c0b0f6cfa579",
+  "active": "3566c937d2cf3c69",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Selections Glossary/Features.md",
+    "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
-    "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
+    "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Experience.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Surviving.md",
     "Core Rules/Character Rules/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
+    "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Core Rules/Character Rules/Selections Glossary/Traits.md",
     "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
