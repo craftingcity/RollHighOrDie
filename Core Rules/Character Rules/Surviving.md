@@ -48,5 +48,3 @@ If you Rest for 8 or more hours, you lose one stack of the 'Exhausted' [[Conditi
 If you Rest for more than 4 hours, but less than 8, you experience no mechanical benefit or detriment.
 
 If you Rest for less than 4 hours, you gain one stack of the 'Exhausted' [[Condition]].
-
-## Vitality
