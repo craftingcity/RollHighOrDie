@@ -143,7 +143,13 @@ This Weapon is designed to be used in one or both hands. When wielded on both ha
 This Weapon must be used in both hands.
 
 #### Unwieldy
-When you use this Weapon to Attack a creature within 
+When you use this Weapon to Attack a creature within 5' of you, you make that Attack at Disadvantage.
 
 #### Throwable
+This Weapon is designed to be throwable.
+
+For W AP, you may throw this weapon. Target a creature within 30', and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit, you deal your Weapon Damage as normal.
+
 ### Specialized Tags
