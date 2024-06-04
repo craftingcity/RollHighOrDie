@@ -1,7 +1,7 @@
 # Preamble
 Within the fiction of the story you tell, your characters may use any number of weapons. For the purpose of mechanical potential, RHoD's weapons are a Base and a collection of Tags.
 
-Given this, weapons can be mutable while you are playing - you may replace, gain, or remove Tags from your Base weapon - so long as your character has the knowledge and makes the effort, they can change may aspects of their weapon.
+Given this, weapons can be mutable while you are playing - you may replace, gain, or remove Tags from your Base weapon - so long as your character has the knowledge, materials, and time, they can change may aspects of their weapon.
 
 ## Bases
 #### Sling
@@ -72,9 +72,9 @@ Medium Weapons cost 3 AP to Attack with.
 
 Large Weapons cost 4 AP to Attack with.
 
-Sling Weapons and Pistol Weapons are inherently Small.
+Sling and Pistol Weapons are inherently Small.
 
-Bow Weapons, Crossbow Weapons, and Rifle Weapons are inherently Medium or Large.
+Bow, Crossbow, and Rifle Weapons are inherently Medium or Large.
 
 #### Range
 This is the mechanical Range of the weapon.
