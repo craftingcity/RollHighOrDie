@@ -5,7 +5,12 @@ Given this, weapons can be mutable while you are playing - you may replace, gain
 
 ## Bases
 #### Sling
-Using the power of momentum, 
+Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 
+
+A Sling Weapon Base has the following Tags;
+	- Size (Small)
+	- Range ()
+
 #### Bow
 #### Crossbow
 #### Pistol
