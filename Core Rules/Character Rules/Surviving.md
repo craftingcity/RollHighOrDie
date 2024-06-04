@@ -43,6 +43,6 @@ While you are Resting, you will fulfill your character's need for Rest.
 
 When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Rest you've had.
 
-If you consecutively Rest for more than 
+If you complete a Full Rest, you are no longer under the 'Tired' [[Condition]], and you lose one stack of the 'Exhausted'
 
 ## Vitality

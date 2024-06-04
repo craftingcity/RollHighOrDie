@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "condition",
+                "query": "Exhausted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,21 +148,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "3566c937d2cf3c69",
   "lastOpenFiles": [
+    "Core Rules/Character Rules/Defenses.md",
+    "Core Rules/Character Rules/Surviving.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Experience.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
-    "Core Rules/Character Rules/Surviving.md",
     "Core Rules/Character Rules/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Core Rules/Character Rules/Selections Glossary/Traits.md",
     "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
-    "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Combat Laws/Generic Actions.md",
     "Core Rules/Character Rules/Selections Glossary/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",

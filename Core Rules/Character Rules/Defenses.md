@@ -48,4 +48,4 @@ To make a Death call, roll a d20. Do not add any modifiers or values.
 
 If the result is 10 or greater, you succeed, and fail to die for just a little longer.
 
-If the result is 9 or less, you fail, and you gain a point of the 'Exhausted' [[Condition]]. When you gain your 6th point of Exhaustion, you die.
+If the result is 9 or less, you fail, and you gain a stack of the 'Exhausted' [[Condition]]. When you gain your 6th stack of 'Exhausted', you die.
