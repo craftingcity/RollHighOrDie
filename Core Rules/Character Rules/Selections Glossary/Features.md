@@ -250,19 +250,13 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 
 Until the beginning of your next turn, you gain 2 Damage Resistance.
 
-## Pursuing Engagement
+## Halting Engagement
 ###### REQ: 3EXP, 5+TMK, Engage
 ###### W+2 AP
 ###### USE: Melee Weapon
-This feature replaces the 'Engage' Martial Feature.
+This feature inherits and replaces the 'Engage' Martial Feature.
 
-Target a creature within your Weapon Range and establish Line of Sight.
-
-Make an Attack Roll against that target's Will. If you hit, you deal your Weapon Damage as normal, and you impose the 'Engaged' [[Ailment]].
-
-You may not use this feature again until your target is no longer 'Engaged'.
-
-While your target is 'Engaged' 
+While your target is 'Engaged',
 
 ### Arcane Features
 ### Divine Features
