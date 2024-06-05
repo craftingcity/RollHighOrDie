@@ -48,7 +48,7 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 If you hit your target, you deal your Weapon Damage. If you had Advantage on this Attack, you deal an additional 1d6 damage of your Weapon's Damage Type.
 
 ## Iron Tide
-###### REQ: 1EXP 
+###### REQ: 2EXP 
 ###### W AP
 ###### USE: Melee Weapon
 'With intention and confidence, you strike out and push forward, allowing you to take the positional advantage.'
@@ -58,7 +58,7 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 If you hit your target, you deal your Weapon Damage as normal and push your target 5' away from you. You may immediately move into the space they just occupied.
 
 ## Forceful Strike
-###### REQ: 1EXP
+###### REQ: 2EXP
 ###### W AP
 ###### USE: Melee Weapon
 'With skill and force, you force your opponent onto the floor, taking what could be their final breaths.'
@@ -68,7 +68,7 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 If you hit your target, you deal your Weapon Damage as normal and you force your target Prone.
 
 ## Enforce
-###### REQ: 1EXP
+###### REQ: 2EXP
 ###### W+1 AP
 ###### USE: Melee Weapon
 'You push forward so your allies can pull back for positional advantage or recovery.'
@@ -80,7 +80,7 @@ If you hit your target, you deal your Weapon Damage as normal.
 Then, an Ally within 10' of your target makes a Maneuver.
 
 ## Careful Strike
-###### REQ: 1EXP
+###### REQ: 2EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
 'With baited breath, you find the weakest point in your opponent's armor, and release.'
@@ -90,7 +90,7 @@ Target a creature within your Weapon Range and establish Line of Sight. You gain
 If you hit your target, you deal your Weapon Damage as normal.
 
 ## Splitshot
-###### REQ: 1EXP
+###### REQ: 3EXP
 ###### W+2 AP
 ###### USE: Ranged Weapon
 'Physics can be a fickle law, but when bent just right, a shot can kill two people while looking like a full miss.'
@@ -112,7 +112,7 @@ Target a creature you have attacked this turn that is currently within your Weap
 If you hit, you impose -3 to your target's Attack Roll, and you deal your Weapon Damage as normal.
 
 ## Sly Flourish
-###### REQ: 1EXP
+###### REQ: 2EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
 'Drama and Morale are as much a part of combat as Manpower and Equipment - show 'em who's boss.'
@@ -122,7 +122,7 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 If you hit your target, use your Charisma Modifier instead of your Weapon Ability Modifier to deal your Weapon Damage.
 
 ## Trickshot
-###### REQ: 1EXP
+###### REQ: 3EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
 'In the rhythm of combat, you find your opponents weakness and use it against them.'

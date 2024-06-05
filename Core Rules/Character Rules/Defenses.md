@@ -19,7 +19,6 @@ Your character's Fortitude is their ability to ignore and combat internal effect
 
 Your Fortitude is equal to 8, plus your Proficiency Modifier, Plus your Strength or Constitution Modifier, whichever of the two is higher.
 
-
 ## Ablative Defenses
 Your two Ablative Defenses are the final line of defense against harmful effects, and when your Armoring and Vitality are reduced to zero and then below, you will quickly become welcomed to your final rest.
 

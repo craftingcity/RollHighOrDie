@@ -4,72 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e14a28d033fa5281",
-        "type": "split",
+        "id": "cf58fa595340d305",
+        "type": "tabs",
         "children": [
           {
-            "id": "cb7d143a81a11a98",
-            "type": "split",
-            "children": [
-              {
-                "id": "39516c4dd776a1de",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "08f8bd81054c3e33",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "2f4b4207e6ffd83f",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "d879d6dda41ae8cb",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  }
-                ]
+            "id": "3566c937d2cf3c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
+                "mode": "source",
+                "source": true
               }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "b929d2070143c950",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "41bd8052119c2bbe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reload",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -136,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md"
+                "file": "Core Rules/Character Rules/Selections Glossary/Features.md"
               }
             }
           }
@@ -198,22 +148,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41bd8052119c2bbe",
+  "active": "3566c937d2cf3c69",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
+    "Core Rules/Character Rules/Defenses.md",
+    "Core Rules/Character Rules/Surviving.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
-    "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
     "Core Rules/Character Rules/Experience.md",
-    "Core Rules/Character Rules/Surviving.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Condition.md",
+    "Core Rules/Character Rules/Combat Laws/Action Economy/Generic Actions.md",
+    "Core Rules/Character Rules/Combat Laws/Action Economy/Actions During Encounters.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Core Rules/Character Rules/Selections Glossary/Traits.md",
     "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
-    "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Combat Laws/Generic Actions.md",
     "Core Rules/Character Rules/Selections Glossary/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",
@@ -224,6 +173,7 @@
     "Core Rules/Character Rules/Ability Scores.md",
     "Untitled.md",
     "Core Rules/Equipment and Inventories/Weapon Proficiencies.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Combat Laws",
     "Templates",
     "Core Rules/Character Rules/Character Archetype.md",
