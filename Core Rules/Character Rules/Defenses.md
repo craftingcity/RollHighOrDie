@@ -41,12 +41,10 @@ When your Armoring has been reduced to 0, you will begin to take damage to your 
 
 At the beginning of your turn, and whenever you take a Wound, if you have more Wounds than the value of your Constitution Modifier, immediately make a Death Call.
 
-Your Maximum Vitality is equal to 3 plus your Constitution Modifier, times your TMK.
+Your Maximum Vitality is equal to 3 times your Constitution Score.
 
 ###### Hit Die & Recovering Vitality
-You have a number of Hit Die equal to half your TMK. Unless otherwise stated, these Hit Die are d6's. While you are not in an Encounter, you may expend any number of Hit Die you have. 
-
-When you expend a Hit Die, you gain the value rolled plus your Constitution Modifier as Vitality.
+You have a number of Hit Die equal to half your TMK. Unless otherwise stated, these Hit Die are d6's. While you are not in an Encounter, you may expend any number of Hit Die you have. When you expend a Hit Die, you gain the value rolled plus your Constitution Modifier as Vitality.
 
 ###### Death Call
 When you make a Death Call, you are as far from control as you can be, and you will grow farther from it as your character continues to die.
@@ -55,5 +53,5 @@ To make a Death call, roll a d20. Do not add any modifiers or values.
 
 If the result is 10 or greater, you succeed, and fail to die for just a little longer.
 
-If the result is 9 or less, you fail, and you gain a stack of the 'Exhausted' [[Condition]]. When you gain your 6th stack of 'Exhausted', you die.
+If the result is 9 or less, you fail, and you gain a stack of the 'Exhausted' [[Condition]].
 
