@@ -256,7 +256,7 @@ Until the beginning of your next turn, you gain 2 Damage Resistance.
 ###### USE: Melee Weapon
 This feature inherits and replaces the 'Engage' Martial Feature.
 
-When you make an Attack against a target you have 'Engaged', if you deal damage, that target cannot take the ''
+When you make an Attack against a target you have 'Engaged', if you deal damage, that target cannot make Maneuvers.
 
 ### Arcane Features
 ### Divine Features

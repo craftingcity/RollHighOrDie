@@ -3,7 +3,11 @@ Conditions in RHoD are the temporary afflictions or effects that characters may 
 
 ## Survival Conditions
 #### Well Rested
+#### Hungry
+#### Starving
+#### Dehydrated
 ## Combat Conditions
 #### Incapacitated
+#### Hidden
 #### Dazed
 #### Paralyzed

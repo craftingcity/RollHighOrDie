@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e107256159f0b87",
-        "type": "split",
+        "id": "cf58fa595340d305",
+        "type": "tabs",
         "children": [
           {
-            "id": "cf58fa595340d305",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3566c937d2cf3c69",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "3566c937d2cf3c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Condition.md",
+                "mode": "source",
+                "source": true
               }
-            ]
-          },
-          {
-            "id": "9a2c0f98fc097d4c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6e61ee962c71918b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ailm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -104,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
+                "file": "Core Rules/Character Rules/Condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
+                "file": "Core Rules/Character Rules/Condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Features.md"
+                "file": "Core Rules/Character Rules/Condition.md"
               }
             }
           }
@@ -166,13 +140,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e61ee962c71918b",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
+    "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Surviving.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "conflict-files-obsidian-git.md",
-    "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Experience.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Condition.md",
