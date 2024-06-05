@@ -41,7 +41,7 @@ When your Armoring has been reduced to 0, you will begin to take damage to your 
 
 At the beginning of your turn, and whenever you take a Wound, if you have more Wounds than the value of your Constitution Modifier, immediately make a Death Call.
 
-Your Maximum Vitality is equal to 3 times your Constitution Score.
+Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, times your TMK.
 
 ###### Hit Die & Recovering Vitality
 You have a number of Hit Die equal to half your TMK. Unless otherwise stated, these Hit Die are d6's. While you are not in an Encounter, you may expend any number of Hit Die you have. When you expend a Hit Die, you gain the value rolled plus your Constitution Modifier as Vitality.
