@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "202de0229ffbaacd",
-        "type": "split",
+        "id": "de422b4088611a95",
+        "type": "tabs",
         "children": [
           {
-            "id": "ca522329540266c2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e536f030b5ced1d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "3cefcfd2c2aa5836",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "41988be05b187cc4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
+            "id": "60c0589262290b47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,6 +52,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f81ecd6af0822cb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -102,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,12 +139,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81be0ec429f61494",
+  "active": "60c0589262290b47",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Equipment and Inventories/Equipment.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Equipment.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Armors.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Equipment.md",
