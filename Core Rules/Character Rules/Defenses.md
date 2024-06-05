@@ -42,7 +42,7 @@ When your Armoring has been reduced to 0, you will begin to take damage to your 
 At the beginning of your turn, and whenever you take a Wound, if you have more Wounds than the value of your Constitution Modifier, immediately make a Death Call.
 
 ###### Hit Die & Recovering Vitality
-You have a number of Hit Die equal to your TMK. Unless otherwise stated, these Hit Die are d6's. While you are not in an Encounter, you may expend any numb
+You have a number of Hit Die equal to your TMK. Unless otherwise stated, these Hit Die are d6's. While you are not in an Encounter, you may expend any number of Hit Die 
 
 ###### Death Call
 When you make a Death Call, you are as far from control as you can be, and you will grow farther from it as your character continues to die.
