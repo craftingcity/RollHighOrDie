@@ -161,3 +161,22 @@ For W AP, you may throw this weapon. Target a creature within 30', and establish
 If you hit, you deal your Weapon Damage as normal.
 
 ### Specialized Tags
+
+## Example Weapons
+## Historical Examples
+#### Melee
+| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
+| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
+|       |      |      |       |         |         |         |         |       |
+
+## Modernist Examples
+#### Melee
+| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
+| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
+|       |      |      |       |         |         |         |         |       |
+
+## Fantastic Examples
+#### Melee
+| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
+| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
+|       |      |      |       |         |         |         |         |       |

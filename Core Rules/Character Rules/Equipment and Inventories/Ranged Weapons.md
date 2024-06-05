@@ -109,3 +109,22 @@ This Weapon is designed to be used in one or both hands. When wielded on both ha
 This Weapon must be used in both hands.
 
 ### Specialized Tags
+
+## Example Weapons
+## Historical Examples
+#### Ranged
+| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
+| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
+|       |      |      |       |         |         |         |         |       |
+
+## Modernist Examples
+#### Ranged
+| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
+| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
+|       |      |      |       |         |         |         |         |       |
+
+## Fantastic Examples
+#### Ranged
+| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
+| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
+|       |      |      |       |         |         |         |         |       |

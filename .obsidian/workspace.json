@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Example Weapons.md",
+                    "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
                     "mode": "source",
                     "source": true
                   }
@@ -82,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example Weapons.md",
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example Weapons.md",
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example Weapons.md"
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md"
               }
             }
           }
@@ -168,7 +167,9 @@
   "active": "e536f030b5ced1d1",
   "lastOpenFiles": [
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-    "Example Weapons.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Example Weapons.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Armors.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Example Equipment.md",
     "Core Rules/Character Rules/Selections Glossary/Emboldenment.md",
     "Core Rules/Character Rules/Condition.md",
     "Core Rules/Character Rules/Selections Glossary/Ailment.md",
