@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cf58fa595340d305",
+        "id": "ca522329540266c2",
         "type": "tabs",
         "children": [
           {
-            "id": "3566c937d2cf3c69",
+            "id": "41988be05b187cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rules/Character Rules/Condition.md",
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "8d53da57dc6bc371",
+            "id": "e536f030b5ced1d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5d4ee23d47071fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Emboldenment.md",
+                "file": "Example Weapons.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md",
+                "file": "Example Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md",
+                "file": "Example Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md"
+                "file": "Example Weapons.md"
               }
             }
           }
@@ -165,15 +153,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "e536f030b5ced1d1",
   "lastOpenFiles": [
+    "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+    "Example Weapons.md",
     "Core Rules/Character Rules/Selections Glossary/Emboldenment.md",
-    "Core Rules/Character Rules/Selections Glossary/Ailment.md",
     "Core Rules/Character Rules/Condition.md",
+    "Core Rules/Character Rules/Selections Glossary/Ailment.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Surviving.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Experience.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
@@ -188,7 +177,6 @@
     "Core Rules/Character Rules/Selections Glossary",
     "Character Sheet.md",
     "Core Rules/Character Rules/Ability Scores.md",
-    "Untitled.md",
     "Core Rules/Equipment and Inventories/Weapon Proficiencies.md",
     "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Combat Laws",
