@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "cf58fa595340d305",
-        "type": "tabs",
+        "id": "7e107256159f0b87",
+        "type": "split",
         "children": [
           {
-            "id": "3566c937d2cf3c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
-                "mode": "source",
-                "source": true
+            "id": "cf58fa595340d305",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3566c937d2cf3c69",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "9a2c0f98fc097d4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6e61ee962c71918b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core Rules/Character Rules/Selections Glossary/Features.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -55,14 +80,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "5940861259140586",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ],
@@ -148,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3566c937d2cf3c69",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Surviving.md",
