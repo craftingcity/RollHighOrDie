@@ -13,7 +13,7 @@ Expend two Hit Die. You gain the number rolled plus twice your Constitution Modi
 
 You may only use this feature once between Long Rests.
 
-## Engage
+## Engage I
 ###### REQ: 1EXP
 ###### W+2 AP
 ###### USE: Melee Weapon
@@ -250,10 +250,10 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 
 Until the beginning of your next turn, you gain 2 Damage Resistance.
 
-## XXXXXX
-###### REQ: 3EXP, 5+TMK
+## Engage II
+###### REQ: 3EXP, 5+TMK, Engage I
 ###### 3 AP
-###### USE: Armor - Heavy
+###### USE: Melee Weapon
 
 ### Arcane Features
 ### Divine Features
