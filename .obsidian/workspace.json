@@ -30,6 +30,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5d4ee23d47071fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Selections Glossary/Emboldenment.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ailment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,10 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d53da57dc6bc371",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Condition.md",
+    "Core Rules/Character Rules/Selections Glossary/Emboldenment.md",
     "Core Rules/Character Rules/Selections Glossary/Ailment.md",
+    "Core Rules/Character Rules/Condition.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Surviving.md",
@@ -172,7 +185,6 @@
     "Core Rules/Character Rules/Combat Laws/Generic Actions.md",
     "Core Rules/Character Rules/Selections Glossary/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",
-    "Core Rules/Character Rules/Selections Glossary/Emboldenment.md",
     "Core Rules/Character Rules/Selections Glossary",
     "Character Sheet.md",
     "Core Rules/Character Rules/Ability Scores.md",

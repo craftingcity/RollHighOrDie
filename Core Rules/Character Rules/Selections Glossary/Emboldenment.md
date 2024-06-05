@@ -1,4 +1,7 @@
 # Preamble
+Emboldenments are the positive effects imparted by one creature onto another. 
 
-### Non-magical
-##### Aided
+## Mundane Emboldenments
+#### Aided
+## Arcane Emboldenments
+## Divine Emboldenments
