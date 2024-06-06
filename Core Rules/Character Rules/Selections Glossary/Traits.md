@@ -4,7 +4,7 @@ Traits are the inherent abilities, detriments, and lived experience of a charact
 ## Low-light Visibility
 ###### REQ: INNATE
 'You excel under low-light conditions where others falter. Often, you find carrying a light at night unnecessary.'
-- You do not have disadvantage on Sight or Manipulate Skill Checks in Low Light.
+- You treat Low Light as High Light.
 
 ## Boiling Blood
 ###### REQ: INNATE
