@@ -72,6 +72,8 @@ While you are in a space lit by Blinging Light, gain the 'Blinded' [[Condition]]
 High Light is bright, but not blinding. High Light is emitted by sources like a sun, a fire, or an electric or arcane lamp.
 
 ###### Low Light
-Low Light enough Light to see generalities, but not details. Typically, Low Light is emitted 
+Low Light enough Light to see generalities, but not details. Typically, Low Light is emitted by small sources, such as candles or screens, or at the edge of High Light.
+
+While you are in a space lit by Low Light, you 
 
 ###### Darkness
