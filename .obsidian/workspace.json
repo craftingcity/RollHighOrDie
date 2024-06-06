@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Low Light\"",
+                "query": "condition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

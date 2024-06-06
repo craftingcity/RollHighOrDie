@@ -64,9 +64,12 @@ You are not adjacent to any cover.
 Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a weapon when used effectively.
 
 ###### Blinding Light
+Blinding Light is too much light, even through squinted eyes.
+
+While you are in a space light by Blinging Light, gain the Blinded
 
 ###### High Light
-High Light is bright, but not blinding. High Light is emitted by sources like a sun, a fire, or 
+High Light is bright, but not blinding. High Light is emitted by sources like a sun, a fire, or an electric or arcane lamp.
 
 ###### Low Light
 ###### Darkness
