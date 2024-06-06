@@ -2,7 +2,7 @@
 A number of positions and circumstances during combat will effect the outcome of that combat - who lives and who dies. The following sections will discuss the rules and definitions of how any combat generally operates.
 
 ## Timing
-While Combat is occurring, many 
+While Combat is occurring, the timing of of effects triggering and resolving is incredibly important. 
 
 ## Positioning
 While you are in combat, RHoD assumes your character will occupy a 5ft square at any given time. 
