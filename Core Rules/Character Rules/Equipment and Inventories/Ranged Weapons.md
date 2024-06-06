@@ -44,7 +44,7 @@ A Pistol Weapon Base has the following Tags;
 	- Range (60'/180')
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
-	- Ammunition (5)
+	- Ammunition (7)
 	- Versatile (+2)
 
 #### Rifle
@@ -95,6 +95,8 @@ This is the Defense that the Weapon targets to determine hit or miss during a Ge
 This is the Maximum Capacity of Ammunition for this Weapon. 
 
 When you take an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
+
+If there is no value indicated, your weapon has no 
 
 ### Mundane Tags
 #### Quick
