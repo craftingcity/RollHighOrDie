@@ -63,6 +63,8 @@ You are not adjacent to any cover.
 ## Lighting
 Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a weapon when used effectively.
 
-###### Bright Light
+###### High Light
+High Light is bright and workable.
+
 ###### Low Light
 ###### Darkness
