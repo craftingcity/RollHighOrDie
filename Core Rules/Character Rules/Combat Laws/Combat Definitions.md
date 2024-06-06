@@ -4,7 +4,9 @@ A number of positions and circumstances during combat will effect the outcome of
 ## Timing
 While Combat is occurring, the timing of of abilities triggering and resolving is incredibly important. All effects resolve in a manner known as "First In, Last Out". This means that the most recently triggered ability or effect resolves before the triggering effect.
 
-For example, when a creature is 'Engaged' and they go to make a Maneuver, they trigger the 'Engaged' [[Ailment]]'s "When you make a Maneuver... they make an Attack against your Reflex." clause. This Attack occurs and resolves beore the Maneuver.
+For example, when a creature is 'Engaged' and they go to make a Maneuver, they trigger the 'Engaged' [[Ailment]]'s "When you make a Maneuver... they make an Attack against your Reflex." clause. This Attack occurs and resolves before the Maneuver.
+
+In this example, if another effect would be triggered by that Attack, it occurs and resolves, then the Attack does, and then the Maneuver.
 
 ## Positioning
 While you are in combat, RHoD assumes your character will occupy a 5ft square at any given time. 
@@ -20,8 +22,7 @@ When you make an attack, if the space you occupy is above the space your target 
 #### Environmental Damage
 When a character is pushed, if they are pushed into an object or wall they cannot pass through, they take 1d6 bludgeoning damage for every 5ft they cannot be pushed.
 
-## Stance & Cover
-### Stances
+## Stance
 Stance is the way your character's body is positioned, and will affect how effectively you fight. The four stances RHoD mechanically cares for are High Ready, Low Ready, Crouched, and Prone. 
 
 ###### High Ready
@@ -44,8 +45,8 @@ Prone is a fully lowered position, where your character has their chest or back 
 
 While you are in the Prone Stance, you cannot run, you treat Low Cover as High Cover, and No Cover as Low Cover. Attacks against you that originate within 10' have Advantage.
 
-### Cover
-Cover is any barrier between you and your opposition. Taking effective Cover during combat is a life-saving strategy.
+## Cover
+Cover is any protective barrier between you and your opposition. Taking effective Cover during combat is a life-saving strategy.
 
 ###### Full Cover
 You are adjacent to Full Cover, such as a stone wall. You do not have Line of Sight through or over your Cover. Creatures on the other side of your Cover do not have Line of Sight on you.
@@ -59,4 +60,4 @@ You are adjacent to Low Cover, such as a mid-sized crate. You have Line of Sight
 ###### No Cover
 You are not adjacent to any cover.
 
-## Lighting
+
