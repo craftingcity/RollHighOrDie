@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md",
+                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md",
+                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md"
+                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md"
               }
             }
           }
@@ -190,11 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0a7fed851a797d3",
+  "active": "a990a42d8862d437",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Selections Glossary/Ailment.md",
     "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
+    "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
