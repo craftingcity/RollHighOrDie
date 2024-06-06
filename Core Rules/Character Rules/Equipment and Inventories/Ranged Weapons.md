@@ -77,11 +77,7 @@ Sling and Pistol Weapons are inherently Small.
 Bow, Crossbow, and Rifle Weapons are inherently Medium or Large.
 
 #### Range
-This is the mechanical Range of the weapon.
-
-Short Blunt and Short Blade Weapons inherently have a range of 5ft.
-
-Polearms inherently have a range of 10ft.
+This is the mechanical Range of the weapon. The first value inicated
 
 #### Weapon Ability
 This is the Ability Score relevant to hitting and dealing damage with this weapon - either Strength or Dexterity. No other Ability Scores are relevant in this regard.
