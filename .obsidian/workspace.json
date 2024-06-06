@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "91e470e238aa656a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a990a42d8862d437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60c0589262290b47",
+  "active": "a990a42d8862d437",
   "lastOpenFiles": [
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
