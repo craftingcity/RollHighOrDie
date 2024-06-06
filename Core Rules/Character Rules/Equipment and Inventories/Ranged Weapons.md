@@ -77,7 +77,7 @@ Sling and Pistol Weapons are inherently Small.
 Bow, Crossbow, and Rifle Weapons are inherently Medium or Large.
 
 #### Range
-This is the mechanical Range of the weapon. The first value indicated is the "Normal" Range. 
+This is the mechanical Range of the weapon. The first value indicated is the Normal Range. The second value indicated is the Maximum Ra
 
 #### Weapon Ability
 This is the Ability Score relevant to hitting and dealing damage with this weapon - either Strength or Dexterity. No other Ability Scores are relevant in this regard.
