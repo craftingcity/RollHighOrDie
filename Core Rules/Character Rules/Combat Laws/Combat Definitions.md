@@ -13,13 +13,13 @@ While you are in combat, RHoD assumes your character will occupy a 5ft square at
 
 You may not end your turn occupying the same space as any other creature. You may pass through a space occupied by an ally without penalty, but you may not pass through a space occupied by someone who considers you hostile.
 
-#### Line of Sight
+###### Line of Sight
 When you make an Attack, you must first establish Line of Sight with your target. This requires that a point within the space your character occupies and a point on the space your target occupies may be connected by a straight and unbroken line. Your Line of Sight may "pass through" spaces or barriers defined as High Cover or Low Cover.
 
-#### High Ground
+###### High Ground
 When you make an attack, if the space you occupy is above the space your target occupies, you gain +5 to that attack.
 
-#### Environmental Damage
+###### Environmental Damage
 When a character is pushed, if they are pushed into an object or wall they cannot pass through, they take 1d6 bludgeoning damage for every 5ft they cannot be pushed.
 
 ## Stance
@@ -63,3 +63,6 @@ You are not adjacent to any cover.
 ## Lighting
 Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a weapon when used effectively.
 
+###### Bright Light
+###### Low Light
+###### Darkness
