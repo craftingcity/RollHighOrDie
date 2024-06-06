@@ -60,4 +60,6 @@ You are adjacent to Low Cover, such as a mid-sized crate. You have Line of Sight
 ###### No Cover
 You are not adjacent to any cover.
 
+## Lighting
+Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a weapon when used effectively.
 
