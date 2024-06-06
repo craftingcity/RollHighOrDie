@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1d082141deb93792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -139,10 +152,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41988be05b187cc4",
+  "active": "1d082141deb93792",
   "lastOpenFiles": [
-    "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
+    "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+    "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
     "Core Rules/Character Rules/Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Weapons.md",
@@ -154,7 +168,6 @@
     "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Defenses.md",
     "Core Rules/Character Rules/Surviving.md",
-    "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Experience.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Combat Laws/Generic Actions.md",
