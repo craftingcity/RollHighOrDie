@@ -43,7 +43,7 @@ If you are wielding a Weapon that additionally has the Two-Handed or Heavy Tags,
 ###### USE: Melee - Light or Quick or Ranged Weapon
 'When the opportunity presents itself, it would be frankly rude to refuse a good poke!'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. 
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. If your Target is under the 'Engaged' [[Ailment]], and you did not impose that [[Ailment]], you have Advantage on this Attack.
 
 If you hit your target, you deal your Weapon Damage. If you had Advantage on this Attack, you deal an additional 1d6 damage of your Weapon's Damage Type.
 
@@ -256,7 +256,7 @@ Until the beginning of your next turn, you gain 2 Damage Resistance.
 ###### USE: Melee Weapon
 This feature inherits and replaces the 'Engage' Martial Feature.
 
-When you make an Attack against a target you have 'Engaged', if you deal damage, that target cannot make Maneuvers.
+When you make an Attack against a target you have 'Engaged', if you deal damage, that target cannot make Maneuvers until they are no longer 'Engaged'.
 
 ### Arcane Features
 ### Divine Features
