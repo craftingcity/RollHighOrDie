@@ -4,7 +4,7 @@ A number of positions and circumstances during combat will effect the outcome of
 ## Timing
 While Combat is occurring, the timing of of abilities triggering and resolving is incredibly important. All effects resolve in a manner known as "First In, Last Out". This means that the most recently triggered ability or effect resolves before the triggering effect.
 
-For example, 
+For example, when a creature is 'Engaged' and they make a Maneuver, 
 
 ## Positioning
 While you are in combat, RHoD assumes your character will occupy a 5ft square at any given time. 

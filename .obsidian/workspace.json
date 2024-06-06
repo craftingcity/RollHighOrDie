@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a0a7fed851a797d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "91e470e238aa656a",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
+                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
+                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md"
+                "file": "Core Rules/Character Rules/Selections Glossary/Ailment.md"
               }
             }
           }
@@ -178,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a990a42d8862d437",
+  "active": "a0a7fed851a797d3",
   "lastOpenFiles": [
     "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
