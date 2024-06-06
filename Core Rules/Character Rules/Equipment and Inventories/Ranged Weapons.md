@@ -92,7 +92,7 @@ This is the Maximum Capacity of Ammunition for this Weapon.
 
 When you take an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
 
-If there is no value indicated, your weapon has no 
+If there is no value indicated, your weapon has no capacity to hold Loaded Ammunition, and each shot is loaded as a part of your Attacks with this weapon.
 
 ### Mundane Tags
 #### Quick
