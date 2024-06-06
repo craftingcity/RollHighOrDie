@@ -2,7 +2,9 @@
 A number of positions and circumstances during combat will effect the outcome of that combat - who lives and who dies. The following sections will discuss the rules and definitions of how any combat generally operates.
 
 ## Timing
-While Combat is occurring, the timing of of abilities triggering and resolving is incredibly important. All effects resolve in a manner known as "First In, Last Out". This means that the most recently triggered ability or effect resolves first, and 
+While Combat is occurring, the timing of of abilities triggering and resolving is incredibly important. All effects resolve in a manner known as "First In, Last Out". This means that the most recently triggered ability or effect resolves before the triggering effect.
+
+For example, 
 
 ## Positioning
 While you are in combat, RHoD assumes your character will occupy a 5ft square at any given time. 
