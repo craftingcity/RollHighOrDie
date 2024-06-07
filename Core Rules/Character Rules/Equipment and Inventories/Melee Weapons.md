@@ -180,6 +180,7 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
 | Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
 | Dagger         | Short Blade |        |            |           |         |         |             |                   |
+| Throwing Knife | Short Blade |        |            |           |         |         |             |                   |
 | Seax           | Short Blade |        |            |           |         |         |             |                   |
 | Shortsword     | Short Blade |        |            |           |         |         |             |                   |
 | Machete        | Short Blade |        |            |           |         |         |             |                   |
@@ -191,9 +192,12 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Hatchet        | Axe         |        |            |           |         |         |             |                   |
 | Work Axe       | Axe         |        |            |           |         |         |             |                   |
 | Broadaxe       | Axe         |        |            |           |         |         |             |                   |
-| Bo Staff       |             |        |            |           |         |         |             |                   |
-| Spear          |             |        |            |           |         |         |             |                   |
-| Trident               |             |        |            |           |         |         |             |                   |
+| Bo Staff       | Polearm     |        |            |           |         |         |             |                   |
+| Spear          | Polearm     |        |            |           |         |         |             |                   |
+| Trident        | Polearm     |        |            |           |         |         |             |                   |
+| Glaive         | Polearm     |        |            |           |         |         |             |                   |
+| Halberd        | Polearm            |        |            |           |         |         |             |                   |
+|                |             |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
