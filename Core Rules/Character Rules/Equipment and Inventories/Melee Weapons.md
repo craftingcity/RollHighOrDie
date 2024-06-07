@@ -101,9 +101,7 @@ Large Weapons cost 4 AP to Attack with.
 
 Short Blunt and Short Blade Weapons inherently are Small.
 
-Long Blunt, Long Blade, and Axe Weapons inherently are Medium or Large.
-
-Polearm Weapons are inherently Large.
+Long Blunt, Long Blade, Axe, and Polearm Weapons inherently are Medium or Large.
 
 #### Range
 This is the mechanical Range of the weapon.
@@ -183,19 +181,19 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Seax           | Short Blade | Small  | Melee - 5' | Strength  |         |         |             | Heavy             |
 | Shortsword     | Long Blade  | Medium | Melee - 5' | Dexterity |         |         |             |                   |
 | Machete        | Long Blade  | Medium | Melee - 5' | Strength  |         |         |             |                   |
-| Longsword      | Long Blade  |        |            |           |         |         |             |                   |
-| Rapier         | Long Blade  |        |            |           |         |         |             |                   |
-| Scimitar       | Long Blade  |        |            |           |         |         |             |                   |
-| Greatsword     | Long Blade  |        |            |           |         |         |             |                   |
-| Hooksword      | Long Blade  |        |            |           |         |         |             |                   |
-| Hatchet        | Axe         |        |            |           |         |         |             |                   |
-| Work Axe       | Axe         |        |            |           |         |         |             |                   |
-| Broadaxe       | Axe         |        |            |           |         |         |             |                   |
-| Bo Staff       | Polearm     |        |            |           |         |         |             |                   |
-| Spear          | Polearm     |        |            |           |         |         |             |                   |
-| Javelin        | Polearm     |        |            |           |         |         |             |                   |
-| Trident        | Polearm     |        |            |           |         |         |             |                   |
-| Glaive         | Polearm     |        |            |           |         |         |             |                   |
-| Halberd        | Polearm     |        |            |           |         |         |             |                   |
-| Bullwhip       | Flexible    |        |            |           |         |         |             |                   |
-| Flail          | Flexible    |        |            |           |         |         |             |                   |
+| Longsword      | Long Blade  | Medium |            |           |         |         |             |                   |
+| Rapier         | Long Blade  | Medium |            |           |         |         |             |                   |
+| Scimitar       | Long Blade  | Medium |            |           |         |         |             |                   |
+| Greatsword     | Long Blade  | Large  |            |           |         |         |             |                   |
+| Hooksword      | Long Blade  | Large  |            |           |         |         |             |                   |
+| Hatchet        | Axe         | Medium |            |           |         |         |             |                   |
+| Work Axe       | Axe         | Medium |            |           |         |         |             |                   |
+| Broadaxe       | Axe         | Large  |            |           |         |         |             |                   |
+| Bo Staff       | Polearm     | Medium |            |           |         |         |             |                   |
+| Spear          | Polearm     | Medium |            |           |         |         |             |                   |
+| Javelin        | Polearm     | Medium |            |           |         |         |             |                   |
+| Trident        | Polearm     | Large  |            |           |         |         |             |                   |
+| Glaive         | Polearm     | Large  |            |           |         |         |             |                   |
+| Halberd        | Polearm     | Large  |            |           |         |         |             |                   |
+| Bullwhip       | Flexible    | Small  |            |           |         |         |             |                   |
+| Flail          | Flexible    | Medium |            |           |         |         |             |                   |
