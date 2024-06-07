@@ -197,7 +197,7 @@ Until the beginning of your next turn, you impose Advantage on Melee Attacks aga
 ## Painrush
 ###### REQ: 2EXP
 ###### 2 AP
-'When something hurts, you move. Getting out, getting in, the pain moves your '
+'When something hurts, you move. Getting out, getting in, the pain moves your body any way.'
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
 
@@ -205,7 +205,7 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 ###### REQ: 2EXP
 ###### 2 AP
 ###### USE: You are Engaged
-''
+'You protect yourself from a particular combatant's threats, and you move away - they'll have you no longer.'
 
 You are no longer under the 'Engaged' [[Ailment]].
 
