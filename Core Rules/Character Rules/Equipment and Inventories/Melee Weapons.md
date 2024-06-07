@@ -165,9 +165,10 @@ If you hit, you deal your Weapon Damage as normal.
 ## Example Weapons
 ## Historical Examples
 #### Melee
-| Title          | Base        | Size  | Range      | Ability  | Defense | D. Dice | D. Type     | Other |
-| -------------- | ----------- | ----- | ---------- | -------- | ------- | ------- | ----------- | ----- |
-| Brass Knuckles | Short Blunt | Small | Melee - 5' | Strength | Reflex  | 1d4     | Bludgeoning |       |
+| Title          | Base        | Size  | Range      | Ability   | Defense | D. Dice | D. Type     | Other |
+| -------------- | ----------- | ----- | ---------- | --------- | ------- | ------- | ----------- | ----- |
+| Brass Knuckles | Short Blunt | Small | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick |
+| Baton          | Short Blunt | Small | Melee - 5' | Dexterity | Reflex  | 1d4     | Blud            |       |
 
 ## Modernist Examples
 #### Melee
