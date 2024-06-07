@@ -165,17 +165,18 @@ If you hit, you deal your Weapon Damage as normal.
 ## Example Weapons
 ## Historical Examples
 #### Melee
-| Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other           |
-| -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | --------------- |
-| Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick           |
-| Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |                 |
-| Work Hammer    | Short Blunt | Small  | Melee - 5' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light           |
-| Bo Staff       | Long Blunt  | Meduim | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning | Two-Handed      |
-| Mace           | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Versatile (2d4) |
-| Work Shovel    | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed      |
-| Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d8     | Bludgeoning | Two-Handed      |
-| Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6        |             |                 |
-|                |             |        |            |           |         |         |             |                 |
+| Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other             |
+| -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----------------- |
+| Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
+| S
+| Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
+| Work Hammer    | Short Blunt | Small  | Melee - 5' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |
+| Bo Staff       | Long Blunt  | Meduim | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning | Two-Handed        |
+| Mace           | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Versatile (1d8)   |
+| Work Shovel    | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
+| Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Two-Handed        |
+| Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
+|                |             |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
 #### Melee
