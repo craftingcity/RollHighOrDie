@@ -28,7 +28,7 @@ A Long Blunt Weapon Base has the following Tags;
 	- Versatile (1d8)
 
 #### Short Blade
-Short Blades are your shanks, shivs, daggers, and short swords. History's favorite tool.
+Short Blades are your shanks, shivs, and daggers. History's favorite tool.
 
 A Short Blade Weapon Base has the following Tags;
 	- Size (Small)
@@ -39,7 +39,7 @@ A Short Blade Weapon Base has the following Tags;
 	- Weapon Damage Type (Piercing)
 
 #### Long Blade
-Long Blades are the most typical weapons of melee combat - from the longsword to the claymore, these blades are built to protect you and yours from the opposition.
+Long Blades are the most typical weapons of melee combat - from the shortsword to the claymore, these blades are built to protect you and yours from the opposition.
 
 A Long Blade Weapon Base has the following Tags;
 	- Size (Medium)
@@ -179,6 +179,8 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Work Shovel    | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
 | Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
 | Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
+| Dagger         |             |        |            |           |         |         |             |                   |
+| Seax           |             |        |            |           |         |         |             |                   |
 |                |             |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
