@@ -165,7 +165,7 @@ If you hit, you deal your Weapon Damage as normal.
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
 #### Dense
-When you hit with this Weapon, you may choose to deal half damage
+When you hit with this Weapon, you may choose to deal half damage. If you do, make an 
 
 # Example Weapons
 ## Historical Examples
