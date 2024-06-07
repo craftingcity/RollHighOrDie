@@ -169,8 +169,13 @@ If you hit, you deal your Weapon Damage as normal.
 | -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----- |
 | Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick |
 | Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |       |
-| Work Hammer    | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning |       |
-| Mace           | Long Blunt  | Medium | Melee -            |           |         |         |             |       |
+| Work Hammer    | Short Blunt | Small  | Melee - 5' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light |
+| Bo Staff       | Long Blunt  | Meduim | M           |           |         |         |             |       |
+| Mace           | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning |       |
+| Work Shovel    |             |        |            |           |         |         |             |       |
+| Warhammer      |             |        |            |           |         |         |             |       |
+| Maul           |             |        |            |           |         |         |             |       |
+|                |             |        |            |           |         |         |             |       |
 
 ## Modernist Examples
 #### Melee
