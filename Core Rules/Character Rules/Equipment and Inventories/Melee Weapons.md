@@ -163,8 +163,6 @@ If you hit, you deal your Weapon Damage as normal.
 ### Specialized Tags
 #### Barbed
 ###### MOD: Short Blunt or Long Blunt
-
-
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
 #### Serrated
