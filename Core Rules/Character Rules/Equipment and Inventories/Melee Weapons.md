@@ -169,9 +169,8 @@ When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[C
 ###### MOD: Short Blade or Long Blade
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
-## Example Weapons
+# Example Weapons
 ## Historical Examples
-#### Melee
 | Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other             |
 | -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----------------- |
 | Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
@@ -186,13 +185,11 @@ When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[C
 |                |             |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
-#### Melee
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
 | ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
 |       |      |      |       |         |         |         |         |       |
 
 ## Fantastic Examples
-#### Melee
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
 | ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
 |       |      |      |       |         |         |         |         |       |

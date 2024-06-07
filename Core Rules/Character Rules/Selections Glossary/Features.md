@@ -45,7 +45,7 @@ If you are wielding a Weapon that additionally has the Two-Handed or Heavy Tags,
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. If your Target is under the 'Engaged' [[Ailment]], and you did not impose that [[Ailment]], you have Advantage on this Attack.
 
-If you hit your target, you deal your Weapon Damage. If you had Advantage on this Attack, you deal an additional 1d6 damage of your Weapon's Damage Type.
+If you hit your target, you deal your Weapon Damage, and if you had Advantage on this Attack, you deal an additional 1d6 damage of your Weapon's Damage Type.
 
 If you hit
 
