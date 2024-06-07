@@ -194,10 +194,12 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Broadaxe       | Axe         |        |            |           |         |         |             |                   |
 | Bo Staff       | Polearm     |        |            |           |         |         |             |                   |
 | Spear          | Polearm     |        |            |           |         |         |             |                   |
+| Javelin        | Polearm     |        |            |           |         |         |             |                   |
 | Trident        | Polearm     |        |            |           |         |         |             |                   |
 | Glaive         | Polearm     |        |            |           |         |         |             |                   |
 | Halberd        | Polearm     |        |            |           |         |         |             |                   |
-| Bullwhip       |             |        |            |           |         |         |             |                   |
+| Bullwhip       | Flexable    |        |            |           |         |         |             |                   |
+| Flail          | Flexable    |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
