@@ -44,6 +44,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "3806cab444cbe6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918fea61b5738b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41988be05b187cc4",
+  "active": "918fea61b5738b90",
   "lastOpenFiles": [
     "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
