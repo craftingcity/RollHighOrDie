@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md"
+                "file": "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md"
               }
             }
           }
@@ -164,11 +163,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2b00508983bb5c1",
+  "active": "41988be05b187cc4",
   "lastOpenFiles": [
+    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
     "Core Rules/Character Rules/Equipment and Inventories/Equipment.md",
