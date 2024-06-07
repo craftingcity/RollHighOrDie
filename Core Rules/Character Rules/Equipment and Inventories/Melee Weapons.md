@@ -140,7 +140,7 @@ This Weapon's Ability is Strength.
 A Small creature makes Attacks with this Weapon with Disadvantage.
 
 #### Quick
-While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
+While this Weapon is Equipped in either hand you gain +1 to Initiative Rolls.
 
 You do not incur Disadvantage when making Ranged Attacks with this weapon while a hostile creature is within 5'.
 
@@ -165,10 +165,12 @@ If you hit, you deal your Weapon Damage as normal.
 ## Example Weapons
 ## Historical Examples
 #### Melee
-| Title          | Base        | Size  | Range      | Ability   | Defense | D. Dice | D. Type     | Other |
-| -------------- | ----------- | ----- | ---------- | --------- | ------- | ------- | ----------- | ----- |
-| Brass Knuckles | Short Blunt | Small | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick |
-| Baton          | Short Blunt | Small | Melee - 5' | Dexterity | Reflex  | 1d4     | Blud            |       |
+| Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other |
+| -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----- |
+| Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick |
+| Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |       |
+| Work Hammer    | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning |       |
+| Mace           | Long Blunt  | Medium | Melee -            |           |         |         |             |       |
 
 ## Modernist Examples
 #### Melee
