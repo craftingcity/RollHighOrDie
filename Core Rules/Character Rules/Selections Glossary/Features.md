@@ -190,14 +190,14 @@ Target an ally within 5' of you. Until the beginning of your next turn, if they 
 ###### REQ: 2EXP
 ###### 2 AP
 ###### Use: Melee Weapon
-''
+'Let them come and die trying.'
 
 Until the beginning of your next turn, you impose Advantage on Melee Attacks against you, and when you hit a target with a Melee Weapon, you deal an additional Weapon Damage Die.
 
-## Bugout
+## Painrush
 ###### REQ: 2EXP
 ###### 2 AP
-''
+'When something hurts, you move. Getting out, getting in, the pain moves your '
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
 
