@@ -215,7 +215,7 @@ Make a Maneuver.
 ###### REQ: 3EXP, 5+TMK
 ###### 1 AP
 ###### USE: One or more Wounds
-''
+'It hurts. The hurt feels good. Let's keep going.'
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier.
 
@@ -225,7 +225,7 @@ You may only use this feature once between Long Rests.
 ###### REQ: 3EXP, 5+TMK
 ###### 2 AP
 ###### Use: Melee Weapon
-''
+'You parry, deflect, and push off the opposition - it feels you could hold a horde like this.'
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker 5' into a space within 10' of you.
 
