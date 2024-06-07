@@ -171,7 +171,7 @@ When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[C
 
 #### Weighted
 ###### MOD: Short Blunt or Long Blunt
-This Weapon
+When you Attack with this Wea
 
 ## Example Weapons
 ## Historical Examples
