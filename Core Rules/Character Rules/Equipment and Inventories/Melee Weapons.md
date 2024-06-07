@@ -161,13 +161,11 @@ For W AP, you may throw this weapon. Target a creature within 30', and establish
 If you hit, you deal your Weapon Damage as normal.
 
 ### Specialized Tags
-#### Barbed
-###### MOD: Short Blunt or Long Blunt
+#### Barbed / Serrated
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
-#### Serrated
-###### MOD: Short Blade or Long Blade
-When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
+#### Dense
+When you hit with this Weapon, you may choose to deal half damage
 
 # Example Weapons
 ## Historical Examples
