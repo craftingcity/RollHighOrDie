@@ -181,7 +181,10 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
 | Dagger         |             |        |            |           |         |         |             |                   |
 | Seax           |             |        |            |           |         |         |             |                   |
-|                |             |        |            |           |         |         |             |                   |
+| Shortsword     |             |        |            |           |         |         |             |                   |
+| Rapier         |             |        |            |           |         |         |             |                   |
+| Scimitar       |             |        |            |           |         |         |             |                   |
+| Longsword               |             |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
