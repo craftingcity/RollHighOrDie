@@ -166,7 +166,7 @@ If you hit, you deal your Weapon Damage as normal.
 
 This Weapon's business end has been covered in sharp barbs, increasing it's Damage Dice by one size.
 
-When you deal Damage with this Weapon, you apply o
+When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
 #### Serrated
 #### 
