@@ -169,10 +169,6 @@ When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[C
 ###### MOD: Short Blade or Long Blade
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
-#### Weighted
-###### MOD: Short Blunt or Long Blunt
-When you Attack with this Wea
-
 ## Example Weapons
 ## Historical Examples
 #### Melee

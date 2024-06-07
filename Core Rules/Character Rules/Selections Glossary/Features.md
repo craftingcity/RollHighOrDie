@@ -40,7 +40,7 @@ If you are wielding a Weapon that additionally has the Two-Handed or Heavy Tags,
 ## Sneak Attack
 ###### REQ: 1EXP 
 ###### W AP
-###### USE: Melee - Light or Quick or Ranged Weapon
+###### USE: Melee Weapon - Light, Quick, or Ranged Weapon
 'When the opportunity presents itself, it would be frankly rude to refuse a good poke!'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. If your Target is under the 'Engaged' [[Ailment]], and you did not impose that [[Ailment]], you have Advantage on this Attack.
