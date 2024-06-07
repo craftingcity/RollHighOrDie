@@ -233,7 +233,7 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 ###### REQ: 3EXP, 5+TMK
 ###### 2W AP
 ###### USE: Ranged Weapon
-''
+'You evaluate the battlefield, and find an ally in need. Changing your aim, you prepare to provide offensive protection.'
 
 Target an ally you can see. Until the beginning of your turn, when they are the target of an attack, if you have Line of Sight on the attacking creature, make an Attack against that creature's Reflex.
 
