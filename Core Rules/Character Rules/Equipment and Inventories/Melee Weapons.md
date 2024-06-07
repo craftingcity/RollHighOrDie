@@ -179,16 +179,18 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Work Shovel    | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
 | Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
 | Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
-| Dagger         |             |        |            |           |         |         |             |                   |
-| Seax           |             |        |            |           |         |         |             |                   |
-| Shortsword     |             |        |            |           |         |         |             |                   |
-| Machete        |             |        |            |           |         |         |             |                   |
-| Longsword      |             |        |            |           |         |         |             |                   |
-| Rapier         |             |        |            |           |         |         |             |                   |
-| Scimitar       |             |        |            |           |         |         |             |                   |
-| Greatsword     |             |        |            |           |         |         |             |                   |
-| Hooksword      |             |        |            |           |         |         |             |                   |
-| Hat               |             |        |            |           |         |         |             |                   |
+| Dagger         | Short Blade |        |            |           |         |         |             |                   |
+| Seax           | Short Blade |        |            |           |         |         |             |                   |
+| Shortsword     | Short Blade |        |            |           |         |         |             |                   |
+| Machete        | Short Blade |        |            |           |         |         |             |                   |
+| Longsword      | Long Blade  |        |            |           |         |         |             |                   |
+| Rapier         | Long Blade  |        |            |           |         |         |             |                   |
+| Scimitar       | Long Blade  |        |            |           |         |         |             |                   |
+| Greatsword     | Long Blade  |        |            |           |         |         |             |                   |
+| Hooksword      | Long Blade  |        |            |           |         |         |             |                   |
+| Hatchet        | Axe         |        |            |           |         |         |             |                   |
+| Work Axe       | Axe         |        |            |           |         |         |             |                   |
+| Broadaxe       | Axe         |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
