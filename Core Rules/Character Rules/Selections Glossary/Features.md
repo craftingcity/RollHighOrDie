@@ -97,9 +97,9 @@ If you hit your target, you deal your Weapon Damage as normal.
 ###### USE: Ranged Weapon
 'Physics can be a fickle law, but when bent just right, a shot can kill two people while looking like a full miss.'
 
-Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make one Attack Roll against both targets' Reflex.
+Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make an Attack Roll against each targets' Reflex.
 
-If you hit either target, you deal your Weapon Damage as normal to that target.
+If you hit either target, you deal your Weapon Damage as normal to both targets.
 
 You may only use this feature once between Long Rests.
 
@@ -131,7 +131,7 @@ If you hit your target, use your Charisma Modifier instead of your Weapon Abilit
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. 
 
-If you hit, you deal your Weapon Damage as normal, and you have Advantage your next Attack Roll against that target.
+If you hit, you deal your Weapon Damage as normal, and until the end of your next turn, you have Advantage on your next Attack Roll against that target.
 
 ## Up and Gone
 ###### REQ: 1EXP
@@ -165,6 +165,8 @@ You may only use this feature once per turn.
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
 
 If you hit your target, you deal your Weapon Damage as normal, and you apply a stack of the 'Hobbled' [[Ailment]].
+
+You may only use this Feature once per turn.
 
 ## Bash
 ###### REQ: 2EXP
