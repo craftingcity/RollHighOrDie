@@ -162,8 +162,11 @@ If you hit, you deal your Weapon Damage as normal.
 
 ### Specialized Tags
 #### Barbed
-###### REQ: Short Blunt or Long Blunt
-This Weapon's business end has been covered in sharp barbs
+###### MOD: Short Blunt or Long Blunt
+
+This Weapon's business end has been covered in sharp barbs, increasing it's Damage Dice by one size.
+
+When you deal Damage with this Weapon, you apply o
 
 #### Serrated
 #### 
@@ -174,7 +177,7 @@ This Weapon's business end has been covered in sharp barbs
 | Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other             |
 | -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----------------- |
 | Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
-| Spike Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Piercing    | Quick, Barbed     |
+| Spike Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Quick, Barbed     |
 | Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
 | Work Hammer    | Short Blunt | Small  | Melee - 5' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |
 | Bo Staff       | Long Blunt  | Meduim | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning | Two-Handed        |
