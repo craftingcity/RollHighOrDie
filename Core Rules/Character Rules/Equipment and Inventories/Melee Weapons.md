@@ -196,8 +196,8 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Spear          | Polearm     |        |            |           |         |         |             |                   |
 | Trident        | Polearm     |        |            |           |         |         |             |                   |
 | Glaive         | Polearm     |        |            |           |         |         |             |                   |
-| Halberd        | Polearm            |        |            |           |         |         |             |                   |
-|                |             |        |            |           |         |         |             |                   |
+| Halberd        | Polearm     |        |            |           |         |         |             |                   |
+| Bullwhip       |             |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
