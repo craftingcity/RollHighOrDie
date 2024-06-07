@@ -169,7 +169,11 @@ This Weapon's business end has been covered in sharp barbs, increasing it's Dama
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
 #### Serrated
-#### 
+###### MOD: Short Blade or Long Blade
+
+This Weapon's edge has been cut with a serration, increasing it's Damage Dice by one size.
+
+When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
 ## Example Weapons
 ## Historical Examples
@@ -177,7 +181,7 @@ When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[C
 | Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other             |
 | -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----------------- |
 | Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
-| Spike Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Quick, Barbed     |
+| Spike Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick, Barbed     |
 | Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
 | Work Hammer    | Short Blunt | Small  | Melee - 5' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |
 | Bo Staff       | Long Blunt  | Meduim | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning | Two-Handed        |
