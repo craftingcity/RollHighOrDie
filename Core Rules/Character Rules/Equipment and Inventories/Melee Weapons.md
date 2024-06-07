@@ -165,7 +165,7 @@ If you hit, you deal your Weapon Damage as normal.
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
 #### Dense
-When you deal Damage with this Weapon, if you deal an amount of damage that is greater than your target's Fortitude, you apply one stack of the Dazed [[Condition]].
+When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Condition]].
 
 # Example Weapons
 ## Historical Examples
@@ -177,7 +177,7 @@ When you deal Damage with this Weapon, if you deal an amount of damage that is g
 | War Club       | Short Blunt | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning |                   |
 | Mace           | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Versatile (1d8)   |
 | Work Shovel    | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
-| Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed        |
+| Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
 | Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
 |                |             |        |            |           |         |         |             |                   |
 
