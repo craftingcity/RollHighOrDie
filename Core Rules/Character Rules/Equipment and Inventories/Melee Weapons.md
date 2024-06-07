@@ -168,13 +168,12 @@ When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[C
 When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Condition]].
 
 # Example Weapons
-## Historical Examples
 | Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other             |
 | -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----------------- |
 | Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
 | Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
 | Work Hammer    | Short Blunt | Small  | Melee - 5' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |
-| War Club       | Short Blunt | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning |                   |
+| War Club       | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning |                   |
 | Mace           | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Versatile (1d8)   |
 | Work Shovel    | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
 | Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
@@ -198,15 +197,5 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Trident        | Polearm     |        |            |           |         |         |             |                   |
 | Glaive         | Polearm     |        |            |           |         |         |             |                   |
 | Halberd        | Polearm     |        |            |           |         |         |             |                   |
-| Bullwhip       | Flexable    |        |            |           |         |         |             |                   |
-| Flail          | Flexable    |        |            |           |         |         |             |                   |
-
-## Modernist Examples
-| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
-| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
-|       |      |      |       |         |         |         |         |       |
-
-## Fantastic Examples
-| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
-| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
-|       |      |      |       |         |         |         |         |       |
+| Bullwhip       | Flexible    |        |            |           |         |         |             |                   |
+| Flail          | Flexible    |        |            |           |         |         |             |                   |
