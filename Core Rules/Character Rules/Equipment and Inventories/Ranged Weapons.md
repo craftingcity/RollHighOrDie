@@ -12,7 +12,7 @@ A Sling Weapon Base has the following Tags;
 	- Range (30'/60')
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
-	- Ammunition (1)
+	- Ammunition
 
 #### Bow
 Using the power of elastics, Bows fire arrows at high speeds to pierce through armoring and cause significant internal damage.
@@ -26,7 +26,7 @@ A Bow Weapon Base has the following Tags;
 	- Two-Handed
 
 #### Crossbow
-Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow called a bolt at high speeds and with great accuracy.
+Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow known as a bolt at high speeds and with great accuracy.
 
 A Crossbow Weapon Base has the following Tags;
 	- Size (Medium)
@@ -37,7 +37,7 @@ A Crossbow Weapon Base has the following Tags;
 	- Two-Handed
 
 #### Pistol
-Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of these projectiles before it must be reloaded.
+Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of projectiles before they must be reloaded.
 
 A Pistol Weapon Base has the following Tags;
 	- Size (Small)
@@ -48,7 +48,7 @@ A Pistol Weapon Base has the following Tags;
 	- Versatile (+2)
 
 #### Rifle
-Harnessing the mystic or the scientific, Rifles are the older, more militaristic older sibling of the humble Pistol.
+Harnessing the mystic or the scientific, Rifles are the older, more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
 A Rifle Weapon Base has the following Tags;
 	- Size (Medium)
@@ -56,6 +56,7 @@ A Rifle Weapon Base has the following Tags;
 	- Weapon Ability (Dexterity)
 	- Relevant Defense (Reflex)
 	- Ammunition (10)
+	- Two Handed
 
 ## Tags
 ### Required Tags
@@ -77,7 +78,7 @@ Sling and Pistol Weapons are inherently Small.
 Bow, Crossbow, and Rifle Weapons are inherently Medium or Large.
 
 #### Range
-This is the mechanical Range of the weapon. The first value indicated is the Normal Range. The second value indicated is the Maximum Ra
+This is the mechanical Range of the weapon. The first value indicated is the Normal Range. The second value indicated is the Maximum Range. You cannot 
 
 #### Weapon Ability
 This is the Ability Score relevant to hitting and dealing damage with this weapon - either Strength or Dexterity. No other Ability Scores are relevant in this regard.
