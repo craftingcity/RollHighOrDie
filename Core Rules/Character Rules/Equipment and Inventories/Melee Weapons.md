@@ -191,6 +191,9 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Hatchet        | Axe         |        |            |           |         |         |             |                   |
 | Work Axe       | Axe         |        |            |           |         |         |             |                   |
 | Broadaxe       | Axe         |        |            |           |         |         |             |                   |
+| Bo Staff       |             |        |            |           |         |         |             |                   |
+| Spear          |             |        |            |           |         |         |             |                   |
+| Trident               |             |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
