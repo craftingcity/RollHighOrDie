@@ -47,11 +47,11 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 
 If you hit your target, you deal your Weapon Damage, and if you had Advantage on this Attack, you deal an additional 1d6 damage of your Weapon's Damage Type.
 
-You may only use this Feature once per turn.
+You may only use this Feature to deal additional damage once per turn.
 
 ## Iron Tide
 ###### REQ: 2EXP 
-###### W AP
+###### W+1 AP
 ###### USE: Melee Weapon
 'With intention and confidence, you strike out and push forward, allowing you to take the positional advantage.'
 
@@ -87,7 +87,7 @@ Then, an Ally within 10' of your target makes a Maneuver.
 ###### USE: Melee or Ranged Weapon
 'With baited breath, you find the weakest point in your opponent's armor, and release.'
 
-Target a creature within your Weapon Range and establish Line of Sight. You gain +2 to hit that creature with this attack. Make an Attack Roll against that target's Reflex.
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You gain +2 to that Attack Roll.
 
 If you hit your target, you deal your Weapon Damage as normal.
 
