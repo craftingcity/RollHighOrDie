@@ -163,19 +163,17 @@ If you hit, you deal your Weapon Damage as normal.
 ### Specialized Tags
 #### Barbed
 ###### MOD: Short Blunt or Long Blunt
-This Weapon's business end has been covered in sharp barbs, increasing it's Damage Dice by one size.
+
 
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
 #### Serrated
 ###### MOD: Short Blade or Long Blade
-This Weapon's edge has been cut with a serration, increasing it's Damage Dice by one size.
-
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
 
 #### Weighted
 ###### MOD: Short Blunt or Long Blunt
-
+This Weapon
 
 ## Example Weapons
 ## Historical Examples
