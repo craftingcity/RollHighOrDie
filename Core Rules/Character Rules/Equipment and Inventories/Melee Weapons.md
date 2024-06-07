@@ -178,11 +178,11 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Work Shovel    | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
 | Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
 | Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
-| Dagger         | Short Blade |        |            |           |         |         |             |                   |
-| Throwing Knife | Short Blade |        |            |           |         |         |             |                   |
-| Seax           | Short Blade |        |            |           |         |         |             |                   |
-| Shortsword     | Short Blade |        |            |           |         |         |             |                   |
-| Machete        | Short Blade |        |            |           |         |         |             |                   |
+| Dagger         | Short Blade | Small  | Melee - 5' | Dexterity |         |         |             | Light, Quick      |
+| Throwing Knife | Short Blade | Small  | Melee - 5' | Dexterity |         |         |             | Throwable         |
+| Seax           | Short Blade | Small  | Melee - 5' | Strength  |         |         |             | Heavy             |
+| Shortsword     | Long Blade  | Medium | Melee - 5' | Dexterity |         |         |             |                   |
+| Machete        | Long Blade  | Medium | Melee - 5' | Strength  |         |         |             |                   |
 | Longsword      | Long Blade  |        |            |           |         |         |             |                   |
 | Rapier         | Long Blade  |        |            |           |         |         |             |                   |
 | Scimitar       | Long Blade  |        |            |           |         |         |             |                   |
