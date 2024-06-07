@@ -47,7 +47,7 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 
 If you hit your target, you deal your Weapon Damage, and if you had Advantage on this Attack, you deal an additional 1d6 damage of your Weapon's Damage Type.
 
-If you hit
+You may only use this Feature once per turn.
 
 ## Iron Tide
 ###### REQ: 2EXP 
