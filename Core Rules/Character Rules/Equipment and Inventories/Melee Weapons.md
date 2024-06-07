@@ -182,9 +182,10 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Dagger         |             |        |            |           |         |         |             |                   |
 | Seax           |             |        |            |           |         |         |             |                   |
 | Shortsword     |             |        |            |           |         |         |             |                   |
+| Longsword      |             |        |            |           |         |         |             |                   |
 | Rapier         |             |        |            |           |         |         |             |                   |
 | Scimitar       |             |        |            |           |         |         |             |                   |
-| Longsword               |             |        |            |           |         |         |             |                   |
+|                |             |        |            |           |         |         |             |                   |
 
 ## Modernist Examples
 | Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
