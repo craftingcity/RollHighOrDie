@@ -6,7 +6,7 @@ Some Features have Prerequisites that you must meet or surpass before you are el
 ### Martial Features
 ## Second Wind
 ###### REQ: 1EXP
-###### 2AP
+###### 3AP
 'You hurt, bad. It's not enough to kill you, so it won't be enough to stop you.'
 
 Expend two Hit Die. You gain the number rolled plus twice your Constitution Modifier as Vitality.
@@ -15,7 +15,7 @@ You may only use this feature once between Long Rests.
 
 ## Engage
 ###### REQ: 1EXP
-###### W+2 AP
+###### W AP
 ###### USE: Melee Weapon
 'You will be their biggest threat, and they need to know it.'
 
@@ -46,6 +46,8 @@ If you are wielding a Weapon that additionally has the Two-Handed or Heavy Tags,
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. If your Target is under the 'Engaged' [[Ailment]], and you did not impose that [[Ailment]], you have Advantage on this Attack.
 
 If you hit your target, you deal your Weapon Damage. If you had Advantage on this Attack, you deal an additional 1d6 damage of your Weapon's Damage Type.
+
+If you hit
 
 ## Iron Tide
 ###### REQ: 2EXP 
