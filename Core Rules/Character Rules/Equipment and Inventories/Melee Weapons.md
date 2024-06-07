@@ -161,6 +161,12 @@ For W AP, you may throw this weapon. Target a creature within 30', and establish
 If you hit, you deal your Weapon Damage as normal.
 
 ### Specialized Tags
+#### Barbed
+###### REQ: Short Blunt or Long Blunt
+This Weapon's business end has been covered in sharp barbs
+
+#### Serrated
+#### 
 
 ## Example Weapons
 ## Historical Examples
@@ -168,7 +174,7 @@ If you hit, you deal your Weapon Damage as normal.
 | Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other             |
 | -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----------------- |
 | Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
-| S
+| Spike Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Piercing    | Quick, Barbed     |
 | Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
 | Work Hammer    | Short Blunt | Small  | Melee - 5' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |
 | Bo Staff       | Long Blunt  | Meduim | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning | Two-Handed        |
