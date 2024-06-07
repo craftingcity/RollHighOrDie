@@ -127,7 +127,7 @@ If you hit your target, use your Charisma Modifier instead of your Weapon Abilit
 ###### REQ: 3EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
-'In the rhythm of combat, you find your opponents weakness and use it against them.'
+'In the rhythm of combat, you find an opponent's misstep and use it against them.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. 
 
@@ -182,7 +182,7 @@ If you hit your target, you deal thrice your Weapon Damage, and you may not use 
 ###### REQ: 2EXP
 ###### 2 AP
 ###### Use: Shield
-''
+'You hold your shield over an ally, taking the burden of combat from them for a moment.'
 
 Target an ally within 5' of you. Until the beginning of your next turn, if they are the target of an attack and they are still within 5' of you, you are the target of that attack instead.
 
@@ -191,8 +191,8 @@ Target an ally within 5' of you. Until the beginning of your next turn, if they 
 ###### 2 AP
 ###### Use: Melee Weapon
 ''
-Until the beginning of your next turn, you impose Advantage on Melee Attacks against you, and when you hit a target with a Melee Weapon, you deal an additional Weapon Damage Die.
 
+Until the beginning of your next turn, you impose Advantage on Melee Attacks against you, and when you hit a target with a Melee Weapon, you deal an additional Weapon Damage Die.
 
 ## Bugout
 ###### REQ: 2EXP
