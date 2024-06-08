@@ -114,17 +114,7 @@ This Weapon must be used in both hands.
 ### Specialized Tags
 
 # Example Weapons
-## Historical Examples
-| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
-| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
-|       |      |      |       |         |         |         |         |       |
+| Title | Base | Size | Range | Ability | Defense | Ammunition | Other |     |
+| ----- | ---- | ---- | ----- | ------- | ------- | ---------- | ----- | --- |
+|       |      |      |       |         |         |            |       |     |
 
-## Modernist Examples
-| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
-| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
-|       |      |      |       |         |         |         |         |       |
-
-## Fantastic Examples
-| Title | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
-| ----- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
-|       |      |      |       |         |         |         |         |       |
