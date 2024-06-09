@@ -7,56 +7,17 @@ Given this, weapons can be mutable while you are playing - you may replace, gain
 #### Sling
 Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 
 
-A Sling Weapon Base has the following Tags;
-	- Size (Small)
-	- Range (30'/60')
-	- Weapon Ability (Dexterity)
-	- Relevant Defense (Reflex)
-	- Ammunition
-
 #### Bow
 Using the power of elastics, Bows fire arrows at high speeds to pierce through armoring and cause significant internal damage.
-
-A Bow Weapon Base has the following Tags;
-	- Size (Medium)
-	- Range (75'/150')
-	- Weapon Ability (Dexterity)
-	- Relevant Defense (Reflex)
-	- Ammunition
-	- Two-Handed
 
 #### Crossbow
 Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow known as a bolt at high speeds and with great accuracy.
 
-A Crossbow Weapon Base has the following Tags;
-	- Size (Medium)
-	- Range (60'/120')
-	- Weapon Ability (Dexterity)
-	- Relevant Defense (Reflex)
-	- Ammunition (1)
-	- Two-Handed
-
 #### Pistol
 Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of projectiles before they must be reloaded.
 
-A Pistol Weapon Base has the following Tags;
-	- Size (Small)
-	- Range (60'/180')
-	- Weapon Ability (Dexterity)
-	- Relevant Defense (Reflex)
-	- Ammunition (7)
-	- Versatile (+2)
-
 #### Rifle
 Harnessing the mystic or the scientific, Rifles are the older, more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
-
-A Rifle Weapon Base has the following Tags;
-	- Size (Medium)
-	- Range (120'/360')
-	- Weapon Ability (Dexterity)
-	- Relevant Defense (Reflex)
-	- Ammunition (10)
-	- Two Handed
 
 ## Tags
 ### Required Tags
@@ -114,7 +75,9 @@ This Weapon must be used in both hands.
 ### Specialized Tags
 
 # Example Weapons
-| Title | Base | Size | Range | Ability | Defense | Ammunition | Other |     |
-| ----- | ---- | ---- | ----- | ------- | ------- | ---------- | ----- | --- |
-|       |      |      |       |         |         |            |       |     |
+| Title          | Base  | Size | Range | Ability | Defense | Ammunition | Other |     |
+| -------------- | ----- | ---- | ----- | ------- | ------- | ---------- | ----- | --- |
+| Momentum Sling | Sling |      |       |         |         |            |       |     |
+| Slingshot      | Sling |      |       |         |         |            |       |     |
+| Speark               |       |      |       |         |         |            |       |     |
 
