@@ -75,32 +75,32 @@ This Weapon must be used in both hands.
 ### Specialized Tags
 
 # Example Weapons
-| Title                             | Base     | Size   | Range | Ability | Defense | Ammunition | Other |     |
-| --------------------------------- | -------- | ------ | ----- | ------- | ------- | ---------- | ----- | --- |
-| Momentum Sling                    | Sling    | Small  |       |         |         |            |       |     |
-| Slingshot                         | Sling    | Small  |       |         |         |            |       |     |
-| Spear Tosser                      | Sling    | Medium |       |         |         |            |       |     |
-| Wooden Bow                        | Bow      | Medium |       |         |         |            |       |     |
-| Compound Bow                      | Bow      | Medium |       |         |         |            |       |     |
-| Wooden Crossbow                   | Crossbow | Medium |       |         |         |            |       |     |
-| Compound Crossbow                 | Crossbow | Medium |       |         |         |            |       |     |
-| Flintlock Pistol                  | Pistol   | Small  |       |         |         |            |       |     |
-| Revolving Pistol                  | Pistol   | Small  |       |         |         |            |       |     |
-| Semi-Auto Pistol                  | Pistol   | Small  |       |         |         |            |       |     |
-| Machine Pistol                    | Pistol   | Small  |       |         |         |            |       |     |
-| Carbine                           | Pistol   | Medium |       |         |         |            |       |     |
-| Sub Machine Gun                   | Pistol   | Medium |       |         |         |            |       |     |
-| Musket                            | Rifle    | Medium |       |         |         |            |       |     |
-| Classic Bolt-Action               | Rifle    | Medium |       |         |         |            |       |     |
-| Classic Battle Rifle              | Rifle    | Medium |       |         |         |            |       |     |
-| Lever-Action Rifle                | Rifle    | Medium |       |         |         |            |       |     |
-| Semi-Auto Rifle                   | Rifle    | Medium |       |         |         |            |       |     |
-| Full-Auto Rifle                   | Rifle    | Medium |       |         |         |            |       |     |
-| Designated Marksman Rifle         | Rifle    | Large  |       |         |         |            |       |     |
-| Double Barrel Shotgun             | Rifle    | Medium |       |         |         |            |       |     |
-| Pump Action Shotgun               | Rifle    | Medium |       |         |         |            |       |     |
-| Semi-Auto Shotgun                 | Rifle    | Medium |       |         |         |            |       |     |
-| Full-Auto Shotgun                 | Rifle    | Medium |       |         |         |            |       |     |
-| Light Squad Automatic Machine Gun | Rifle    | Large  |       |         |         |            |       |     |
-| Heavy Squad Automatic Machine Gun | Rifle    | Large  |       |         |         |            |       |     |
+| Title                        | Base     | Size   | Range   | Ability | Defense | Ammunition | Other |     |
+| ---------------------------- | -------- | ------ | ------- | ------- | ------- | ---------- | ----- | --- |
+| Momentum Sling               | Sling    | Small  | 35'/70' |         |         |            |       |     |
+| Slingshot                    | Sling    | Small  | 30'/60' |         |         |            |       |     |
+| Spear Tosser                 | Sling    | Medium | 25'/50' |         |         |            |       |     |
+| Wooden Bow                   | Bow      | Medium |         |         |         |            |       |     |
+| Compound Bow                 | Bow      | Medium |         |         |         |            |       |     |
+| Wooden Crossbow              | Crossbow | Medium |         |         |         |            |       |     |
+| Compound Crossbow            | Crossbow | Medium |         |         |         |            |       |     |
+| Flintlock Pistol             | Pistol   | Small  |         |         |         |            |       |     |
+| Revolving Pistol             | Pistol   | Small  |         |         |         |            |       |     |
+| Semi-Auto Pistol             | Pistol   | Small  |         |         |         |            |       |     |
+| Machine Pistol               | Pistol   | Small  |         |         |         |            |       |     |
+| Carbine                      | Pistol   | Medium |         |         |         |            |       |     |
+| Sub Machine Gun              | Pistol   | Medium |         |         |         |            |       |     |
+| Musket                       | Rifle    | Medium |         |         |         |            |       |     |
+| Classic Bolt-Action          | Rifle    | Medium |         |         |         |            |       |     |
+| Classic Battle Rifle         | Rifle    | Medium |         |         |         |            |       |     |
+| Lever-Action Rifle           | Rifle    | Medium |         |         |         |            |       |     |
+| Semi-Auto Rifle              | Rifle    | Medium |         |         |         |            |       |     |
+| Full-Auto Rifle              | Rifle    | Medium |         |         |         |            |       |     |
+| Designated Marksman Rifle    | Rifle    | Large  |         |         |         |            |       |     |
+| Double Barrel Shotgun        | Rifle    | Medium |         |         |         |            |       |     |
+| Pump Action Shotgun          | Rifle    | Medium |         |         |         |            |       |     |
+| Semi-Auto Shotgun            | Rifle    | Medium |         |         |         |            |       |     |
+| Full-Auto Shotgun            | Rifle    | Medium |         |         |         |            |       |     |
+| Light Squad Automatic Weapon | Rifle    | Large  |         |         |         |            |       |     |
+| Heavy Squad Automatic Weapon | Rifle    | Large  |         |         |         |            |       |     |
 
