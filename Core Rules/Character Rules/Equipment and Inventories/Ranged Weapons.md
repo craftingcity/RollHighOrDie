@@ -77,7 +77,7 @@ This Weapon must be used in both hands.
 # Example Weapons
 | Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition | Other |     |
 | ---------------------------- | -------- | ------ | ----------- | --------- | ------- | ---------- | ----- | --- |
-| Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity | Reflex  |            |       |     |
+| Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity | Reflex  | pebble           |       |     |
 | Slingshot                    | Sling    | Small  | 30'/90'     | Dexterity | Reflex  |            |       |     |
 | Spear Tosser                 | Sling    | Medium | 25'/75'     | Dexterity | Reflex  |            |       |     |
 | Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity | Reflex  |            |       |     |
