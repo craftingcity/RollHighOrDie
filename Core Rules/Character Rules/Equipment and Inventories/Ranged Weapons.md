@@ -75,30 +75,31 @@ This Weapon must be used in both hands.
 ### Specialized Tags
 
 # Example Weapons
-| Title                     | Base  | Size | Range | Ability | Defense | Ammunition | Other |     |
-| ------------------------- | ----- | ---- | ----- | ------- | ------- | ---------- | ----- | --- |
-| Momentum Sling            | Sling |      |       |         |         |            |       |     |
-| Slingshot                 | Sling |      |       |         |         |            |       |     |
-| Spear Tosser              | Sling |      |       |         |         |            |       |     |
-| Wooden Bow                | Bow   |      |       |         |         |            |       |     |
-| Compound Bow              |       |      |       |         |         |            |       |     |
-| Wooden Crossbow           |       |      |       |         |         |            |       |     |
-| Compound Crossbow         |       |      |       |         |         |            |       |     |
-| Flintlock Pistol          |       |      |       |         |         |            |       |     |
-| Revolving Pistol          |       |      |       |         |         |            |       |     |
-| Semi-Auto Pistol          |       |      |       |         |         |            |       |     |
-| Machine Pistol            |       |      |       |         |         |            |       |     |
-| Carbine                   |       |      |       |         |         |            |       |     |
-| Sub Machine Gun           |       |      |       |         |         |            |       |     |
-| Musket                    |       |      |       |         |         |            |       |     |
-| Classic Bolt-Action       |       |      |       |         |         |            |       |     |
-| Classic Battle Rifle      |       |      |       |         |         |            |       |     |
-| Lever-Action Rifle        |       |      |       |         |         |            |       |     |
-| Semi-Auto Rifle           |       |      |       |         |         |            |       |     |
-| Full-Auto Rifle           |       |      |       |         |         |            |       |     |
-| Designated Marksman Rifle |       |      |       |         |         |            |       |     |
-| Double Barrel Shotgun     |       |      |       |         |         |            |       |     |
-| Pump Action Shotgun       |       |      |       |         |         |            |       |     |
-| Semi-Auto Shotgun         |       |      |       |         |         |            |       |     |
-| Full                          |       |      |       |         |         |            |       |     |
+| Title                     | Base     | Size | Range | Ability | Defense | Ammunition | Other |     |
+| ------------------------- | -------- | ---- | ----- | ------- | ------- | ---------- | ----- | --- |
+| Momentum Sling            | Sling    |      |       |         |         |            |       |     |
+| Slingshot                 | Sling    |      |       |         |         |            |       |     |
+| Spear Tosser              | Sling    |      |       |         |         |            |       |     |
+| Wooden Bow                | Bow      |      |       |         |         |            |       |     |
+| Compound Bow              | Bow      |      |       |         |         |            |       |     |
+| Wooden Crossbow           | Crossbow |      |       |         |         |            |       |     |
+| Compound Crossbow         | Crossbow |      |       |         |         |            |       |     |
+| Flintlock Pistol          | Pistol   |      |       |         |         |            |       |     |
+| Revolving Pistol          | Pistol   |      |       |         |         |            |       |     |
+| Semi-Auto Pistol          | Pistol   |      |       |         |         |            |       |     |
+| Machine Pistol            | Pistol   |      |       |         |         |            |       |     |
+| Carbine                   | Pistol   |      |       |         |         |            |       |     |
+| Sub Machine Gun           | Pistol   |      |       |         |         |            |       |     |
+| Musket                    | Rifle    |      |       |         |         |            |       |     |
+| Classic Bolt-Action       | Rifle    |      |       |         |         |            |       |     |
+| Classic Battle Rifle      | Rifle    |      |       |         |         |            |       |     |
+| Lever-Action Rifle        | Rifle    |      |       |         |         |            |       |     |
+| Semi-Auto Rifle           | Rifle    |      |       |         |         |            |       |     |
+| Full-Auto Rifle           | Rifle    |      |       |         |         |            |       |     |
+| Designated Marksman Rifle | Rifle    |      |       |         |         |            |       |     |
+| Double Barrel Shotgun     | Rifle    |      |       |         |         |            |       |     |
+| Pump Action Shotgun       | Rifle    |      |       |         |         |            |       |     |
+| Semi-Auto Shotgun         | Rifle    |      |       |         |         |            |       |     |
+| Full-Auto Shotgun         | Rifle    |      |       |         |         |            |       |     |
+|                           |          |      |       |         |         |            |       |     |
 
