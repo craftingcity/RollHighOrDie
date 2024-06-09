@@ -75,21 +75,27 @@ This Weapon must be used in both hands.
 ### Specialized Tags
 
 # Example Weapons
-| Title             | Base  | Size | Range | Ability | Defense | Ammunition | Other |     |
-| ----------------- | ----- | ---- | ----- | ------- | ------- | ---------- | ----- | --- |
-| Momentum Sling    | Sling |      |       |         |         |            |       |     |
-| Slingshot         | Sling |      |       |         |         |            |       |     |
-| Spear Tosser      | Sling |      |       |         |         |            |       |     |
-| Wooden Bow        | Bow   |      |       |         |         |            |       |     |
-| Compound Bow      |       |      |       |         |         |            |       |     |
-| Wooden Crossbow   |       |      |       |         |         |            |       |     |
-| Compound Crossbow |       |      |       |         |         |            |       |     |
-| Flintlock Pistol  |       |      |       |         |         |            |       |     |
-| Revolving Pistol  |       |      |       |         |         |            |       |     |
-| Semi-Auto Pistol  |       |      |       |         |         |            |       |     |
-| Machine Pistol    |       |      |       |         |         |            |       |     |
-| Carbine           |       |      |       |         |         |            |       |     |
-| Sub Machine Gun   |       |      |       |         |         |            |       |     |
-| Musket            |       |      |       |         |         |            |       |     |
-| Bo                  |       |      |       |         |         |            |       |     |
+| Title                     | Base  | Size | Range | Ability | Defense | Ammunition | Other |     |
+| ------------------------- | ----- | ---- | ----- | ------- | ------- | ---------- | ----- | --- |
+| Momentum Sling            | Sling |      |       |         |         |            |       |     |
+| Slingshot                 | Sling |      |       |         |         |            |       |     |
+| Spear Tosser              | Sling |      |       |         |         |            |       |     |
+| Wooden Bow                | Bow   |      |       |         |         |            |       |     |
+| Compound Bow              |       |      |       |         |         |            |       |     |
+| Wooden Crossbow           |       |      |       |         |         |            |       |     |
+| Compound Crossbow         |       |      |       |         |         |            |       |     |
+| Flintlock Pistol          |       |      |       |         |         |            |       |     |
+| Revolving Pistol          |       |      |       |         |         |            |       |     |
+| Semi-Auto Pistol          |       |      |       |         |         |            |       |     |
+| Machine Pistol            |       |      |       |         |         |            |       |     |
+| Carbine                   |       |      |       |         |         |            |       |     |
+| Sub Machine Gun           |       |      |       |         |         |            |       |     |
+| Musket                    |       |      |       |         |         |            |       |     |
+| Classic Bolt-Action       |       |      |       |         |         |            |       |     |
+| Classic Battle Rifle      |       |      |       |         |         |            |       |     |
+| Lever 
+| Semi-Auto Rifle           |       |      |       |         |         |            |       |     |
+| Full-Auto Rifle           |       |      |       |         |         |            |       |     |
+| Designated Marksman Rifle |       |      |       |         |         |            |       |     |
+|                           |       |      |       |         |         |            |       |     |
 
