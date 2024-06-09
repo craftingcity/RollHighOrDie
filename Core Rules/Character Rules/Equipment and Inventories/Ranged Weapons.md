@@ -88,11 +88,11 @@ This Weapon must be used in both hands.
 | Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex  | powder-shot  | Capacity (1)                  |     |
 | Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex  | pistol       | Capacity (6), Quick           |     |
 | Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  | pistol       | Capacity (13), Versatile (+2) |     |
-| Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  | pistol       |                               |     |
-| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       |                               |     |
-| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       |                               |     |
-| Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-shot  |                               |     |
-| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rifle        |                               |     |
+| Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  | pistol       | Capacity (15)                 |     |
+| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       | Capacity (15)                 |     |
+| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       | Capacity (33)                 |     |
+| Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-shot  | Capacity (1)                  |     |
+| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rifle        | Capacity (13)                              |     |
 | Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        |                               |     |
 | Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  | pistol       |                               |     |
 | Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        |                               |     |
