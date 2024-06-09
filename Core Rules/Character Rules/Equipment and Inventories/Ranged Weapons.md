@@ -77,30 +77,30 @@ This Weapon must be used in both hands.
 # Example Weapons
 | Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition | Other |     |
 | ---------------------------- | -------- | ------ | ----------- | --------- | ------- | ---------- | ----- | --- |
-| Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity |         |            |       |     |
-| Slingshot                    | Sling    | Small  | 30'/90'     | Dexterity |         |            |       |     |
-| Spear Tosser                 | Sling    | Medium | 25'/75'     | Dexterity |         |            |       |     |
-| Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity |         |            |       |     |
-| Compound Bow                 | Bow      | Medium | 120'/360'   | Dexterity |         |            |       |     |
-| Wooden Crossbow              | Crossbow | Medium | 80'/240'    | Dexterity |         |            |       |     |
-| Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity |         |            |       |     |
-| Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity |         |            |       |     |
-| Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity |         |            |       |     |
-| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity |         |            |       |     |
-| Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity |         |            |       |     |
-| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity |         |            |       |     |
-| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity |         |            |       |     |
-| Musket                       | Rifle    | Medium | 120'/360'   | Dexterity |         |            |       |     |
-| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity |         |            |       |     |
-| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity |         |            |       |     |
-| Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity |         |            |       |     |
-| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity |         |            |       |     |
-| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity |         |            |       |     |
-| Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity |         |            |       |     |
-| Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity |         |            |       |     |
-| Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity |         |            |       |     |
-| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity |         |            |       |     |
-| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity |         |            |       |     |
-| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity |         |            |       |     |
-| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity |         |            |       |     |
+| Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity | Reflex  |            |       |     |
+| Slingshot                    | Sling    | Small  | 30'/90'     | Dexterity | Reflex  |            |       |     |
+| Spear Tosser                 | Sling    | Medium | 25'/75'     | Dexterity | Reflex  |            |       |     |
+| Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity | Reflex  |            |       |     |
+| Compound Bow                 | Bow      | Medium | 120'/360'   | Dexterity | Reflex  |            |       |     |
+| Wooden Crossbow              | Crossbow | Medium | 80'/240'    | Dexterity | Reflex  |            |       |     |
+| Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity | Reflex  |            |       |     |
+| Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex  |            |       |     |
+| Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex  |            |       |     |
+| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  |            |       |     |
+| Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  |            |       |     |
+| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  |            |       |     |
+| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  |            |       |     |
+| Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  |            |       |     |
+| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  |            |       |     |
+| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  |            |       |     |
+| Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  |            |       |     |
+| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  |            |       |     |
+| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  |            |       |     |
+| Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  |            |       |     |
+| Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex  |            |       |     |
+| Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  |            |       |     |
+| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  |            |       |     |
+| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  |            |       |     |
+| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  |            |       |     |
+| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  |            |       |     |
 
