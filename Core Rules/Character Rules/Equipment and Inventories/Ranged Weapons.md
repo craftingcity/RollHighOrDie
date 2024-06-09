@@ -74,7 +74,7 @@ This Weapon must be used in both hands.
 
 ### Specialized Tags
 #### Burst (X)
-When you make an Attack with this Weapon, before 
+When you make an Attack with this Weapon, before you make your Attack Roll, choose a number of 
 
 # Example Weapons
 | Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition   | Other                         |     |
