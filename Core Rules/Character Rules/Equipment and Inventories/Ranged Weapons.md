@@ -91,9 +91,9 @@ This Weapon must be used in both hands.
 | Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  | pistol       |       |     |
 | Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       |       |     |
 | Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       |       |     |
-| Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-sho             |       |     |
-| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  |              |       |     |
-| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  |              |       |     |
+| Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-shot  |       |     |
+| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rilfe        |       |     |
+| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        |       |     |
 | Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  |              |       |     |
 | Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  |              |       |     |
 | Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  |              |       |     |
