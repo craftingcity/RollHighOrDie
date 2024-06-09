@@ -79,5 +79,7 @@ This Weapon must be used in both hands.
 | -------------- | ----- | ---- | ----- | ------- | ------- | ---------- | ----- | --- |
 | Momentum Sling | Sling |      |       |         |         |            |       |     |
 | Slingshot      | Sling |      |       |         |         |            |       |     |
-| Speark               |       |      |       |         |         |            |       |     |
+| Spear Tosser   | Sling |      |       |         |         |            |       |     |
+| Wooden Bow     | Bow   |      |       |         |         |            |       |     |
+|                |       |      |       |         |         |            |       |     |
 
