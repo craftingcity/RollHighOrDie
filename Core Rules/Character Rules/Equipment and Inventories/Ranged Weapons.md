@@ -76,7 +76,7 @@ This Weapon must be used in both hands.
 #### Burst (X)
 When you make an Attack with this Weapon, before you make your Attack Roll, choose a number of Loaded Ammunition to fire with this Attack less than or equal the value indicated.
 
-If you hit, 
+If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 
 # Example Weapons
 | Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition   | Other                         |     |
