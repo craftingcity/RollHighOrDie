@@ -85,13 +85,13 @@ This Weapon must be used in both hands.
 | Greatbow                     | Bow      | Large  | 240'/720'   | Dexterity | Reflex  | great-arrow  |       |     |
 | Wooden Crossbow              | Crossbow | Medium | 80'/240'    | Dexterity | Reflex  | bolt         |       |     |
 | Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity | Reflex  | bolt         |       |     |
-| Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex  |              |       |     |
-| Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex  |              |       |     |
-| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  |              |       |     |
-| Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  |              |       |     |
-| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  |              |       |     |
-| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  |              |       |     |
-| Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  |              |       |     |
+| Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex  | powder-shot  |       |     |
+| Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex  | pistol       |       |     |
+| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  | pistol       |       |     |
+| Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  | pistol       |       |     |
+| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       |       |     |
+| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       |       |     |
+| Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-sho             |       |     |
 | Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  |              |       |     |
 | Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  |              |       |     |
 | Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  |              |       |     |
