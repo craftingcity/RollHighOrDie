@@ -77,13 +77,13 @@ This Weapon must be used in both hands.
 # Example Weapons
 | Title                        | Base     | Size   | Range     | Ability | Defense | Ammunition | Other |     |
 | ---------------------------- | -------- | ------ | --------- | ------- | ------- | ---------- | ----- | --- |
-| Momentum Sling               | Sling    | Small  | 35'/70'   |         |         |            |       |     |
-| Slingshot                    | Sling    | Small  | 30'/60'   |         |         |            |       |     |
-| Spear Tosser                 | Sling    | Medium | 25'/50'   |         |         |            |       |     |
-| Wooden Bow                   | Bow      | Medium | 90'/135'  |         |         |            |       |     |
-| Compound Bow                 | Bow      | Medium | 120'/180' |         |         |            |       |     |
-| Wooden Crossbow              | Crossbow | Medium |           |         |         |            |       |     |
-| Compound Crossbow            | Crossbow | Medium |           |         |         |            |       |     |
+| Momentum Sling               | Sling    | Small  | 35'/105'  |         |         |            |       |     |
+| Slingshot                    | Sling    | Small  | 30'/90'   |         |         |            |       |     |
+| Spear Tosser                 | Sling    | Medium | 25'/75'   |         |         |            |       |     |
+| Wooden Bow                   | Bow      | Medium | 90'/270'  |         |         |            |       |     |
+| Compound Bow                 | Bow      | Medium | 120'/360' |         |         |            |       |     |
+| Wooden Crossbow              | Crossbow | Medium | 80'/240'  |         |         |            |       |     |
+| Compound Crossbow            | Crossbow | Medium | 120'          |         |         |            |       |     |
 | Flintlock Pistol             | Pistol   | Small  |           |         |         |            |       |     |
 | Revolving Pistol             | Pistol   | Small  |           |         |         |            |       |     |
 | Semi-Auto Pistol             | Pistol   | Small  |           |         |         |            |       |     |
