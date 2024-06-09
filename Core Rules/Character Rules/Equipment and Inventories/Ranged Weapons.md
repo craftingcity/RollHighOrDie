@@ -93,9 +93,12 @@ This Weapon must be used in both hands.
 | Musket                    |       |      |       |         |         |            |       |     |
 | Classic Bolt-Action       |       |      |       |         |         |            |       |     |
 | Classic Battle Rifle      |       |      |       |         |         |            |       |     |
-| Lever 
+| Lever-Action Rifle        |       |      |       |         |         |            |       |     |
 | Semi-Auto Rifle           |       |      |       |         |         |            |       |     |
 | Full-Auto Rifle           |       |      |       |         |         |            |       |     |
 | Designated Marksman Rifle |       |      |       |         |         |            |       |     |
-|                           |       |      |       |         |         |            |       |     |
+| Double Barrel Shotgun     |       |      |       |         |         |            |       |     |
+| Pump Action Shotgun       |       |      |       |         |         |            |       |     |
+| Semi-Auto Shotgun         |       |      |       |         |         |            |       |     |
+| Full                          |       |      |       |         |         |            |       |     |
 
