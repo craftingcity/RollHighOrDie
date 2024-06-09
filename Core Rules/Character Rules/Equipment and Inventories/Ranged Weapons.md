@@ -57,7 +57,7 @@ This is the Defense that the Weapon targets to determine hit or miss during a Ge
 #### Capacity (X)
 This is the Maximum Capacity of Ammunition for this Weapon. 
 
-When you take an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
+When you make an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
 
 If there is no value indicated, or your weapon does not have this Tag, your weapon has no capacity to hold Loaded Ammunition, and each shot is loaded as a part of your Attacks with this weapon.
 
@@ -73,6 +73,8 @@ This Weapon is designed to be used in one or both hands. When wielded on both ha
 This Weapon must be used in both hands.
 
 ### Specialized Tags
+#### Burst (X)
+When you make an Attack with this Weapon, before 
 
 # Example Weapons
 | Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition   | Other                         |     |

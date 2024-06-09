@@ -6,6 +6,7 @@
       {
         "id": "3cefcfd2c2aa5836",
         "type": "tabs",
+        "dimension": 71.25506072874494,
         "children": [
           {
             "id": "41988be05b187cc4",
@@ -49,6 +50,7 @@
       {
         "id": "086dbfffae08fc1a",
         "type": "tabs",
+        "dimension": 28.74493927125506,
         "children": [
           {
             "id": "0bb74baa25a11d4b",
@@ -182,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bb74baa25a11d4b",
+  "active": "e2b00508983bb5c1",
   "lastOpenFiles": [
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
     "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
