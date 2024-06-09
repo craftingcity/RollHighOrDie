@@ -92,16 +92,16 @@ This Weapon must be used in both hands.
 | Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       |       |     |
 | Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       |       |     |
 | Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-shot  |       |     |
-| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rilfe        |       |     |
+| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rifle        |       |     |
 | Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        |       |     |
-| Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  |              |       |     |
-| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  |              |       |     |
-| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  |              |       |     |
-| Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  |              |       |     |
-| Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex  |              |       |     |
-| Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  |              |       |     |
-| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  |              |       |     |
-| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  |              |       |     |
-| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  |              |       |     |
-| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  |              |       |     |
+| Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  | pistol       |       |     |
+| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        |       |     |
+| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | rifle        |       |     |
+| Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        |       |     |
+| Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex  | shotshell    |       |     |
+| Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    |       |     |
+| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    |       |     |
+| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    |       |     |
+| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | rifle        |       |     |
+| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        |       |     |
 
