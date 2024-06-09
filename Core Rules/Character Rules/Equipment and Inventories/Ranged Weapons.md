@@ -81,5 +81,6 @@ This Weapon must be used in both hands.
 | Slingshot      | Sling |      |       |         |         |            |       |     |
 | Spear Tosser   | Sling |      |       |         |         |            |       |     |
 | Wooden Bow     | Bow   |      |       |         |         |            |       |     |
-|                |       |      |       |         |         |            |       |     |
+| Compound Bow   |       |      |       |         |         |            |       |     |
+| Wooden Crossbow               |       |      |       |         |         |            |       |     |
 
