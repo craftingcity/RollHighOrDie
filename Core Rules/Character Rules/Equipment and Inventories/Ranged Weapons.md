@@ -99,13 +99,13 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rifle        | Capacity (5), Two-Handed                 |     |
 | Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (20), Two-Handed, Burst (3)                |     |
 | Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  | pistol       | Capacity (6), Two-Handed                 |     |
-| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (15), Two-Handed                |     |
-| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | rifle        | Capacity (30), Two-Handed, Burst (3)                |     |
+| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (15), Two-Handed, Burst (2)                |     |
+| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | rifle        | Capacity (30), Two-Handed, Burst (4)                |     |
 | Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Capacity (10), Two-Handed                |     |
 | Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex  | shotshell    | Capacity (2), Two-Handed                 |     |
 | Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (4), Two-Handed                 |     |
-| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    | Capacity (8), Two-Handed                 |     |
-| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (5), Two-Handed                 |     |
-| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | rifle        | Two-Handed                               |     |
-| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Two-Handed                               |     |
+| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    | Capacity (8), Two-Handed, Burst (2)                 |     |
+| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (5), Two-Handed, Burst (3)                 |     |
+| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | rifle        | Two-Handed, Burst (5)                               |     |
+| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Two-Handed, Burst (5)                               |     |
 
