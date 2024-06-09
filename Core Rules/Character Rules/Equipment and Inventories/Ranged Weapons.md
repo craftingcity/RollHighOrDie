@@ -83,8 +83,8 @@ This Weapon must be used in both hands.
 | Wooden Bow                   | Bow      | Medium | 90'/270'  |         |         |            |       |     |
 | Compound Bow                 | Bow      | Medium | 120'/360' |         |         |            |       |     |
 | Wooden Crossbow              | Crossbow | Medium | 80'/240'  |         |         |            |       |     |
-| Compound Crossbow            | Crossbow | Medium | 120'          |         |         |            |       |     |
-| Flintlock Pistol             | Pistol   | Small  |           |         |         |            |       |     |
+| Compound Crossbow            | Crossbow | Medium | 100'/300' |         |         |            |       |     |
+| Flintlock Pistol             | Pistol   | Small  | 180'/560' |         |         |            |       |     |
 | Revolving Pistol             | Pistol   | Small  |           |         |         |            |       |     |
 | Semi-Auto Pistol             | Pistol   | Small  |           |         |         |            |       |     |
 | Machine Pistol               | Pistol   | Small  |           |         |         |            |       |     |
