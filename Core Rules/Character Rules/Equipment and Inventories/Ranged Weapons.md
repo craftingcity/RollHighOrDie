@@ -80,7 +80,7 @@ This Weapon must be used in both hands.
 | Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity | Reflex  | sling-bullet | Capacity (1)                  |     |
 | Slingshot                    | Sling    | Small  | 30'/90'     | Dexterity | Reflex  | sling-bullet | Capacity (1)                  |     |
 | Spear Tosser                 | Sling    | Medium | 25'/75'     | Dexterity | Reflex  | javelin      | Capacity (1)                  |     |
-| Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity | Reflex  | arrow        |                               |     |
+| Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity | Reflex  | arrow        | Two-Handed                              |     |
 | Compound Bow                 | Bow      | Medium | 120'/360'   | Dexterity | Reflex  | arrow        |                               |     |
 | Greatbow                     | Bow      | Large  | 240'/720'   | Dexterity | Reflex  | great-arrow  | Capacity (1)                  |     |
 | Wooden Crossbow              | Crossbow | Medium | 80'/240'    | Dexterity | Reflex  | bolt         | Capacity (1)                  |     |
@@ -92,16 +92,16 @@ This Weapon must be used in both hands.
 | Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       | Capacity (15)                 |     |
 | Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       | Capacity (33)                 |     |
 | Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-shot  | Capacity (1)                  |     |
-| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rifle        | Capacity (13)                              |     |
-| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        |                               |     |
-| Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  | pistol       |                               |     |
-| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        |                               |     |
-| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | rifle        |                               |     |
-| Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        |                               |     |
-| Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex  | shotshell    |                               |     |
-| Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    |                               |     |
-| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    |                               |     |
-| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    |                               |     |
+| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rifle        | Capacity (5)                  |     |
+| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (20)                 |     |
+| Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  | pistol       | Capacity (6)                  |     |
+| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (15)                 |     |
+| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | rifle        | Capacity (30)                 |     |
+| Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Capacity (10)                 |     |
+| Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex  | shotshell    | Capacity (2)                  |     |
+| Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (4)                  |     |
+| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    | Capacity (8)                  |     |
+| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (5)                  |     |
 | Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | rifle        |                               |     |
 | Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        |                               |     |
 
