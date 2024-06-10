@@ -3,4 +3,6 @@ As a Player in the game of RHoD, you will act as a Character that you will work 
 
 ### Step By Step
 1. Roll & Assign Ability Scores
-2. 
+2. Select two Traits
+3. Select two Features
+4. Select 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Rules/Creating A Character.md",
+                "file": "Character Rules/Ability Scores.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Creating A Character.md",
+                "file": "Character Rules/Ability Scores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Creating A Character.md",
+                "file": "Character Rules/Ability Scores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Creating A Character.md"
+                "file": "Character Rules/Ability Scores.md"
               }
             }
           }
@@ -141,8 +141,9 @@
   },
   "active": "df891285757f9eef",
   "lastOpenFiles": [
-    "Character Rules/Defenses.md",
+    "Character Rules/Skills.md",
     "Character Rules/Creating A Character.md",
+    "Character Rules/Defenses.md",
     "Combat and Actions/Generic Actions.md",
     "Combat and Actions/Combat Definitions.md",
     "README.md",
@@ -168,7 +169,6 @@
     "Selections Glossary/Traits.md",
     "Combat and Actions/Actions During Encounters.md",
     "Selections Glossary",
-    "Core Rules/Equipment and Inventories/Weapon Proficiencies.md",
     "Combat and Actions",
     "Templates",
     "Equipment and Inventories",

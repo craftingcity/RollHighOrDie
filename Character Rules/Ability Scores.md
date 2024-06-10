@@ -5,13 +5,17 @@ Ability Scores are the numerical representation of a character's base ability to
 While a character's ability is tested, and the result is uncertain, they make an Ability Check. To make an Ability Check, roll a d20, and add the relevant Ability Modifier to the total.
 
 #### Advantage & Disadvantage
-When you have Advantage on a roll, roll twice and take the higher roll.
+When you have Advantage on a roll, roll the die twice and take the **higher** roll.
 
-When you have Disadvantage on a roll, roll twice and take the lower roll.
+When you have Disadvantage on a roll, roll the die twice and take the **lower** roll.
 
 # Strength
+
 # Dexterity
+### ... to dodge a tomato
 # Constitution
+### ... to stomach a tomato
 # Intelligence
+### ... to crush a tomato
 # Wisdom
 # Charisma
