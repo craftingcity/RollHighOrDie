@@ -36,14 +36,20 @@ While you have more than 0 Armoring, you reduce any damage you would by your cur
 There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
 
 #### Vitality
-When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. If you would take damage that reduces your Vitality to less than 0, instead, you incur a Wound, expend a Hit Die, and regain the number rolled plus your Constitution Modifier as Vitality.
+When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, times your TMK.
 
-If you have more Wounds than the value of your Constitution Modifier, at the beginning of your turn, and whenever you take a Wound, immediately make a Death Call.
 
-Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, times your TMK.
+` If I'm at 3 Vitality, and someone does 1000 damage, why do I take 1 wound `
+If you would take damage that reduces your Vitality to less than 0, instead, you incur a Wound, expend a Hit Die, and regain the number rolled plus your Constitution Modifier as Vitality.
+
+When you have more Wounds than the value of your Constitution Modifier, at the beginning of your turn, and whenever you take a Wound, immediately make a Death Call.
+
+If you ever have a number of Wounds equal to your Constitution Score, you die.
 
 ###### Hit Die & Recovering Vitality
-You have a number of Hit Die equal to half your TMK. Unless otherwise stated, these Hit Die are d6's. While you are not in an Encounter, you may expend any number of Hit Die you have. When you expend a Hit Die, you gain the value rolled plus your Constitution Modifier as Vitality.
+You have a number of Hit Die equal to half your TMK. Unless otherwise stated, these Hit Die are d6's. 
+
+While you are not in an Encounter, you may expend any number of Hit Die you have. When you expend a Hit Die, you gain the value rolled plus your Constitution Modifier as Vitality.
 
 ###### Death Call
 When you make a Death Call, you are as far from control as you can be, and you will grow farther from it as your character continues to die.
