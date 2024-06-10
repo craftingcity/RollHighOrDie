@@ -38,7 +38,7 @@ There are times a character will take damage despite the condition of their Armo
 #### Vitality
 When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. If you would take damage that reduces your Vitality to less than 0, instead, you incur a Wound, expend a Hit Die, and regain the number rolled plus your Constitution Modifier as Vitality.
 
-At the beginning of your turn, and whenever you take a Wound, if you have more Wounds than the value of your Constitution Modifier, immediately make a Death Call.
+If you have more Wounds than the value of your Constitution Modifier, at the beginning of your turn, and whenever you take a Wound, immediately make a Death Call.
 
 Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, times your TMK.
 
