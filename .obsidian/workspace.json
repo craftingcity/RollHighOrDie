@@ -54,9 +54,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dd47bf5dce1b239b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Surviving.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b7f6b7136b308466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Character Rules/Selections Glossary/Condition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defen",
+                "query": "condition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Defenses.md",
+                "file": "Core Rules/Character Rules/Selections Glossary/Condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Defenses.md",
+                "file": "Core Rules/Character Rules/Selections Glossary/Condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Defenses.md"
+                "file": "Core Rules/Character Rules/Selections Glossary/Condition.md"
               }
             }
           }
@@ -177,15 +201,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df891285757f9eef",
+  "active": "b7f6b7136b308466",
   "lastOpenFiles": [
+    "Core Rules/Character Rules/Selections Glossary/Ailment.md",
+    "Core Rules/Character Rules/Selections Glossary/Condition.md",
+    "Core Rules/Character Rules/Surviving.md",
+    "Core Rules/Character Rules/Defenses.md",
     "Character Sheet.md",
     "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
     "Core Rules/Character Rules/Combat Laws/Generic Actions.md",
     "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
     "Core Rules/Character Rules/Equipment and Inventories/Melee Weapons.md",
-    "Core Rules/Character Rules/Defenses.md",
     "conflict-files-obsidian-git.md",
     "Core Rules/Character Rules/Equipment and Inventories/Ammunition.md",
     "Core Rules/Character Rules/Equipment and Inventories/Equipment.md",
@@ -193,15 +220,11 @@
     "Core Rules/Character Rules/Equipment and Inventories/Armors.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Equipment.md",
     "Core Rules/Character Rules/Selections Glossary/Emboldenment.md",
-    "Core Rules/Character Rules/Selections Glossary/Condition.md",
-    "Core Rules/Character Rules/Selections Glossary/Ailment.md",
-    "Core Rules/Character Rules/Surviving.md",
     "Core Rules/Character Rules/Experience.md",
     "Core Rules/Character Rules/Equipment and Inventories/Inventory Management.md",
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Core Rules/Character Rules/Selections Glossary/Traits.md",
-    "Core Rules/Character Rules/Selections Glossary/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",
     "Core Rules/Character Rules/Selections Glossary",
     "Core Rules/Character Rules/Ability Scores.md",
