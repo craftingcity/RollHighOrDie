@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
+                "file": "Core Rules/Character Rules/Combat Laws/Generic Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
+                "file": "Core Rules/Character Rules/Combat Laws/Generic Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Character Rules/Combat Laws/Combat Definitions.md"
+                "file": "Core Rules/Character Rules/Combat Laws/Generic Actions.md"
               }
             }
           }
@@ -153,8 +152,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8f1fa3e75edf6d2",
+  "active": "29b624af0a862c94",
   "lastOpenFiles": [
+    "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
     "Core Rules/Character Rules/Combat Laws/Generic Actions.md",
     "Core Rules/Character Rules/Equipment and Inventories/Ranged Weapons.md",
     "Core Rules/Character Rules/Selections Glossary/Features.md",
@@ -175,7 +175,6 @@
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Core Rules/Character Rules/Selections Glossary/Traits.md",
-    "Core Rules/Character Rules/Combat Laws/Combat Definitions.md",
     "Core Rules/Character Rules/Selections Glossary/Condition.md",
     "Core Rules/Character Rules/Combat Laws/Actions During Encounters.md",
     "Core Rules/Character Rules/Selections Glossary",
