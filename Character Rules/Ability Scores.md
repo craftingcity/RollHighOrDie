@@ -12,10 +12,11 @@ When you have Disadvantage on a roll, roll the die twice and take the **lower** 
 # Strength
 
 # Dexterity
-### ... to dodge a tomato
+
 # Constitution
-### ... to stomach a tomato
+
 # Intelligence
-### ... to crush a tomato
+
 # Wisdom
+
 # Charisma

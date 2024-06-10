@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Rules/Ability Scores.md",
+                "file": "Character Rules/Skills.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Ability Scores.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Ability Scores.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Ability Scores.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -141,13 +141,13 @@
   },
   "active": "df891285757f9eef",
   "lastOpenFiles": [
+    "Character Rules/Ability Scores.md",
     "Character Rules/Skills.md",
     "Character Rules/Creating A Character.md",
     "Character Rules/Defenses.md",
     "Combat and Actions/Generic Actions.md",
     "Combat and Actions/Combat Definitions.md",
     "README.md",
-    "Character Rules/Ability Scores.md",
     "Character Sheet.md",
     "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
