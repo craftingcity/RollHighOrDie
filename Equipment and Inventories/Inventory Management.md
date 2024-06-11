@@ -16,12 +16,12 @@ Many items should be contained together for ease of access and use, and are ligh
 Every character in RHoD is given a number of Inventory Slots under the assumption that these items are being carried, worn, or held. 
 
 The slots given are as follows;
-	- Backpack (Large)
 	- Armor Worn (Large)
 	- Main Hand (Medium)
 	- Off Hand (Medium)
 	- Sheath (Medium)
 	- Coinpurse (Small)
+	- Quiver (Small)
 
 In addition to these 'equipment' Slots, a character gains a number of additional slots based on their Strength Modifier, assumed to be the additional straps, bags, and pouches an Adventurer acquires over time. 
 

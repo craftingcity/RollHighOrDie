@@ -5,7 +5,7 @@ Given this, weapons can be mutable while you are playing - you may replace, gain
 
 Ranged Weapons are married to [[Ammunition]], as both are required for either to be effective. 
 
-When you make an Attack with a Ranged Weapon, you expend a piece of Loaded Ammunition if your Weapon has the Capacity Tag, or you expend a piece of Ammunition 
+When you make an Attack with a Ranged Weapon, you expend a piece of Loaded Ammunition if your Weapon has the Capacity Tag, or you expend a piece of Ammunition from your Quiver otherwise.
 
 ## Bases
 #### Sling
