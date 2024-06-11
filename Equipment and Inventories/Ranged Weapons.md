@@ -83,7 +83,7 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | ---------------------------- | -------- | ------ | ----------- | --------- | ------- | ------------ | ---------------------------------------- | --- |
 | Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity | Reflex  | sling-bullet | Capacity (1)                             |     |
 | Slingshot                    | Sling    | Small  | 30'/90'     | Dexterity | Reflex  | sling-bullet | Capacity (1)                             |     |
-| Spear Tosser                 | Sling    | Medium | 25'/75'     | Dexterity | Reflex  | javelin      | Capacity (1)                             |     |
+| Leverage Thrower             | Sling    | Medium | 25'/75'     | Dexterity | Reflex  | great-arrow  | Capacity (1)                             |     |
 | Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity | Reflex  | arrow        | Two-Handed                               |     |
 | Compound Bow                 | Bow      | Medium | 120'/360'   | Dexterity | Reflex  | arrow        | Two-Handed                               |     |
 | Greatbow                     | Bow      | Large  | 240'/720'   | Dexterity | Reflex  | great-arrow  | Capacity (1), Two-Handed                 |     |
@@ -91,21 +91,21 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed                 |     |
 | Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex  | powder-shot  | Capacity (1)                             |     |
 | Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex  | pistol       | Capacity (6), Quick                      |     |
-| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  | pistol       | Capacity (13), Versatile (+2), Burst (2)            |     |
+| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  | pistol       | Capacity (13), Versatile (+2), Burst (2) |     |
 | Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  | pistol       | Capacity (15), Versatile (+2), Burst (4) |     |
-| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       | Capacity (15), Two-Handed, Burst (3)                |     |
-| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       | Capacity (33), Two-Handed, Burst (5)                |     |
+| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       | Capacity (15), Two-Handed, Burst (3)     |     |
+| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       | Capacity (33), Two-Handed, Burst (5)     |     |
 | Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-shot  | Capacity (1), Two-Handed                 |     |
 | Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rifle        | Capacity (5), Two-Handed                 |     |
-| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (20), Two-Handed, Burst (3)                |     |
+| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (20), Two-Handed, Burst (3)     |     |
 | Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  | pistol       | Capacity (6), Two-Handed                 |     |
-| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (15), Two-Handed, Burst (2)                |     |
-| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | rifle        | Capacity (30), Two-Handed, Burst (4)                |     |
+| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (15), Two-Handed, Burst (2)     |     |
+| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | rifle        | Capacity (30), Two-Handed, Burst (4)     |     |
 | Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Capacity (10), Two-Handed                |     |
 | Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex  | shotshell    | Capacity (2), Two-Handed                 |     |
 | Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (4), Two-Handed                 |     |
-| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    | Capacity (8), Two-Handed, Burst (2)                 |     |
-| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (5), Two-Handed, Burst (3)                 |     |
-| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | rifle        | Two-Handed, Burst (5)                               |     |
-| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Two-Handed, Burst (5)                               |     |
+| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    | Capacity (8), Two-Handed, Burst (2)      |     |
+| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (5), Two-Handed, Burst (3)      |     |
+| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | rifle        | Two-Handed, Burst (5)                    |     |
+| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Two-Handed, Burst (5)                    |     |
 
