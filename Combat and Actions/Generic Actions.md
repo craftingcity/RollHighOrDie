@@ -23,9 +23,7 @@ You must have at least one free hand to use this Action.
 ###### 3 AP
 ''
 
-Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may p
-
-You must have at least one free hand to use this Action.
+Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may push your target 5' into a space within 10' of you or you you may push your target into Prone Stance.
 
 ## Maneuver
 ###### 2 AP

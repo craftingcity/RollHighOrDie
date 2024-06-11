@@ -4,83 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "d3606fa8661bd6b6",
-        "type": "tabs",
+        "id": "65c36ed8c730f119",
+        "type": "split",
         "children": [
           {
-            "id": "df891285757f9eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selections Glossary/Features.md",
-                "mode": "source",
-                "source": true
+            "id": "d3606fa8661bd6b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df891285757f9eef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Selections Glossary/Features.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "3283fef2bbb50b02",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Character Rules/Defenses.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "d6cd70ef3331aa6f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Character Rules/Ability Scores.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "35a30dc4a8b44b12",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Character Rules/Skills.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "9fccbfcf2038e0f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Character Rules/Creating A Character.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "06bffc1856bea54f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Combat and Actions/Generic Actions.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 5
           },
           {
-            "id": "3283fef2bbb50b02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Defenses.md",
-                "mode": "source",
-                "source": true
+            "id": "c736a0d4b06f13a1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3edde9529656aa98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Combat and Actions/Combat Definitions.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "d6cd70ef3331aa6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Ability Scores.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "35a30dc4a8b44b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Skills.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9fccbfcf2038e0f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Creating A Character.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06bffc1856bea54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 5
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -109,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "stance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,17 +234,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "06bffc1856bea54f",
   "lastOpenFiles": [
-    "Character Rules/Skills.md",
+    "Combat and Actions/Combat Definitions.md",
     "Combat and Actions/Generic Actions.md",
+    "Character Rules/Skills.md",
     "Character Rules/Creating A Character.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Ability Scores.md",
     "Selections Glossary/Features.md",
     "Character Rules/Defenses.md",
-    "Combat and Actions/Combat Definitions.md",
     "README.md",
     "Character Sheet.md",
     "Character Rules/Surviving.md",
