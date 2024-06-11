@@ -21,11 +21,13 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 ### Arcane Casting
 ### Divine Casting
 ## Personal Skills
-#### Negotiation
-#### Deception
-#### Insight
-#### Appraisal
 #### Animal Empathy
-#### Bushcraft
+#### Diplomacy
+#### Deception
+#### Appraise
+#### Perception
+#### Investigation
+#### Deduction
 ## Profession Skills
 ## Knowledge Skills
+#### Bushcraft
