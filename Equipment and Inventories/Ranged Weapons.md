@@ -3,6 +3,8 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 Given this, weapons can be mutable while you are playing - you may replace, gain, or remove Tags from your Base weapon - so long as your character has the knowledge, materials, and time, they can change may aspects of their weapon.
 
+Ranged Weapons are married to [[Ammunition]], as both are required for either to be effective. When you make an Attack with a Ranged Weapon, you expend 
+
 ## Bases
 #### Sling
 Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 
