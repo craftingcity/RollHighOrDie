@@ -1,4 +1,4 @@
 # Preamble
-Skills are the separate and selective areas of theoretical, practical, or applied knowledge a character may have. Where a character's Ability Scores provide a general overview of their ability or ferocity, Skills are the specific areas a character excels in.
+Skills are the separate and specific areas of theoretical, practical, or applied knowledge a character may have. Where a character's Ability Scores provide a general overview of their ability or ferocity, Skills are more situationally specific.
 
-Each Skill is backed by a given Ability Score.
+To 
