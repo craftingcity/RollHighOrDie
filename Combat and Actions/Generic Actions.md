@@ -78,4 +78,4 @@ You attempt to unjam a Weapon in your hand. Make a Manipulate Skill Check. If th
 
 You attempt to conceal yourself. Make a Stealth Skill Check. If a creature that considers you hostile has Line of Sight on you, you make the check with Disadvantage.
 
-If the result is 14 or greater, you are under the 'Hidden' [[Condition]].
+If the result is 14 or greater, you are gain the 'Hidden' [[Condition]].

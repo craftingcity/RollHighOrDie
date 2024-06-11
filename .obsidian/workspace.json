@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stance",
+                "query": "gain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,15 +236,15 @@
   },
   "active": "06bffc1856bea54f",
   "lastOpenFiles": [
-    "Combat and Actions/Combat Definitions.md",
+    "Character Rules/Defenses.md",
     "Combat and Actions/Generic Actions.md",
+    "Combat and Actions/Combat Definitions.md",
     "Character Rules/Skills.md",
     "Character Rules/Creating A Character.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Ability Scores.md",
     "Selections Glossary/Features.md",
-    "Character Rules/Defenses.md",
     "README.md",
     "Character Sheet.md",
     "Character Rules/Surviving.md",
