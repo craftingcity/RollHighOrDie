@@ -21,6 +21,15 @@ Make an Attack Roll against that target's Will. If you hit, you deal your Weapon
 
 You may not use this feature again until your target is no longer 'Engaged'.
 
+## Up and Gone
+###### REQ: 1EXP
+###### 2 AP
+'Now you see me...'
+
+Make a Maneuver, then Hide.
+
+You may only use this feature once per turn.
+
 ## Sneak Attack
 ###### REQ: 1EXP 
 ###### W AP
@@ -33,15 +42,15 @@ If you hit your target, you deal your Weapon Damage, and if you had Advantage on
 
 You may only use this Feature to deal additional damage once per turn.
 
-## Careful Strike
-###### REQ: 2EXP
-###### W+1 AP
-###### USE: Melee or Ranged Weapon
-'With baited breath, you find the weakest point in your opponent's armor, and release.'
+## Riposte
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon - Light or Quick
+'You recall the fighting style of your opponent, and know you can use it to your advantage to gain a strike.'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You gain +2 to that Attack Roll.
+Target a creature you have attacked this turn that is currently within your Weapon Range. Until the beginning of your next turn, the first time your target attacks you while they are within your Weapon Range, make an Attack Roll against that target's Reflex.
 
-If you hit your target, you deal your Weapon Damage as normal.
+If you hit, you impose -3 to your target's Attack Roll, and you deal your Weapon Damage as normal.
 
 ## Cleave
 ###### REQ: 1EXP 
@@ -54,6 +63,19 @@ Target a creature within your Weapon Range and another creature within your Weap
 If you hit your first target, you deal your Weapon Damage as normal. If you hit your second target, you deal a number of damage equal to twice your Weapon Ability Modifier instead of your normal Weapon Damage.
 
 If you are wielding a Weapon that additionally has the Two-Handed or Heavy Tags, you deal your normal Weapon Damage to your second target instead.
+
+### EXP - 2
+## Enforce
+###### REQ: 2EXP
+###### W+1 AP
+###### USE: Melee Weapon
+'You push forward so your allies can pull back for positional advantage or recovery.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit your target, you deal your Weapon Damage as normal.
+
+Then, an Ally within 10' of your target makes a Maneuver.
 
 ## Iron Tide
 ###### REQ: 2EXP 
@@ -75,18 +97,77 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 
 If you hit your target, you deal your Weapon Damage as normal and you force your target Prone.
 
-## Enforce
+## Careful Strike
 ###### REQ: 2EXP
 ###### W+1 AP
-###### USE: Melee Weapon
-'You push forward so your allies can pull back for positional advantage or recovery.'
+###### USE: Melee or Ranged Weapon
+'With baited breath, you find the weakest point in your opponent's armor, and release.'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You gain +2 to that Attack Roll.
 
 If you hit your target, you deal your Weapon Damage as normal.
 
-Then, an Ally within 10' of your target makes a Maneuver.
+## Sly Flourish
+###### REQ: 2EXP
+###### W+1 AP
+###### USE: Melee or Ranged Weapon
+'Drama and Morale are as much a part of combat as Manpower and Equipment - show 'em who's boss.'
 
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Will.
+
+If you hit your target, use your Charisma Modifier instead of your Weapon Ability Modifier to deal your Weapon Damage.
+
+## Passing Swipe
+###### REQ: 2EXP
+###### W AP
+###### USE: Melee Weapon - Light or Quick
+'The concept of fire and maneuver applies more commonly to ranged combats, but you find the strategy quite enticing.'
+
+Make a Maneuver. 
+
+Then, Target a creature that was or currently is within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit your target, you deal your Weapon Damage as normal.
+
+You may only use this feature once per turn.
+
+## Passing Swipe
+###### REQ: 2EXP
+###### W AP
+###### USE: Melee Weapon - Light or Quick
+'The concept of fire and maneuver applies more commonly to ranged combats, but you find the strategy quite enticing.'
+
+Make a Maneuver. 
+
+Then, Target a creature that was or currently is within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit your target, you deal your Weapon Damage as normal.
+
+You may only use this feature once per turn.
+
+## Hobble
+###### REQ: 2EXP
+###### W+1 AP
+###### USE: Melee or Ranged Weapon
+'With a well timed strike, you hamper your opponent's mobility, and punish them for trying you.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
+
+If you hit your target, you deal your Weapon Damage as normal, and you apply a stack of the 'Hobbled' [[Ailment]].
+
+You may only use this Feature once per turn.
+
+## Bash
+###### REQ: 2EXP
+###### W+2 AP
+###### USE: Melee Weapon - Bludgeoning
+'And whoever said everything *wasn't* a nail?'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
+
+If you hit your target, you deal thrice your Weapon Damage, and you may not use this feature again until you complete a Long Rest.
+
+### EXP - 3
 ## Splitshot
 ###### REQ: 3EXP
 ###### W+2 AP
@@ -98,3 +179,13 @@ Target two creatures within your Weapon Range that are within 15' of each other 
 If you hit either target, you deal your Weapon Damage as normal to both targets.
 
 You may only use this feature once between Long Rests.
+
+## Trickshot
+###### REQ: 3EXP
+###### W+1 AP
+###### USE: Melee or Ranged Weapon
+'In the rhythm of combat, you find an opponent's misstep and use it against them.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. 
+
+If you hit, you deal your Weapon Damage as normal, and until the end of your next turn, you have Advantage on your next Attack Roll against that target.
