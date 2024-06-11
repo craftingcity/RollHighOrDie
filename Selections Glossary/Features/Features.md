@@ -8,4 +8,6 @@ For ease of presentation, Features are categorized by their "source of power" an
 - [[Features - Martial]]
 
 #### Inherit and Replace
-Some more expensive Features require another, less expensive Feature, which they "inherit and replace". This means 
+Some more expensive Features require another, less expensive Feature, which they "inherits and replaces". This means that the first Feature gains all text, properties, and effects of the requirement Feature.
+
+Effectively, when one Feature "inherits and replaces" another, it's 
