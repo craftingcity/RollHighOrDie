@@ -6,7 +6,15 @@ Proficiency has five Degrees, each of which represents a point in a range from 0
 
 When you make a Skill Check, make an Ability Check using the Skill's Core Ability and add your Degree of Proficiency.
 
+## Body Skills
 ## Combat Skills
+### Reactive Defenses
+#### Reflex
+#### Fortitude
+#### Will
+### Melee Combat
+### Ranged Combat
+### Sp
 ## Interpersonal Skills
-## Knowledge Skills
 ## Profession Skills
+## Knowledge Skills
