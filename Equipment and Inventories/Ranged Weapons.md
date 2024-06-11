@@ -21,7 +21,7 @@ Using the power of elastics and the stability of the buttstock, Crossbows fire a
 Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of projectiles before they must be reloaded.
 
 #### Rifle
-Harnessing the mystic or the scientific, Rifles are the older, more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
+Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
 ## Tags
 ### Required Tags

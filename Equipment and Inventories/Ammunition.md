@@ -15,7 +15,7 @@ Much like their counterparts, each Ammunition is a Base and a collection of Tags
 ## Tags
 ### Required Tags
 #### Size
-This is the mechanical Size of the Ammunition. 
+This is the mechanical Size of the Ammunition. All Ammunition is 'stackable' to the value indicated after their Size - either Small or Tiny.
 #### Ammunition Damage Dice
 #### Ammunition Damage Type
 ### Mundane Tags

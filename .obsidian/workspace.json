@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md"
+                "file": "Equipment and Inventories/Inventory Management.md"
               }
             }
           }
@@ -257,13 +257,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35436dc749e41820",
+  "active": "537698f896b38671",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Generic Actions.md",
-    "Equipment and Inventories/Ammunition.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Martial.md",
