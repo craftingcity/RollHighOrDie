@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "e223d8fccba1ed1b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
-          },
-          {
             "id": "9fccbfcf2038e0f0",
             "type": "leaf",
             "state": {
@@ -90,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,10 +209,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e223d8fccba1ed1b",
+  "active": "35a30dc4a8b44b12",
   "lastOpenFiles": [
-    "Combat and Actions/Generic Actions.md",
+    "Equipment and Inventories/Ranged Weapons.md",
     "Character Rules/Skills.md",
+    "Equipment and Inventories/Melee Weapons.md",
+    "Combat and Actions/Generic Actions.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Creating A Character.md",
     "Selections Glossary/Features.md",
@@ -233,8 +225,6 @@
     "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Melee Weapons.md",
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Equipment.md",

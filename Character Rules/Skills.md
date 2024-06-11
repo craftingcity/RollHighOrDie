@@ -17,7 +17,19 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Fortitude
 #### Will
 ### Melee Combat
+#### Short Blunt
+#### Long Blunt
+#### Short Blade
+#### Long Blade
+#### Axe
+#### Polearm
+#### Flexible
 ### Ranged Combat
+#### Sling
+#### Bow
+#### Crossbow
+#### Pistol
+#### Rifle
 ### Arcane Casting
 ### Divine Casting
 ## Personal Skills
