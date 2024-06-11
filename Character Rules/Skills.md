@@ -12,6 +12,7 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Stealth
 #### Manipulation
 #### Stealth
+#### Theivery
 ## Combat Skills
 ### Reactive Defenses
 #### Reflex
@@ -42,8 +43,15 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Perception
 #### Investigation
 #### Deduction
+#### Streetwise
 ## Profession Skills
 
 ## Knowledge Skills
 #### Bushcraft
 #### Medicine
+#### Dungeoneering
+#### History
+#### Arcane
+#### Alchemical
+#### Divine
+#### Culture
