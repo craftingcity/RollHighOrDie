@@ -46,6 +46,37 @@
         ]
       },
       {
+        "id": "1cb697faf6c434c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29f99e9bea02004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35436dc749e41820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "5999d51dd104701a",
         "type": "tabs",
         "children": [
@@ -80,18 +111,6 @@
               "type": "markdown",
               "state": {
                 "file": "Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "35436dc749e41820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Ability Scores.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Ability Scores.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Ability Scores.md"
+                "file": "Equipment and Inventories/Ranged Weapons.md"
               }
             }
           }
@@ -227,14 +246,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "791c38c6804e7951",
+  "active": "cb118f7c1672807b",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ammunition.md",
+    "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Combat and Actions/Generic Actions.md",
-    "Character Rules/Ability Scores.md",
     "Character Rules/Skills.md",
     "Equipment and Inventories/Melee Weapons.md",
-    "Equipment and Inventories/Ammunition.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
