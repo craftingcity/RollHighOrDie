@@ -31,7 +31,7 @@ Choose one:
 ###### 2AP
 'You take a moment to scan your surroundings, identifying hidden threats and relevant information within the area.'
 
-Make a Wisdom (Perception) Ability Check. Any creatures in the area under the 'Hidden' [[Condition]] must make a Stealth Skill Check equal or greater than your total, or they are no longer 'Hidden'.
+Make a Perception Skill Check. Any creatures in the area under the 'Hidden' [[Condition]] must make a Stealth Skill Check equal or greater than your total, or they are no longer 'Hidden'.
 
 ## Aid
 ###### 2 AP

@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Proficiency",
+                "query": "detec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,11 +203,11 @@
   },
   "active": "35a30dc4a8b44b12",
   "lastOpenFiles": [
-    "Character Rules/Ability Scores.md",
     "Combat and Actions/Generic Actions.md",
+    "Character Rules/Skills.md",
+    "Character Rules/Ability Scores.md",
     "Character Rules/Creating A Character.md",
     "Selections Glossary/Features.md",
-    "Character Rules/Skills.md",
     "Character Rules/Defenses.md",
     "Combat and Actions/Combat Definitions.md",
     "README.md",
