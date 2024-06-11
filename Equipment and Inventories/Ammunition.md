@@ -8,5 +8,11 @@ Much like their counterparts, each Ammunition is a Base and a collection of Tags
 #### Arrow
 #### Bolt
 #### Great-Arrow
-#### Powder Shot
+#### Powder-Shot
+#### Low Caliber
+#### High Caliber
+#### Shotshell
 ## Tags
+### Required Tags
+#### Size
+#### Ammunition Damage

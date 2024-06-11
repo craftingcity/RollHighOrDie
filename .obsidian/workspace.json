@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a5950ff2ca0d461a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5999d51dd104701a",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md"
+                "file": "Equipment and Inventories/Melee Weapons.md"
               }
             }
           }
@@ -165,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35436dc749e41820",
+  "active": "a5950ff2ca0d461a",
   "lastOpenFiles": [
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Ammunition.md",
