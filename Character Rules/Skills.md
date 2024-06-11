@@ -8,6 +8,9 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 
 ## Physical Skills
 #### Athletics
+#### Acrobatics
+#### Stealth
+#### Manipulation
 ## Combat Skills
 ### Reactive Defenses
 #### Reflex
