@@ -81,4 +81,4 @@ While you are in a space lit by Low Light, you have Advantage on Stealth, Thieve
 ###### Darkness
 Darkness is little to no light, where you cannot reasonably be certain of what you are seeing.
 
-While you are in a space lit by Darkness you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks. In addition, you impose Disadvantage on Attacks against you.
+While you are in a space lit by Darkness, you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks. In addition, you impose Disadvantage on Attacks against you.
