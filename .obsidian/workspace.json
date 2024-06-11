@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9af6fdf3dee08fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat and Actions/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a5950ff2ca0d461a",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5999d51dd104701a",
@@ -115,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unjam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Combat and Actions/Generic Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Combat and Actions/Generic Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md"
+                "file": "Combat and Actions/Generic Actions.md"
               }
             }
           }
@@ -214,11 +228,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb118f7c1672807b",
+  "active": "9af6fdf3dee08fbb",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ranged Weapons.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Skills.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Combat and Actions/Generic Actions.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ammunition.md",
