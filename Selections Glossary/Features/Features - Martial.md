@@ -177,7 +177,7 @@ Target an ally within 5' of you. Until the beginning of your next turn, if they 
 
 ## Reckless Stance
 ###### REQ: 2EXP
-###### 2 AP
+###### 1 AP
 ###### Use: Melee Weapon
 'Let them come and die trying.'
 
@@ -186,7 +186,7 @@ Until the beginning of your next turn, you impose Advantage on Melee Attacks aga
 ## Painrush
 ###### REQ: 2EXP
 ###### 2 AP
-'When something hurts, you move. Getting out, getting in, the pain moves your body any way.'
+'When something hurts, you move. Getting out, getting in, the pain moves your body anyways.'
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
 
