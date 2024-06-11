@@ -107,34 +107,34 @@ When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[C
 When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Condition]].
 
 # Example Weapons
-| Title          | Base        | Size   | Range      | Ability   | Defense | D. Dice | D. Type     | Other             |
-| -------------- | ----------- | ------ | ---------- | --------- | ------- | ------- | ----------- | ----------------- |
-| Brass Knuckles | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
-| Baton          | Short Blunt | Small  | Melee - 5' | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
-| Work Hammer    | Short Blunt | Small  | Melee - 5' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |
-| War Club       | Short Blunt | Small  | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning |                   |
-| Mace           | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Versatile (1d8)   |
-| Work Shovel    | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
-| Warhammer      | Long Blunt  | Medium | Melee - 5' | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
-| Maul           | Long Blunt  | Large  | Melee - 5' | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
-| Dagger         | Short Blade | Small  | Melee - 5' | Dexterity |         |         |             | Light, Quick      |
-| Throwing Knife | Short Blade | Small  | Melee - 5' | Dexterity |         |         |             | Throwable         |
-| Seax           | Short Blade | Small  | Melee - 5' | Strength  |         |         |             | Heavy             |
-| Shortsword     | Long Blade  | Medium | Melee - 5' | Dexterity |         |         |             |                   |
-| Machete        | Long Blade  | Medium | Melee - 5' | Strength  |         |         |             |                   |
-| Longsword      | Long Blade  | Medium |            |           |         |         |             |                   |
-| Rapier         | Long Blade  | Medium |            |           |         |         |             |                   |
-| Scimitar       | Long Blade  | Medium |            |           |         |         |             |                   |
-| Greatsword     | Long Blade  | Large  |            |           |         |         |             |                   |
-| Hooksword      | Long Blade  | Large  |            |           |         |         |             |                   |
-| Hatchet        | Axe         | Medium |            |           |         |         |             |                   |
-| Work Axe       | Axe         | Medium |            |           |         |         |             |                   |
-| Broadaxe       | Axe         | Large  |            |           |         |         |             |                   |
-| Bo Staff       | Polearm     | Medium |            |           |         |         |             |                   |
-| Spear          | Polearm     | Medium |            |           |         |         |             |                   |
-| Javelin        | Polearm     | Medium |            |           |         |         |             |                   |
-| Trident        | Polearm     | Large  |            |           |         |         |             |                   |
-| Glaive         | Polearm     | Large  |            |           |         |         |             |                   |
-| Halberd        | Polearm     | Large  |            |           |         |         |             |                   |
-| Bullwhip       | Flexible    | Small  |            |           |         |         |             |                   |
-| Flail          | Flexible    | Medium |            |           |         |         |             |                   |
+| Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other             |
+| -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ----------------- |
+| Brass Knuckles | Short Blunt | Small  | Melee - 5'  | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
+| Baton          | Short Blunt | Small  | Melee - 5'  | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
+| Work Hammer    | Short Blunt | Small  | Melee - 5'  | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |
+| War Club       | Short Blunt | Small  | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning |                   |
+| Mace           | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning | Versatile (1d8)   |
+| Work Shovel    | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
+| Warhammer      | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
+| Maul           | Long Blunt  | Large  | Melee - 5'  | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
+| Dagger         | Short Blade | Small  | Melee - 5'  | Dexterity |         |         |             | Light, Quick      |
+| Throwing Knife | Short Blade | Small  | Melee - 5'  | Dexterity |         |         |             | Throwable         |
+| Seax           | Short Blade | Small  | Melee - 5'  | Strength  |         |         |             | Heavy             |
+| Shortsword     | Long Blade  | Medium | Melee - 5'  | Dexterity |         |         |             |                   |
+| Machete        | Long Blade  | Medium | Melee - 5'  | Strength  |         |         |             |                   |
+| Longsword      | Long Blade  | Medium | Melee - 5'  |           |         |         |             |                   |
+| Rapier         | Long Blade  | Medium | Melee - 5'  |           |         |         |             |                   |
+| Scimitar       | Long Blade  | Medium | Melee - 5'  |           |         |         |             |                   |
+| Greatsword     | Long Blade  | Large  | Melee - 10' |           |         |         |             |                   |
+| Hooksword      | Long Blade  | Large  | Melee - 5'  |           |         |         |             |                   |
+| Hatchet        | Axe         | Medium | Melee - 5'  |           |         |         |             |                   |
+| Work Axe       | Axe         | Medium | Melee - 5'  |           |         |         |             |                   |
+| Broadaxe       | Axe         | Large  | Melee - 5'  |           |         |         |             |                   |
+| Bo Staff       | Polearm     | Medium | Melee - 10' |           |         |         |             |                   |
+| Spear          | Polearm     | Medium | Melee - 10' |           |         |         |             |                   |
+| Javelin        | Polearm     | Medium | Melee - 10' |           |         |         |             |                   |
+| Trident        | Polearm     | Large  | Melee - 10' |           |         |         |             |                   |
+| Glaive         | Polearm     | Large  | Melee - 10' |           |         |         |             |                   |
+| Halberd        | Polearm     | Large  | Melee - 10' |           |         |         |             |                   |
+| Bullwhip       | Flexible    | Small  | Melee - 10' |           |         |         |             |                   |
+| Flail          | Flexible    | Medium | Melee - 5'  |           |         |         |             |                   |

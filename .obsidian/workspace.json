@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5999d51dd104701a",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md"
+                "file": "Equipment and Inventories/Ranged Weapons.md"
               }
             }
           }
@@ -178,11 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35436dc749e41820",
+  "active": "cb118f7c1672807b",
   "lastOpenFiles": [
     "Equipment and Inventories/Melee Weapons.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Ammunition.md",
+    "Equipment and Inventories/Ranged Weapons.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",

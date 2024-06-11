@@ -61,6 +61,8 @@ When you make an Attack with this Weapon, you spend one of this Weapon's Loaded 
 
 If there is no value indicated, or your weapon does not have this Tag, your weapon has no capacity to hold Loaded Ammunition, and each shot is loaded as a part of your Attacks with this weapon.
 
+#### 
+
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
 

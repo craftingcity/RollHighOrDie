@@ -19,3 +19,5 @@ Much like their counterparts, each Ammunition is a Base and a collection of Tags
 #### Ammunition Damage Type
 ### Mundane Tags
 ### Specialized Tags
+
+# Example Ammunition
