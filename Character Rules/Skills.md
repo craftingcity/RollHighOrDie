@@ -4,3 +4,4 @@ Skills are the separate and specific areas of theoretical, practical, or applied
 ## Proficiency
 Proficiency has five levels, "Untrained", "Learning", "Competent", "Expert", and "Mastered". 
 
+When you make a Skill Check, make an Ability Check us
