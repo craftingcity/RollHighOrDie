@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -152,13 +151,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06bffc1856bea54f",
+  "active": "df891285757f9eef",
   "lastOpenFiles": [
+    "Combat and Actions/Generic Actions.md",
     "Character Rules/Skills.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Creating A Character.md",
     "Character Rules/Defenses.md",
-    "Combat and Actions/Generic Actions.md",
     "Combat and Actions/Combat Definitions.md",
     "README.md",
     "Character Sheet.md",
