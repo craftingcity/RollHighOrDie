@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -234,12 +234,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35a30dc4a8b44b12",
+  "active": "3edde9529656aa98",
   "lastOpenFiles": [
+    "Character Rules/Skills.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Defenses.md",
     "Combat and Actions/Combat Definitions.md",
-    "Character Rules/Skills.md",
     "Character Rules/Creating A Character.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",

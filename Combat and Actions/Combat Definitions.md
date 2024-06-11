@@ -74,6 +74,6 @@ High Light is bright, but not blinding. High Light is emitted by sources like a 
 ###### Low Light
 Low Light enough Light to see generalities, but not details. Typically, Low Light is emitted by small sources, such as candles or screens, or at the edge of High Light.
 
-While you are in a space lit by Low Light, you 
+While you are in a space lit by Low Light, you have Advantage on Stealth, Th
 
 ###### Darkness
