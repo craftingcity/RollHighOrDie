@@ -1,5 +1,5 @@
 # Preamble
-Traits are the inherent abilities, detriments, and lived experience of a character. Traits are typically passive abilities that have a trigger and an acoompannying effect.
+Traits are the inherent abilities, detriments, and lived experience of a character. Traits are typically passive abilities that have a trigger and an accompanying effect or change how the rules apply to a given character.
 
 ## Low-light Visibility
 ###### REQ: INNATE
