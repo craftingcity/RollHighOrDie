@@ -17,3 +17,5 @@ Much like their counterparts, each Ammunition is a Base and a collection of Tags
 #### Size
 #### Ammunition Damage Dice
 #### Ammunition Damage Type
+### Mundane Tags
+### Specialized Tags
