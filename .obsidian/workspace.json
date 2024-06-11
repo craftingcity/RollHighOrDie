@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selections Glossary/Traits.md",
+                "file": "Selections Glossary/Features.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wayp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Traits.md",
+                "file": "Selections Glossary/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Traits.md",
+                "file": "Selections Glossary/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Traits.md"
+                "file": "Selections Glossary/Features.md"
               }
             }
           }
@@ -147,15 +148,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11720a399a7ac0c7",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
+    "Selections Glossary/Features.md",
+    "Selections Glossary/Traits.md",
     "Character Rules/Creating A Character.md",
     "Combat and Actions/Combat Definitions.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Skills.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Defenses.md",
-    "Selections Glossary/Features.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "README.md",
@@ -174,7 +176,6 @@
     "Equipment and Inventories/Inventory Management.md",
     "Combat and Actions/Actions During Encounters.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
-    "Selections Glossary/Traits.md",
     "Combat and Actions/Actions During Encounters.md",
     "Selections Glossary",
     "Combat and Actions",
