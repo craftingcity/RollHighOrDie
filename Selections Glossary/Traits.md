@@ -5,7 +5,7 @@ For ease of presentation, Traits are categorized by their "source of power" and 
 
 - [[Traits - Physicality]]
 - [[Traits - Mentality]]
-- [[Traits - ]]
+- [[Traits - Training]]
 
 ## Low-light Visibility
 ###### REQ: INNATE
