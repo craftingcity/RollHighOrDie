@@ -7,17 +7,17 @@ Your three Reactive Defenses are the first line of defense against any harmful e
 #### Reflex
 Your character's Reflex is their ability to completely out-maneuver a direct physical attack. 
 
-Your Reflex is equal to 8, plus your Proficiency Modifier, plus your Dexterity or Intelligence Modifier, whichever of the two is higher.
+Your Reflex is equal to 8, plus your Degree of Proficiency, plus your Dexterity or Intelligence Modifier, whichever of the two is higher.
 
 #### Will
 Your character's Will is their ability to withstand harmful mental effects, natural, magical, or otherwise. 
 
-Your Will is equal to 8, plus your Proficiency Modifier, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
+Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
 
 #### Fortitude
 Your character's Fortitude is their ability to ignore and combat internal effects and changes.
 
-Your Fortitude is equal to 8, plus your Proficiency Modifier, Plus your Strength or Constitution Modifier, whichever of the two is higher.
+Your Fortitude is equal to 8, plus your Degree of Proficiency, Plus your Strength or Constitution Modifier, whichever of the two is higher.
 
 ## Ablative Defenses
 Your two Ablative Defenses are the final line of defense against harmful effects, and when your Armoring and Vitality are reduced to zero and then below, you will quickly become welcomed to your final rest.
@@ -38,7 +38,7 @@ There are times a character will take damage despite the condition of their Armo
 #### Vitality
 When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, times your TMK.
 
-` If I'm at 3 Vitality, and someone does 1000 damage, why do I take 1 wound `
+` If I'm at 3 Vitality, and someone does 1000 damage, why do I take 1 wound instead of just dying? `
 If you would take damage that reduces your Vitality to less than 0, instead, you incur a Wound, expend a Hit Die, and regain the number rolled plus your Constitution Modifier as Vitality.
 
 When you have more Wounds than the value of your Constitution Modifier, at the beginning of your turn, and whenever you take another Wound, make a Death Call.

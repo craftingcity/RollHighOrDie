@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d6cd70ef3331aa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Ability Scores.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "9fccbfcf2038e0f0",
             "type": "leaf",
             "state": {
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +105,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Defenses.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Defenses.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Defenses.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -177,13 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3283fef2bbb50b02",
+  "active": "df891285757f9eef",
   "lastOpenFiles": [
+    "Character Rules/Ability Scores.md",
+    "Character Rules/Defenses.md",
     "Character Rules/Skills.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Creating A Character.md",
-    "Character Rules/Ability Scores.md",
-    "Character Rules/Defenses.md",
     "Combat and Actions/Combat Definitions.md",
     "README.md",
     "Character Sheet.md",
