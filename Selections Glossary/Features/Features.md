@@ -7,36 +7,5 @@ For ease of presentation, Features are categorized by their "source of power" an
 - [[Features - Divine]]
 - [[Features - Martial]]
 
-### Martial Features
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Arcane Features
-### Divine Features
+#### Inherit and Replace
+Some more expensive Features require another, less expensive Feature, which they "inherit and replace". This means 
