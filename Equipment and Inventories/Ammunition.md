@@ -15,4 +15,5 @@ Much like their counterparts, each Ammunition is a Base and a collection of Tags
 ## Tags
 ### Required Tags
 #### Size
-#### Ammunition Damage
+#### Ammunition Damage Dice
+#### Ammunition Damage Type
