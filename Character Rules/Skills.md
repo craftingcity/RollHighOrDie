@@ -7,6 +7,7 @@ Proficiency has five Degrees, each of which represents a point in a range from 0
 When you make a Skill Check, make an Ability Check using the Skill's Core Ability and add your Degree of Proficiency.
 
 ## Physical Skills
+#### Athletics
 ## Combat Skills
 ### Reactive Defenses
 #### Reflex
@@ -17,5 +18,8 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 ### Arcane Casting
 ### Divine Casting
 ## Personal Skills
+#### Negotiation
+#### Persuasion
+
 ## Profession Skills
 ## Knowledge Skills
