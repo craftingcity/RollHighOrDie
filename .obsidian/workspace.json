@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46becb69d02c6be2",
+        "id": "5999d51dd104701a",
         "type": "tabs",
         "children": [
           {
-            "id": "a19a92436e94b3a0",
+            "id": "cb118f7c1672807b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a19a92436e94b3a0",
+  "active": "cb118f7c1672807b",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Martial.md",
+    "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
