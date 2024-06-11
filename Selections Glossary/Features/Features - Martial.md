@@ -7,7 +7,7 @@
 
 Expend two Hit Die. You gain the number rolled plus twice your Constitution Modifier as Vitality.
 
-You may only use this feature once between Long Rests.
+You may only use this Feature once between Long Rests.
 
 ## Engage
 ###### REQ: 1EXP
@@ -28,7 +28,7 @@ You may not use this feature again until your target is no longer 'Engaged'.
 
 Make a Maneuver, then Hide.
 
-You may only use this feature once per turn.
+You may only use this Feature once per turn.
 
 ## Sneak Attack
 ###### REQ: 1EXP 
@@ -79,7 +79,7 @@ Then, an Ally within 10' of your target makes a Maneuver.
 
 ## Iron Tide
 ###### REQ: 2EXP 
-###### W+1 AP
+###### W AP
 ###### USE: Melee Weapon
 'With intention and confidence, you strike out and push forward, allowing you to take the positional advantage.'
 
@@ -103,13 +103,13 @@ If you hit your target, you deal your Weapon Damage as normal and you force your
 ###### USE: Melee or Ranged Weapon
 'With baited breath, you find the weakest point in your opponent's armor, and release.'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You gain +2 to that Attack Roll.
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You gain +4 to that Attack Roll.
 
 If you hit your target, you deal your Weapon Damage as normal.
 
 ## Sly Flourish
 ###### REQ: 2EXP
-###### W+1 AP
+###### W AP
 ###### USE: Melee or Ranged Weapon
 'Drama and Morale are as much a part of combat as Manpower and Equipment - show 'em who's boss.'
 
