@@ -7,6 +7,9 @@ For ease of presentation, Traits are categorized by their "source of power" and 
 - [[Traits - Mentality]]
 - [[Traits - Training]]
 
+#### Inherit and Replace
+When one ability "inherits and replaces" another, the first ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the first ability.
+
 ## Low-light Visibility
 ###### REQ: INNATE
 'You excel under low-light conditions where others falter. Often, you find carrying a light at night unnecessary.'

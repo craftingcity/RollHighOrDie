@@ -8,4 +8,4 @@ For ease of presentation, Features are categorized by their "source of power" an
 - [[Features - Martial]]
 
 #### Inherit and Replace
-When one Feature "inherits and replaces" another, the first Feature gains all text, properties, and effects of the requirement Feature, effectively acting as the requirement Feature plus the new text of the first Feature.
+When one ability "inherits and replaces" another, the first ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the first ability.
