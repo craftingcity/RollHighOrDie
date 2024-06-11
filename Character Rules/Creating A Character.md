@@ -5,4 +5,6 @@ As a Player in the game of RHoD, you will act as a Character that you will work 
 1. Roll & Assign Ability Scores
 2. Introduce Character Concept
 3. Spend 4 EXP
-	1. It is recommended that you gain a Feature, a Trait, a Combat Skill, and another Skill or another Feature.
+	1. It is recommended that you attain at least one Feature, one Trait, and one Combat Skill for creating your first Character.
+
+## 
