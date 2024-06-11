@@ -81,6 +81,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "537698f896b38671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Inventory Management.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "3ac7a6daa53f82f4",
             "type": "leaf",
             "state": {
@@ -116,8 +128,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,9 +259,10 @@
   },
   "active": "cb118f7c1672807b",
   "lastOpenFiles": [
+    "Equipment and Inventories/Inventory Management.md",
+    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Generic Actions.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Ammunition.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Skills.md",
@@ -275,7 +287,6 @@
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Weapons.md",
-    "Equipment and Inventories/Armors.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Selections Glossary",
     "Combat and Actions",
