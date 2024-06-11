@@ -59,8 +59,8 @@ This Tag is immutable, and cannot be changed.
 #### Relevant Defense
 This is the Defense that the Weapon targets to determine hit or miss during a Generic Attack. The vast majority of Weapons target Reflex.
 
-#### Weapon Damage Dice
-This is the amount and type of dice you will roll to deal damage with this Weapon.
+#### Weapon Damage Dice (yDx)
+This is the amount (y) and type (x) of dice you will roll to deal damage with this Weapon.
 
 #### Weapon Damage Type
 This is the type of damage that the Weapon deals. Mundane Weapons only ever deal Piercing, Bludgeoning, and/or Slashing damage.
@@ -84,7 +84,7 @@ While this Weapon is Equipped in either hand you gain +1 to Initiative Rolls.
 You do not incur Disadvantage when making Ranged Attacks with this weapon while a hostile creature is within 5'.
 
 #### Versatile (yDx / +Z)
-This Weapon is designed to be used in one or both hands. When wielded on both hands, this Weapon's Damage Dice increases to the value (y) and type (x) indicated or you gain the value indicated (+Z) when making Attack Rolls with this Weapon.
+This Weapon is designed to be used in one or both hands. When wielded on both hands, this Weapon's Damage Dice increases to the amount (y) and type (x) indicated or you gain the value indicated (+Z) when making Attack Rolls with this Weapon.
 
 #### Two-Handed
 This Weapon must be used in both hands.
