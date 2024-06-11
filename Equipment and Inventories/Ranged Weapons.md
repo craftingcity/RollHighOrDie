@@ -61,10 +61,12 @@ If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an 
 
 If there is no value indicated, or your weapon does not have this Tag, your weapon has no capacity to hold Loaded Ammunition, and each shot is loaded as a part of your Attacks with this weapon.
 
-#### Mechanical (X)
+#### Mechanical (x/y)
 This Weapon has complex components that are required for function. 
 
-When you make an Attack with this Weapon, if the number you roll on your d20 is equal or less than the value indicated, your Attack misses, and this Weapon is Jammed.
+When you make an Attack with this Weapon, if the number you roll on your d20 is equal or less than the first value indicated (x), your Attack misses, and this Weapon is Jammed.
+
+The second value indicated (y) is this Weapon's Unjam DC.
 
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
