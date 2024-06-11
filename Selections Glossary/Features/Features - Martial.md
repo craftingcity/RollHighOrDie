@@ -189,6 +189,7 @@ Make a Maneuver.
 ### EXP - 3
 ## Halting Engagement
 ###### REQ: 3EXP, Engage
+''
 This feature inherits and replaces the 'Engage' Martial Feature.
 
 When you make an Attack against a target you have 'Engaged', if you deal damage, that target cannot make Maneuvers until they are no longer 'Engaged'.
@@ -245,7 +246,7 @@ You may only use this feature once between Long Rests.
 
 ## Fleet Foot
 ###### REQ: 3EXP
-###### 3 AP
+###### 2 AP
 ''
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may climb, crawl, or jump up to 10' instead of 5'.
