@@ -6,6 +6,7 @@
       {
         "id": "0a04e4cf5ff88d0f",
         "type": "tabs",
+        "dimension": 47.017849368741835,
         "children": [
           {
             "id": "a5950ff2ca0d461a",
@@ -48,6 +49,7 @@
       {
         "id": "1cb697faf6c434c9",
         "type": "tabs",
+        "dimension": 29.12494558119286,
         "children": [
           {
             "id": "a29f99e9bea02004",
@@ -79,6 +81,7 @@
       {
         "id": "5999d51dd104701a",
         "type": "tabs",
+        "dimension": 23.857205050065303,
         "children": [
           {
             "id": "537698f896b38671",
@@ -195,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md"
+                "file": "Equipment and Inventories/Melee Weapons.md"
               }
             }
           }
@@ -257,10 +260,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35436dc749e41820",
+  "active": "a5950ff2ca0d461a",
   "lastOpenFiles": [
-    "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ammunition.md",
+    "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Combat and Actions/Generic Actions.md",
