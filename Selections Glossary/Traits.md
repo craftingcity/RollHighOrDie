@@ -1,10 +1,12 @@
 # Preamble
 Traits are the inherent abilities, detriments, and lived experience of a character. Traits are typically passive abilities that have a trigger and an accompanying effect or change how the rules apply to a given character.
 
+For ease of presentation, Traits are categorized by their "source of power" and their requirements.
+
 ## Low-light Visibility
 ###### REQ: INNATE
 'You excel under low-light conditions where others falter. Often, you find carrying a light at night unnecessary.'
-- You treat Low Light as High Light.
+- You do not have Disadvantage on Manipulation, Perception, and Investigation Skill Checks while you are in a space lit by Low Light or Darkness.
 
 ## Boiling Blood
 ###### REQ: INNATE

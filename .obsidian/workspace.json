@@ -35,8 +35,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "02694d587ad8b325",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Traits.md",
+                "file": "Selections Glossary/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Traits.md",
+                "file": "Selections Glossary/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Traits.md"
+                "file": "Selections Glossary/Features.md"
               }
             }
           }
@@ -185,11 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a75979963f787e2a",
+  "active": "11720a399a7ac0c7",
   "lastOpenFiles": [
-    "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Traits.md",
     "Selections Glossary/Features.md",
+    "Combat and Actions/Combat Definitions.md",
     "Character Rules/Creating A Character.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Skills.md",
