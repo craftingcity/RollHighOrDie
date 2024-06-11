@@ -71,6 +71,8 @@ While you are in a space lit by Blinging Light, gain the 'Blinded' [[Condition]]
 ###### High Light
 High Light is bright, but not blinding. High Light is emitted by sources like a sun, a fire, or an electric or arcane lamp.
 
+High Light has no mechanical benefits or deficits.
+
 ###### Low Light
 Low Light enough Light to see generalities, but not details. Typically, Low Light is emitted by small sources, such as candles or screens, or at the edge of High Light.
 
@@ -79,4 +81,4 @@ While you are in a space lit by Low Light, you have Advantage on Stealth, Thieve
 ###### Darkness
 Darkness is little to no light, where you cannot reasonably be certain of what you are seeing.
 
-While you ar
+While you are in a space lit by Darkness you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks. In addition, you impose Disadvantage on Attacks against you.
