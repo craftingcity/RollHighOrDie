@@ -7,15 +7,15 @@ While a character's ability is tested, and the result is uncertain, they make an
 #### Difficulty Class
 The mechanical difficulty of a given task is known as its Difficulty Class (DC). The more difficult a task is to succeed in, the higher the Difficulty Class of that task.
 
-| Example                         | DC  |
-| ------------------------------- | --- |
-| Very Easy (anyone can do it)    | 5   |
-| Easy (most could do it)         | 10  |
-| Medium (some training required) | 15  |
-| Hard                            | 20  |
-| Very Hard                       | 25  |
-| Nearing Impossible              | 30  |
-| Impossible (success is genre)                                |     |
+| Example                                           | DC  |
+| ------------------------------------------------- | --- |
+| Very Easy (anyone can succeed)                      | 5   |
+| Easy (some training required)                           | 10  |
+| Medium (professionals might fail)                   | 15  |
+| Hard ()                                             | 20  |
+| Very Hard (only the very best succeed)                                        | 25  |
+| Nearing Impossible (few if any could succeed) | 30  |
+| Impossible (success is genre-shaking)             | 35  |
 
 #### Advantage & Disadvantage
 When you have Advantage on a roll, roll the die twice and take the **higher** roll.
