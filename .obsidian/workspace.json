@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c60e0b2ef8a487ff",
+        "id": "325ef24f546904cc",
         "type": "split",
         "children": [
           {
@@ -17,44 +17,68 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Selections Glossary/Features.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "a75979963f787e2a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Selections Glossary/Traits.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "02694d587ad8b325",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "16ff5fd517cda228",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Combat and Actions/Combat Definitions.md",
+                    "file": "Selections Glossary/Features/Features.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
             ]
+          },
+          {
+            "id": "46becb69d02c6be2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a19a92436e94b3a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Selections Glossary/Features/Features - Martial.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "3a9d5f695bfd2fb5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Selections Glossary/Traits/Traits - Mentality.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "da28a46c750ffe3d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Selections Glossary/Traits/Traits - Physicality.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "8f5026b5342899d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Selections Glossary/Traits/Traits - Training.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -107,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -123,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Traits.md",
+                "file": "Selections Glossary/Traits/Traits - Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Traits.md",
+                "file": "Selections Glossary/Traits/Traits - Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Traits.md"
+                "file": "Selections Glossary/Traits/Traits - Training.md"
               }
             }
           }
@@ -185,11 +209,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a75979963f787e2a",
+  "active": "8f5026b5342899d9",
   "lastOpenFiles": [
-    "Selections Glossary/Features.md",
-    "Selections Glossary/Traits.md",
+    "Selections Glossary/Traits/Traits - Physicality.md",
+    "Selections Glossary/Traits/Traits - Mentality.md",
+    "Selections Glossary/Features/Features - Martial.md",
+    "Selections Glossary/Features/Features - Divine.md",
+    "Selections Glossary/Features/Features.md",
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Selections Glossary/Traits/Traits.md",
+    "Selections Glossary/Traits/Traits - Training.md",
     "Combat and Actions/Combat Definitions.md",
+    "Selections Glossary/Traits",
+    "Selections Glossary/Features",
     "Character Rules/Creating A Character.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Skills.md",
@@ -207,13 +239,7 @@
     "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Weapons.md",
     "Equipment and Inventories/Armors.md",
-    "Core Rules/Character Rules/Equipment and Inventories/Example Equipment.md",
-    "Selections Glossary/Emboldenment.md",
-    "Character Rules/Experience.md",
-    "Equipment and Inventories/Inventory Management.md",
-    "Combat and Actions/Actions During Encounters.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
-    "Combat and Actions/Actions During Encounters.md",
     "Selections Glossary",
     "Combat and Actions",
     "Templates",
