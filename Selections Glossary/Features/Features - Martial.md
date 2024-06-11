@@ -119,21 +119,7 @@ If you hit your target, use your Charisma Modifier instead of your Weapon Abilit
 
 ## Passing Swipe
 ###### REQ: 2EXP
-###### W AP
-###### USE: Melee Weapon - Light or Quick
-'The concept of fire and maneuver applies more commonly to ranged combats, but you find the strategy quite enticing.'
-
-Make a Maneuver. 
-
-Then, Target a creature that was or currently is within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
-
-If you hit your target, you deal your Weapon Damage as normal.
-
-You may only use this feature once per turn.
-
-## Passing Swipe
-###### REQ: 2EXP
-###### W AP
+###### W+1 AP
 ###### USE: Melee Weapon - Light or Quick
 'The concept of fire and maneuver applies more commonly to ranged combats, but you find the strategy quite enticing.'
 
@@ -159,7 +145,7 @@ You may only use this Feature once per turn.
 
 ## Bash
 ###### REQ: 2EXP
-###### W+2 AP
+###### 2W AP
 ###### USE: Melee Weapon - Bludgeoning
 'And whoever said everything *wasn't* a nail?'
 
@@ -203,17 +189,15 @@ Make a Maneuver.
 ### EXP - 3
 ## Halting Engagement
 ###### REQ: 3EXP, Engage
-###### W+2 AP
-###### USE: Melee Weapon
 This feature inherits and replaces the 'Engage' Martial Feature.
 
 When you make an Attack against a target you have 'Engaged', if you deal damage, that target cannot make Maneuvers until they are no longer 'Engaged'.
 
 ## Splitshot
 ###### REQ: 3EXP
-###### W+2 AP
+###### W+1 AP
 ###### USE: Ranged Weapon
-'Physics can be a fickle law, but when bent just right, a shot can kill two people while looking like a full miss.'
+'Physics can be a fickle law, but when bent just right, one shot can kill two people while looking like a complete and total miss.'
 
 Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make an Attack Roll against each targets' Reflex.
 
