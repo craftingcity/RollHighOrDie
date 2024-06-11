@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features.md",
+                "file": "Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features.md",
+                "file": "Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features.md"
+                "file": "Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11720a399a7ac0c7",
+  "active": "a19a92436e94b3a0",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features.md",
+    "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Traits/Traits - Training.md",
