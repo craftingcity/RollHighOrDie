@@ -5,7 +5,11 @@ Ability Scores are the numerical representation of a character's base ability to
 While a character's ability is tested, and the result is uncertain, they make an Ability Check. To make an Ability Check, roll a d20, and add the relevant Ability Modifier to the total. After you add any other benefits and deficits, compare your total to the Difficulty Class of the check.
 
 #### Difficulty Class
-The mechanical difficulty of a given task is known as its Difficulty Class (DC). A
+The mechanical difficulty of a given task is known as its Difficulty Class (DC). The more difficult a task is to succeed in, the higher the Difficulty Class of that task.
+
+| Example | DC  |
+| ------- | --- |
+| Very Easy ()        |     |
 
 #### Advantage & Disadvantage
 When you have Advantage on a roll, roll the die twice and take the **higher** roll.
