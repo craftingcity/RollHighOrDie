@@ -1,4 +1,4 @@
 # Preamble
 Any Ranged Weapon fires a projectile known as its Ammunition.
 
-When you make an Attack with a Ranged Weapon, you must expend an 
+Much like their counterparts, each Ammunition is a Base and a collection of Tags.
