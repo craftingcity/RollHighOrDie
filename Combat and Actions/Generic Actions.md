@@ -15,10 +15,17 @@ When you "hit", roll your Weapon Damage and add your Weapon Ability Modifier. Th
 ###### 3 AP
 ''
 
-Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your
+Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you impose the 'Grappled' [[Ailment]].
+
+You must have at least one free hand to use this Action.
 
 ## Shove
 ###### 3 AP
+''
+
+Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may p
+
+You must have at least one free hand to use this Action.
 
 ## Maneuver
 ###### 2 AP

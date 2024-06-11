@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +209,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06bffc1856bea54f",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Character Rules/Skills.md",
     "Combat and Actions/Generic Actions.md",
