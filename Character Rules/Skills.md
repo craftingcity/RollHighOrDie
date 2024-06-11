@@ -59,6 +59,8 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Miner
 #### Mason
 #### Woodsmith
+#### Jewler
+#### Leatherworker
 ## Knowledge Skills
 #### Bushcraft
 #### Medicine
