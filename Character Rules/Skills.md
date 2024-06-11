@@ -13,6 +13,7 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Manipulation
 #### Stealth
 #### Thievery
+#### Throwing
 ## Combat Skills
 ### Reactive Defenses
 #### Reflex
@@ -45,6 +46,9 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Deduction
 #### Streetwise
 ## Profession Skills
+#### Artist
+#### Dancer
+#### Musical Participant
 #### Blacksmith
 #### Scribe
 #### Chef
