@@ -38,6 +38,42 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3ac7a6daa53f82f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Skills.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "791c38c6804e7951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Ability Scores.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "340a629e498deb01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat and Actions/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "35436dc749e41820",
             "type": "leaf",
             "state": {
@@ -49,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,9 +216,12 @@
   },
   "active": "cb118f7c1672807b",
   "lastOpenFiles": [
+    "Character Rules/Ability Scores.md",
+    "Character Rules/Skills.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Combat and Actions/Generic Actions.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ammunition.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
@@ -194,9 +234,6 @@
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Character Rules/Creating A Character.md",
-    "Combat and Actions/Generic Actions.md",
-    "Character Rules/Skills.md",
-    "Character Rules/Ability Scores.md",
     "Character Rules/Defenses.md",
     "README.md",
     "Character Sheet.md",

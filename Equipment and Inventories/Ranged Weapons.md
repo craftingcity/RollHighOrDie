@@ -64,7 +64,7 @@ If there is no value indicated, or your weapon does not have this Tag, your weap
 #### Mechanical (X)
 This Weapon has complex components that are required for function. 
 
-When you make an Attack with this Weapon, if 
+When you make an Attack with this Weapon, if the number you roll on your d20 is equal or less than the value indicated, this Weapon 
 
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
