@@ -10,7 +10,8 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Athletics
 #### Acrobatics
 #### Stealth
-#### Manipulation 
+#### Manipulation
+#### Stealth
 ## Combat Skills
 ### Reactive Defenses
 #### Reflex
@@ -36,10 +37,13 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Animal Empathy
 #### Diplomacy
 #### Deception
+#### Intimidation
 #### Appraise
 #### Perception
 #### Investigation
 #### Deduction
 ## Profession Skills
+
 ## Knowledge Skills
 #### Bushcraft
+#### Medicine
