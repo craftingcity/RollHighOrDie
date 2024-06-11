@@ -3,6 +3,10 @@ Traits are the inherent abilities, detriments, and lived experience of a charact
 
 For ease of presentation, Traits are categorized by their "source of power" and their requirements.
 
+- [[Traits - Physicality]]
+- [[Traits - Mentality]]
+- [[Traits - ]]
+
 ## Low-light Visibility
 ###### REQ: INNATE
 'You excel under low-light conditions where others falter. Often, you find carrying a light at night unnecessary.'
