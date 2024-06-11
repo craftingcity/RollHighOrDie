@@ -55,14 +55,16 @@ This is the Defense that the Weapon targets to determine hit or miss during a Ge
 
 ### Mundane Tags
 #### Capacity (X)
-This is the Maximum Capacity of Ammunition for this Weapon. 
+This is the Maximum Capacity of Loaded Ammunition for this Weapon. 
 
-When you make an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
+If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
 
 If there is no value indicated, or your weapon does not have this Tag, your weapon has no capacity to hold Loaded Ammunition, and each shot is loaded as a part of your Attacks with this weapon.
 
 #### Mechanical (X)
-This Weapon has complex components that are required for function.
+This Weapon has complex components that are required for function. 
+
+When you make an Attack with this Weapon, if 
 
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
