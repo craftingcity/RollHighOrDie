@@ -13,7 +13,9 @@ When you "hit", roll your Weapon Damage and add your Weapon Ability Modifier. Th
 
 ## Grapple
 ###### 3 AP
+''
 
+Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your
 
 ## Shove
 ###### 3 AP

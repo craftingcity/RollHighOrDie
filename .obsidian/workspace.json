@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "detec",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Combat and Actions/Generic Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Combat and Actions/Generic Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Combat and Actions/Generic Actions.md"
               }
             }
           }
@@ -209,14 +209,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35a30dc4a8b44b12",
+  "active": "06bffc1856bea54f",
   "lastOpenFiles": [
-    "Equipment and Inventories/Ranged Weapons.md",
     "Character Rules/Skills.md",
-    "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Generic Actions.md",
-    "Character Rules/Ability Scores.md",
     "Character Rules/Creating A Character.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Equipment and Inventories/Melee Weapons.md",
+    "Character Rules/Ability Scores.md",
     "Selections Glossary/Features.md",
     "Character Rules/Defenses.md",
     "Combat and Actions/Combat Definitions.md",
