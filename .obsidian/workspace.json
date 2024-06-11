@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5999d51dd104701a",
+        "id": "0a04e4cf5ff88d0f",
         "type": "tabs",
         "children": [
           {
             "id": "cb118f7c1672807b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5999d51dd104701a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35436dc749e41820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equipment and Inventories/Ammunition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equipment and Inventories/Ammunition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equipment and Inventories/Ammunition.md"
+              }
             }
           }
         ]
@@ -139,8 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb118f7c1672807b",
+  "active": "35436dc749e41820",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Equipment and Inventories/Melee Weapons.md",
+    "Equipment and Inventories/Ammunition.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
@@ -157,15 +186,12 @@
     "Character Rules/Skills.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Defenses.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Melee Weapons.md",
     "README.md",
     "Character Sheet.md",
     "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
     "conflict-files-obsidian-git.md",
-    "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Weapons.md",
     "Equipment and Inventories/Armors.md",
