@@ -47,11 +47,18 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 ## Profession Skills
 #### Blacksmith
 #### Scribe
-#### C
+#### Chef
+#### Forger
+#### Farmer
+#### Fisher
+#### Tailor
+#### Miner
+#### Mason
+#### Woodsmith
 ## Knowledge Skills
 #### Bushcraft
 #### Medicine
-#### Dungeoneering
+#### Engineering
 #### History
 #### Arcane
 #### Alchemical
