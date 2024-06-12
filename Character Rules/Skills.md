@@ -55,6 +55,13 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Intimidation
 
 ## Knowledge Skills
+#### 
+
+
+#### ==OLD OLD OLD==
+
+
+## Knowledge Skills
 #### Bushcraft
 #### Medicine
 #### Engineering
