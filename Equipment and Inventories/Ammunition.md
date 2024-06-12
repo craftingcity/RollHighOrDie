@@ -21,9 +21,10 @@ This is the mechanical Size of the Ammunition. All Ammunition is 'stackable' to 
 This is the amount (y) and type (x) of dice you will roll to deal damage with this Ammunition.
 
 #### Ammunition Damage Type
-This is the type of damage that the Weapon deals. Mundane Weapons only ever deal Piercing, Bludgeoning, and/or Slashing damage.
+This is the type of damage that this Ammunition deals. Mundane Ammunition only ever deal Piercing, Bludgeoning, and/or Slashing damage.
 
 ### Mundane Tags
 ### Specialized Tags
 
 # Example Ammunition
+| Title | Base | Size | D. Dice | D. Type | Other
