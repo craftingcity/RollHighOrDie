@@ -75,6 +75,8 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Woodworking
 #### Riding
 #### Cooking
+#### Crafting
+#### Weaving
 
 
 #### ==OLD OLD OLD==
