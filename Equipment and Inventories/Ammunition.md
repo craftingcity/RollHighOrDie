@@ -25,19 +25,22 @@ This is the type of damage that this Ammunition deals. Mundane Ammunition only e
 #### Fragile
 When this Ammunition is expended, it cannot be recovered.
 
-#### 
+#### Durable
+When this Ammunition is expended, it can be recovered.
+
 ### Specialized Tags
 
 # Example Ammunition
-| Title                  | Base | Size | D. Dice | D. Type | Other |
-| ---------------------- | ---- | ---- | ------- | ------- | ----- |
-| Pebble                 |sling-bullet|      |         |         |       |
-| Clay Bullet            |sling-bullet|      |         |         |       |
-| Lead Bullet            |sling-bullet|      |         |         |       |
-| Sharpened Wooden Arrow |arrow|      |         |         |       |
-| Bodkin Wooden Arrow | arrow
-| Broadhead Wooden Ar
-| Sharpened Steel Arrow  |arrow|      |         |         |       |
-| Bodkin Steel Arrow     |arrow|      |         |         |       |
-| Broadhead Steel Arrow  |arrow|      |         |         |       |
-| Corehead Steel Arrow   |   arrow   |      |         |         |       |
+| Title                  | Base         | Size | D. Dice | D. Type | Other |
+| ---------------------- | ------------ | ---- | ------- | ------- | ----- |
+| Pebble                 | sling-bullet |      |1d4|         |       |
+| Clay Bullet            | sling-bullet |      |1d6|         |       |
+| Lead Bullet            | sling-bullet |      |1d6|         |       |
+| Sharpened Wooden Arrow | arrow        |      | 1d4     |         |       |
+| Bodkin Wooden Arrow    | arrow        |      | 1d6     |         |       |
+| Broadhead Wooden Arrow | arrow        |      | 1d6     |         |       |
+| Corehead Wooden Arrow  | arrow        |      | 1d4     |         |       |
+| Sharpened Steel Arrow  | arrow        |      | 1d4     |         |       |
+| Bodkin Steel Arrow     | arrow        |      | 1d8     |         |       |
+| Broadhead Steel Arrow  | arrow        |      | 1d8     |         |       |
+| Corehead Steel Arrow   | arrow        |      | 1d6     |         |       |
