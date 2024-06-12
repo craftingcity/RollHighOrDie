@@ -1,7 +1,5 @@
 # Preamble
-Any Ranged Weapon fires a projectile known as its Ammunition.
-
-Much like their counterparts, each Ammunition is a Base and a collection of Tags.
+Any Ranged Weapon fires a projectile known as its Ammunition. Much like their counterparts, each Ammunition is a Base and a collection of Tags.
 
 ## Bases
 #### Sling-Bullet
@@ -25,7 +23,9 @@ This is the type of damage that this Ammunition deals. Mundane Ammunition only e
 
 ### Mundane Tags
 #### Fragile
-When this 
+When this Ammunition is expended, it cannot be recovered.
+
+#### 
 ### Specialized Tags
 
 # Example Ammunition
