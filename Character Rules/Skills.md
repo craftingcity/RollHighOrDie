@@ -60,19 +60,21 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Alchemy
 #### Nature
 #### Engineering
+#### Medicine
 
-## Practical Skills
+## Professional Skills
 #### Alchemy
 #### Herbalism
 #### Artistry
 #### Smithing
+#### Leatherworking
 #### Bushcraft
 #### Performance
 #### Masonry
 #### Jeweling
 #### Woodworking
 #### Riding
-#### C
+#### Cooking
 
 
 #### ==OLD OLD OLD==
