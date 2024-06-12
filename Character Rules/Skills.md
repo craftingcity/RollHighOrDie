@@ -42,17 +42,17 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 ## Personal Skills
 ### Intelligence
 #### Appraise
+#### Investigation
 ### Wisdom
+#### Perception
+#### Deduction
+#### Streetwise
 ### Charisma
 #### Animal Empathy
 #### Diplomacy
 #### Deception
 #### Intimidation
 
-#### Perception
-#### Investigation
-#### Deduction
-#### Streetwise
 ## Knowledge Skills
 #### Bushcraft
 #### Medicine
