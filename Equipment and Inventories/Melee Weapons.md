@@ -3,6 +3,8 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 Given this, weapons can be mutable while you are playing - you may replace, gain, or remove Tags from your Base weapon - so long as your character has the knowledge materials, and time, they can change may aspects of their weapon.
 
+A character's ability to hit on Attacks with a given Weapon is directly related to a character's [[Ability Scores]] and Combat [[Skills]].
+
 ## Bases
 #### Short Blunt
 Short Blunt weapons include items such as batons, hammers, or war clubs - instruments that can usually be held in one hand and deal a force to a single point.
