@@ -109,6 +109,7 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 # Example Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other             |
 | -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ----------------- |
+| Fists          | Short Blunt | -      | Melee - 5'  | Strength  | Reflex  | STR     | Bludgeoning |                   |
 | Brass Knuckles | Short Blunt | Small  | Melee - 5'  | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
 | Baton          | Short Blunt | Small  | Melee - 5'  | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
 | Work Hammer    | Short Blunt | Small  | Melee - 5'  | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |

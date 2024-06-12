@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4d07f1061a2cb6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Equipment and Inventories/Melee Weapons.md"
               }
             }
           }
@@ -148,11 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7165e4e6d0277634",
+  "active": "4d07f1061a2cb6c8",
   "lastOpenFiles": [
+    "Character Rules/Skills.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Creating A Character.md",
-    "Character Rules/Skills.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Defenses.md",
     "conflict-files-obsidian-git.md",
