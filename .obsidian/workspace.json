@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fcb52940a59246d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "3283fef2bbb50b02",
             "type": "leaf",
             "state": {
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -200,8 +213,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df891285757f9eef",
+  "active": "fcb52940a59246d3",
   "lastOpenFiles": [
+    "Character Rules/Skills.md",
+    "conflict-files-obsidian-git.md",
     "Selections Glossary/Traits/Traits.md",
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Physicality.md",
@@ -213,7 +228,6 @@
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features",
     "Combat and Actions/Generic Actions.md",
-    "Character Rules/Skills.md",
     "Character Rules/Ability Scores.md",
     "Character Rules/Creating A Character.md",
     "Selections Glossary/Features.md",
@@ -226,7 +240,6 @@
     "Selections Glossary/Ailment.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
-    "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Weapons.md",

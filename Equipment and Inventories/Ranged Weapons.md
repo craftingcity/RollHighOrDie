@@ -3,6 +3,10 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 Given this, weapons can be mutable while you are playing - you may replace, gain, or remove Tags from your Base weapon - so long as your character has the knowledge, materials, and time, they can change may aspects of their weapon.
 
+Ranged Weapons are married to [[Ammunition]], as both are required for either to be effective. 
+
+When you make an Attack with a Ranged Weapon, you expend a piece of Loaded Ammunition if your Weapon has the Capacity Tag, or you expend a piece of Ammunition from your Quiver otherwise.
+
 ## Bases
 #### Sling
 Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 
@@ -17,7 +21,7 @@ Using the power of elastics and the stability of the buttstock, Crossbows fire a
 Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of projectiles before they must be reloaded.
 
 #### Rifle
-Harnessing the mystic or the scientific, Rifles are the older, more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
+Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
 ## Tags
 ### Required Tags
@@ -55,11 +59,18 @@ This is the Defense that the Weapon targets to determine hit or miss during a Ge
 
 ### Mundane Tags
 #### Capacity (X)
-This is the Maximum Capacity of Ammunition for this Weapon. 
+This is the Maximum Capacity of Loaded Ammunition for this Weapon. 
 
-When you make an Attack with this Weapon, you spend one of this Weapon's Loaded Ammunition. If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
+If this Weapon's Loaded Ammunition is 0, you must Reload before you can make an Attack with this Weapon.
 
 If there is no value indicated, or your weapon does not have this Tag, your weapon has no capacity to hold Loaded Ammunition, and each shot is loaded as a part of your Attacks with this weapon.
+
+#### Mechanical (x/y)
+This Weapon has complex components that are required for function. 
+
+When you make an Attack with this Weapon, if the number you roll on your d20 is equal or less than the first value indicated (x), your Attack misses, and this Weapon is Jammed.
+
+The second value indicated (y) is this Weapon's Unjam DC.
 
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
@@ -83,29 +94,29 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | ---------------------------- | -------- | ------ | ----------- | --------- | ------- | ------------ | ---------------------------------------- | --- |
 | Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity | Reflex  | sling-bullet | Capacity (1)                             |     |
 | Slingshot                    | Sling    | Small  | 30'/90'     | Dexterity | Reflex  | sling-bullet | Capacity (1)                             |     |
-| Spear Tosser                 | Sling    | Medium | 25'/75'     | Dexterity | Reflex  | javelin      | Capacity (1)                             |     |
+| Leverage Thrower             | Sling    | Medium | 25'/75'     | Dexterity | Reflex  | great-arrow  | Capacity (1)                             |     |
 | Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity | Reflex  | arrow        | Two-Handed                               |     |
 | Compound Bow                 | Bow      | Medium | 120'/360'   | Dexterity | Reflex  | arrow        | Two-Handed                               |     |
 | Greatbow                     | Bow      | Large  | 240'/720'   | Dexterity | Reflex  | great-arrow  | Capacity (1), Two-Handed                 |     |
 | Wooden Crossbow              | Crossbow | Medium | 80'/240'    | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed                 |     |
 | Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed                 |     |
 | Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex  | powder-shot  | Capacity (1)                             |     |
-| Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex  | pistol       | Capacity (6), Quick                      |     |
-| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  | pistol       | Capacity (13), Versatile (+2), Burst (2)            |     |
-| Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  | pistol       | Capacity (15), Versatile (+2), Burst (4) |     |
-| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | pistol       | Capacity (15), Two-Handed, Burst (3)                |     |
-| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | pistol       | Capacity (33), Two-Handed, Burst (5)                |     |
+| Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex  | low caliber  | Capacity (6), Quick                      |     |
+| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  | low caliber  | Capacity (13), Versatile (+2), Burst (2) |     |
+| Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex  | low caliber  | Capacity (15), Versatile (+2), Burst (4) |     |
+| Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex  | low caliber  | Capacity (15), Two-Handed, Burst (3)     |     |
+| Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex  | low caliber  | Capacity (33), Two-Handed, Burst (5)     |     |
 | Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex  | powder-shot  | Capacity (1), Two-Handed                 |     |
-| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | rifle        | Capacity (5), Two-Handed                 |     |
-| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (20), Two-Handed, Burst (3)                |     |
-| Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  | pistol       | Capacity (6), Two-Handed                 |     |
-| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | rifle        | Capacity (15), Two-Handed, Burst (2)                |     |
-| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | rifle        | Capacity (30), Two-Handed, Burst (4)                |     |
-| Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Capacity (10), Two-Handed                |     |
+| Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex  | high caliber | Capacity (5), Two-Handed                 |     |
+| Classic Battle Rifle         | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | high caliber | Capacity (20), Two-Handed, Burst (3)     |     |
+| Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex  | low caliber  | Capacity (6), Two-Handed                 |     |
+| Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex  | high caliber | Capacity (15), Two-Handed, Burst (2)     |     |
+| Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex  | high caliber | Capacity (30), Two-Handed, Burst (4)     |     |
+| Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | high caliber | Capacity (10), Two-Handed                |     |
 | Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex  | shotshell    | Capacity (2), Two-Handed                 |     |
 | Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (4), Two-Handed                 |     |
-| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    | Capacity (8), Two-Handed, Burst (2)                 |     |
-| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (5), Two-Handed, Burst (3)                 |     |
-| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | rifle        | Two-Handed, Burst (5)                               |     |
-| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | rifle        | Two-Handed, Burst (5)                               |     |
+| Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    | Capacity (8), Two-Handed, Burst (2)      |     |
+| Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (5), Two-Handed, Burst (3)      |     |
+| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | high caliber | Two-Handed, Burst (5)                    |     |
+| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | high caliber | Two-Handed, Burst (5)                    |     |
 

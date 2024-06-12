@@ -70,7 +70,7 @@ You may increase that Weapon's Loaded Ammunition for as much Ammunition as you a
 ###### 2AP
 ''
 
-You attempt to unjam a Weapon in your hand. Make a Manipulate Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you unjam your weapon.
+You attempt to unjam a Jammed Weapon in your hand. Make a Manipulate Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you unjam your weapon.
 
 ## Hide
 ###### 2AP
