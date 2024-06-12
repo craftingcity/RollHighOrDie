@@ -2,7 +2,7 @@
 A character's Defenses are the mechanical estimates of their ability to refuse or withstand damage from opponents using genuine harm against them.
 
 ## Reactive Defenses
-Your three Reactive Defenses are the first line of defense against any harmful effect, including enemy attacks. These three are Reflex, Will, and Fortitude.
+Your three Reactive Defenses are the first line of defense against any harmful effect, including enemy attacks. These three are Reflex, Will, and Fortitude. These values are directly related to a character's [[Ability Scores]] and Combat [[Skills]]
 
 #### Reflex
 Your character's Reflex is their ability to completely out-maneuver a direct physical attack. 

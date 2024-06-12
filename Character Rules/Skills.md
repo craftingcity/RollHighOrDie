@@ -17,7 +17,7 @@ Your Reflex is equal to 8, plus your Degree of Proficiency, plus your Dexterity 
 Your Fortitude is equal to 8, plus your Degree of Proficiency, Plus your Strength or Constitution Modifier, whichever of the two is higher.
 
 #### Will
-Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
+> Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
 
 ### Weaponry
 Your Skill in a given Weapon Base directly affects your ability to hit with Attacks you make while using that Weapon Base.
