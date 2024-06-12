@@ -31,11 +31,13 @@ When this Ammunition is expended, it cannot be recovered.
 # Example Ammunition
 | Title                  | Base | Size | D. Dice | D. Type | Other |
 | ---------------------- | ---- | ---- | ------- | ------- | ----- |
-| Pebble                 |      |      |         |         |       |
-| Clay Bullet            |      |      |         |         |       |
-| Lead Bullet            |      |      |         |         |       |
-| Sharpened Wooden Arrow |      |      |         |         |       |
-| Sharpened Steel Arrow  |      |      |         |         |       |
-| Bodkin Steel Arrow     |      |      |         |         |       |
-| Broadhead Steel Arrow  |      |      |         |         |       |
-| Corehead Steel Arrow   |      |      |         |         |       |
+| Pebble                 |sling-bullet|      |         |         |       |
+| Clay Bullet            |sling-bullet|      |         |         |       |
+| Lead Bullet            |sling-bullet|      |         |         |       |
+| Sharpened Wooden Arrow |arrow|      |         |         |       |
+| Bodkin Wooden Arrow | arrow
+| Broadhead Wooden Ar
+| Sharpened Steel Arrow  |arrow|      |         |         |       |
+| Bodkin Steel Arrow     |arrow|      |         |         |       |
+| Broadhead Steel Arrow  |arrow|      |         |         |       |
+| Corehead Steel Arrow   |   arrow   |      |         |         |       |
