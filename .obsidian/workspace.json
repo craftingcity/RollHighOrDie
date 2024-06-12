@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -191,10 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43f88470215ae94f",
+  "active": "7165e4e6d0277634",
   "lastOpenFiles": [
-    "Character Rules/Skills.md",
     "Combat and Actions/Generic Actions.md",
+    "Character Rules/Skills.md",
     "Character Rules/Defenses.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Creating A Character.md",
