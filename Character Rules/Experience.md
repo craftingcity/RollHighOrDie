@@ -19,9 +19,10 @@ Some Features have Requirements that you must fulfill before you are eligible to
 Some Features are only useable under certain conditions, such as holding a certain kind of Weapon or item, wearing a certain kind of Armor, or having a certain Condition or Character Status. If these conditions are not met, you cannot use that Feature at that time.
 
 ### Gaining Traits
-...
+During a Full Rest, you may gain Traits by expending Experience.
 
 ### Improving Skills
+During a Full Rest, you may gain or improve your Degree of Proficiency in a Skill by expending Experience.
 
 #### Combat Skills
 #### Physical Skills
