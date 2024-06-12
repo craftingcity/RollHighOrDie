@@ -51,6 +51,7 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Animal Empathy
 #### Diplomacy
 #### Deception
+#### Disguise
 #### Intimidation
 
 ## Knowledge Skills
