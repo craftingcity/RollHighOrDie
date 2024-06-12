@@ -14,6 +14,7 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Stealth
 #### Thievery
 #### Throwing
+#### Endurance
 ## Combat Skills
 ### Reactive Defenses
 #### Reflex
