@@ -26,7 +26,9 @@ This is the type of damage that this Ammunition deals. Mundane Ammunition only e
 When this Ammunition is expended, it cannot be recovered.
 
 #### Durable
-When this Ammunition is expended, it can be recovered.
+When this Ammunition is expended, it can be recovered. 
+
+Note the amount of this Ammunition you spend during combat. After combat, you may attempt to recollect your ammunition by making a 
 
 ### Specialized Tags
 

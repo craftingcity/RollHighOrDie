@@ -132,7 +132,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -261,15 +262,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35436dc749e41820",
+  "active": "3ac7a6daa53f82f4",
   "lastOpenFiles": [
-    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Ammunition.md",
+    "Character Rules/Skills.md",
+    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Ability Scores.md",
-    "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
