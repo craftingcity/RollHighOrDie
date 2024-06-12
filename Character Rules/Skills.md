@@ -55,7 +55,18 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Intimidation
 
 ## Knowledge Skills
-#### 
+#### Culture
+#### Law
+#### Alchemy
+#### Nature
+#### Engineering
+
+## Practical Skills
+#### Alchemy
+#### Herbalism
+#### Artistry
+#### Smithing
+#### Bushcraft
 
 
 #### ==OLD OLD OLD==
