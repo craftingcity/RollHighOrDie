@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7117fa1a29fdcd5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cd7c83e60c43e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d07f1061a2cb6c8",
+  "active": "8cd7c83e60c43e5f",
   "lastOpenFiles": [
     "Character Rules/Skills.md",
     "Combat and Actions/Generic Actions.md",
