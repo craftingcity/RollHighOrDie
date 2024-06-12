@@ -4,95 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d3606fa8661bd6b6",
+        "id": "6eda707d2321376d",
         "type": "tabs",
         "children": [
           {
-            "id": "df891285757f9eef",
+            "id": "7165e4e6d0277634",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Skills.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fcb52940a59246d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3283fef2bbb50b02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Defenses.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d6cd70ef3331aa6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Ability Scores.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "35a30dc4a8b44b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Skills.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9fccbfcf2038e0f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Creating A Character.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06bffc1856bea54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,6 +52,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "535ea226861151da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -151,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -213,9 +140,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcb52940a59246d3",
+  "active": "7165e4e6d0277634",
   "lastOpenFiles": [
+    "Combat and Actions/Generic Actions.md",
+    "Character Rules/Creating A Character.md",
     "Character Rules/Skills.md",
+    "Character Rules/Ability Scores.md",
+    "Character Rules/Defenses.md",
     "conflict-files-obsidian-git.md",
     "Selections Glossary/Traits/Traits.md",
     "Selections Glossary/Traits/Traits - Training.md",
@@ -227,11 +158,7 @@
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features",
-    "Combat and Actions/Generic Actions.md",
-    "Character Rules/Ability Scores.md",
-    "Character Rules/Creating A Character.md",
     "Selections Glossary/Features.md",
-    "Character Rules/Defenses.md",
     "Combat and Actions/Combat Definitions.md",
     "README.md",
     "Character Sheet.md",
