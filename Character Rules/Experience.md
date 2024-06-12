@@ -12,7 +12,9 @@ The total number of [[Features]] and [[Traits]] a character has is often a eligi
 ### Gaining Features
 Each Feature has an indicated Experience cost. When you gain a Feature, reduce your current Experience by it's Experience cost.
 
-Some Features have Requirements that you must fulfill before you are eligable to 
+Some Features have Requirements that you must fulfill before you are eligible to gain that Feature.
+
+Some Features are only useable under certain conditions, such as holding a certain kind of Weapon or item, wearing a certain kind of Armor, or 
 
 ### Gaining Traits
 ### Improving Skills
@@ -20,4 +22,4 @@ Some Features have Requirements that you must fulfill before you are eligable to
 #### Physical Skills
 #### Personal Skills
 #### Knowledge Skills
-#### Professional
+#### Professional Skills
