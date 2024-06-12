@@ -67,6 +67,12 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Artistry
 #### Smithing
 #### Bushcraft
+#### Performance
+#### Masonry
+#### Jeweling
+#### Woodworking
+#### Riding
+#### C
 
 
 #### ==OLD OLD OLD==
