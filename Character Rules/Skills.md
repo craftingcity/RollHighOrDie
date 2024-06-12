@@ -7,13 +7,16 @@ Proficiency has five Degrees, each of which represents a point in a range from 0
 When you make a Skill Check, make an Ability Check using the Skill's Core Ability and add your Degree of Proficiency.
 
 ## Physical Skills
+### Strength
 #### Athletics
+### Dexterity
 #### Acrobatics
 #### Stealth
 #### Manipulation
 #### Stealth
 #### Thievery
 #### Throwing
+### Constitution
 #### Endurance
 ## Combat Skills
 ### Reactive Defenses
@@ -37,15 +40,30 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 ### Arcane Casting
 ### Divine Casting
 ## Personal Skills
+### Intelligence
+#### Appraise
+### Wisdom
+### Charisma
 #### Animal Empathy
 #### Diplomacy
 #### Deception
 #### Intimidation
-#### Appraise
+
 #### Perception
 #### Investigation
 #### Deduction
 #### Streetwise
+## Knowledge Skills
+#### Bushcraft
+#### Medicine
+#### Engineering
+#### History
+#### Arcane
+#### Alchemical
+#### Divine
+#### Electric
+#### Culture
+
 ## Profession Skills
 #### Artist
 #### Dancer
@@ -62,13 +80,3 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Woodsmith
 #### Jewler
 #### Leatherworker
-## Knowledge Skills
-#### Bushcraft
-#### Medicine
-#### Engineering
-#### History
-#### Arcane
-#### Alchemical
-#### Divine
-#### Electric
-#### Culture
