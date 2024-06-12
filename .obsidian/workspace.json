@@ -26,6 +26,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "73b4cf251b7410a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Experience.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "3c306f1fe0c13d8d",
             "type": "leaf",
             "state": {
@@ -61,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Character Rules/Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Character Rules/Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Character Rules/Experience.md"
               }
             }
           }
@@ -191,10 +202,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7165e4e6d0277634",
+  "active": "73b4cf251b7410a7",
   "lastOpenFiles": [
-    "Combat and Actions/Generic Actions.md",
     "Character Rules/Skills.md",
+    "Combat and Actions/Generic Actions.md",
     "Character Rules/Defenses.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Creating A Character.md",

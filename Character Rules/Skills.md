@@ -34,6 +34,7 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 #### Crossbow
 #### Pistol
 #### Rifle
+
 ### Arcane Casting
 ### Divine Casting
 
