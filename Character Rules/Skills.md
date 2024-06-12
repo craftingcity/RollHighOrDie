@@ -56,16 +56,17 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 
 ## Knowledge Skills
 #### Culture
-#### Law
-#### Alchemy
-#### Nature
+#### Bureaucracy
+#### Arcane
+#### Natural
 #### Engineering
-#### Medicine
+#### Medical
 
 ## Professional Skills
 #### Alchemy
-#### Herbalism
 #### Artistry
+#### Herbalism
+
 #### Smithing
 #### Leatherworking
 #### Bushcraft
