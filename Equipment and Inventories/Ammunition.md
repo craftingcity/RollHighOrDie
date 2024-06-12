@@ -24,12 +24,17 @@ This is the amount (y) and type (x) of dice you will roll to deal damage with th
 This is the type of damage that this Ammunition deals. Mundane Ammunition only ever deal Piercing, Bludgeoning, and/or Slashing damage.
 
 ### Mundane Tags
+#### Fragile
+When this 
 ### Specialized Tags
 
 # Example Ammunition
-| Title       | Base | Size | D. Dice | D. Type | Other |
-| ----------- | ---- | ---- | ------- | ------- | ----- |
-| Pebble      |      |      |         |         |       |
-| Clay Bullet |      |      |         |         |       |
-| Lead Bullet |      |      |         |         |       |
-|             |      |      |         |         |       |
+| Title                  | Base | Size | D. Dice | D. Type | Other |
+| ---------------------- | ---- | ---- | ------- | ------- | ----- |
+| Pebble                 |      |      |         |         |       |
+| Clay Bullet            |      |      |         |         |       |
+| Lead Bullet            |      |      |         |         |       |
+| Sharpened Wooden Arrow |      |      |         |         |       |
+| Sharpened Steel Arrow  |      |      |         |         |       |
+| Broadhead Steel Arrow  |      |      |         |         |       |
+|                        |      |      |         |         |       |
