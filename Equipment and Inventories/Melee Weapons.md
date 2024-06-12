@@ -107,35 +107,35 @@ When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[C
 When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Condition]].
 
 # Example Weapons
-| Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other             |
-| -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ----------------- |
-| Fists          | Short Blunt | -      | Melee - 5'  | Strength  | Reflex  | STR     | Bludgeoning |                   |
-| Brass Knuckles | Short Blunt | Small  | Melee - 5'  | Strength  | Reflex  | 1d4     | Bludgeoning | Quick             |
-| Baton          | Short Blunt | Small  | Melee - 5'  | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
-| Work Hammer    | Short Blunt | Small  | Melee - 5'  | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light             |
-| War Club       | Short Blunt | Small  | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning |                   |
-| Mace           | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning | Versatile (1d8)   |
-| Work Shovel    | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
-| Warhammer      | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
-| Maul           | Long Blunt  | Large  | Melee - 5'  | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
-| Dagger         | Short Blade | Small  | Melee - 5'  | STR/DEX   | Reflex  | 1d4     | Slashing    | Light, Quick      |
-| Throwing Knife | Short Blade | Small  | Melee - 5'  | Dexterity | Reflex  | 1d4     | Slashing    | Throwable         |
-| Seax           | Short Blade | Small  | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    | Heavy             |
-| Shortsword     | Long Blade  | Medium | Melee - 5'  | Dexterity | Reflex  | 1d6     | Slashing    | Versatile (1d8)   |
-| Machete        | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d6     | Slashing    | Light             |
-| Longsword      | Long Blade  | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Versatile (1d10)  |
-| Rapier         | Long Blade  | Medium | Melee - 5'  | Dexterity | Reflex  | 1d8     | Piercing    |                   |
-| Scimitar       | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d8     | Slashing    | Light             |
-| Greatsword     | Long Blade  | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Heavy, Two-Handed |
-| Hooksword      | Long Blade  | Large  | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Heavy, Two-Handed |
-| Hatchet        | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    |                   |
-| Work Axe       | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    |                   |
-| Broadaxe       | Axe         | Large  | Melee - 5'  | Strength  | Reflex  | 1d10    | Slashing    |                   |
-| Bo Staff       | Polearm     | Medium | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
-| Spear          | Polearm     | Medium | Melee - 10' | STR/DEX   | Reflex  | 1d6     | Slashing    |                   |
-| Javelin        | Polearm     | Medium | Melee - 10' | Dexterity | Reflex  | 1d6     | Piercing    |                   |
-| Trident        | Polearm     | Large  | Melee - 10' | STR/DEX   | Reflex  | 1d8     | Piercing    |                   |
-| Glaive         | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    |                   |
-| Halberd        | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    |                   |
-| Bullwhip       | Flexible    | Small  | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                   |
-| Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    |                   |
+| Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
+| -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
+| Fists          | Short Blunt | -      | Melee - 5'  | Strength  | Reflex  | STR     | Bludgeoning |                        |
+| Brass Knuckles | Short Blunt | Small  | Melee - 5'  | Strength  | Reflex  | 1d4     | Bludgeoning | Quick                  |
+| Baton          | Short Blunt | Small  | Melee - 5'  | Dexterity | Reflex  | 1d4     | Bludgeoning |                        |
+| Work Hammer    | Short Blunt | Small  | Melee - 5'  | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light                  |
+| War Club       | Short Blunt | Small  | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning |                        |
+| Mace           | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning | Versatile (1d8)        |
+| Work Shovel    | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed             |
+| Warhammer      | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed      |
+| Maul           | Long Blunt  | Large  | Melee - 5'  | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed      |
+| Dagger         | Short Blade | Small  | Melee - 5'  | STR/DEX   | Reflex  | 1d4     | Slashing    | Light, Quick           |
+| Throwing Knife | Short Blade | Small  | Melee - 5'  | Dexterity | Reflex  | 1d4     | Slashing    | Throwable              |
+| Seax           | Short Blade | Small  | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    | Heavy                  |
+| Shortsword     | Long Blade  | Medium | Melee - 5'  | Dexterity | Reflex  | 1d6     | Slashing    | Versatile (1d8)        |
+| Machete        | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d6     | Slashing    | Light                  |
+| Longsword      | Long Blade  | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Versatile (1d10)       |
+| Rapier         | Long Blade  | Medium | Melee - 5'  | Dexterity | Reflex  | 1d8     | Piercing    |                        |
+| Scimitar       | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d8     | Slashing    | Light                  |
+| Greatsword     | Long Blade  | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Heavy, Two-Handed      |
+| Hooksword      | Long Blade  | Large  | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Heavy, Two-Handed      |
+| Hatchet        | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    |                        |
+| Work Axe       | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Two-Handed             |
+| Broadaxe       | Axe         | Large  | Melee - 5'  | Strength  | Reflex  | 1d10    | Slashing    | Heavy, Two-Handed      |
+| Bo Staff       | Polearm     | Medium | Melee - 10' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light                  |
+| Spear          | Polearm     | Medium | Melee - 10' | STR/DEX   | Reflex  | 1d6     | Slashing    | Light, Versatile (1d8) |
+| Javelin        | Polearm     | Medium | Melee - 10' | Dexterity | Reflex  | 1d6     | Piercing    | Throwable              |
+| Trident        | Polearm     | Large  | Melee - 10' | STR/DEX   | Reflex  | 1d8     | Piercing    | Light, Versatile (2d6) |
+| Glaive         | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Two-Handed             |
+| Halberd        | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d8     | Slashing    | Heavy, Two-Handed      |
+| Bullwhip       | Flexible    | Small  | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                        |
+| Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    |                        |
