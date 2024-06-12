@@ -118,16 +118,16 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Work Shovel    | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Bludgeoning | Two-Handed        |
 | Warhammer      | Long Blunt  | Medium | Melee - 5'  | Strength  | Reflex  | 2d4     | Bludgeoning | Heavy, Two-Handed |
 | Maul           | Long Blunt  | Large  | Melee - 5'  | Strength  | Reflex  | 2d6     | Bludgeoning | Heavy, Two-Handed |
-| Dagger         | Short Blade | Small  | Melee - 5'  | Dexterity | Reflex  | 1d4     | Slashing    | Light, Quick      |
+| Dagger         | Short Blade | Small  | Melee - 5'  | STR/DEX   | Reflex  | 1d4     | Slashing    | Light, Quick      |
 | Throwing Knife | Short Blade | Small  | Melee - 5'  | Dexterity | Reflex  | 1d4     | Slashing    | Throwable         |
 | Seax           | Short Blade | Small  | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    | Heavy             |
-| Shortsword     | Long Blade  | Medium | Melee - 5'  | Dexterity | Reflex  | 1d6     | Slashing    |                   |
-| Machete        | Long Blade  | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    |                   |
-| Longsword      | Long Blade  | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    |                   |
+| Shortsword     | Long Blade  | Medium | Melee - 5'  | Dexterity | Reflex  | 1d6     | Slashing    | Versatile (1d8)   |
+| Machete        | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d6     | Slashing    | Light             |
+| Longsword      | Long Blade  | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Versatile (1d10)  |
 | Rapier         | Long Blade  | Medium | Melee - 5'  | Dexterity | Reflex  | 1d8     | Piercing    |                   |
-| Scimitar       | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d8     | Slashing    |                   |
-| Greatsword     | Long Blade  | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    |                   |
-| Hooksword      | Long Blade  | Large  | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    |                   |
+| Scimitar       | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d8     | Slashing    | Light             |
+| Greatsword     | Long Blade  | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Heavy, Two-Handed |
+| Hooksword      | Long Blade  | Large  | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Heavy, Two-Handed |
 | Hatchet        | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    |                   |
 | Work Axe       | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    |                   |
 | Broadaxe       | Axe         | Large  | Melee - 5'  | Strength  | Reflex  | 1d10    | Slashing    |                   |
