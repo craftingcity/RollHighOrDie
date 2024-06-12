@@ -6,18 +6,6 @@ Proficiency has five Degrees, each of which represents a point in a range from 0
 
 When you make a Skill Check, make an Ability Check using the Skill's Core Ability and add your Degree of Proficiency.
 
-## Physical Skills
-### Strength
-#### Athletics
-### Dexterity
-#### Acrobatics
-#### Stealth
-#### Manipulation
-#### Stealth
-#### Thievery
-#### Throwing
-### Constitution
-#### Endurance
 ## Combat Skills
 ### Reactive Defenses
 #### Reflex
@@ -39,13 +27,27 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Rifle
 ### Arcane Casting
 ### Divine Casting
+
+## Physical Skills
+### Strength
+#### Athletics
+### Dexterity
+#### Acrobatics
+#### Manipulation
+#### Stealth
+#### Stealth
+#### Thievery
+#### Throwing
+### Constitution
+#### Endurance
+
 ## Personal Skills
 ### Intelligence
 #### Appraise
 #### Investigation
 ### Wisdom
-#### Perception
 #### Deduction
+#### Perception
 #### Streetwise
 ### Charisma
 #### Animal Empathy
@@ -55,58 +57,25 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 #### Intimidation
 
 ## Knowledge Skills
-#### Culture
-#### Bureaucracy
 #### Arcane
-#### Natural
+#### Bureaucracy
+#### Culture
 #### Engineering
 #### Medical
+#### Natural
 
 ## Professional Skills
 #### Alchemy
 #### Artistry
-#### Herbalism
-
-#### Smithing
-#### Leatherworking
 #### Bushcraft
-#### Performance
-#### Masonry
-#### Jeweling
-#### Woodworking
-#### Riding
 #### Cooking
 #### Crafting
+#### Herbalism
+#### Jeweling
+#### Leatherworking
+#### Masonry
+#### Smithing
+#### Performance
+#### Riding
+#### Woodworking
 #### Weaving
-
-
-#### ==OLD OLD OLD==
-
-
-## Knowledge Skills
-#### Bushcraft
-#### Medicine
-#### Engineering
-#### History
-#### Arcane
-#### Alchemical
-#### Divine
-#### Electric
-#### Culture
-
-## Profession Skills
-#### Artist
-#### Dancer
-#### Musical Participant
-#### Blacksmith
-#### Scribe
-#### Chef
-#### Forger
-#### Farmer
-#### Fisher
-#### Tailor
-#### Miner
-#### Mason
-#### Woodsmith
-#### Jewler
-#### Leatherworker
