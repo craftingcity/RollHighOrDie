@@ -5,7 +5,9 @@ While most Actions a character will use throughout a game of RHoD come from thei
 ###### W AP
 'You attack your opposition with a weapon and the intention to damage them into compliance. Or destruction.'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll by making a Combat Skill Check using your Weapon's , then adding your any other bonuses or deficits. This is your Attack Roll Total.
+Target a creature within your Weapon Range and establish Line of Sight. 
+
+Make an Attack Roll by making a Skill Check using your Degree of Proficiency in your Weapon's Base, then adding your any other bonuses or deficits. This is your Attack Roll Total.
 
 Compare your Attack Roll Total to your target's Relevant Defense for your Weapon. If your Total is greater or equal to the target's Defense, you've "hit". 
 

@@ -19,7 +19,8 @@ Your Fortitude is equal to 8, plus your Degree of Proficiency, Plus your Strengt
 #### Will
 Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
 
-### Melee Combat
+### Melee Weaponry
+Each 
 #### Short Blunt
 #### Long Blunt
 #### Short Blade
