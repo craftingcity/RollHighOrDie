@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -203,8 +203,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efcead8d1c449685",
+  "active": "7165e4e6d0277634",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Defenses.md",
     "Character Rules/Experience.md",
@@ -230,7 +231,6 @@
     "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
