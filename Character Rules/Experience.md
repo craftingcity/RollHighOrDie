@@ -14,7 +14,7 @@ Each Feature has an indicated Experience cost. When you gain a Feature, reduce y
 
 Some Features have Requirements that you must fulfill before you are eligible to gain that Feature.
 
-Some Features are only useable under certain conditions, such as holding a certain kind of Weapon or item, wearing a certain kind of Armor, or 
+Some Features are only useable under certain conditions, such as holding a certain kind of Weapon or item, wearing a certain kind of Armor, or having a certain Condition or Character Status. If these conditions are not met, you cannot use that Feature at that time.
 
 ### Gaining Traits
 ### Improving Skills

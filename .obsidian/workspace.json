@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Character Status\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,11 +205,12 @@
   },
   "active": "73b4cf251b7410a7",
   "lastOpenFiles": [
+    "Character Sheet.md",
+    "Character Rules/Experience.md",
     "Character Rules/Skills.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Defenses.md",
-    "Character Rules/Experience.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Creating A Character.md",
     "Character Rules/Ability Scores.md",
@@ -227,7 +228,6 @@
     "Selections Glossary/Features.md",
     "Combat and Actions/Combat Definitions.md",
     "README.md",
-    "Character Sheet.md",
     "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
