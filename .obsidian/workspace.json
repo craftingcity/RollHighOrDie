@@ -26,6 +26,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3c306f1fe0c13d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "43f88470215ae94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat and Actions/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "8cd7c83e60c43e5f",
             "type": "leaf",
             "state": {
@@ -37,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Combat and Actions/Generic Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Combat and Actions/Generic Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Combat and Actions/Generic Actions.md"
               }
             }
           }
@@ -166,14 +191,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7165e4e6d0277634",
+  "active": "43f88470215ae94f",
   "lastOpenFiles": [
-    "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Skills.md",
+    "Character Rules/Defenses.md",
+    "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Creating A Character.md",
     "Character Rules/Ability Scores.md",
-    "Character Rules/Defenses.md",
     "conflict-files-obsidian-git.md",
     "Selections Glossary/Traits/Traits.md",
     "Selections Glossary/Traits/Traits - Training.md",

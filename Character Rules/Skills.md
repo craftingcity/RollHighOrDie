@@ -10,11 +10,15 @@ When you make a Skill Check, make an Ability Check using the Skill's Core Abilit
 The following Skills are directly related to a character's performance in combat.
 
 ### Reactive Defenses
-You add 
-
 #### Reflex
+Your Reflex is equal to 8, plus your Degree of Proficiency, plus your Dexterity or Intelligence Modifier, whichever of the two is higher.
+
 #### Fortitude
+Your Fortitude is equal to 8, plus your Degree of Proficiency, Plus your Strength or Constitution Modifier, whichever of the two is higher.
+
 #### Will
+Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
+
 ### Melee Combat
 #### Short Blunt
 #### Long Blunt

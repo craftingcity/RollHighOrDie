@@ -9,15 +9,15 @@ Your character's Reflex is their ability to completely out-maneuver a direct phy
 
 Your Reflex is equal to 8, plus your Degree of Proficiency, plus your Dexterity or Intelligence Modifier, whichever of the two is higher.
 
-#### Will
-Your character's Will is their ability to withstand harmful mental effects, natural, magical, or otherwise. 
-
-Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
-
 #### Fortitude
 Your character's Fortitude is their ability to ignore and combat internal effects and changes.
 
 Your Fortitude is equal to 8, plus your Degree of Proficiency, Plus your Strength or Constitution Modifier, whichever of the two is higher.
+
+#### Will
+Your character's Will is their ability to withstand harmful mental effects, natural, magical, or otherwise. 
+
+Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
 
 ## Ablative Defenses
 Your two Ablative Defenses are the final line of defense against harmful effects, and when your Armoring and Vitality are reduced to zero and then below, you will quickly become welcomed to your final rest.
