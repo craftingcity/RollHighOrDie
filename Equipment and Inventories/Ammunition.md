@@ -31,4 +31,5 @@ This is the type of damage that this Ammunition deals. Mundane Ammunition only e
 | ----------- | ---- | ---- | ------- | ------- | ----- |
 | Pebble      |      |      |         |         |       |
 | Clay Bullet |      |      |         |         |       |
-| Lead Bullet            |      |      |         |         |       |
+| Lead Bullet |      |      |         |         |       |
+|             |      |      |         |         |       |

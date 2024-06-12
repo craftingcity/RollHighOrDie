@@ -99,7 +99,7 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Slingshot                    | Sling    | Small  | 30'/90'     | Dexterity | Reflex  | sling-bullet | Capacity (1)                             |     |
 | Leverage Thrower             | Sling    | Medium | 25'/75'     | Dexterity | Reflex  | great-arrow  | Capacity (1)                             |     |
 | Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity | Reflex  | arrow        | Two-Handed                               |     |
-| Compound Bow                 | Bow      | Medium | 120'/360'   | Dexterity | Reflex  | arrow        | Two-Handed                               |     |
+| Compound Bow                 | Bow      | Medium | 120'/360'   | Dexterity | Reflex  | arrow        | Two-Handed, Mechanical ()                               |     |
 | Greatbow                     | Bow      | Large  | 240'/720'   | Dexterity | Reflex  | great-arrow  | Capacity (1), Two-Handed                 |     |
 | Wooden Crossbow              | Crossbow | Medium | 80'/240'    | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed                 |     |
 | Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed                 |     |
