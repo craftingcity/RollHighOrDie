@@ -36,5 +36,6 @@ When this Ammunition is expended, it cannot be recovered.
 | Lead Bullet            |      |      |         |         |       |
 | Sharpened Wooden Arrow |      |      |         |         |       |
 | Sharpened Steel Arrow  |      |      |         |         |       |
+| Bodkin Steel Arrow     |      |      |         |         |       |
 | Broadhead Steel Arrow  |      |      |         |         |       |
-|                        |      |      |         |         |       |
+| Corehead Steel Arrow   |      |      |         |         |       |
