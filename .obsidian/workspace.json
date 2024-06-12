@@ -4,16 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "46becb69d02c6be2",
+        "id": "d3606fa8661bd6b6",
         "type": "tabs",
         "children": [
           {
-            "id": "a19a92436e94b3a0",
+            "id": "df891285757f9eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md",
+                "file": "Character Rules/Skills.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3283fef2bbb50b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d6cd70ef3331aa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Ability Scores.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35a30dc4a8b44b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Skills.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9fccbfcf2038e0f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Creating A Character.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "06bffc1856bea54f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat and Actions/Generic Actions.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,20 +116,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "a44eb621d33dbe85",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -85,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -147,36 +200,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a19a92436e94b3a0",
+  "active": "df891285757f9eef",
   "lastOpenFiles": [
+    "Selections Glossary/Traits/Traits.md",
+    "Selections Glossary/Traits/Traits - Training.md",
+    "Selections Glossary/Traits/Traits - Physicality.md",
+    "Selections Glossary/Traits/Traits - Mentality.md",
+    "Selections Glossary/Traits",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Martial.md",
-    "Selections Glossary/Traits/Traits.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
-    "Selections Glossary/Traits/Traits - Training.md",
-    "Selections Glossary/Traits/Traits - Mentality.md",
-    "Selections Glossary/Traits/Traits - Physicality.md",
-    "Combat and Actions/Combat Definitions.md",
-    "Selections Glossary/Traits",
     "Selections Glossary/Features",
-    "Character Rules/Creating A Character.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Skills.md",
     "Character Rules/Ability Scores.md",
+    "Character Rules/Creating A Character.md",
+    "Selections Glossary/Features.md",
     "Character Rules/Defenses.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Melee Weapons.md",
+    "Combat and Actions/Combat Definitions.md",
     "README.md",
     "Character Sheet.md",
     "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Equipment and Inventories/Melee Weapons.md",
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Equipment and Inventories/Example Weapons.md",
-    "Equipment and Inventories/Armors.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Selections Glossary",
     "Combat and Actions",
