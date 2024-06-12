@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Character Rules/Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Character Rules/Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Character Rules/Experience.md"
               }
             }
           }
@@ -203,14 +203,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7165e4e6d0277634",
+  "active": "73b4cf251b7410a7",
   "lastOpenFiles": [
+    "Character Rules/Skills.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Defenses.md",
     "Character Rules/Experience.md",
     "Combat and Actions/Generic Actions.md",
-    "Character Rules/Skills.md",
     "Character Rules/Creating A Character.md",
     "Character Rules/Ability Scores.md",
     "conflict-files-obsidian-git.md",
