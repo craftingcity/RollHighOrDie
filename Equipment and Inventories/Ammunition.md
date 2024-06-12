@@ -27,6 +27,8 @@ This is the type of damage that this Ammunition deals. Mundane Ammunition only e
 ### Specialized Tags
 
 # Example Ammunition
-| Title | Base | Size | D. Dice | D. Type | Other |
-| ----- | ---- | ---- | ------- | ------- | ----- |
-|       |      |      |         |         |       |
+| Title       | Base | Size | D. Dice | D. Type | Other |
+| ----------- | ---- | ---- | ------- | ------- | ----- |
+| Pebble      |      |      |         |         |       |
+| Clay Bullet |      |      |         |         |       |
+| Lead Bullet            |      |      |         |         |       |
