@@ -7,7 +7,11 @@ Proficiency has five Degrees, each of which represents a point in a range from 0
 When you make a Skill Check, make an Ability Check using the Skill's Core Ability and add your Degree of Proficiency.
 
 ## Combat Skills
+The following Skills are directly related to a character's performance in combat.
+
 ### Reactive Defenses
+You add 
+
 #### Reflex
 #### Fortitude
 #### Will

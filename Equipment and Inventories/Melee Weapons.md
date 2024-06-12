@@ -138,4 +138,4 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Cond
 | Glaive         | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Two-Handed             |
 | Halberd        | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d8     | Slashing    | Heavy, Two-Handed      |
 | Bullwhip       | Flexible    | Small  | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                        |
-| Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    |                        |
+| Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        | 
