@@ -62,9 +62,10 @@ You are adjacent to Low Cover, such as a mid-sized crate. You have Line of Sight
 ###### No Cover
 You are not adjacent to any cover.
 
-### Rules for Enviroments
+### Rules for Environments
+## Weather
 ## Lighting
-Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a weapon when used effectively.
+Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a powerful weapon when used effectively.
 
 If a space would be lit by multiple sources, it is considered lit by the brightest available light.
 
@@ -88,5 +89,8 @@ Darkness is little to no light, where you cannot reasonably be certain of what y
 
 While you are in a space lit by Darkness, you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks. In addition, you impose Disadvantage on Attacks against you.
 
+## Terrain
 ## Steam & Smoke
-## 
+## Bodies of Water
+## Heat & Fire
+## Cold & Ice
