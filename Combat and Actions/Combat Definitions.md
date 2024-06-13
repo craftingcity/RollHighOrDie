@@ -62,6 +62,9 @@ You are adjacent to Low Cover, such as a mid-sized crate. You have Line of Sight
 ###### No Cover
 You are not adjacent to any cover.
 
+## Damage Types
+
+
 ### Rules for Environments
 ## Weather
 ## Lighting

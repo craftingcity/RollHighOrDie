@@ -1,4 +1,4 @@
-# Classic Melee Weapons
+# Realist Melee Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
 | -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
 | Fists          | Short Blunt | -      | Melee - 5'  | Strength  | Reflex  | STR     | Bludgeoning |                        |
@@ -31,6 +31,8 @@
 | Halberd        | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d8     | Slashing    | Heavy, Two-Handed      |
 | Bullwhip       | Flexible    | Small  | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                        |
 | Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        | 
+
+# Fantastic Melee Weapons
 
 # Classic Ranged Weapons
 | Title              | Base     | Size   | Range     | Ability   | Defense | Ammunition   | Other                                       | 
@@ -68,6 +70,8 @@
 | Light Squad Automatic Weapon | Rifle  | Large  | 480'/1440'  | Dexterity | Reflex    | high caliber | Two-Handed, Burst (5), Mechanical (3/18)                    |
 | Heavy Squad Automatic Weapon | Rifle  | Large  | 1080'/3240' | Dexterity | Reflex    | high caliber | Two-Handed, Burst (5), Mechanical (4/18)                    |
 | Flamethrower                 | Rifle  | Large  | 30'/60'     | Dexterity | Fortitude | energy       | Two-Handed, Mechanical (5/22)                                                            |
+
+# Fantastic Ranged Weapons
 
 # Projectile Ammunition
 | Title                       | Base         | Size       | D. Dice | D. Type     | Other              |
@@ -157,3 +161,5 @@
 | Title  | Base   | Size       | D. Dice | D. Type | Other          |
 | ------ | ------ | ---------- | ------- | ------- | -------------- |
 | Diesel | energy | Tiny (100) | 2d8     | Fire    | Incendiary (3) |
+
+# Fantastic Ammunition

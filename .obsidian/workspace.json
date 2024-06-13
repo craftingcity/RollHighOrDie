@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -134,7 +135,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md"
+                "file": "Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -216,14 +218,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95927896b705e4ac",
+  "active": "06c439741c873e9c",
   "lastOpenFiles": [
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Character Rules/Skills.md",
     "Combat and Actions/Combat Definitions.md",
-    "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
