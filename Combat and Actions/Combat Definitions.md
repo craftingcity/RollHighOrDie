@@ -68,7 +68,15 @@ Damage in RHoD is categorized based on their source and effect. Depending on the
 #### Bludgeoning
 #### Slashing
 #### Piercing
-#### Bludgeoning
+#### Acid
+#### Cold
+#### Electric
+#### Fire
+#### Force
+#### Necrotic
+#### Poison
+#### Psychic
+#### Radiant
 
 ### True Damage
 There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
