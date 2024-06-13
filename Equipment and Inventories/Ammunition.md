@@ -47,13 +47,13 @@ When you deal Damage using this Ammunition, you may deal half that damage as Tru
 When you deal 
 
 #### Over-Pressured
-
+When you make an Attack using this Ammunition, 
 
 #### Tracer
 When you make an Attack using this Ammunition, the space your target occupies is lit by Low Light until the end of your turn.
 
 #### Incendiary
-When you make an Attack using this Ammunition, if the space your target occupies is 'Flamable'
+When you make an Attack using this Ammunition, if the space your target occupies is 'Flammable'
 
 
 # Example Ammunition
