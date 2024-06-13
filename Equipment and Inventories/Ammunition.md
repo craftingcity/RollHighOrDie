@@ -110,11 +110,20 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | .303 British (JHP)    | high caliber | Tiny  |         |         |       |
 | .303 British (AP)     | high caliber | Tiny  |         |         |       |
 | .303 British (AP+I)   | high caliber | Tiny  |         |         |       |
-| 7.62x39mm USSR (FMJ)        | high caliber | Tiny  |         |         |       |
-| 7.62x39mm USSR (JHP)        | high caliber | Tiny  |         |         |       |
-| 7.62x39mm USSR ()        | high caliber | Tiny  |         |         |       |
-| 7.62x39mm USSR ()        | high caliber | Tiny  |         |         |       |
-| 7.62x51mm NATO        | high caliber | Tiny  |         |         |       |
-| 7.62x54mmR USSR       | high caliber | Small |         |         |       |
-| .338 Lapua            | high caliber | Small |         |         |       |
-| .50 BMG               | high caliber | Small |         |         |       |
+| 7.62x39mm USSR (FMJ)  | high caliber | Tiny  |         |         |       |
+| 7.62x39mm USSR (JHP)  | high caliber | Tiny  |         |         |       |
+| 7.62x39mm USSR (AP)   | high caliber | Tiny  |         |         |       |
+| 7.62x39mm USSR (AP+I) | high caliber | Tiny  |         |         |       |
+| 7.62x51mm NATO (FMJ)  | high caliber | Tiny  |         |         |       |
+| 7.62x51mm NATO (JHP)  | high caliber | Tiny  |         |         |       |
+| 7.62x51mm NATO (AP)   | high caliber | Tiny  |         |         |       |
+| 7.62x51mm NATO (AP+I) | high caliber | Tiny  |         |         |       |
+| 7.62x54mmR USSR (FMJ) | high caliber | Small |         |         |       |
+| 7.62x54mmR USSR (AP)  | high caliber | Small |         |         |       |
+| .338 Lapua (FMJ)      | high caliber | Small |         |         |       |
+| .338 Lapua (JHP)      | high caliber | Small |         |         |       |
+| .338 Lapua (AP)       | high caliber | Small |         |         |       |
+| .338 Lapua (AP+I)     | high caliber | Small |         |         |       |
+| .50 BMG (FMJ)         | high caliber | Small |         |         |       |
+| .50 BMG (AP)          | high caliber | Small |         |         |       |
+| .50 BMG (AP+I)        | high caliber | Small |         |         |       |
