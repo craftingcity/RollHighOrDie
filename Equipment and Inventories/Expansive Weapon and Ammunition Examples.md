@@ -67,14 +67,14 @@
 | Full-Auto Shotgun            | Rifle  | Medium | 60'/120'    | Dexterity | Reflex    | shotshell    | Capacity (5), Two-Handed, Burst (3), Mechanical (3/16)      |
 | Light Squad Automatic Weapon | Rifle  | Large  | 480'/1440'  | Dexterity | Reflex    | high caliber | Two-Handed, Burst (5), Mechanical (3/18)                    |
 | Heavy Squad Automatic Weapon | Rifle  | Large  | 1080'/3240' | Dexterity | Reflex    | high caliber | Two-Handed, Burst (5), Mechanical (4/18)                    |
-| Flamethrower                 | Rifle  | Large  | 30'/60'     | Dexterity | Fortitude | energy       | Two-Handed,                                                             |
+| Flamethrower                 | Rifle  | Large  | 30'/60'     | Dexterity | Fortitude | energy       | Two-Handed, Mechanical (5/22)                                                            |
 
 # Projectile Ammunition
 | Title                       | Base         | Size  | D. Dice | D. Type     | Other              |
 | --------------------------- | ------------ | ----- | ------- | ----------- | ------------------ |
-| Pebble                      | sling-bullet | Tiny  | 1d4     | Bludgeoning | Fragile            |
-| Clay Bullet                 | sling-bullet | Small | 1d6     | Bludgeoning | Fragile            |
-| Lead Bullet                 | sling-bullet | Small | 1d6     | Bludgeoning | Durable            |
+| Pebble                      | sling-bullet | Tiny (25)  | 1d4     | Bludgeoning | Fragile            |
+| Clay Bullet                 | sling-bullet | Small (25) | 1d6     | Bludgeoning | Fragile            |
+| Lead Bullet                 | sling-bullet | Small (25) | 1d6     | Bludgeoning | Durable            |
 | Cherry Bomb                 | sling-bullet | Small | 1d4     | Force       | Fragile, Explosive |
 | Mini-Grenade                | sling-bullet | Small | 3d6     | Force       | Fragile, Explosive | 
 | Sharpened Wooden Arrow      | arrow        | Small | 1d4     | Piercing    | Fragile            |
@@ -152,3 +152,8 @@
 | .50 BMG (FMJ)         | high caliber | Small | 3d12    | Piercing    |                              |
 | .50 BMG (AP)          | high caliber | Small | 3d12    | Piercing    | Armor Piercing               |
 | .50 BMG (AP+I)        | high caliber | Small | 3d12    | Piercing    | Armor Piercing, Incendiary   |
+
+# Energy Ammunition
+| Title  | Base   | Size       | D. Dice | D. Type | Other |
+| ------ | ------ | ---------- | ------- | ------- | ----- |
+| Diesel | energy | Tiny (100) |         |         |       |
