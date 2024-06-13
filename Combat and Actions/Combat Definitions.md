@@ -93,7 +93,10 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 #### Solid Terrain
 #### Shifting Terrain
 #### Difficult Terrain
-
 ## Bodies of Water
+#### Suffocating
+While a character does not have access to healthy, breathable air, they can hold their breath for a number of 
 ## Heat & Fire
+#### Flammable
+#### Enflamed
 ## Cold & Ice
