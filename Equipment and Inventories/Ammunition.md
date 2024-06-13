@@ -36,6 +36,8 @@ If the Total of your Check is 10 or greater, you may recover half of your expend
 If the Total of your Check is 20 or greater, you may recover all of your expended Ammunition.
 
 ### Specialized Tags
+#### Explosive
+#### Serrated 
 
 # Example Ammunition
 | Title                       | Base         | Size  | D. Dice | D. Type | Other   |
@@ -43,6 +45,7 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Pebble                      | sling-bullet | Tiny  | 1d4     |         | Fragile |
 | Clay Bullet                 | sling-bullet | Small | 1d6     |         | Fragile |
 | Lead Bullet                 | sling-bullet | Small | 1d6     |         |         |
+| Cherry Bomb                 | sling-bullet | Small | 1d4     |         |         |
 | Sharpened Wooden Arrow      | arrow        | Small | 1d4     |         | Fragile |
 | Bodkin Wooden Arrow         | arrow        | Small | 1d6     |         | Fragile |
 | Broadhead Wooden Arrow      | arrow        | Small | 1d6     |         | Fragile |
@@ -51,14 +54,14 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Bodkin Steel Arrow          | arrow        | Small | 1d8     |         |         |
 | Broadhead Steel Arrow       | arrow        | Small | 1d8     |         |         |
 | Corehead Steel Arrow        | arrow        | Small | 1d6     |         |         |
-| Sharpened Wooden Bolt       | bolt         |       |         |         |         |
-| Bodkin Wooden Bolt          | bolt         |       |         |         |         |
-| Broadhead Wooden Bolt       | bolt         |       |         |         |         |
-| Corehead Wooden Bolt        | bolt         |       |         |         |         |
-| Sharpened Steel Bolt        | bolt         |       |         |         |         |
-| Bodkin Steel Bolt           | bolt         |       |         |         |         |
-| Broadhead Steel Bolt        | bolt         |       |         |         |         |
-| Corehead Steel Bolt         | bolt         |       |         |         |         |
+| Sharpened Wooden Bolt       | bolt         | Tiny  |         |         |         |
+| Bodkin Wooden Bolt          | bolt         | Tiny  |         |         |         |
+| Broadhead Wooden Bolt       | bolt         | Tiny  |         |         |         |
+| Corehead Wooden Bolt        | bolt         | Tiny  |         |         |         |
+| Sharpened Steel Bolt        | bolt         | Tiny  |         |         |         |
+| Bodkin Steel Bolt           | bolt         | Tiny  |         |         |         |
+| Broadhead Steel Bolt        | bolt         | Tiny  |         |         |         |
+| Corehead Steel Bolt         | bolt         | Tiny  |         |         |         |
 | Sharpened Wooden Greatarrow | great-arrow  | Small |         |         | Fragile |
 | Broadhead Wooden Greatarrow | great-arrow  | Small |         |         | Fragile |
 | Corehead Wooden Greatarrow  | great-arrow  | Small |         |         | Fragile |
