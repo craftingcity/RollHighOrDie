@@ -99,18 +99,18 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | .45 ACP (JHP+P)       | low caliber  | Tiny  | 2d6     | Piercing    |       |
 | .45 ACP (AP)          | low caliber  | Tiny  | 1d8     | Piercing    |       |
 | .45 ACP (HE)          | low caliber  | Tiny  | 1d8     | Piercing    |       |
-| 5.45x39mm USSR (FMJ)  | high caliber | Tiny  |         | Piercing    |       |
-| 5.45x39mm USSR (JHP)  | high caliber | Tiny  |         | Piercing    |       |
-| 5.45x39mm USSR (AP)   | high caliber | Tiny  |         | Piercing    |       |
-| 5.45x39mm USSR (AP+I) | high caliber | Tiny  |         | Piercing    |       |
-| 5.56x45mm NATO (FMJ)  | high caliber | Tiny  |         | Piercing    |       |
-| 5.56x45mm NATO (JHP)  | high caliber | Tiny  |         | Piercing    |       |
-| 5.56x45mm NATO (AP)   | high caliber | Tiny  |         | Piercing    |       |
-| 5.56x45mm NATO (AP+I) | high caliber | Tiny  |         | Piercing    |       |
-| .303 British (FMJ)    | high caliber | Tiny  |         | Piercing    |       |
-| .303 British (JHP)    | high caliber | Tiny  |         | Piercing    |       |
-| .303 British (AP)     | high caliber | Tiny  |         | Piercing    |       |
-| .303 British (AP+I)   | high caliber | Tiny  |         | Piercing    |       |
+| 5.45x39mm USSR (FMJ)  | high caliber | Tiny  | 2d6     | Piercing    |       |
+| 5.45x39mm USSR (JHP)  | high caliber | Tiny  | 2d6     | Piercing    |       |
+| 5.45x39mm USSR (AP)   | high caliber | Tiny  | 2d6     | Piercing    |       |
+| 5.45x39mm USSR (AP+I) | high caliber | Tiny  | 2d6     | Piercing    |       |
+| 5.56x45mm NATO (FMJ)  | high caliber | Tiny  | 2d6     | Piercing    |       |
+| 5.56x45mm NATO (JHP)  | high caliber | Tiny  | 2d6     | Piercing    |       |
+| 5.56x45mm NATO (AP)   | high caliber | Tiny  | 2d6     | Piercing    |       |
+| 5.56x45mm NATO (AP+I) | high caliber | Tiny  | 2d6     | Piercing    |       |
+| .303 British (FMJ)    | high caliber | Tiny  | 2d8     | Piercing    |       |
+| .303 British (JHP)    | high caliber | Tiny  | 2d8     | Piercing    |       |
+| .303 British (AP)     | high caliber | Tiny  | 2d8     | Piercing    |       |
+| .303 British (AP+I)   | high caliber | Tiny  | 2d8     | Piercing    |       |
 | 7.62x39mm USSR (FMJ)  | high caliber | Tiny  |         | Piercing    |       |
 | 7.62x39mm USSR (JHP)  | high caliber | Tiny  |         | Piercing    |       |
 | 7.62x39mm USSR (AP)   | high caliber | Tiny  |         | Piercing    |       |
