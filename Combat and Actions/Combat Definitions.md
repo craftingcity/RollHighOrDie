@@ -66,8 +66,14 @@ You are not adjacent to any cover.
 Damage in RHoD is categorized based on their source and effect. Depending on the context of the combat, one damage type may be more useful than another.
 
 #### Bludgeoning
+Bludgeoning Damage is usually dealt by physical attacks with blunt instruments, potentially including oneself.
+
 #### Slashing
+Slashing Damage is usually dealt by physical attacks with bladed instruments, such as swords or axes.
+
 #### Piercing
+Piercing Damage is usually dealt by physical attacks with pointed instruments thrust 
+
 #### Acid
 #### Cold
 #### Electric
