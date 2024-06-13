@@ -83,13 +83,13 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Point Powder Shot     | powder-shot  | Tiny  |         |         |       |
 | Grape Powder Shot     | powder-shot  | Tiny  |         |         |       |
 | .22LR (FMJ)           | low caliber  | Tiny  |         |         |       |
-| 9x19mm (FMJ)          | low caliber  | Tiny  |         |         |       |
-| 9x19mm (JHP)          | low caliber  | Tiny  |         |         |       |
-| 9x19mm (JHP+P)        | low caliber  | Tiny  |         |         |       |
-| 9x19mm (AP)           | low caliber  | Tiny  |         |         |       |
-| .357 (FMJ)            | low caliber  | Tiny  |         |         |       |
-| .357 (JHP)            | low caliber  | Tiny  |         |         |       |
-| .357 (JHP+P)          | low caliber  | Tiny  |         |         |       |
+| 9mm (FMJ)             | low caliber  | Tiny  |         |         |       |
+| 9mm (JHP)             | low caliber  | Tiny  |         |         |       |
+| 9mm (JHP+P)           | low caliber  | Tiny  |         |         |       |
+| 9mm (AP)              | low caliber  | Tiny  |         |         |       |
+| .357 Magnum (FMJ)     | low caliber  | Tiny  |         |         |       |
+| .357 Magnum (JHP)     | low caliber  | Tiny  |         |         |       |
+| .357 Magnum (JHP+P)   | low caliber  | Tiny  |         |         |       |
 | 10mm (FMJ)            | low caliber  | Tiny  |         |         |       |
 | 10mm (JHP)            | low caliber  | Tiny  |         |         |       |
 | 10mm (JHP+P)          | low caliber  | Tiny  |         |         |       |
@@ -98,6 +98,7 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | .45 ACP (JHP)         | low caliber  | Tiny  |         |         |       |
 | .45 ACP (JHP+P)       | low caliber  | Tiny  |         |         |       |
 | .45 ACP (AP)          | low caliber  | Tiny  |         |         |       |
+| .45 ACP (HE)          | low caliber  | Tiny  |         |         |       |
 | 5.45x39mm USSR (FMJ)  | high caliber | Tiny  |         |         |       |
 | 5.45x39mm USSR (JHP)  | high caliber | Tiny  |         |         |       |
 | 5.45x39mm USSR (AP)   | high caliber | Tiny  |         |         |       |
