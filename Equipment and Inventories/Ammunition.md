@@ -121,10 +121,10 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | 7.62x51mm NATO (AP+I) | high caliber | Tiny  |         | Piercing    |       |
 | 7.62x54mmR USSR (FMJ) | high caliber | Small |         | Piercing    |       |
 | 7.62x54mmR USSR (AP)  | high caliber | Small |         | Piercing    |       |
-| .338 Lapua (FMJ)      | high caliber | Small |         | Piercing    |       |
-| .338 Lapua (JHP)      | high caliber | Small |         | Piercing    |       |
-| .338 Lapua (AP)       | high caliber | Small |         | Piercing    |       |
-| .338 Lapua (AP+I)     | high caliber | Small |         | Piercing    |       |
-| .50 BMG (FMJ)         | high caliber | Small |         | Piercing    |       |
-| .50 BMG (AP)          | high caliber | Small |         | Piercing    |       |
-| .50 BMG (AP+I)        | high caliber | Small |         | Piercing    |       |
+| .338 Lapua (FMJ)      | high caliber | Small | 3d8     | Piercing    |       |
+| .338 Lapua (JHP)      | high caliber | Small | 3d8     | Piercing    |       |
+| .338 Lapua (AP)       | high caliber | Small | 3d8     | Piercing    |       |
+| .338 Lapua (AP+I)     | high caliber | Small | 3d8     | Piercing    |       |
+| .50 BMG (FMJ)         | high caliber | Small | 4d6     | Piercing    |       |
+| .50 BMG (AP)          | high caliber | Small | 4d6     | Piercing    |       |
+| .50 BMG (AP+I)        | high caliber | Small | 4d6     | Piercing    |       |
