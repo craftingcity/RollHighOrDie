@@ -51,10 +51,11 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Bodkin Steel Arrow          | arrow        | Small | 1d8     |         |         |
 | Broadhead Steel Arrow       | arrow        | Small | 1d8     |         |         |
 | Corehead Steel Arrow        | arrow        | Small | 1d6     |         |         |
+| 
 | Sharpened Wooden Greatarrow | great-arrow  | Small |         |         | Fragile |
-| Broadhead Wooden Greatarrow |              |       |         |         | Fragile |
-| Corehead Wooden Greatarrow  |              |       |         |         | Fragile |
-| Sharpened Steel Greatarrow  |              |       |         |         |         |
-| Broadhead Steel Greatarrow  |              |       |         |         |         |
-| Corehead Steel Greatarrow   |              |       |         |         |         |
+| Broadhead Wooden Greatarrow | great-arrow  | Small |         |         | Fragile |
+| Corehead Wooden Greatarrow  | great-arrow  | Small |         |         | Fragile |
+| Sharpened Steel Greatarrow  | great-arrow  | Small |         |         |         |
+| Broadhead Steel Greatarrow  | great-arrow  | Small |         |         |         |
+| Corehead Steel Greatarrow   | great-arrow  | Small |         |         |         |
 |                             |              |       |         |         |         |
