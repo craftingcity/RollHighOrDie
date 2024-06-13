@@ -1,4 +1,4 @@
-# Realist Melee Weapons
+# Classic Melee Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
 | -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
 | Fists          | Short Blunt | -      | Melee - 5'  | Strength  | Reflex  | STR     | Bludgeoning |                        |
@@ -33,17 +33,19 @@
 | Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        | 
 
 # Classic Ranged Weapons
-| Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition   | Other                                                       |     |
-| ---------------------------- | -------- | ------ | ----------- | --------- | ------- | ------------ | ----------------------------------------------------------- | --- |
-| Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity | Reflex  | sling-bullet | Capacity (1)                                                |     |
-| Slingshot                    | Sling    | Small  | 30'/90'     | Dexterity | Reflex  | sling-bullet | Capacity (1)                                                |     |
-| Leverage Thrower             | Sling    | Medium | 25'/75'     | Dexterity | Reflex  | great-arrow  | Capacity (1)                                                |     |
-| Wooden Bow                   | Bow      | Medium | 90'/270'    | Dexterity | Reflex  | arrow        | Two-Handed                                                  |     |
-| Compound Bow                 | Bow      | Medium | 120'/360'   | Dexterity | Reflex  | arrow        | Two-Handed, Mechanical (1/14)                               |     |
-| Greatbow                     | Bow      | Large  | 240'/720'   | Dexterity | Reflex  | great-arrow  | Capacity (1), Two-Handed                                    |     |
-| Wooden Crossbow              | Crossbow | Medium | 80'/240'    | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed, Mechanical (1/14)                 |     |
-| Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed, Mechanical (2/14)                 |     |
+| Title              | Base     | Size   | Range     | Ability   | Defense | Ammunition   | Other                                       |     |
+| ------------------ | -------- | ------ | --------- | --------- | ------- | ------------ | ------------------------------------------- | --- |
+| Momentum Sling     | Sling    | Small  | 35'/105'  | Dexterity | Reflex  | sling-bullet | Capacity (1)                                |     |
+| Slingshot          | Sling    | Small  | 30'/90'   | Dexterity | Reflex  | sling-bullet | Capacity (1)                                |     |
+| Leverage Thrower   | Sling    | Medium | 25'/75'   | Dexterity | Reflex  | great-arrow  | Capacity (1)                                |     |
+| Wooden Bow         | Bow      | Medium | 90'/270'  | Dexterity | Reflex  | arrow        | Two-Handed                                  |     |
+| Compound Bow       | Bow      | Medium | 120'/360' | Dexterity | Reflex  | arrow        | Two-Handed, Mechanical (1/14)               |     |
+| Greatbow           | Bow      | Large  | 240'/720' | Dexterity | Reflex  | great-arrow  | Capacity (1), Two-Handed                    |     |
+| Wooden Crossbow    | Crossbow | Medium | 80'/240'  | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed, Mechanical (1/14) |     |
+| Compound Crossbow  | Crossbow | Medium | 100'/300' | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed, Mechanical (2/14) |     |
+| Reloading Crossbow | Crossbow | Large  | 100'/300' | Dexterity | Reflex  | bolt         | Capacity (5), Two-Handed, Mechanical (3/16)                                            |     |
 
+# Modern Ranged Weapons
 | Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition   | Other                                                       |     |
 | ---------------------------- | -------- | ------ | ----------- | --------- | ------- | ------------ | ----------------------------------------------------------- | --- |
 | Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex  | powder-shot  | Capacity (1)                                                |     |
@@ -63,8 +65,8 @@
 | Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (4), Two-Handed, Mechanical (1/16)                 |     |
 | Semi-Auto Shotgun            | Rifle    | Medium | 75'/150'    | Dexterity | Reflex  | shotshell    | Capacity (8), Two-Handed, Burst (2), Mechanical (2/16)      |     |
 | Full-Auto Shotgun            | Rifle    | Medium | 60'/120'    | Dexterity | Reflex  | shotshell    | Capacity (5), Two-Handed, Burst (3), Mechanical (3/16)      |     |
-| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | high caliber | Two-Handed, Burst (5), Mechanical (3/20)                    |     |
-| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | high caliber | Two-Handed, Burst (5), Mechanical (4/20)                    |     |
+| Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex  | high caliber | Two-Handed, Burst (5), Mechanical (3/18)                    |     |
+| Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex  | high caliber | Two-Handed, Burst (5), Mechanical (4/18)                    |     |
 
 # Projectile Ammunition
 | Title                       | Base         | Size  | D. Dice | D. Type     | Other              |
