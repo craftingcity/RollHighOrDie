@@ -161,5 +161,7 @@
 | Title  | Base   | Size       | D. Dice | D. Type | Other          |
 | ------ | ------ | ---------- | ------- | ------- | -------------- |
 | Diesel | energy | Tiny (100) | 2d8     | Fire    | Incendiary (3) |
+| Napalm | energy | Tiny (100) | 3d8     | Fire    | Incendiary (5) |
+|        |        |            |         |         |                |
 
 # Fantastic Ammunition
