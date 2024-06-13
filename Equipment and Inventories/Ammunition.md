@@ -74,21 +74,21 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Corehead Steel Greatarrow   | great-arrow  | Small | 2d6     | Piercing    | Durable, Coring    |
 
 ### Self-propelled
-| Title             | Base        | Size | D. Dice | D. Type | Other |
-| ----------------- | ----------- | ---- | ------- | ------- | ----- |
-| Round Powder Shot | powder-shot | Tiny |         |         |       |
-| Point Powder Shot | powder-shot | Tiny |         |         |       |
-| Grape Powder Shot | powder-shot | Tiny |         |         |       |
-| .22LR             | low caliber |      |         |         |       |
-| .357 Magnum       |             |      |         |         |       |
-| 9x19mm Parabellum |             |      |         |         |       |
-| .45 ACP           |             |      |         |         |       |
-| 5.45x39mm USSR    |             |      |         |         |       |
-| 5.56x45mm NATO    |             |      |         |         |       |
-| .303 British      |             |      |         |         |       |
-| .308 Winchester   |             |      |         |         |       |
-| 7.62x39mm USSR    |             |      |         |         |       |
-| 7.62x51mm NATO    |             |      |         |         |       |
-| 7.62x54mmR USSR   |             |      |         |         |       |
-| .338 Lapua        |             |      |         |         |       |
-|                   |             |      |         |         |       |
+| Title             | Base         | Size | D. Dice | D. Type | Other |
+| ----------------- | ------------ | ---- | ------- | ------- | ----- |
+| Round Powder Shot | powder-shot  | Tiny |         |         |       |
+| Point Powder Shot | powder-shot  | Tiny |         |         |       |
+| Grape Powder Shot | powder-shot  | Tiny |         |         |       |
+| .22LR             | low caliber  |      |         |         |       |
+| .357 Magnum       | low caliber  |      |         |         |       |
+| 9x19mm Parabellum | low caliber  |      |         |         |       |
+| .45 ACP           | low caliber  |      |         |         |       |
+| 5.45x39mm USSR    | high caliber |      |         |         |       |
+| 5.56x45mm NATO    | high caliber |      |         |         |       |
+| .303 British      | high caliber |      |         |         |       |
+| .308 Winchester   | high caliber |      |         |         |       |
+| 7.62x39mm USSR    | high caliber |      |         |         |       |
+| 7.62x51mm NATO    | high caliber |      |         |         |       |
+| 7.62x54mmR USSR   | high caliber |      |         |         |       |
+| .338 Lapua        | high caliber |      |         |         |       |
+| .50 BMG           | high caliber |      |         |         |       |
