@@ -79,4 +79,4 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Round Powder Shot | powder-shot | Tiny |         |         |       |
 | Point Powder Shot | powder-shot | Tiny |         |         |       |
 | Grape Powder Shot | powder-shot | Tiny |         |         |       |
-| .22LR             | low            |      |         |         |       |
+| .22LR             | low caliber |      |         |         |       |
