@@ -12,6 +12,7 @@ Any Ranged Weapon fires a projectile known as its Ammunition. Much like their co
 #### Low Caliber
 #### High Caliber
 #### Shotshell
+#### Energy
 
 ## Tags
 ### Required Tags
