@@ -83,4 +83,12 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | .357 Magnum       |             |      |         |         |       |
 | 9x19mm Parabellum |             |      |         |         |       |
 | .45 ACP           |             |      |         |         |       |
-| 5.                  |             |      |         |         |       |
+| 5.45x39mm USSR    |             |      |         |         |       |
+| 5.56x45mm NATO    |             |      |         |         |       |
+| .303 British      |             |      |         |         |       |
+| .308 Winchester   |             |      |         |         |       |
+| 7.62x39mm USSR    |             |      |         |         |       |
+| 7.62x51mm NATO    |             |      |         |         |       |
+| 7.62x54mmR USSR   |             |      |         |         |       |
+| .338 Lapua        |             |      |         |         |       |
+|                   |             |      |         |         |       |
