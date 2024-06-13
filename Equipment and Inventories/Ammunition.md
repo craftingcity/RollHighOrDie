@@ -38,9 +38,11 @@ If the Total of your Check is 10 or greater, you may recover half of your expend
 If the Total of your Check is 20 or greater, you may recover all of your expended Ammunition.
 
 ### Specialized Tags
-#### Barbed / Serrated
-#### Coring
+#### Barbed / Hollow Point
+#### Coring / Armor Piecing
 #### Explosive
+#### Over-Pressured
+#### Tracer
 
 # Example Ammunition
 ### Man-Powered
@@ -74,33 +76,36 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Corehead Steel Greatarrow   | great-arrow  | Small | 2d6     | Piercing    | Durable, Coring    |
 
 ### Self-propelled
-| Title             | Base         | Size  | D. Dice | D. Type | Other |
-| ----------------- | ------------ | ----- | ------- | ------- | ----- |
-| Round Powder Shot | powder-shot  | Tiny  |         |         |       |
-| Point Powder Shot | powder-shot  | Tiny  |         |         |       |
-| Grape Powder Shot | powder-shot  | Tiny  |         |         |       |
-| .22LR (FMJ)       | low caliber  | Tiny  |         |         |       |
-| 9x19mm (FMJ)      | low caliber  | Tiny  |         |         |       |
-| 9x19mm (JHP)      | low caliber  | Tiny  |         |         |       |
-| 9x19mm (JHP+P)    | low caliber  | Tiny  |         |         |       |
-| 9x19mm (AP)       | low caliber  | Tiny  |         |         |       |
-| .357 (FMJ)        | low caliber  | Tiny  |         |         |       |
-| .357 (JHP)        | low caliber  | Tiny  |         |         |       |
-| .357 (JHP+P)      | low caliber  | Tiny  |         |         |       |
-| 10mm (FMJ)        | low caliber  | Tiny  |         |         |       |
-| 10mm (JHP)        | low caliber  | Tiny  |         |         |       |
-| 10mm (JHP+P)      | low caliber  | Tiny  |         |         |       |
-| 10mm (AP)         | low caliber  | Tiny  |         |         |       |
-| .45 ACP (FMJ)     | low caliber  | Tiny  |         |         |       |
-| .45 ACP (JHP)     | low caliber  | Tiny  |         |         |       |
-| .45 ACP (Hydra)   | low caliber  | Tiny  |         |         |       |
-| .45 ACP (AP)      | low caliber  | Tiny  |         |         |       |
-| 5.45x39mm USSR    | high caliber | Tiny  |         |         |       |
-| 5.56x45mm NATO    | high caliber | Tiny  |         |         |       |
-| .303 British      | high caliber | Tiny  |         |         |       |
-| .308 Winchester   | high caliber | Tiny  |         |         |       |
-| 7.62x39mm USSR    | high caliber | Tiny  |         |         |       |
-| 7.62x51mm NATO    | high caliber | Tiny  |         |         |       |
-| 7.62x54mmR USSR   | high caliber | Small |         |         |       |
-| .338 Lapua        | high caliber | Small |         |         |       |
-| .50 BMG           | high caliber | Small |         |         |       |
+| Title                | Base         | Size  | D. Dice | D. Type | Other |
+| -------------------- | ------------ | ----- | ------- | ------- | ----- |
+| Round Powder Shot    | powder-shot  | Tiny  |         |         |       |
+| Point Powder Shot    | powder-shot  | Tiny  |         |         |       |
+| Grape Powder Shot    | powder-shot  | Tiny  |         |         |       |
+| .22LR (FMJ)          | low caliber  | Tiny  |         |         |       |
+| 9x19mm (FMJ)         | low caliber  | Tiny  |         |         |       |
+| 9x19mm (JHP)         | low caliber  | Tiny  |         |         |       |
+| 9x19mm (JHP+P)       | low caliber  | Tiny  |         |         |       |
+| 9x19mm (AP)          | low caliber  | Tiny  |         |         |       |
+| .357 (FMJ)           | low caliber  | Tiny  |         |         |       |
+| .357 (JHP)           | low caliber  | Tiny  |         |         |       |
+| .357 (JHP+P)         | low caliber  | Tiny  |         |         |       |
+| 10mm (FMJ)           | low caliber  | Tiny  |         |         |       |
+| 10mm (JHP)           | low caliber  | Tiny  |         |         |       |
+| 10mm (JHP+P)         | low caliber  | Tiny  |         |         |       |
+| 10mm (AP)            | low caliber  | Tiny  |         |         |       |
+| .45 ACP (FMJ)        | low caliber  | Tiny  |         |         |       |
+| .45 ACP (JHP)        | low caliber  | Tiny  |         |         |       |
+| .45 ACP (Hydra)      | low caliber  | Tiny  |         |         |       |
+| .45 ACP (AP)         | low caliber  | Tiny  |         |         |       |
+| 5.45x39mm USSR (FMJ) | high caliber | Tiny  |         |         |       |
+| 5.45x39mm USSR (FMJ) | high caliber | Tiny  |         |         |       |
+| 5.45x39mm USSR (FMJ) | high caliber | Tiny  |         |         |       |
+
+| 5.56x45mm NATO       | high caliber | Tiny  |         |         |       |
+| .303 British         | high caliber | Tiny  |         |         |       |
+| .308 Winchester      | high caliber | Tiny  |         |         |       |
+| 7.62x39mm USSR       | high caliber | Tiny  |         |         |       |
+| 7.62x51mm NATO       | high caliber | Tiny  |         |         |       |
+| 7.62x54mmR USSR      | high caliber | Small |         |         |       |
+| .338 Lapua           | high caliber | Small |         |         |       |
+| .50 BMG              | high caliber | Small |         |         |       |
