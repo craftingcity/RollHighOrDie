@@ -22,10 +22,10 @@ When you make an attack, if the space you occupy is above the space your target 
 ###### Environmental Damage
 When a character is pushed, if they are pushed into an object or wall they cannot pass through, they take 1d6 True Force Damage for every 5ft they cannot be pushed.
 
-While falling, at the beginning of their turn, gravity pushes a character 10' downward for every round they have been falling.
+While falling, at the beginning of their turn, gravity pushes a character 15' downward for every round they have been falling.
 
 ## Stance
-Stance is the way your character's body is positioned, and will affect how effectively you fight. The four stances RHoD mechanically cares for are High Ready, Low Ready, Crouched, and Prone. 
+Stance is the way your character's body is positioned, and will affect how effectively you fight. The four stances RHoD mechanically cares for are 'High Ready', 'Low Ready', 'Crouched', and 'Prone'. 
 
 ###### High Ready
 High Ready is an upright position, where your character has their weapon in a forward battle-ready position. You are favoring offence in this stance.
@@ -97,7 +97,7 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 #### Suffocating
 While a character does not have access to healthy, breathable air, they can hold their breath for a number of minutes equal to their Constitution Modifier.
 
-When a character finally runs out of air, they will begin to Suffocate. While Suffocating, a character takes 1d6 True Damage for every round they have been Suffocating.
+When a character finally runs out of air, they will begin to Suffocate. While Suffocating, a character takes 1d6 True Force Damage for every round they have been Suffocating.
 
 
 ## Heat & Fire
