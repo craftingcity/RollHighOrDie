@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+                "file": "Equipment and Inventories/Ammunition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+                "file": "Equipment and Inventories/Ammunition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md"
+                "file": "Equipment and Inventories/Ammunition.md"
               }
             }
           }
@@ -215,11 +216,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35436dc749e41820",
+  "active": "afc03fc4d9da5c5d",
   "lastOpenFiles": [
     "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Equipment and Inventories/Ammunition.md",
     "Character Rules/Skills.md",
     "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Melee Weapons.md",

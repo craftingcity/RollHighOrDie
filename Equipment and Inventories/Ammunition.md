@@ -143,3 +143,4 @@ When you make an Attack using this Ammunition, if the space your target occupies
 | .50 BMG (FMJ)         | high caliber | Small | 3d12    | Piercing    |                              |
 | .50 BMG (AP)          | high caliber | Small | 3d12    | Piercing    | Armor Piercing               |
 | .50 BMG (AP+I)        | high caliber | Small | 3d12    | Piercing    | Armor Piercing, Incendiary   |
+
