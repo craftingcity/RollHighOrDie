@@ -51,14 +51,14 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Bodkin Steel Arrow          | arrow        | Small | 1d8     |         |         |
 | Broadhead Steel Arrow       | arrow        | Small | 1d8     |         |         |
 | Corehead Steel Arrow        | arrow        | Small | 1d6     |         |         |
-| Sharpened Wooden Bolt       |              |       |         |         |         |
-| Bodkin Wooden Bolt          |              |       |         |         |         |
-| Broadhead Wooden Bolt       |              |       |         |         |         |
-| Corehead Wooden Bolt        |              |       |         |         |         |
-| Sharpened Steel Bolt        |              |       |         |         |         |
-| Bodkin Steel Bolt           |              |       |         |         |         |
-| Broadhead Steel Bolt        |              |       |         |         |         |
-| Corehead Steel Bolt         |              |       |         |         |         |
+| Sharpened Wooden Bolt       | bolt         |       |         |         |         |
+| Bodkin Wooden Bolt          | bolt         |       |         |         |         |
+| Broadhead Wooden Bolt       | bolt         |       |         |         |         |
+| Corehead Wooden Bolt        | bolt         |       |         |         |         |
+| Sharpened Steel Bolt        | bolt         |       |         |         |         |
+| Bodkin Steel Bolt           | bolt         |       |         |         |         |
+| Broadhead Steel Bolt        | bolt         |       |         |         |         |
+| Corehead Steel Bolt         | bolt         |       |         |         |         |
 | Sharpened Wooden Greatarrow | great-arrow  | Small |         |         | Fragile |
 | Broadhead Wooden Greatarrow | great-arrow  | Small |         |         | Fragile |
 | Corehead Wooden Greatarrow  | great-arrow  | Small |         |         | Fragile |
