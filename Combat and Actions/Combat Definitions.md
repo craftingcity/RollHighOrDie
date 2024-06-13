@@ -88,4 +88,5 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 
 ## Condition of Spaces
 #### Flammable
+#### Enflamed
 #### Impassable
