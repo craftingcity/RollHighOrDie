@@ -38,20 +38,30 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 ### Specialized Tags
 
 # Example Ammunition
-| Title                       | Base         | Size  | D. Dice | D. Type | Other   |
-| --------------------------- | ------------ | ----- | ------- | ------- | ------- |
-| Pebble                      | sling-bullet | Tiny  | 1d4     |         | Fragile |
-| Clay Bullet                 | sling-bullet | Small | 1d6     |         | Fragile |
-| Lead Bullet                 | sling-bullet | Small | 1d6     |         |         |
-| Sharpened Wooden Arrow      | arrow        | Small | 1d4     |         | Fragile |
-| Bodkin Wooden Arrow         | arrow        | Small | 1d6     |         | Fragile |
-| Broadhead Wooden Arrow      | arrow        | Small | 1d6     |         | Fragile |
-| Corehead Wooden Arrow       | arrow        | Small | 1d4     |         | Fragile |
-| Sharpened Steel Arrow       | arrow        | Small | 1d4     |         |         |
-| Bodkin Steel Arrow          | arrow        | Small | 1d8     |         |         |
-| Broadhead Steel Arrow       | arrow        | Small | 1d8     |         |         |
-| Corehead Steel Arrow        | arrow        | Small | 1d6     |         |         |
-| 
+| Title                  | Base         | Size  | D. Dice | D. Type | Other   |
+| ---------------------- | ------------ | ----- | ------- | ------- | ------- |
+| Pebble                 | sling-bullet | Tiny  | 1d4     |         | Fragile |
+| Clay Bullet            | sling-bullet | Small | 1d6     |         | Fragile |
+| Lead Bullet            | sling-bullet | Small | 1d6     |         |         |
+| Sharpened Wooden Arrow | arrow        | Small | 1d4     |         | Fragile |
+| Bodkin Wooden Arrow    | arrow        | Small | 1d6     |         | Fragile |
+| Broadhead Wooden Arrow | arrow        | Small | 1d6     |         | Fragile |
+| Corehead Wooden Arrow  | arrow        | Small | 1d4     |         | Fragile |
+| Sharpened Steel Arrow  | arrow        | Small | 1d4     |         |         |
+| Bodkin Steel Arrow     | arrow        | Small | 1d8     |         |         |
+| Broadhead Steel Arrow  | arrow        | Small | 1d8     |         |         |
+| Corehead Steel Arrow   | arrow        | Small | 1d6     |         |         |
+| Sharpened Wooden Bolt  |              |       |         |         |         |
+| Bodkin Wooden Bolt     |              |       |         |         |         |
+| Broadhead Wooden Bolt  |              |       |         |         |         |
+| Corehead Wooden Bolt   |              |       |         |         |         |
+| Sharpened Steel Bolt   |              |       |         |         |         |
+| Bodkin Steel Bolt      |              |       |         |         |         |
+| Broadhead Steel Bolt   |              |       |         |         |         |
+| Corehead Steel Bolt    |              |       |         |         |         |
+|                        |              |       |         |         |         |
+
+
 | Sharpened Wooden Greatarrow | great-arrow  | Small |         |         | Fragile |
 | Broadhead Wooden Greatarrow | great-arrow  | Small |         |         | Fragile |
 | Corehead Wooden Greatarrow  | great-arrow  | Small |         |         | Fragile |
