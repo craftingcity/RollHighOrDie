@@ -90,7 +90,7 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | 10mm (FMJ)        | low caliber  | Tiny  |         |         |       |
 | 10mm (JHP)        | low caliber  | Tiny  |         |         |       |
 | 10mm (JHP+P)      | low caliber  | Tiny  |         |         |       |
-| 10mm (AP)      | low caliber  | Tiny  |         |         |       |
+| 10mm (AP)         | low caliber  | Tiny  |         |         |       |
 | .45 ACP (FMJ)     | low caliber  | Tiny  |         |         |       |
 | .45 ACP (JHP)     | low caliber  | Tiny  |         |         |       |
 | .45 ACP (Hydra)   | low caliber  | Tiny  |         |         |       |
