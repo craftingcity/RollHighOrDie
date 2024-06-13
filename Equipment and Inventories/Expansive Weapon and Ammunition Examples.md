@@ -1,4 +1,4 @@
-# Melee Weapons
+# Realist Melee Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
 | -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
 | Fists          | Short Blunt | -      | Melee - 5'  | Strength  | Reflex  | STR     | Bludgeoning |                        |
@@ -32,7 +32,7 @@
 | Bullwhip       | Flexible    | Small  | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                        |
 | Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        | 
 
-# Ranged Weapons
+# Classic Ranged Weapons
 | Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition   | Other                                                       |     |
 | ---------------------------- | -------- | ------ | ----------- | --------- | ------- | ------------ | ----------------------------------------------------------- | --- |
 | Momentum Sling               | Sling    | Small  | 35'/105'    | Dexterity | Reflex  | sling-bullet | Capacity (1)                                                |     |
@@ -43,6 +43,9 @@
 | Greatbow                     | Bow      | Large  | 240'/720'   | Dexterity | Reflex  | great-arrow  | Capacity (1), Two-Handed                                    |     |
 | Wooden Crossbow              | Crossbow | Medium | 80'/240'    | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed, Mechanical (1/14)                 |     |
 | Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity | Reflex  | bolt         | Capacity (1), Two-Handed, Mechanical (2/14)                 |     |
+
+| Title                        | Base     | Size   | Range       | Ability   | Defense | Ammunition   | Other                                                       |     |
+| ---------------------------- | -------- | ------ | ----------- | --------- | ------- | ------------ | ----------------------------------------------------------- | --- |
 | Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex  | powder-shot  | Capacity (1)                                                |     |
 | Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex  | low caliber  | Capacity (6), Quick                                         |     |
 | Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex  | low caliber  | Capacity (13), Versatile (+2), Burst (2), Mechanical (1/16) |     |
