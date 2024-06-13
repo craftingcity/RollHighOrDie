@@ -39,11 +39,22 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 
 ### Specialized Tags
 #### Barbed / Hollow Point
+When you deal Damage using this Ammunition, you apply one stack of the 'Bleeding' [[Condition]].
 #### Coring / Armor Piercing
+When you deal Damage using this Ammunition, you may deal half that damage as True Damage.
+
 #### Explosive
+When you deal 
+
 #### Over-Pressured
+
+
 #### Tracer
+When you make an Attack using this Ammunition
+
 #### Incendiary
+
+
 
 # Example Ammunition
 ### Man-Powered
