@@ -65,29 +65,32 @@ You are not adjacent to any cover.
 ## Damage Types
 Damage in RHoD is categorized based on their source and effect. Depending on the context of the combat, one damage type may be more useful than another.
 
-#### Bludgeoning
+#### True Damage
+There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
+
+###### Bludgeoning
 Bludgeoning Damage is usually dealt by physical attacks with blunt instruments, potentially including oneself.
 
-#### Slashing
+###### Slashing
 Slashing Damage is usually dealt by physical attacks with bladed instruments, such as swords or axes.
 
-#### Piercing
+###### Piercing
 Piercing Damage is usually dealt by physical attacks with thrusting instruments or projectiles.
 
-#### Acid
-Acid Damage is typically chemical in nature, and can impose chemical burns, organ damage, or - in extreme cases - . 
+###### Acid
+Acid Damage is typically chemical in nature, and can impose chemical burns, organ damage, or - in extreme cases - completely react and disintegrate flesh, armor, or whole persons. 
 
-#### Cold
-#### Electric
-#### Fire
-#### Force
-#### Necrotic
-#### Poison
-#### Psychic
-#### Radiant
+###### Cold
+Cold Damage is 
 
-### True Damage
-There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
+###### Electric
+###### Fire
+###### Force
+###### Necrotic
+###### Poison
+###### Psychic
+###### Radiant
+
 
 ### Rules for Environments
 ## Weather
