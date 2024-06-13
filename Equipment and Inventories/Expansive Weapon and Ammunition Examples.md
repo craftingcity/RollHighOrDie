@@ -70,54 +70,54 @@
 | Flamethrower                 | Rifle  | Large  | 30'/60'     | Dexterity | Fortitude | energy       | Two-Handed, Mechanical (5/22)                                                            |
 
 # Projectile Ammunition
-| Title                       | Base         | Size  | D. Dice | D. Type     | Other              |
-| --------------------------- | ------------ | ----- | ------- | ----------- | ------------------ |
+| Title                       | Base         | Size       | D. Dice | D. Type     | Other              |
+| --------------------------- | ------------ | ---------- | ------- | ----------- | ------------------ |
 | Pebble                      | sling-bullet | Tiny (25)  | 1d4     | Bludgeoning | Fragile            |
 | Clay Bullet                 | sling-bullet | Small (25) | 1d6     | Bludgeoning | Fragile            |
-| Lead Bullet                 | sling-bullet | Small (25) | 1d6     | Bludgeoning | Durable            |
-| Cherry Bomb                 | sling-bullet | Small | 1d4     | Force       | Fragile, Explosive |
-| Mini-Grenade                | sling-bullet | Small | 3d6     | Force       | Fragile, Explosive | 
-| Sharpened Wooden Arrow      | arrow        | Small | 1d4     | Piercing    | Fragile            |
-| Bodkin Wooden Arrow         | arrow        | Small | 1d6     | Piercing    | Fragile            |
-| Broadhead Wooden Arrow      | arrow        | Small | 1d6     | Piercing    | Fragile, Barbed    |
-| Corehead Wooden Arrow       | arrow        | Small | 1d4     | Piercing    | Fragile, Coring    |
-| Sharpened Steel Arrow       | arrow        | Small | 1d6     | Piercing    | Durable            |
-| Bodkin Steel Arrow          | arrow        | Small | 1d8     | Piercing    | Durable            |
-| Broadhead Steel Arrow       | arrow        | Small | 1d8     | Piercing    | Durable, Barbed    |
-| Corehead Steel Arrow        | arrow        | Small | 1d6     | Piercing    | Durable, Coring    |
-| Sharpened Wooden Bolt       | bolt         | Tiny  | 1d4     | Piercing    | Fragile            |
-| Bodkin Wooden Bolt          | bolt         | Tiny  | 1d6     | Piercing    | Fragile            |
-| Broadhead Wooden Bolt       | bolt         | Tiny  | 1d6     | Piercing    | Fragile, Barbed    |
-| Corehead Wooden Bolt        | bolt         | Tiny  | 1d4     | Piercing    | Fragile, Coring    |
-| Sharpened Steel Bolt        | bolt         | Tiny  | 1d4     | Piercing    | Durable            |
-| Bodkin Steel Bolt           | bolt         | Tiny  | 1d6     | Piercing    | Durable            |
-| Broadhead Steel Bolt        | bolt         | Tiny  | 1d6     | Piercing    | Durable, Barbed    |
-| Corehead Steel Bolt         | bolt         | Tiny  | 1d4     | Piercing    | Durable, Coring    |
-| Sharpened Wooden Greatarrow | great-arrow  | Small | 2d6     | Piercing    | Fragile            |
-| Broadhead Wooden Greatarrow | great-arrow  | Small | 3d6     | Piercing    | Fragile, Barbed    |
-| Corehead Wooden Greatarrow  | great-arrow  | Small | 2d6     | Piercing    | Fragile, Coring    |
-| Sharpened Steel Greatarrow  | great-arrow  | Small | 2d6     | Piercing    | Durable            |
-| Broadhead Steel Greatarrow  | great-arrow  | Small | 3d6     | Piercing    | Durable, Barbed    |
-| Corehead Steel Greatarrow   | great-arrow  | Small | 2d6     | Piercing    | Durable, Coring    |
+| Lead Bullet                 | sling-bullet | Small (15) | 1d6     | Bludgeoning | Durable            |
+| Cherry Bomb                 | sling-bullet | Small (20) | 1d4     | Force       | Fragile, Explosive |
+| Mini-Grenade                | sling-bullet | Small (4)  | 3d6     | Force       | Fragile, Explosive |
+| Sharpened Wooden Arrow      | arrow        | Small (35) | 1d4     | Piercing    | Fragile            |
+| Bodkin Wooden Arrow         | arrow        | Small (35) | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Arrow      | arrow        | Small (35) | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Arrow       | arrow        | Small (35) | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Arrow       | arrow        | Small (25) | 1d6     | Piercing    | Durable            |
+| Bodkin Steel Arrow          | arrow        | Small (25) | 1d8     | Piercing    | Durable            |
+| Broadhead Steel Arrow       | arrow        | Small (25) | 1d8     | Piercing    | Durable, Barbed    |
+| Corehead Steel Arrow        | arrow        | Small (25) | 1d6     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Bolt       | bolt         | Small (35) | 1d4     | Piercing    | Fragile            |
+| Bodkin Wooden Bolt          | bolt         | Small (35) | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Bolt       | bolt         | Small (35) | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Bolt        | bolt         | Small (35) | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Bolt        | bolt         | Small (25) | 1d4     | Piercing    | Durable            |
+| Bodkin Steel Bolt           | bolt         | Small (25) | 1d6     | Piercing    | Durable            |
+| Broadhead Steel Bolt        | bolt         | Small (25) | 1d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Bolt         | bolt         | Small (25) | 1d4     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Greatarrow | great-arrow  | Small (10) | 2d6     | Piercing    | Fragile            |
+| Broadhead Wooden Greatarrow | great-arrow  | Small (10) | 3d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Greatarrow  | great-arrow  | Small (10) | 2d6     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Greatarrow  | great-arrow  | Small (5)  | 2d6     | Piercing    | Durable            |
+| Broadhead Steel Greatarrow  | great-arrow  | Small (5)  | 3d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Greatarrow   | great-arrow  | Small (5)  | 2d6     | Piercing    | Durable, Coring    |
 
 # Cartridge Ammunition
 | Title                 | Base         | Size  | D. Dice | D. Type     | Other                        |
 | --------------------- | ------------ | ----- | ------- | ----------- | ---------------------------- |
-| Round Powder Shot     | powder-shot  | Tiny  | 1d4     | Bludgeoning |                              |
-| Point Powder Shot     | powder-shot  | Tiny  | 1d6     | Piercing    |                              |
-| Grape Powder Shot     | powder-shot  | Tiny  | 1d10    | Piercing    |                              |
-| .22LR (FMJ)           | low caliber  | Tiny  | 1d4     | Piercing    |                              |
-| 9mm (FMJ)             | low caliber  | Tiny  | 1d6     | Piercing    |                              |
-| 9mm (JHP)             | low caliber  | Tiny  | 1d6     | Piercing    | Hollow Point                 |
-| 9mm (JHP+P)           | low caliber  | Tiny  | 2d4     | Piercing    | Hollow Point, Over-Pressured |
-| 9mm (AP)              | low caliber  | Tiny  | 1d6     | Piercing    | Armor Piercing               |
-| .357 Magnum (FMJ)     | low caliber  | Tiny  | 1d8     | Piercing    |                              |
-| .357 Magnum (JHP)     | low caliber  | Tiny  | 1d8     | Piercing    | Hollow Point                 |
-| .357 Magnum (JHP+P)   | low caliber  | Tiny  | 2d6     | Piercing    | Hollow Point, Over-Pressured |
-| 10mm (FMJ)            | low caliber  | Tiny  | 1d6     | Piercing    |                              |
-| 10mm (JHP)            | low caliber  | Tiny  | 1d6     | Piercing    | Hollow Point                 |
-| 10mm (JHP+P)          | low caliber  | Tiny  | 2d6     | Piercing    | Hollow Point, Over-Pressured |
-| 10mm (AP)             | low caliber  | Tiny  | 1d6     | Piercing    | Armor Piercing               |
+| Round Powder Shot     | powder-shot  | Tiny (15) | 1d4     | Bludgeoning |                              |
+| Point Powder Shot     | powder-shot  | Tiny (15) | 1d6     | Piercing    |                              |
+| Grape Powder Shot     | powder-shot  | Tiny (15) | 1d10    | Piercing    |                              |
+| .22LR (FMJ)           | low caliber  | Tiny (25) | 1d4     | Piercing    |                              |
+| 9mm (FMJ)             | low caliber  | Tiny (25) | 1d6     | Piercing    |                              |
+| 9mm (JHP)             | low caliber  | Tiny (25) | 1d6     | Piercing    | Hollow Point                 |
+| 9mm (JHP+P)           | low caliber  | Tiny (25) | 2d4     | Piercing    | Hollow Point, Over-Pressured |
+| 9mm (AP)              | low caliber  | Tiny (25) | 1d6     | Piercing    | Armor Piercing               |
+| .357 Magnum (FMJ)     | low caliber  | Tiny (25) | 1d8     | Piercing    |                              |
+| .357 Magnum (JHP)     | low caliber  | Tiny (25) | 1d8     | Piercing    | Hollow Point                 |
+| .357 Magnum (JHP+P)   | low caliber  | Tiny (25) | 2d6     | Piercing    | Hollow Point, Over-Pressured |
+| 10mm (FMJ)            | low caliber  | Tiny (25) | 1d6     | Piercing    |                              |
+| 10mm (JHP)            | low caliber  | Tiny (25) | 1d6     | Piercing    | Hollow Point                 |
+| 10mm (JHP+P)          | low caliber  | Tiny (25) | 2d6     | Piercing    | Hollow Point, Over-Pressured |
+| 10mm (AP)             | low caliber  | Tiny (25) | 1d6     | Piercing    | Armor Piercing               |
 | .45 ACP (FMJ)         | low caliber  | Tiny  | 1d8     | Piercing    |                              |
 | .45 ACP (JHP)         | low caliber  | Tiny  | 1d8     | Piercing    | Hollow Point                 |
 | .45 ACP (JHP+P)       | low caliber  | Tiny  | 2d6     | Piercing    | Hollow Point, Over-Pressured |
@@ -143,15 +143,15 @@
 | 7.62x51mm NATO (JHP)  | high caliber | Tiny  | 3d6     | Piercing    | Hollow Point                 |
 | 7.62x51mm NATO (AP)   | high caliber | Tiny  | 3d6     | Piercing    | Armor Piercing               |
 | 7.62x51mm NATO (AP+I) | high caliber | Tiny  | 3d6     | Piercing    | Armor Piercing, Incendiary   |
-| 7.62x54mmR USSR (FMJ) | high caliber | Small | 3d8     | Piercing    |                              |
-| 7.62x54mmR USSR (AP)  | high caliber | Small | 3d8     | Piercing    | Armor Piercing               |
-| .338 Lapua (FMJ)      | high caliber | Small | 3d10    | Piercing    |                              |
-| .338 Lapua (JHP)      | high caliber | Small | 3d10    | Piercing    | Hollow Point                 |
-| .338 Lapua (AP)       | high caliber | Small | 3d10    | Piercing    | Armor Piercing               |
-| .338 Lapua (AP+I)     | high caliber | Small | 3d10    | Piercing    | Armor Piercing, Incendiary   |
-| .50 BMG (FMJ)         | high caliber | Small | 3d12    | Piercing    |                              |
-| .50 BMG (AP)          | high caliber | Small | 3d12    | Piercing    | Armor Piercing               |
-| .50 BMG (AP+I)        | high caliber | Small | 3d12    | Piercing    | Armor Piercing, Incendiary   |
+| 7.62x54mmR USSR (FMJ) | high caliber | Small (15) | 3d8     | Piercing    |                              |
+| 7.62x54mmR USSR (AP)  | high caliber | Small (15) | 3d8     | Piercing    | Armor Piercing               |
+| .338 Lapua (FMJ)      | high caliber | Small (15) | 3d10    | Piercing    |                              |
+| .338 Lapua (JHP)      | high caliber | Small (15) | 3d10    | Piercing    | Hollow Point                 |
+| .338 Lapua (AP)       | high caliber | Small (15) | 3d10    | Piercing    | Armor Piercing               |
+| .338 Lapua (AP+I)     | high caliber | Small (15) | 3d10    | Piercing    | Armor Piercing, Incendiary   |
+| .50 BMG (FMJ)         | high caliber | Small (15) | 3d12    | Piercing    |                              |
+| .50 BMG (AP)          | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing               |
+| .50 BMG (AP+I)        | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing, Incendiary   |
 
 # Energy Ammunition
 | Title  | Base   | Size       | D. Dice | D. Type | Other |
