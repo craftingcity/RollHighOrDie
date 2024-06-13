@@ -37,7 +37,7 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 
 ### Specialized Tags
 #### Explosive
-#### Serrated 
+#### Barbed / Serrated
 
 # Example Ammunition
 | Title                       | Base         | Size  | D. Dice | D. Type | Other   |
@@ -50,13 +50,13 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Bodkin Wooden Arrow         | arrow        | Small | 1d6     |         | Fragile |
 | Broadhead Wooden Arrow      | arrow        | Small | 1d6     |         | Fragile |
 | Corehead Wooden Arrow       | arrow        | Small | 1d4     |         | Fragile |
-| Sharpened Steel Arrow       | arrow        | Small | 1d4     |         |         |
+| Sharpened Steel Arrow       | arrow        | Small | 1d6     |         |         |
 | Bodkin Steel Arrow          | arrow        | Small | 1d8     |         |         |
 | Broadhead Steel Arrow       | arrow        | Small | 1d8     |         |         |
 | Corehead Steel Arrow        | arrow        | Small | 1d6     |         |         |
-| Sharpened Wooden Bolt       | bolt         | Tiny  |         |         |         |
-| Bodkin Wooden Bolt          | bolt         | Tiny  |         |         |         |
-| Broadhead Wooden Bolt       | bolt         | Tiny  |         |         |         |
+| Sharpened Wooden Bolt       | bolt         | Tiny  | 1d4     |         |         |
+| Bodkin Wooden Bolt          | bolt         | Tiny  | 1d6     |         |         |
+| qq       | bolt         | Tiny  |         |         |         |
 | Corehead Wooden Bolt        | bolt         | Tiny  |         |         |         |
 | Sharpened Steel Bolt        | bolt         | Tiny  |         |         |         |
 | Bodkin Steel Bolt           | bolt         | Tiny  |         |         |         |
