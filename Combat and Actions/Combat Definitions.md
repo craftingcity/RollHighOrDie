@@ -72,9 +72,11 @@ Bludgeoning Damage is usually dealt by physical attacks with blunt instruments, 
 Slashing Damage is usually dealt by physical attacks with bladed instruments, such as swords or axes.
 
 #### Piercing
-Piercing Damage is usually dealt by physical attacks with pointed instruments thrust 
+Piercing Damage is usually dealt by physical attacks with thrusting instruments or projectiles.
 
 #### Acid
+Acid Damage is typically chemical in nature, and can impose chemical burns, organ damage, or - in extreme cases - . 
+
 #### Cold
 #### Electric
 #### Fire
