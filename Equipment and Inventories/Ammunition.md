@@ -41,32 +41,32 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 #### Explosive
 
 # Example Ammunition
-| Title                       | Base         | Size  | D. Dice | D. Type | Other              |
-| --------------------------- | ------------ | ----- | ------- | ------- | ------------------ |
-| Pebble                      | sling-bullet | Tiny  | 1d4     |         | Fragile            |
-| Clay Bullet                 | sling-bullet | Small | 1d6     |         | Fragile            |
-| Lead Bullet                 | sling-bullet | Small | 1d6     |         | Durable            |
-| Cherry Bomb                 | sling-bullet | Small | 1d4     |         | Fragile, Explosive |
-| Sharpened Wooden Arrow      | arrow        | Small | 1d4     |         | Fragile            |
-| Bodkin Wooden Arrow         | arrow        | Small | 1d6     |         | Fragile            |
-| Broadhead Wooden Arrow      | arrow        | Small | 1d6     |         | Fragile, Barbed            |
-| Corehead Wooden Arrow       | arrow        | Small | 1d4     |         | Fragile, Coring            |
-| Sharpened Steel Arrow       | arrow        | Small | 1d6     |         | Durable            |
-| Bodkin Steel Arrow          | arrow        | Small | 1d8     |         | Durable            |
-| Broadhead Steel Arrow       | arrow        | Small | 1d8     |         | Durable, Barbed            |
-| Corehead Steel Arrow        | arrow        | Small | 1d6     |         | Durable, Coring            |
-| Sharpened Wooden Bolt       | bolt         | Tiny  | 1d4     |         | Fragile            |
-| Bodkin Wooden Bolt          | bolt         | Tiny  | 1d6     |         | Fragile            |
-| Broadhead Wooden Bolt       | bolt         | Tiny  | 1d6     |         | Fragile, Barbed            |
-| Corehead Wooden Bolt        | bolt         | Tiny  | 1d4     |         | Fragile, Coring            |
-| Sharpened Steel Bolt        | bolt         | Tiny  |         |         | Durable            |
-| Bodkin Steel Bolt           | bolt         | Tiny  |         |         | Durable            |
-| Broadhead Steel Bolt        | bolt         | Tiny  |         |         | Durable, Barbed            |
-| Corehead Steel Bolt         | bolt         | Tiny  |         |         | Durable            |
-| Sharpened Wooden Greatarrow | great-arrow  | Small |         |         | Fragile            |
-| Broadhead Wooden Greatarrow | great-arrow  | Small |         |         | Fragile, Barbed            |
-| Corehead Wooden Greatarrow  | great-arrow  | Small |         |         | Fragile            |
-| Sharpened Steel Greatarrow  | great-arrow  | Small |         |         | Durable            |
-| Broadhead Steel Greatarrow  | great-arrow  | Small |         |         | Durable, Barbed            |
-| Corehead Steel Greatarrow   | great-arrow  | Small |         |         | Durable            |
-|                             |              |       |         |         |                    |
+| Title                       | Base         | Size  | D. Dice | D. Type     | Other              |
+| --------------------------- | ------------ | ----- | ------- | ----------- | ------------------ |
+| Pebble                      | sling-bullet | Tiny  | 1d4     | Bludgeoning | Fragile            |
+| Clay Bullet                 | sling-bullet | Small | 1d6     | Bludgeoning | Fragile            |
+| Lead Bullet                 | sling-bullet | Small | 1d6     | Bludgeoning | Durable            |
+| Cherry Bomb                 | sling-bullet | Small | 1d4     | Force       | Fragile, Explosive |
+| Sharpened Wooden Arrow      | arrow        | Small | 1d4     | Piercing    | Fragile            |
+| Bodkin Wooden Arrow         | arrow        | Small | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Arrow      | arrow        | Small | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Arrow       | arrow        | Small | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Arrow       | arrow        | Small | 1d6     | Piercing    | Durable            |
+| Bodkin Steel Arrow          | arrow        | Small | 1d8     | Piercing    | Durable            |
+| Broadhead Steel Arrow       | arrow        | Small | 1d8     | Piercing    | Durable, Barbed    |
+| Corehead Steel Arrow        | arrow        | Small | 1d6     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Bolt       | bolt         | Tiny  | 1d4     | Piercing    | Fragile            |
+| Bodkin Wooden Bolt          | bolt         | Tiny  | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Bolt       | bolt         | Tiny  | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Bolt        | bolt         | Tiny  | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Bolt        | bolt         | Tiny  | 1d4     | Piercing    | Durable            |
+| Bodkin Steel Bolt           | bolt         | Tiny  | 1d6     | Piercing    | Durable            |
+| Broadhead Steel Bolt        | bolt         | Tiny  | 1d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Bolt         | bolt         | Tiny  | 1d4     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Greatarrow | great-arrow  | Small | 2d6     | Piercing    | Fragile            |
+| Broadhead Wooden Greatarrow | great-arrow  | Small | 3d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Greatarrow  | great-arrow  | Small | 2d6     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Greatarrow  | great-arrow  | Small | 2d6     | Piercing    | Durable            |
+| Broadhead Steel Greatarrow  | great-arrow  | Small | 3d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Greatarrow   | great-arrow  | Small | 2d6     | Piercing    | Durable, Coring    |
+|                             |              |       |         |             |                    |
