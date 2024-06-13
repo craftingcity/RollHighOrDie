@@ -13,7 +13,7 @@ When one ability "inherits and replaces" another, the first ability gains all te
 ## Low-light Visibility
 ###### REQ: INNATE
 'You excel under low-light conditions where others falter. Often, you find carrying a light at night unnecessary.'
-- You do not have Disadvantage on Manipulation, Perception, and Investigation Skill Checks while you are in a space lit by Low Light or Darkness.
+- You are always under the 'Low-light Visibility' [[Condition]].
 
 ## Boiling Blood
 ###### REQ: INNATE

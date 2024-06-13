@@ -240,7 +240,7 @@ If you hit that creature, deal your Weapon Damage as normal. You impose -3 to th
 ###### USE: One or more Wounds
 'It hurts. The hurt feels good. Let's keep going.'
 
-You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier.
+You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
 
 You may only use this feature once between Long Rests.
 
