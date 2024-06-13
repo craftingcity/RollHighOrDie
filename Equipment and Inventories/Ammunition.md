@@ -29,7 +29,12 @@ When this Ammunition is expended, it cannot be recovered.
 #### Durable
 When this Ammunition is expended, it can be recovered. 
 
-Note the amount of this Ammunition you spend during combat. After combat, you may attempt to recollect your ammunition by making a Investigation Skill Check. 
+Note the amount of this Ammunition you spend during combat. After combat, you may attempt to recollect your ammunition by making a Investigation Skill Check.
+
+If the Total of your Check is 10 or greater, you may recover half of your expended Ammunition.
+
+If the Total of your Check is 20 or greater, you may recover all of your expended Ammunition.
+
 ### Specialized Tags
 
 # Example Ammunition

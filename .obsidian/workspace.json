@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md",
+                "file": "Equipment and Inventories/Ammunition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md",
+                "file": "Equipment and Inventories/Ammunition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat and Actions/Generic Actions.md"
+                "file": "Equipment and Inventories/Ammunition.md"
               }
             }
           }
@@ -274,11 +274,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9af6fdf3dee08fbb",
+  "active": "35436dc749e41820",
   "lastOpenFiles": [
+    "Character Rules/Skills.md",
     "Equipment and Inventories/Ammunition.md",
     "Combat and Actions/Generic Actions.md",
-    "Character Rules/Skills.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Melee Weapons.md",

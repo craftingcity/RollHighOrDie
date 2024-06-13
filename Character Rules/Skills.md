@@ -56,11 +56,11 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 #### Appraise
 #### Investigation
 ### Wisdom
+#### Animal Empathy
 #### Deduction
 #### Perception
 #### Streetwise
 ### Charisma
-#### Animal Empathy
 #### Diplomacy
 #### Deception
 #### Disguise
