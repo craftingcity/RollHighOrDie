@@ -43,11 +43,13 @@ When you deal Damage using this Ammunition, you apply one stack of the 'Bleeding
 #### Coring / Armor Piercing
 When you deal Damage using this Ammunition, you may deal half that damage as True Damage.
 
-#### Explosive
-When you deal 
-
 #### Over-Pressured
-When you make an Attack using this Ammunition, 
+When you make an Attack using this Ammunition, the Complexity Value of your Weapon increases by 2.
+
+#### Explosive
+When you make an Attack using this Ammunition, the Complexity Value of your Weapon increases by 4. 
+
+This Ammunition's Damage Type is Force.
 
 #### Tracer
 When you make an Attack using this Ammunition, the space your target occupies is lit by Low Light until the end of your turn.
