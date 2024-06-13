@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "de8e4d5fb7b0a55a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afc03fc4d9da5c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +166,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35436dc749e41820",
+  "active": "afc03fc4d9da5c5d",
   "lastOpenFiles": [
     "Combat and Actions/Generic Actions.md",
     "Equipment and Inventories/Ammunition.md",
