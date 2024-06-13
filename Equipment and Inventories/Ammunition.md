@@ -110,8 +110,10 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | .303 British (JHP)    | high caliber | Tiny  |         |         |       |
 | .303 British (AP)     | high caliber | Tiny  |         |         |       |
 | .303 British (AP+I)   | high caliber | Tiny  |         |         |       |
-| .308 Winchester       | high caliber | Tiny  |         |         |       |
-| 7.62x39mm USSR        | high caliber | Tiny  |         |         |       |
+| 7.62x39mm USSR (FMJ)        | high caliber | Tiny  |         |         |       |
+| 7.62x39mm USSR (JHP)        | high caliber | Tiny  |         |         |       |
+| 7.62x39mm USSR ()        | high caliber | Tiny  |         |         |       |
+| 7.62x39mm USSR ()        | high caliber | Tiny  |         |         |       |
 | 7.62x51mm NATO        | high caliber | Tiny  |         |         |       |
 | 7.62x54mmR USSR       | high caliber | Small |         |         |       |
 | .338 Lapua            | high caliber | Small |         |         |       |
