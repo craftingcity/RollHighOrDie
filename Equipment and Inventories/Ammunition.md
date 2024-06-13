@@ -50,10 +50,10 @@ When you deal
 
 
 #### Tracer
-When you make an Attack using this Ammunition, the space your target occupies is lit by Low Light
+When you make an Attack using this Ammunition, the space your target occupies is lit by Low Light until the end of your turn.
 
 #### Incendiary
-
+When you make an Attack using this Ammunition, if the space your target occupies is 'Flamable'
 
 
 # Example Ammunition

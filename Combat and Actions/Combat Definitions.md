@@ -1,6 +1,7 @@
 # Preamble
 A number of positions and circumstances during combat will effect the outcome of that combat - who lives and who dies. The following sections will discuss the rules and definitions of how any combat generally operates.
 
+### Rules for Combats
 ## Timing
 While Combat is occurring, the timing of of abilities triggering and resolving is incredibly important. All effects resolve in a manner known as "First In, Last Out". This means that the most recently triggered ability or effect resolves before the triggering effect.
 
@@ -60,10 +61,11 @@ You are adjacent to Low Cover, such as a mid-sized crate. You have Line of Sight
 ###### No Cover
 You are not adjacent to any cover.
 
+### Rules for Enviroments
 ## Lighting
 Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a weapon when used effectively.
 
-If a space would be lit by multiple sources, it is considered lit by the brightest availab
+If a space would be lit by multiple sources, it is considered lit by the brightest available light.
 
 ###### Blinding Light
 Blinding Light is too much light, even through squinted eyes. Typically, Blinding Light is only emitted by militaristic sources.
