@@ -82,8 +82,8 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | .22LR             | low caliber  | Tiny  |         |         |       |
 | 9x19mm (FMJ)      | low caliber  | Tiny  |         |         |       |
 | 9x19mm (HP)       | low caliber  | Tiny  |         |         |       |
+| 9x19mm (HP+P)      | low caliber  | Tiny  |         |         |       |
 | 9x19mm (AP)       | low caliber  | Tiny  |         |         |       |
-| .38 Special       | low caliber  | Tiny  |         |         |       |
 | .357 Magnum       | low caliber  | Tiny  |         |         |       |
 | 10mm Auto         | low caliber  | Tiny  |         |         |       |
 | .45 ACP           | low caliber  | Tiny  |         |         |       |
