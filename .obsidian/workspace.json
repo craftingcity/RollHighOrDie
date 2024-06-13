@@ -4,65 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "0a04e4cf5ff88d0f",
-        "type": "tabs",
-        "dimension": 30.60513713539399,
-        "children": [
-          {
-            "id": "a5950ff2ca0d461a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cb118f7c1672807b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9af6fdf3dee08fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1cb697faf6c434c9",
         "type": "tabs",
-        "dimension": 45.53765781454071,
         "children": [
-          {
-            "id": "a29f99e9bea02004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
           {
             "id": "35436dc749e41820",
             "type": "leaf",
@@ -74,77 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7e39ca79a25be07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5999d51dd104701a",
-        "type": "tabs",
-        "dimension": 23.857205050065303,
-        "children": [
-          {
-            "id": "537698f896b38671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Inventory Management.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3ac7a6daa53f82f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Skills.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "791c38c6804e7951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Ability Scores.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "340a629e498deb01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,13 +150,13 @@
   },
   "active": "35436dc749e41820",
   "lastOpenFiles": [
-    "Equipment and Inventories/Melee Weapons.md",
+    "Combat and Actions/Generic Actions.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Ranged Weapons.md",
-    "Character Rules/Skills.md",
-    "Combat and Actions/Generic Actions.md",
-    "Equipment and Inventories/Inventory Management.md",
+    "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Ability Scores.md",
+    "Equipment and Inventories/Inventory Management.md",
+    "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
