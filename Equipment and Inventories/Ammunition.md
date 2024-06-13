@@ -69,4 +69,7 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Sharpened Steel Greatarrow  | great-arrow  | Small | 2d6     | Piercing    | Durable            |
 | Broadhead Steel Greatarrow  | great-arrow  | Small | 3d6     | Piercing    | Durable, Barbed    |
 | Corehead Steel Greatarrow   | great-arrow  | Small | 2d6     | Piercing    | Durable, Coring    |
-|                             |              |       |         |             |                    |
+| Round Powder Shot           | powder-shot  | Tiny  |         |             |                    |
+| Point Powder Shot           | powder-shot  | Tiny  |         |             |                    |
+| Grape Powder Shot           | powder-shot  | Tiny  |         |             |                    |
+| 
