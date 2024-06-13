@@ -1,12 +1,12 @@
 # Preamble
 A number of positions and circumstances during combat will effect the outcome of that combat - who lives and who dies. The following sections will discuss the rules and definitions of how any combat generally operates.
 
+### Rules for Combats
 ## Timing
 While Combat is occurring, the timing of of abilities triggering and resolving is incredibly important. All effects resolve in a manner known as "First In, Last Out". This means that the most recently triggered ability or effect resolves before the triggering effect.
 
-For example, when a creature is 'Engaged' and they go to make a Maneuver, they trigger the 'Engaged' [[Ailment]]'s "When you make a Maneuver... they make an Attack against your Reflex." clause. This Attack occurs and resolves before the Maneuver.
-
-In this example, if another effect would be triggered by that Attack, it occurs and resolves, then the Attack does, and then the Maneuver.
+> For example, when a creature is 'Engaged' and they go to make a Maneuver, they trigger the 'Engaged' [[Ailment]]'s "When you make a Maneuver... they make an Attack against your Reflex." clause. This Attack occurs and resolves before the Maneuver.
+> In this example, if another effect would be triggered by that Attack, it occurs and resolves, then the Attack does, and then the Maneuver would resolve.
 
 ## Positioning
 While you are in combat, RHoD assumes your character will occupy a 5ft square at any given time. 
@@ -60,21 +60,24 @@ You are adjacent to Low Cover, such as a mid-sized crate. You have Line of Sight
 ###### No Cover
 You are not adjacent to any cover.
 
+### Rules for Enviroments
 ## Lighting
 Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a weapon when used effectively.
 
+If a space would be lit by multiple sources, it is considered lit by the brightest available light.
+
 ###### Blinding Light
-Blinding Light is too much light, even through squinted eyes. Typically, Blinding Light is only emitted by militaristic sources.
+Blinding Light is too much light, even through squinted eyes. Typically, Blinding Light is emitted by militaristic sources or intense natural sources.
 
 While you are in a space lit by Blinging Light, gain the 'Blinded' [[Condition]] until you are no longer in a space lit by Blinging Light.
 
 ###### High Light
-High Light is bright, but not blinding. High Light is emitted by sources like a sun, a fire, or an electric or arcane lamp.
+High Light is bright, but not blinding. High Light is emitted by sources like a "local" star, a campfire, or an electric or arcane lamp.
 
 High Light has no mechanical benefits or deficits.
 
 ###### Low Light
-Low Light enough Light to see generalities, but not details. Typically, Low Light is emitted by small sources, such as candles or screens, or at the edge of High Light.
+Low Light enough Light to see generalities, but not details. Typically, Low Light is emitted by small sources, such as candles, or at the edge of High Light.
 
 While you are in a space lit by Low Light, you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks.
 
@@ -82,3 +85,8 @@ While you are in a space lit by Low Light, you have Advantage on Stealth, Thieve
 Darkness is little to no light, where you cannot reasonably be certain of what you are seeing.
 
 While you are in a space lit by Darkness, you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks. In addition, you impose Disadvantage on Attacks against you.
+
+## Condition of Spaces
+#### Flammable
+#### Enflamed
+#### Impassable

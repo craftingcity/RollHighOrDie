@@ -2,14 +2,17 @@
 Any Ranged Weapon fires a projectile known as its Ammunition. Much like their counterparts, each Ammunition is a Base and a collection of Tags.
 
 ## Bases
+### Man-powered
 #### Sling-Bullet
 #### Arrow
 #### Bolt
 #### Great-Arrow
+### Self-propelled
 #### Powder-Shot
 #### Low Caliber
 #### High Caliber
 #### Shotshell
+
 ## Tags
 ### Required Tags
 #### Size
@@ -28,21 +31,114 @@ When this Ammunition is expended, it cannot be recovered.
 #### Durable
 When this Ammunition is expended, it can be recovered. 
 
-Note the amount of this Ammunition you spend during combat. After combat, you may attempt to recollect your ammunition by making a 
+Note the amount of this Ammunition you spend during combat. After combat, you may attempt to recollect your ammunition by making a Investigation Skill Check.
+
+If the Total of your Check is 10 or greater, you may recover half of your expended Ammunition.
+
+If the Total of your Check is 20 or greater, you may recover all of your expended Ammunition.
 
 ### Specialized Tags
+#### Barbed / Hollow Point
+When you deal Damage using this Ammunition, you apply one stack of the 'Bleeding' [[Condition]].
+
+#### Coring / Armor Piercing
+When you deal Damage using this Ammunition, you may deal half that damage as True Damage.
+
+#### Over-Pressured
+When you make an Attack using this Ammunition, the Complexity Value of your Weapon increases by 2.
+
+#### Explosive
+When you make an Attack using this Ammunition, the Complexity Value of your Weapon increases by 4. 
+
+This Ammunition's Damage Type is Force.
+
+#### Tracer
+When you make an Attack using this Ammunition, the space your target occupies is lit by Low Light until the end of your turn.
+
+#### Incendiary
+When you make an Attack using this Ammunition, if the space your target occupies is 'Flammable', it becomes 'Enflamed'.
+
 
 # Example Ammunition
-| Title                  | Base         | Size | D. Dice | D. Type | Other |
-| ---------------------- | ------------ | ---- | ------- | ------- | ----- |
-| Pebble                 | sling-bullet |      |1d4|         |       |
-| Clay Bullet            | sling-bullet |      |1d6|         |       |
-| Lead Bullet            | sling-bullet |      |1d6|         |       |
-| Sharpened Wooden Arrow | arrow        |      | 1d4     |         |       |
-| Bodkin Wooden Arrow    | arrow        |      | 1d6     |         |       |
-| Broadhead Wooden Arrow | arrow        |      | 1d6     |         |       |
-| Corehead Wooden Arrow  | arrow        |      | 1d4     |         |       |
-| Sharpened Steel Arrow  | arrow        |      | 1d4     |         |       |
-| Bodkin Steel Arrow     | arrow        |      | 1d8     |         |       |
-| Broadhead Steel Arrow  | arrow        |      | 1d8     |         |       |
-| Corehead Steel Arrow   | arrow        |      | 1d6     |         |       |
+### Man-Powered
+| Title                       | Base         | Size  | D. Dice | D. Type     | Other              |
+| --------------------------- | ------------ | ----- | ------- | ----------- | ------------------ |
+| Pebble                      | sling-bullet | Tiny  | 1d4     | Bludgeoning | Fragile            |
+| Clay Bullet                 | sling-bullet | Small | 1d6     | Bludgeoning | Fragile            |
+| Lead Bullet                 | sling-bullet | Small | 1d6     | Bludgeoning | Durable            |
+| Cherry Bomb                 | sling-bullet | Small | 1d4     | Force       | Fragile, Explosive |
+| Sharpened Wooden Arrow      | arrow        | Small | 1d4     | Piercing    | Fragile            |
+| Bodkin Wooden Arrow         | arrow        | Small | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Arrow      | arrow        | Small | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Arrow       | arrow        | Small | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Arrow       | arrow        | Small | 1d6     | Piercing    | Durable            |
+| Bodkin Steel Arrow          | arrow        | Small | 1d8     | Piercing    | Durable            |
+| Broadhead Steel Arrow       | arrow        | Small | 1d8     | Piercing    | Durable, Barbed    |
+| Corehead Steel Arrow        | arrow        | Small | 1d6     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Bolt       | bolt         | Tiny  | 1d4     | Piercing    | Fragile            |
+| Bodkin Wooden Bolt          | bolt         | Tiny  | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Bolt       | bolt         | Tiny  | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Bolt        | bolt         | Tiny  | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Bolt        | bolt         | Tiny  | 1d4     | Piercing    | Durable            |
+| Bodkin Steel Bolt           | bolt         | Tiny  | 1d6     | Piercing    | Durable            |
+| Broadhead Steel Bolt        | bolt         | Tiny  | 1d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Bolt         | bolt         | Tiny  | 1d4     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Greatarrow | great-arrow  | Small | 2d6     | Piercing    | Fragile            |
+| Broadhead Wooden Greatarrow | great-arrow  | Small | 3d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Greatarrow  | great-arrow  | Small | 2d6     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Greatarrow  | great-arrow  | Small | 2d6     | Piercing    | Durable            |
+| Broadhead Steel Greatarrow  | great-arrow  | Small | 3d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Greatarrow   | great-arrow  | Small | 2d6     | Piercing    | Durable, Coring    |
+
+### Self-propelled
+| Title                 | Base         | Size  | D. Dice | D. Type     | Other                        |
+| --------------------- | ------------ | ----- | ------- | ----------- | ---------------------------- |
+| Round Powder Shot     | powder-shot  | Tiny  | 1d4     | Bludgeoning |                              |
+| Point Powder Shot     | powder-shot  | Tiny  | 1d6     | Piercing    |                              |
+| Grape Powder Shot     | powder-shot  | Tiny  | 1d10    | Piercing    |                              |
+| .22LR (FMJ)           | low caliber  | Tiny  | 1d4     | Piercing    |                              |
+| 9mm (FMJ)             | low caliber  | Tiny  | 1d6     | Piercing    |                              |
+| 9mm (JHP)             | low caliber  | Tiny  | 1d6     | Piercing    | Hollow Point                 |
+| 9mm (JHP+P)           | low caliber  | Tiny  | 2d4     | Piercing    | Hollow Point, Over-Pressured |
+| 9mm (AP)              | low caliber  | Tiny  | 1d6     | Piercing    | Armor Piercing               |
+| .357 Magnum (FMJ)     | low caliber  | Tiny  | 1d8     | Piercing    |                              |
+| .357 Magnum (JHP)     | low caliber  | Tiny  | 1d8     | Piercing    | Hollow Point                 |
+| .357 Magnum (JHP+P)   | low caliber  | Tiny  | 2d6     | Piercing    | Hollow Point, Over-Pressured |
+| 10mm (FMJ)            | low caliber  | Tiny  | 1d6     | Piercing    |                              |
+| 10mm (JHP)            | low caliber  | Tiny  | 1d6     | Piercing    | Hollow Point                 |
+| 10mm (JHP+P)          | low caliber  | Tiny  | 2d6     | Piercing    | Hollow Point, Over-Pressured |
+| 10mm (AP)             | low caliber  | Tiny  | 1d6     | Piercing    | Armor Piercing               |
+| .45 ACP (FMJ)         | low caliber  | Tiny  | 1d8     | Piercing    |                              |
+| .45 ACP (JHP)         | low caliber  | Tiny  | 1d8     | Piercing    | Hollow Point                 |
+| .45 ACP (JHP+P)       | low caliber  | Tiny  | 2d6     | Piercing    | Hollow Point, Over-Pressured |
+| .45 ACP (AP)          | low caliber  | Tiny  | 1d8     | Piercing    | Armor Piercing               |
+| .45 ACP (HE)          | low caliber  | Tiny  | 1d8     | Force       | Explosive                    |
+| 5.45x39mm USSR (FMJ)  | high caliber | Tiny  | 2d6     | Piercing    |                              |
+| 5.45x39mm USSR (JHP)  | high caliber | Tiny  | 2d6     | Piercing    | Hollow Point                 |
+| 5.45x39mm USSR (AP)   | high caliber | Tiny  | 2d6     | Piercing    | Armor Piercing               |
+| 5.45x39mm USSR (AP+I) | high caliber | Tiny  | 2d6     | Piercing    | Armor Piercing, Incendiary   |
+| 5.56x45mm NATO (FMJ)  | high caliber | Tiny  | 2d6     | Piercing    |                              |
+| 5.56x45mm NATO (JHP)  | high caliber | Tiny  | 2d6     | Piercing    | Hollow Point                 |
+| 5.56x45mm NATO (AP)   | high caliber | Tiny  | 2d6     | Piercing    | Armor Piercing               |
+| 5.56x45mm NATO (AP+I) | high caliber | Tiny  | 2d6     | Piercing    | Armor Piercing, Incendiary   |
+| .303 British (FMJ)    | high caliber | Tiny  | 2d8     | Piercing    |                              |
+| .303 British (JHP)    | high caliber | Tiny  | 2d8     | Piercing    | Hollow Point                 |
+| .303 British (AP)     | high caliber | Tiny  | 2d8     | Piercing    | Armor Piercing               |
+| .303 British (AP+I)   | high caliber | Tiny  | 2d8     | Piercing    | Armor Piercing, Incendiary   |
+| 7.62x39mm USSR (FMJ)  | high caliber | Tiny  | 3d6     | Piercing    |                              |
+| 7.62x39mm USSR (JHP)  | high caliber | Tiny  | 3d6     | Piercing    | Hollow Point                 |
+| 7.62x39mm USSR (AP)   | high caliber | Tiny  | 3d6     | Piercing    | Armor Piercing               |
+| 7.62x39mm USSR (AP+I) | high caliber | Tiny  | 3d6     | Piercing    | Armor Piercing, Incendiary   |
+| 7.62x51mm NATO (FMJ)  | high caliber | Tiny  | 3d6     | Piercing    |                              |
+| 7.62x51mm NATO (JHP)  | high caliber | Tiny  | 3d6     | Piercing    | Hollow Point                 |
+| 7.62x51mm NATO (AP)   | high caliber | Tiny  | 3d6     | Piercing    | Armor Piercing               |
+| 7.62x51mm NATO (AP+I) | high caliber | Tiny  | 3d6     | Piercing    | Armor Piercing, Incendiary   |
+| 7.62x54mmR USSR (FMJ) | high caliber | Small | 3d8     | Piercing    |                              |
+| 7.62x54mmR USSR (AP)  | high caliber | Small | 3d8     | Piercing    | Armor Piercing               |
+| .338 Lapua (FMJ)      | high caliber | Small | 3d10    | Piercing    |                              |
+| .338 Lapua (JHP)      | high caliber | Small | 3d10    | Piercing    | Hollow Point                 |
+| .338 Lapua (AP)       | high caliber | Small | 3d10    | Piercing    | Armor Piercing               |
+| .338 Lapua (AP+I)     | high caliber | Small | 3d10    | Piercing    | Armor Piercing, Incendiary   |
+| .50 BMG (FMJ)         | high caliber | Small | 3d12    | Piercing    |                              |
+| .50 BMG (AP)          | high caliber | Small | 3d12    | Piercing    | Armor Piercing               |
+| .50 BMG (AP+I)        | high caliber | Small | 3d12    | Piercing    | Armor Piercing, Incendiary   |

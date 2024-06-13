@@ -71,9 +71,10 @@ If there is no value indicated, or your weapon does not have this Tag, your weap
 #### Mechanical (x/y)
 This Weapon has complex components that are required for function. 
 
-When you make an Attack with this Weapon, if the number you roll on your d20 is equal or less than the first value indicated (x), your Attack misses, and this Weapon is Jammed.
-
+The first value indicated (x) is this Weapon's Complexity Value.
 The second value indicated (y) is this Weapon's Unjam DC.
+
+When you make an Attack with this Weapon, if the number you roll on your d20 is equal or less than this Weapon's Complexity Value, your Attack misses, and this Weapon is Jammed.
 
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
