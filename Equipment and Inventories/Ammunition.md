@@ -98,10 +98,11 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | .45 ACP (Hydra)      | low caliber  | Tiny  |         |         |       |
 | .45 ACP (AP)         | low caliber  | Tiny  |         |         |       |
 | 5.45x39mm USSR (FMJ) | high caliber | Tiny  |         |         |       |
-| 5.45x39mm USSR (FMJ) | high caliber | Tiny  |         |         |       |
-| 5.45x39mm USSR (FMJ) | high caliber | Tiny  |         |         |       |
-
-| 5.56x45mm NATO       | high caliber | Tiny  |         |         |       |
+| 5.45x39mm USSR (JHP) | high caliber | Tiny  |         |         |       |
+| 5.45x39mm USSR (AP)  | high caliber | Tiny  |         |         |       |
+| 5.56x45mm NATO (FMJ) | high caliber | Tiny  |         |         |       |
+| 5.56x45mm NATO (JHP) | high caliber | Tiny  |         |         |       |
+| 5.56x45mm NATO (AP)  | high caliber | Tiny  |         |         |       |
 | .303 British         | high caliber | Tiny  |         |         |       |
 | .308 Winchester      | high caliber | Tiny  |         |         |       |
 | 7.62x39mm USSR       | high caliber | Tiny  |         |         |       |
