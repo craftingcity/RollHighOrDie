@@ -80,3 +80,7 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Point Powder Shot | powder-shot | Tiny |         |         |       |
 | Grape Powder Shot | powder-shot | Tiny |         |         |       |
 | .22LR             | low caliber |      |         |         |       |
+| .357 Magnum       |             |      |         |         |       |
+| 9x19mm Parabellum |             |      |         |         |       |
+| .45 ACP           |             |      |         |         |       |
+| 5.                  |             |      |         |         |       |
