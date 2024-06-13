@@ -79,13 +79,16 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Round Powder Shot | powder-shot  | Tiny  |         |         |       |
 | Point Powder Shot | powder-shot  | Tiny  |         |         |       |
 | Grape Powder Shot | powder-shot  | Tiny  |         |         |       |
-| .22LR             | low caliber  | Tiny  |         |         |       |
+| .22LR (FMJ)       | low caliber  | Tiny  |         |         |       |
 | 9x19mm (FMJ)      | low caliber  | Tiny  |         |         |       |
-| 9x19mm (HP)       | low caliber  | Tiny  |         |         |       |
-| 9x19mm (HP+P)      | low caliber  | Tiny  |         |         |       |
-| 9x19mm (AP)       | low caliber  | Tiny  |         |         |       |
-| .357 Magnum       | low caliber  | Tiny  |         |         |       |
-| 10mm Auto         | low caliber  | Tiny  |         |         |       |
+| 9x19mm (JHP)      | low caliber  | Tiny  |         |         |       |
+| 9x19mm (JHP+P)    | low caliber  | Tiny  |         |         |       |
+| .357 (FMJ)        | low caliber  | Tiny  |         |         |       |
+| .357 (JHP)        | low caliber  | Tiny  |         |         |       |
+| .357 (JHP+P)      | low caliber  | Tiny  |         |         |       |
+| 10mm (FMJ)         | low caliber  | Tiny  |         |         |       |
+| 10mm (JHP)         | low caliber  | Tiny  |         |         |       |
+| 10mm (JHP+P)         | low caliber  | Tiny  |         |         |       |
 | .45 ACP           | low caliber  | Tiny  |         |         |       |
 | 5.45x39mm USSR    | high caliber | Tiny  |         |         |       |
 | 5.56x45mm NATO    | high caliber | Tiny  |         |         |       |
