@@ -50,7 +50,7 @@ When you deal
 
 
 #### Tracer
-When you make an Attack using this Ammunition
+When you make an Attack using this Ammunition, the space your target occupies is lit by Low Light
 
 #### Incendiary
 

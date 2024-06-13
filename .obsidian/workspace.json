@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "06c439741c873e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat and Actions/Combat Definitions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -79,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "check",
+                "query": "target",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md"
+                "file": "Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -179,11 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afc03fc4d9da5c5d",
+  "active": "06c439741c873e9c",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ammunition.md",
+    "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Ammunition.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
@@ -196,7 +209,6 @@
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Mentality.md",
     "Selections Glossary/Traits/Traits - Physicality.md",
-    "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Character Rules/Creating A Character.md",

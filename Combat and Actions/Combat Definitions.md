@@ -63,6 +63,8 @@ You are not adjacent to any cover.
 ## Lighting
 Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a weapon when used effectively.
 
+If a space would be lit by multiple sources, it is considered lit by the brightest availab
+
 ###### Blinding Light
 Blinding Light is too much light, even through squinted eyes. Typically, Blinding Light is only emitted by militaristic sources.
 
