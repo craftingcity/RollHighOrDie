@@ -22,6 +22,8 @@ When you make an attack, if the space you occupy is above the space your target 
 ###### Environmental Damage
 When a character is pushed, if they are pushed into an object or wall they cannot pass through, they take 1d6 bludgeoning damage for every 5ft they cannot be pushed.
 
+While falling, 
+
 ## Stance
 Stance is the way your character's body is positioned, and will affect how effectively you fight. The four stances RHoD mechanically cares for are High Ready, Low Ready, Crouched, and Prone. 
 
