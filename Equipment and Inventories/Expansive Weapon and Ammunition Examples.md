@@ -154,6 +154,6 @@
 | .50 BMG (AP+I)        | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing, Incendiary   |
 
 # Energy Ammunition
-| Title  | Base   | Size       | D. Dice | D. Type | Other |
-| ------ | ------ | ---------- | ------- | ------- | ----- |
-| Diesel | energy | Tiny (100) | 2d8     | Fire    |       |
+| Title  | Base   | Size       | D. Dice | D. Type | Other      |
+| ------ | ------ | ---------- | ------- | ------- | ---------- |
+| Diesel | energy | Tiny (100) | 2d8     | Fire    | Incendiary |

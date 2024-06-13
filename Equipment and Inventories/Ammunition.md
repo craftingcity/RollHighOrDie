@@ -59,9 +59,10 @@ When you make an Attack using this Ammunition, the space your target occupies is
 #### Incendiary
 When you make an Attack using this Ammunition, if the space your target occupies is 'Flammable', it becomes 'Enflamed'.
 
+If you hit with an Attack using this Ammunition, your target gains a number of stacks of the 'Burning' [[Condition]] equal to the.
 
 # Example Ammunition
-### Man-Powered
+### Projectile Ammunition
 | Title                       | Base         | Size  | D. Dice | D. Type     | Other              |
 | --------------------------- | ------------ | ----- | ------- | ----------- | ------------------ |
 | Pebble                      | sling-bullet | Tiny  | 1d4     | Bludgeoning | Fragile            |
@@ -91,7 +92,7 @@ When you make an Attack using this Ammunition, if the space your target occupies
 | Broadhead Steel Greatarrow  | great-arrow  | Small | 3d6     | Piercing    | Durable, Barbed    |
 | Corehead Steel Greatarrow   | great-arrow  | Small | 2d6     | Piercing    | Durable, Coring    |
 
-### Self-propelled
+### Cartridge Ammunition
 | Title                 | Base         | Size  | D. Dice | D. Type     | Other                        |
 | --------------------- | ------------ | ----- | ------- | ----------- | ---------------------------- |
 | Round Powder Shot     | powder-shot  | Tiny  | 1d4     | Bludgeoning |                              |
@@ -144,3 +145,7 @@ When you make an Attack using this Ammunition, if the space your target occupies
 | .50 BMG (AP)          | high caliber | Small | 3d12    | Piercing    | Armor Piercing               |
 | .50 BMG (AP+I)        | high caliber | Small | 3d12    | Piercing    | Armor Piercing, Incendiary   |
 
+### Energy Ammunition
+| Title  | Base   | Size       | D. Dice | D. Type | Other      |
+| ------ | ------ | ---------- | ------- | ------- | ---------- |
+| Diesel | energy | Tiny (100) | 2d8     | Fire    | Incendiary |
