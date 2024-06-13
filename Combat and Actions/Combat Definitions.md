@@ -20,9 +20,9 @@ When you make an Attack, you must first establish Line of Sight with your target
 When you make an attack, if the space you occupy is above the space your target occupies, you gain +5 to that attack.
 
 ###### Environmental Damage
-When a character is pushed, if they are pushed into an object or wall they cannot pass through, they take 1d6 bludgeoning damage for every 5ft they cannot be pushed.
+When a character is pushed, if they are pushed into an object or wall they cannot pass through, they take 1d6 True Force Damage for every 5ft they cannot be pushed.
 
-While falling, gravity pushes a character 10' downward for every round they have been falling.
+While falling, at the beginning of their turn, gravity pushes a character 10' downward for every round they have been falling.
 
 ## Stance
 Stance is the way your character's body is positioned, and will affect how effectively you fight. The four stances RHoD mechanically cares for are High Ready, Low Ready, Crouched, and Prone. 
@@ -95,7 +95,11 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 #### Difficult Terrain
 ## Bodies of Water
 #### Suffocating
-While a character does not have access to healthy, breathable air, they can hold their breath for a number of 
+While a character does not have access to healthy, breathable air, they can hold their breath for a number of minutes equal to their Constitution Modifier.
+
+When a character finally runs out of air, they will begin to Suffocate. While Suffocating, a character takes 1d6 True Damage for every round they have been Suffocating.
+
+
 ## Heat & Fire
 #### Flammable
 #### Enflamed
