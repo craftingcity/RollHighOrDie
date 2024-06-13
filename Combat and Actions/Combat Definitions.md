@@ -63,7 +63,11 @@ You are adjacent to Low Cover, such as a mid-sized crate. You have Line of Sight
 You are not adjacent to any cover.
 
 ## Damage Types
+### Mundane Damage
+### Energy Damage
 
+### True Damage
+There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
 
 ### Rules for Environments
 ## Weather

@@ -31,6 +31,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ec5e197d8bdf8806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -118,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"true damage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,12 +232,13 @@
   },
   "active": "06c439741c873e9c",
   "lastOpenFiles": [
+    "Character Rules/Defenses.md",
+    "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Character Rules/Skills.md",
-    "Combat and Actions/Combat Definitions.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
@@ -240,7 +253,6 @@
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Character Rules/Creating A Character.md",
-    "Character Rules/Defenses.md",
     "README.md",
     "Character Sheet.md",
     "Character Rules/Surviving.md",
