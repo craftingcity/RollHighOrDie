@@ -79,17 +79,17 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 ### Self-propelled
 | Title                 | Base         | Size  | D. Dice | D. Type | Other |
 | --------------------- | ------------ | ----- | ------- | ------- | ----- |
-| Round Powder Shot     | powder-shot  | Tiny  |         |         |       |
-| Point Powder Shot     | powder-shot  | Tiny  |         |         |       |
-| Grape Powder Shot     | powder-shot  | Tiny  |         |         |       |
-| .22LR (FMJ)           | low caliber  | Tiny  |         |         |       |
-| 9mm (FMJ)             | low caliber  | Tiny  |         |         |       |
-| 9mm (JHP)             | low caliber  | Tiny  |         |         |       |
-| 9mm (JHP+P)           | low caliber  | Tiny  |         |         |       |
-| 9mm (AP)              | low caliber  | Tiny  |         |         |       |
-| .357 Magnum (FMJ)     | low caliber  | Tiny  |         |         |       |
-| .357 Magnum (JHP)     | low caliber  | Tiny  |         |         |       |
-| .357 Magnum (JHP+P)   | low caliber  | Tiny  |         |         |       |
+| Round Powder Shot     | powder-shot  | Tiny  | 1d4     |Bludgeoning|       |
+| Point Powder Shot     | powder-shot  | Tiny  | 1d6     |Piercing|       |
+| Grape Powder Shot     | powder-shot  | Tiny  | 1d6     |Piercing|       |
+| .22LR (FMJ)           | low caliber  | Tiny  | 1d4     |Piercing|       |
+| 9mm (FMJ)             | low caliber  | Tiny  | 1d6     |         |       |
+| 9mm (JHP)             | low caliber  | Tiny  | 1d6     |         |       |
+| 9mm (JHP+P)           | low caliber  | Tiny  | 2d4     |         |       |
+| 9mm (AP)              | low caliber  | Tiny  | 1d6     |         |       |
+| .357 Magnum (FMJ)     | low caliber  | Tiny  | 1d8     |         |       |
+| .357 Magnum (JHP)     | low caliber  | Tiny  | 1d8     |         |       |
+| .357 Magnum (JHP+P)   | low caliber  | Tiny  | 2d6     |         |       |
 | 10mm (FMJ)            | low caliber  | Tiny  |         |         |       |
 | 10mm (JHP)            | low caliber  | Tiny  |         |         |       |
 | 10mm (JHP+P)          | low caliber  | Tiny  |         |         |       |
