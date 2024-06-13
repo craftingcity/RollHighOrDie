@@ -28,24 +28,24 @@ While falling, at the beginning of their turn, gravity pushes a character 15' do
 Stance is the way your character's body is positioned, and will affect how effectively you fight. The four stances RHoD mechanically cares for are 'High Ready', 'Low Ready', 'Crouched', and 'Prone'. 
 
 ###### High Ready
-High Ready is an upright position, where your character has their weapon in a forward battle-ready position. You are favoring offence in this stance.
+'High Ready' is an upright position, where your character has their weapon in a forward battle-ready position. You are favoring offence in this stance.
 
-While you are in the High Ready Stance, you have +1 on Initiative Rolls and a +2 to Attack Rolls.
+While you are in the 'High Ready' Stance, you have +1 on Initiative Rolls and a +2 to Attack Rolls.
 
 ###### Low Ready
-Low Ready is an upright position, where your character has their weapon in a lowered position. While you maintain your readiness for battle, you are favoring your maneuverability in this stance.
+'Low Ready' is an upright position, where your character has their weapon in a lowered position. While you maintain your readiness for battle, you are favoring your maneuverability in this stance.
 
-While you are in the Low Ready Stance, you have +2 on Stealth Rolls and a +1 to your Reflex Defense.
+While you are in the 'Low Ready' Stance, you have +2 on Stealth Rolls and a +1 to your Reflex Defense.
 
 ###### Crouched
-Crouched is a lowered position, where your character has lowered themselves at the knees or hips. This stance is favorable for Ranged combatants, who experience a more consistent aiming experience, but it can be detrimental for those combatants who rely on mobility and martial prowess.
+'Crouched' is a lowered position, where your character has lowered themselves at the knees or hips. This stance is favorable for Ranged combatants, who experience a more consistent aiming experience, but it can be detrimental for those combatants who rely on mobility and martial prowess.
 
-While you are in the Crouched Stance, you cannot run, you gain a +3 bonus to Ranged Attacks, and you treat Low Cover as High Cover.
+While you are in the 'Crouched' Stance, you cannot run, you gain a +3 bonus to Ranged Attacks, and you treat Low Cover as High Cover.
 
 ###### Prone
-Prone is a fully lowered position, where your character has their chest or back upon the ground. This stance is rarely favorable for any combatant, and likely should be reserved for taking "deep" cover.
+'Prone' is a fully lowered position, where your character has their chest or back upon the ground. This stance is rarely favorable for any combatant, and likely should be reserved for taking "deep" cover.
 
-While you are in the Prone Stance, you cannot run, you treat Low Cover as High Cover, and No Cover as Low Cover. Attacks against you that originate within 10' have Advantage.
+While you are in the 'Prone' Stance, you cannot run, you treat Low Cover as High Cover, and No Cover as Low Cover. Attacks against you that originate within 10' have Advantage.
 
 ## Cover
 Cover is any protective barrier between you and your opposition. Taking effective Cover during combat is a life-saving strategy.
@@ -93,12 +93,10 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 #### Solid Terrain
 #### Shifting Terrain
 #### Difficult Terrain
-## Bodies of Water
 #### Suffocating
 While a character does not have access to healthy, breathable air, they can hold their breath for a number of minutes equal to their Constitution Modifier.
 
-When a character finally runs out of air, they will begin to Suffocate. While Suffocating, a character takes 1d6 True Force Damage for every round they have been Suffocating.
-
+When a character finally runs out of air, they will begin to Suffocate. While Suffocating, a character takes 1d10 True Force Damage for every round they have been Suffocating.
 
 ## Heat & Fire
 #### Flammable
