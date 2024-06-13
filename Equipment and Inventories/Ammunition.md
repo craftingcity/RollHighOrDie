@@ -2,10 +2,12 @@
 Any Ranged Weapon fires a projectile known as its Ammunition. Much like their counterparts, each Ammunition is a Base and a collection of Tags.
 
 ## Bases
+### Man-powered
 #### Sling-Bullet
 #### Arrow
 #### Bolt
 #### Great-Arrow
+### Self-propelled
 #### Powder-Shot
 #### Low Caliber
 #### High Caliber
@@ -41,6 +43,7 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 #### Explosive
 
 # Example Ammunition
+### Man-Powered
 | Title                       | Base         | Size  | D. Dice | D. Type     | Other              |
 | --------------------------- | ------------ | ----- | ------- | ----------- | ------------------ |
 | Pebble                      | sling-bullet | Tiny  | 1d4     | Bludgeoning | Fragile            |
@@ -69,7 +72,11 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 | Sharpened Steel Greatarrow  | great-arrow  | Small | 2d6     | Piercing    | Durable            |
 | Broadhead Steel Greatarrow  | great-arrow  | Small | 3d6     | Piercing    | Durable, Barbed    |
 | Corehead Steel Greatarrow   | great-arrow  | Small | 2d6     | Piercing    | Durable, Coring    |
-| Round Powder Shot           | powder-shot  | Tiny  |         |             |                    |
-| Point Powder Shot           | powder-shot  | Tiny  |         |             |                    |
-| Grape Powder Shot           | powder-shot  | Tiny  |         |             |                    |
-| 
+
+### Self-propelled
+| Title             | Base        | Size | D. Dice | D. Type | Other |
+| ----------------- | ----------- | ---- | ------- | ------- | ----- |
+| Round Powder Shot | powder-shot | Tiny |         |         |       |
+| Point Powder Shot | powder-shot | Tiny |         |         |       |
+| Grape Powder Shot | powder-shot | Tiny |         |         |       |
+| .22LR             | low            |      |         |         |       |
