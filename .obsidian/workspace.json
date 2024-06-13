@@ -21,36 +21,12 @@
             }
           },
           {
-            "id": "95927896b705e4ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "06c439741c873e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Combat and Actions/Combat Definitions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eb80b1348eb43633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,6 +39,30 @@
         "type": "tabs",
         "dimension": 30.74912891986063,
         "children": [
+          {
+            "id": "eb80b1348eb43633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "95927896b705e4ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
           {
             "id": "afc03fc4d9da5c5d",
             "type": "leaf",
@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,9 +217,9 @@
   },
   "active": "35436dc749e41820",
   "lastOpenFiles": [
-    "Character Rules/Skills.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Character Rules/Skills.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Melee Weapons.md",
