@@ -4,42 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "6eda707d2321376d",
+        "id": "1cb697faf6c434c9",
         "type": "tabs",
+        "dimension": 64.06794425087108,
         "children": [
           {
-            "id": "7165e4e6d0277634",
+            "id": "35436dc749e41820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "af9055fdea75b361",
+            "id": "06c439741c873e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat and Actions/Actions During Encounters.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "mode": "source",
                 "source": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7117fa1a29fdcd5d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ba6d9bd9f6a67a3a",
+            "id": "ec5e197d8bdf8806",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,21 +43,29 @@
                 "source": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "de8e4d5fb7b0a55a",
+        "type": "tabs",
+        "dimension": 35.93205574912892,
+        "children": [
           {
-            "id": "73b4cf251b7410a7",
+            "id": "eb80b1348eb43633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Rules/Experience.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "871a14bc1f31265f",
+            "id": "95927896b705e4ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,12 +77,24 @@
             }
           },
           {
-            "id": "efcead8d1c449685",
+            "id": "afc03fc4d9da5c5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2d43a2538eba9942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Skills.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"action",
+                "query": "\"true damage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +140,7 @@
             }
           },
           {
-            "id": "535ea226861151da",
+            "id": "a44eb621d33dbe85",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -138,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat and Actions/Actions During Encounters.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat and Actions/Actions During Encounters.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat and Actions/Actions During Encounters.md"
+                "file": "Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -216,36 +230,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af9055fdea75b361",
+  "active": "06c439741c873e9c",
   "lastOpenFiles": [
-    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
-    "Character Rules/Skills.md",
-    "Character Rules/Experience.md",
-    "conflict-files-obsidian-git.md",
-    "Character Sheet.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
+    "Combat and Actions/Combat Definitions.md",
     "Character Rules/Defenses.md",
+    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Equipment and Inventories/Ammunition.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Character Rules/Skills.md",
     "Combat and Actions/Generic Actions.md",
-    "Character Rules/Creating A Character.md",
     "Character Rules/Ability Scores.md",
-    "Selections Glossary/Traits/Traits.md",
-    "Selections Glossary/Traits/Traits - Training.md",
-    "Selections Glossary/Traits/Traits - Physicality.md",
-    "Selections Glossary/Traits/Traits - Mentality.md",
-    "Selections Glossary/Traits",
-    "Selections Glossary/Features/Features.md",
+    "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Features/Features - Martial.md",
+    "Selections Glossary/Features/Features.md",
+    "Selections Glossary/Traits/Traits.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
+    "Selections Glossary/Traits/Traits - Training.md",
+    "Selections Glossary/Traits/Traits - Mentality.md",
+    "Selections Glossary/Traits/Traits - Physicality.md",
+    "Selections Glossary/Traits",
     "Selections Glossary/Features",
-    "Selections Glossary/Features.md",
-    "Combat and Actions/Combat Definitions.md",
+    "Character Rules/Creating A Character.md",
     "README.md",
+    "Character Sheet.md",
     "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
-    "Equipment and Inventories/Ammunition.md",
+    "conflict-files-obsidian-git.md",
+    "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Selections Glossary",
     "Combat and Actions",
