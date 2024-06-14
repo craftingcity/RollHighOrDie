@@ -27,9 +27,11 @@ During a Full Rest, you may gain or improve your Degree of Proficiency in a Skil
 #### Combat Skills
 Increasing your Degree of Proficiency in any Combat Skill costs 2 Experience.
 
-#### Physical Skills
-Increasing your Degree of Proficiency in any Combat Skill costs 1 Experience.
+#### Physical & Personal Skills
+Increasing your Degree of Proficiency in any Physical or Personal Skill costs 1 Experience.
 
-#### Personal Skills
 #### Knowledge Skills
+Increasing your Degree of Proficiency in any Knowledge Skill costs 2 Experience, and a source of that knowledge - such as a topical book, a professor, or a less mundane source.
+
 #### Professional Skills
+Increasing your Degree of Proficiency in any Professional Skill costs 2 Experience.
