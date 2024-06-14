@@ -78,7 +78,7 @@ Piercing Damage occurs as objects of minimal mass contact and enter their target
 Slashing Damage occurs as an object is pushed along and or into it's target.
 
 ###### Acid
-Acid Damage is typically chemical in nature, and can impose chemical burns, organ damage, or - in extreme cases - completely react and disintegrate flesh, armor, or whole persons. 
+Acid Damage occurs as a material contacts and reacts, dissolving the material.
 
 ###### Cold
 Cold Damage is 
