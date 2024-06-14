@@ -1,14 +1,14 @@
 ### EXP - 1
-## Fluid Spellcasting
+## Innate Spellcasting
 ###### REQ: #.EXP 
 ###### xAP
-'...'
+'For whatever reason, you are brimming with Arcane potential. You feel the power pounding against your fingertips.'
 
 Content!
 
-## Prepared Spellcasting
+## Learned Spellcasting
 ###### REQ: #.EXP 
 ###### xAP
-'...'
+'You have spent time and energy studying and '
 
 Content!
