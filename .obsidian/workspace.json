@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Intelligence",
+                "query": "wisdom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

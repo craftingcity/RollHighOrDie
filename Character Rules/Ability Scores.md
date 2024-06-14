@@ -40,10 +40,14 @@ Constitution is used when determining a character's Fortitude or Vitality, and d
 # Intelligence
 Intelligence is a representation of a character's mental logical functions, such as memory and reasoning.
 
-Intelligence is used when determining a character's Reflex and during some Personal Skills.
+Intelligence is used when determining a character's Reflex and ...
 
 # Wisdom
 Wisdom is a representation of a character's mental survival functions, such as detecting danger or falsehoods.
 
+Wisdom is used when determining a character's Will and ...
+
 # Charisma
 Charisma is a representation of a character's chosen outward emotional state and hierarchic position.
+
+Charisma is used when determining a character's Will and ...
