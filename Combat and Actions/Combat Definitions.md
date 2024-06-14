@@ -93,7 +93,7 @@ Fire Damage occurs as a target's temperature increases significantly.
 Force Damage occurs when physics dictates that it must, even when it is coerced to do so.
 
 ###### Necrotic
-Necrotic Damage occurs as the material composing an entity fail and die.
+Necrotic Damage occurs as the materials supporting an organism's physical experience break, fail, rot, and die.
 
 ###### Poison
 ###### Psychic
