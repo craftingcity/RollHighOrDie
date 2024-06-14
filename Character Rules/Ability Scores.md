@@ -25,6 +25,8 @@ When you have Disadvantage on a roll, roll the die twice and take the **lower** 
 # Strength
 Strength is a representation of a character's physical power.
 
+Strength is used in determining a character's Fortitude, Inventory Capacity, 
+
 # Dexterity
 Dexterity is a representation of a character's physical agility and coordination.
 
@@ -38,4 +40,4 @@ Intelligence is a representation of a character's mental logical functions, such
 Wisdom is a representation of a character's mental survival functions, such as detecting danger or falsehoods.
 
 # Charisma
-Charisma is a representation of a character's outward emotional state and 
+Charisma is a representation of a character's chosen outward emotional state and hierarchic position.
