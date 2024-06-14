@@ -117,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Spellcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Spellcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md"
+                "file": "Spellcasting.md"
               }
             }
           }
@@ -302,10 +302,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5cc03c6fd8e3eca",
+  "active": "912afc5e8717e55f",
   "lastOpenFiles": [
-    "Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
+    "Spellcasting.md",
     "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features - Divine.md",
