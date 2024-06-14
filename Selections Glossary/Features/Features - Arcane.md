@@ -7,6 +7,8 @@ When you gain this Feature, your Flux Capacity is equal to your Charisma Modifie
 
 You can cast Spells.
 
+When you cast a Defined Spell, make a Static 
+
 ## Learned Spellcasting
 ###### REQ: #.EXP 
 'You have spent time and energy studying and practicing the manipulation of your local reality through Arcane means to the point of reasonable consistency.'
