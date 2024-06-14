@@ -62,7 +62,9 @@ When you make a Death Call, you are as far from control as you can be, and you w
 
 To make a Death call, roll a d20. Do not add any modifiers or values.
 
-If the result is 10 or greater, you succeed, and fail to die for just a little longer.
+If the result is 10 or greater, you succeed, and live for a moment longer.
 
-If the result is 9 or less, you fail, and you gain a stack of the 'Exhausted' [[Condition]].
+If the result is 9 or fewer, you fail, and you gain a stack of the 'Exhausted' [[Condition]].
+
+If the result is 1, you die.
 
