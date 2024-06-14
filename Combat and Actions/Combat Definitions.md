@@ -99,7 +99,7 @@ Necrotic Damage occurs as the materials supporting an entity's physical experien
 Psychic Damage occurs as an entity's perception of reality or state of mind is beyond function.
 
 ###### Radiant
-Radiant Damage occurs as 
+Radiant Damage occurs as when an entity interacts with forces beyond their capabilit
 
 
 ### Rules for Environments
