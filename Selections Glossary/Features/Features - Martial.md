@@ -7,8 +7,6 @@
 
 Expend two Hit Die. You gain the number rolled plus twice your Constitution Modifier as Vitality.
 
-You may only use this Feature once between Long Rests.
-
 ## Engage
 ###### REQ: 1EXP
 ###### W AP
