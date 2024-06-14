@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -238,7 +238,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"long rest",
+                "query": "character status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Selections Glossary/Features/Features - Arcane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Selections Glossary/Features/Features - Arcane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md"
+                "file": "Selections Glossary/Features/Features - Arcane.md"
               }
             }
           }
@@ -338,13 +338,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "216eae1ff11e3e82",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
+    "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
-    "Spellcasting.md",
     "Selections Glossary/Features/Features.md",
-    "Selections Glossary/Features/Features - Martial.md",
+    "Spellcasting.md",
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Mentality.md",
     "Selections Glossary/Traits/Traits - Physicality.md",
