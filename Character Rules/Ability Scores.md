@@ -23,14 +23,18 @@ When you have Advantage on a roll, roll the die twice and take the **higher** ro
 When you have Disadvantage on a roll, roll the die twice and take the **lower** roll.
 
 # Strength
-Strength is a represen
+Strength is a representation of a character's physical power.
 
 # Dexterity
+Dexterity is a representation of a character's physical agility and coordination.
 
 # Constitution
+Constitution is a representation of a character's physical endurance and internal function.
 
 # Intelligence
+Intelligence is a representation of a character's mental logical functions, such as memory and reasoning.
 
 # Wisdom
+Wisdom is a representation of a character's 
 
 # Charisma
