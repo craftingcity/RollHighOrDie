@@ -1,6 +1,8 @@
 # Preamble
 The ability to manipulate reality on a personal whim is known as "Magic", and the induvial manipulations are known as "Spells". The people or entities that can perform this "Magic" are known as "Spellcasters".
 
+Magic is an inherently setting-shaping concept, and does not necessa
+
 ## Understanding Spells
 Spells simply are the combination of a desired effect and magical effort. Some Spellcasters collect Defined Spells for their own use, while others gather potential Spell Effects and create unique Spells in and for the moment they need them.
 
@@ -30,5 +32,5 @@ When you cast a Spell you have completed with Spell Effects, make a Fluid Castin
 If the result is equal or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
 
 ###### Succeeding in Divine Casting
-When you cast Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
+When you attempt Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
 
