@@ -69,7 +69,7 @@ Damage in RHoD is categorized based on their source and effect. Depending on the
 There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
 
 ###### Bludgeoning
-Bludgeoning Damage occurs when objects of significant mass contact their target at force.
+Bludgeoning Damage occurs as objects of significant mass contact their target at force.
 
 ###### Piercing
 Piercing Damage occurs as objects of minimal mass contact and enter their target with great velocity.
@@ -81,10 +81,13 @@ Slashing Damage occurs as an object is pushed along and or into it's target.
 Acid Damage occurs as a material contacts and reacts, dissolving the material.
 
 ###### Cold
-Cold Damage is 
+Cold Damage occurs as a material's temperature drops significantly.
 
 ###### Electric
+
 ###### Fire
+Fire Damage occurs as a material's temperature increases significantly.
+
 ###### Force
 ###### Necrotic
 ###### Poison
