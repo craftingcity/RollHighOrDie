@@ -81,13 +81,13 @@ Slashing Damage occurs as an object is pushed along and or into it's target.
 Acid Damage occurs as a target contacts and reacts with the acid, dissolving the portions of the target exposed to the acid.
 
 ###### Cold
-Cold Damage occurs as a target's temperature drops significantly.
+Cold Damage occurs as a target's temperature decreases significantly.
 
 ###### Electric
 Electric Damage occurs when a target is exposed to an over-charged material.
 
 ###### Fire
-Fire Damage occurs as a target's temperature increases significantly beyond it's nat.
+Fire Damage occurs as a target's temperature increases significantly.
 
 ###### Force
 Force Damage occurs when physics dictates that it must, even when it is coerced to do so.
