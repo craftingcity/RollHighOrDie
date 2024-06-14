@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Strength",
+                "query": "Dexterity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

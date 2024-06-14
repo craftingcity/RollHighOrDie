@@ -25,10 +25,12 @@ When you have Disadvantage on a roll, roll the die twice and take the **lower** 
 # Strength
 Strength is a representation of a character's physical power.
 
-Strength is used in determining a character's Fortitude, Inventory Capacity, 
+Strength is used when determining a character's Fortitude or Inventory Capacity, and during some Attack Rolls and Physical Skills.
 
 # Dexterity
 Dexterity is a representation of a character's physical agility and coordination.
+
+Dexterity is used when determining a character's Reflex, and during Initiative Checks and some 
 
 # Constitution
 Constitution is a representation of a character's physical endurance and internal function.
