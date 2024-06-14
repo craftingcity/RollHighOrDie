@@ -93,14 +93,13 @@ Fire Damage occurs as a target's temperature increases significantly.
 Force Damage occurs when physics dictates that it must, even when it is coerced to do so.
 
 ###### Necrotic
-Necrotic Damage occurs as the materials supporting an entity's physical experience break, fail, rot, and die.
+Necrotic Damage occurs as the materials supporting a target's physical experience break, fail, rot, and die.
 
 ###### Psychic
-Psychic Damage occurs as an entity's perception of reality or state of mind is beyond function.
+Psychic Damage occurs as a target's perception of reality or state of mind is beyond function.
 
 ###### Radiant
-Radiant Damage occurs as when an entity interacts with forces beyond their capabilit
-
+Radiant Damage occurs as a target becomes purely unmade - as when interacting with a deity's . 
 
 ### Rules for Environments
 ## Weather
