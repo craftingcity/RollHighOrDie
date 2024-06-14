@@ -20,4 +20,4 @@ In the context of Magic, Techniques are groups of Defined Spells or Spell Effect
 ###### Costs of Spellcasting
 The manner in which you pay for a Spell's costs depend on the Feature that granted you the ability to cast Spells.
 
-When you cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain a Spell's Effort Cost as Flux. When you gain Flux, if your total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condi]]
+When you cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain a Spell's Effort Cost as Flux. When you gain Flux, if your resulting total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condition]].
