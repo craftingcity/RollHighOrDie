@@ -46,7 +46,7 @@ You may only use this Feature to deal additional damage once per turn.
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon - Light or Quick
-'You recall the fighting style of your opponent, and know you can use it to your advantage to gain a strike.'
+'You see the fighting style of your opponent, and know you can use it to your advantage to gain a strike.'
 
 Target a creature you have attacked this turn that is currently within your Weapon Range. Until the beginning of your next turn, the first time your target attacks you while they are within your Weapon Range, make an Attack Roll against that target's Reflex.
 
@@ -135,7 +135,7 @@ You may only use this feature once per turn.
 ###### REQ: 2EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
-'With a well timed strike, you hamper your opponent's mobility, and punish them for trying you.'
+'With a well timed strike, you hamper your opponent's mobility, and punish them for trying.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
 
@@ -190,6 +190,7 @@ Make a Maneuver.
 ## Halting Engagement
 ###### REQ: 3EXP, Engage
 'It won't be easy to run while you're still kicking.'
+
 This feature inherits and replaces the 'Engage' Martial Feature.
 
 When you make an Attack against a target you have 'Engaged', if you deal damage, that target cannot make Maneuvers until they are no longer 'Engaged'.
@@ -220,7 +221,7 @@ If you hit, you deal your Weapon Damage as normal, and until the end of your nex
 ###### REQ: 3EXP
 ###### 2 AP
 ###### Use: Melee Weapon
-'You parry, deflect, and push off the opposition - it feels you could hold a horde like this.'
+'You parry, deflect, and push off the opposition - you could hold a horde like this.'
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker 5' into a space within 10' of you.
 
@@ -248,7 +249,7 @@ You may only use this feature once between Long Rests.
 ###### REQ: 3EXP
 ###### 2 AP
 ###### USE: Armor - Light or None
-''
+'You have a need for speed. It's '
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may climb, crawl, or jump up to 10' instead of 5'.
 
