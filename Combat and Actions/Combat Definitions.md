@@ -69,13 +69,13 @@ Damage in RHoD is categorized based on their source and effect. Depending on the
 There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
 
 ###### Bludgeoning
-Bludgeoning Damage is usually dealt by physical attacks with blunt instruments, such as clubs or staves.
-
-###### Slashing
-Slashing Damage is usually dealt by physical attacks with bladed instruments, such as swords or axes.
+Bludgeoning Damage occurs when objects of significant mass contact their target at force.
 
 ###### Piercing
-Piercing Damage is usually dealt by physical attacks with thrusting instruments or projectiles.
+Piercing Damage occurs as objects of minimal mass contact and enter their target with great velocity.
+
+###### Slashing
+Slashing Damage occurs as 
 
 ###### Acid
 Acid Damage is typically chemical in nature, and can impose chemical burns, organ damage, or - in extreme cases - completely react and disintegrate flesh, armor, or whole persons. 
