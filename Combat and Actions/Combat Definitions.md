@@ -96,9 +96,10 @@ Force Damage occurs when physics dictates that it must, even when it is coerced 
 Necrotic Damage occurs as the materials supporting an entity's physical experience break, fail, rot, and die.
 
 ###### Psychic
-Psychic Damage occurs as an entity's perception of reality or state of mind is alter
+Psychic Damage occurs as an entity's perception of reality or state of mind is beyond function.
 
 ###### Radiant
+Radiant Damage occurs as 
 
 
 ### Rules for Environments
