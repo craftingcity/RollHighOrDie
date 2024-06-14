@@ -18,9 +18,9 @@ When you are Travelling or Resting you may fulfill your character's need for Foo
 
 When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Food you've eaten;
 
-- If you eat a Full Ration, you are no longer under the 'Hungry' or 'Starving' [[Condition]].
-- If you eat a Half Ration, you gain the 'Hungry' [[Condition]], and you lose the 'Starving' [[Condition]] if you have it.
-- If you eat no Ration, you gain the 'Starving' [[Condition]].
+- If you eat a Full Ration, you Chemically Resolve any number of stacks of 'Hungry' or 'Starving' [[Condition]] you have.
+- If you eat a Half Ration, you gain a stack of the 'Hungry' [[Condition]], and you Chemically Resolve any number of stacks of the 'Starving' [[Condition]] you have.
+- If you eat no Ration, you gain a stack of the 'Starving' [[Condition]].
 
 ## Water
 Water is the base of life. When you do not drink, you will quickly experience the internal gnawing of dehydration.
@@ -29,9 +29,9 @@ When you are Travelling or Resting you may fulfill your character's need for Wat
 
 When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Water you've drank.
 
-- If you drink a Full Ration, you Chemically Resolve your 'Dehydrated' [[Condition]].
+- If you drink a Full Ration, you Chemically Resolve any number of stacks of the 'Dehydrated' [[Condition]] you have.
 - If you drink a Half Ration, you gain a stack of the 'Dehydrated' [[Condition]].
-- If you drink no Ration, you gain a stack of the 'Dehydrated' [[Condition]]. 
+- If you drink no Ration, you gain three stacks of the 'Dehydrated' [[Condition]]. 
 
 ## Rest
 Rest allows your body to perform the unconscious processes that will rejuvenate and recuperate your physical and mental health.
