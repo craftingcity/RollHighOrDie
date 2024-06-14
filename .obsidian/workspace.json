@@ -161,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -290,11 +290,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5cc03c6fd8e3eca",
+  "active": "2d43a2538eba9942",
   "lastOpenFiles": [
+    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features - Divine.md",
-    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
     "Equipment and Inventories/Ammunition.md",
