@@ -6,7 +6,7 @@
 
 Content!
 
-## Contract Spellcasting
+## Pact Spellcasting
 ###### REQ: #.EXP
 ###### xAP
 'A deal was struck. In exchange for actions on your patron's behalf, they have allowed a meager drop of their power cross your lips.'

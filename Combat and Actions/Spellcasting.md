@@ -22,4 +22,4 @@ The manner in which you pay for a Spell's costs depend on the Feature that grant
 
 When you cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain a Spell's Effort Cost as Flux. When you gain Flux, if your resulting total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condition]].
 
-When you cast Spells using 'Divine Spellcasting' or 'Contract Spellcasting'
+When you cast Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
