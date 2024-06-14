@@ -19,7 +19,7 @@ When a day passes or you take a Full Rest, you will gain or lose conditions base
 
 If you eat a Full Ration, you are no longer under the 'Hungry' or 'Starving' [[Condition]].
 
-If you eat a Half Ration, you gain the 'Hungry' [[Condition]].
+If you eat a Half Ration, you gain the 'Hungry' [[Condition]], and you lose the 'Starving' [[Condition]] if you have it.
 
 If you eat no Ration, you gain the 'Starving' [[Condition]].
 

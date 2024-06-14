@@ -69,7 +69,6 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 #### Acrobatics
 #### Manipulation
 #### Stealth
-#### Stealth
 #### Thievery
 #### Throwing
 ### Constitution
