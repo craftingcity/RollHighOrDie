@@ -81,6 +81,18 @@
             }
           },
           {
+            "id": "912afc5e8717e55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spellcasting.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b63df3a4f757b801",
             "type": "leaf",
             "state": {
@@ -105,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Spellcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Spellcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md"
+                "file": "Spellcasting.md"
               }
             }
           }
@@ -290,10 +302,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5cc03c6fd8e3eca",
+  "active": "912afc5e8717e55f",
   "lastOpenFiles": [
-    "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Arcane.md",
+    "Spellcasting.md",
+    "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features.md",
@@ -319,7 +332,6 @@
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
     "conflict-files-obsidian-git.md",
-    "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Selections Glossary",
     "Combat and Actions",
