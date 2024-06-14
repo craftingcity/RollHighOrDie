@@ -1,5 +1,12 @@
 ### EXP - 1
-## NAME
+## Fluid Spellcasting
+###### REQ: #.EXP 
+###### xAP
+'...'
+
+Content!
+
+## Prepared Spellcasting
 ###### REQ: #.EXP 
 ###### xAP
 '...'
