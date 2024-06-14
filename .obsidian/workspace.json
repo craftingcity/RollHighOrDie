@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dexterity",
+                "query": "Intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

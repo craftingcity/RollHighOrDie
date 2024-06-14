@@ -30,13 +30,17 @@ Strength is used when determining a character's Fortitude or Inventory Capacity,
 # Dexterity
 Dexterity is a representation of a character's physical agility and coordination.
 
-Dexterity is used when determining a character's Reflex, and during Initiative Checks and some 
+Dexterity is used when determining a character's Reflex, and during Initiative Checks and some Attack Rolls and Physical Skills.
 
 # Constitution
 Constitution is a representation of a character's physical endurance and internal function.
 
+Constitution is used when determining a character's Fortitude or Vitality, and during some Physical Skills.
+
 # Intelligence
 Intelligence is a representation of a character's mental logical functions, such as memory and reasoning.
+
+Intelligence is used when determining a character's Reflex and during some Personal Skills.
 
 # Wisdom
 Wisdom is a representation of a character's mental survival functions, such as detecting danger or falsehoods.
