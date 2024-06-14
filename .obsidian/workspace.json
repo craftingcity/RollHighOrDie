@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "7117fa1a29fdcd5d",
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Surviving.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Surviving.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Surviving.md"
+                "file": "Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -252,15 +252,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab6f4c8a3878b67f",
+  "active": "4ae8fea0f7b723d5",
   "lastOpenFiles": [
+    "Combat and Actions/Actions During Encounters.md",
+    "Character Rules/Surviving.md",
     "Character Rules/Skills.md",
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Experience.md",
     "Combat and Actions/Combat Definitions.md",
-    "Combat and Actions/Actions During Encounters.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "conflict-files-obsidian-git.md",
     "Character Sheet.md",
@@ -279,7 +280,6 @@
     "Selections Glossary/Features",
     "Selections Glossary/Features.md",
     "README.md",
-    "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",

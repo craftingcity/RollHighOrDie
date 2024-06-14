@@ -104,10 +104,9 @@ Necrotic Damage occurs as the materials supporting a target's physical experienc
 Psychic Damage occurs as a target's perception of reality or state of mind is beyond function.
 
 ###### Radiant
-Radiant Damage occurs as a target becomes purely unmade - as when interacting with a deity's wrath or intense radioactivity. 
+Radiant Damage occurs as a target becomes purely unmade - as when interacting with a deity's wrath or incredibly intense explosions. 
 
 ### Rules for Environments
-## Weather
 ## Lighting
 Lighting is generally a requirement for any creature to have confidence in their bodily actions. During Combat, Lighting can become a powerful weapon when used effectively.
 
@@ -137,8 +136,8 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 #### Solid Terrain
 #### Shifting Terrain
 #### Difficult Terrain
-
-
 #### Flammable
 #### Enflamed
-## Cold & Ice
+#### Liquid
+#### 
+## Weather
