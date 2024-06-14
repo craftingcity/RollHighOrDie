@@ -10,7 +10,7 @@ Spell Effects are the resulting truth of reality when a Spell is cast. Spellcast
 #### Defined Spells
 Defined Spells are the result of knowledge and effort on the part of a proficient Spellcaster to create a complete Spell and spread it among the greater magical community.
 
-Defined Spells are typically safer and more efficient than creating unique Spells due to their communal nature, but fulfill 
+Using Defined Spells is typically safer and more efficient than creating unique Spells due to their communal nature, but create specific replicable effects that might not completely fulfill the needs of the moment.
 
 #### Techniques
 In the context of Magic, Techniques are groups of Defined Spells or Spell Effects. Often, a Spellcaster will have access to multiple Techniques while specializing in a select few.
