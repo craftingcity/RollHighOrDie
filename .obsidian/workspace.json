@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Experience.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Experience.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Experience.md"
+                "file": "Equipment and Inventories/Melee Weapons.md"
               }
             }
           }
@@ -227,17 +227,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73b4cf251b7410a7",
+  "active": "871a14bc1f31265f",
   "lastOpenFiles": [
     "Character Rules/Skills.md",
-    "Combat and Actions/Combat Definitions.md",
+    "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Experience.md",
+    "Combat and Actions/Combat Definitions.md",
     "Combat and Actions/Actions During Encounters.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "conflict-files-obsidian-git.md",
     "Character Sheet.md",
     "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Defenses.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Creating A Character.md",

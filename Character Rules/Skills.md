@@ -23,12 +23,26 @@ The following Skills are directly related to a character's performance in combat
 Your Skill in a given Weapon Base directly affects your ability to hit with Attacks you make while using that Weapon Base.
 ##### Melee
 #### Short Blunt
+> Short Blunt weapons include items such as batons, hammers, or war clubs - instruments that can usually be held in one hand and deal a force to a single point.
+
 #### Long Blunt
+> Long Blunt weapons range from the working shovel to the military maul - implements of brute force. The long handled older sibling of the Short Blunt weapon.
+
 #### Short Blade
+> Short Blades are your shanks, shivs, and daggers. History's favorite tool.
+
 #### Long Blade
+> Long Blades are the most typical weapons of melee combat - from the shortsword to the claymore, these blades are built to protect you and yours from the opposition.
+
 #### Axe
+> Axes are a simple category of weapon, that spans the width of the humble hatchet and the glorious great axe. While an atypical weapon of war, the axe earns its place as a staple of intimidation and necessity.
+
 #### Polearm
+
+
 #### Flexible
+
+
 ##### Ranged
 #### Sling
 #### Bow
