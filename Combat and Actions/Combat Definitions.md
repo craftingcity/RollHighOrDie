@@ -75,7 +75,7 @@ Bludgeoning Damage occurs when objects of significant mass contact their target 
 Piercing Damage occurs as objects of minimal mass contact and enter their target with great velocity.
 
 ###### Slashing
-Slashing Damage occurs as 
+Slashing Damage occurs as an object is pushed along and or into it's target.
 
 ###### Acid
 Acid Damage is typically chemical in nature, and can impose chemical burns, organ damage, or - in extreme cases - completely react and disintegrate flesh, armor, or whole persons. 
