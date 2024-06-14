@@ -84,6 +84,7 @@ Acid Damage occurs as a material contacts and reacts, dissolving the material.
 Cold Damage occurs as a material's temperature drops significantly.
 
 ###### Electric
+Electric Damage occurs when a material is exposed to an 
 
 ###### Fire
 Fire Damage occurs as a material's temperature increases significantly.
