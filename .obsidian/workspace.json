@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Combat and Actions/Spellcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Combat and Actions/Spellcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Combat and Actions/Spellcasting.md"
               }
             }
           }
@@ -190,13 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "928d95c01f39f652",
+  "active": "4d26ae6b80f4dc3a",
   "lastOpenFiles": [
+    "Character Rules/Skills.md",
     "Combat and Actions/Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
     "conflict-files-obsidian-git.md",
-    "Character Rules/Skills.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ranged Weapons.md",
