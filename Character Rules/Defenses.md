@@ -32,11 +32,13 @@ If you take damage that would reduce your Armoring to less than 0, instead, it r
 Your character's Armoring will depend on your currently worn Equipment.
 
 ###### Damage Resistance (DR)
-Typed Damage Resistance is your innate resistance to harm cause
+Typed Damage Resistance is your resistance to harm caused by that Damage Type. True Damage Resistance is your resistance to any and all harm.
 
-When you would take Typed Damage, you reduce the Damage you would take by your current Damage Resistance of that Type.
+If you have both True and Typed Damage Resistance, apply yout 
 
+When you would take Damage, if you have Typed Damage Resistance of that Damage Type, you reduce the Damage you would take by your current Damage Resistance of that Damage Type.
 
+When you would take Damage, if you have True Damage Resistance, you reduce the Damage you would take by your current True Damage Resistance.
 
 ###### True Damage
 > There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
