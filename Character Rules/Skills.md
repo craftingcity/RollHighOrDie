@@ -59,6 +59,9 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 #### Rifle
 > Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
+## Spellcasting
+You cannot gain a Degree of Proficiency in any Spellcasting Skill if you cannot cast Spells.
+
 ### Arcane Casting
 #### Static Casting
 #### Fluid Casting

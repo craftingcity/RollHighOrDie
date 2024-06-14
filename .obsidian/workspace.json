@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "condition",
+                "query": "\"skills",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,11 +204,11 @@
   },
   "active": "cf3aa41675f045d7",
   "lastOpenFiles": [
+    "Combat and Actions/Spellcasting.md",
+    "Character Rules/Surviving.md",
     "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
-    "Combat and Actions/Spellcasting.md",
-    "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Features/Features - Divine.md",
     "conflict-files-obsidian-git.md",
