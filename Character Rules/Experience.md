@@ -34,4 +34,4 @@ Increasing your Degree of Proficiency in any Physical or Personal Skill costs 1 
 Increasing your Degree of Proficiency in any Knowledge Skill costs 2 Experience, and a source of that knowledge - such as a topical book, a professor, or a less mundane source.
 
 #### Professional Skills
-Increasing your Degree of Proficiency in any Professional Skill costs 2 Experience.
+Increasing your Degree of Proficiency in any Professional Skill costs 2 Experience, and 16 Watches spent using that Skill.
