@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "15768b3123e0eadf",
@@ -180,10 +179,10 @@
   },
   "active": "4d26ae6b80f4dc3a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Combat and Actions/Spellcasting.md",
-    "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
+    "Selections Glossary/Features/Features - Divine.md",
+    "Combat and Actions/Spellcasting.md",
+    "conflict-files-obsidian-git.md",
     "Character Rules/Skills.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Melee Weapons.md",
