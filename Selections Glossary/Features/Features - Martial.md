@@ -241,7 +241,7 @@ If you hit that creature, deal your Weapon Damage as normal. You impose -3 to th
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
 
-You may only use this feature once between Long Rests.
+Make an Endurance Skill Check. If the result is 
 
 ## Fleet Foot
 ###### REQ: 3EXP
