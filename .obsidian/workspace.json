@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Traits/Traits - Training.md",
+                "file": "Spellcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Traits/Traits - Training.md",
+                "file": "Spellcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Traits/Traits - Training.md"
+                "file": "Spellcasting.md"
               }
             }
           }
@@ -338,20 +338,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7598893a638c4a2",
+  "active": "912afc5e8717e55f",
   "lastOpenFiles": [
+    "Selections Glossary/Features/Features.md",
+    "Selections Glossary/Features/Features - Martial.md",
+    "Spellcasting.md",
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Selections Glossary/Features/Features - Divine.md",
+    "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Mentality.md",
     "Selections Glossary/Traits/Traits - Physicality.md",
-    "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits.md",
     "Character Rules/Defenses.md",
-    "Spellcasting.md",
     "Combat and Actions/Combat Definitions.md",
-    "Selections Glossary/Features/Features - Martial.md",
-    "Selections Glossary/Features/Features - Arcane.md",
     "Character Rules/Skills.md",
-    "Selections Glossary/Features/Features - Divine.md",
-    "Selections Glossary/Features/Features.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Equipment and Inventories/Melee Weapons.md",

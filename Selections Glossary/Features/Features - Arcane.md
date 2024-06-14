@@ -1,9 +1,11 @@
 ### EXP - 1
 ## Innate Spellcasting
 ###### REQ: #.EXP 
-'For whatever reason, you are brimming with Arcane potential. You feel the power pounding against your fingertips. This is what you were made for.'
+'For whatever reason, you are brimming with Arcane potential. You feel the power pounding against your fingertips.'
 
 When you gain this Feature, your Flux Capacity is equal to your Charisma Modifier.
+
+When you gain this Feature, you learn one Basic Technique of your choice.
 
 ## Learned Spellcasting
 ###### REQ: #.EXP 
