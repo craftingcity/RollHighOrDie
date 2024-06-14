@@ -78,10 +78,10 @@ Piercing Damage occurs as objects of minimal mass contact and enter their target
 Slashing Damage occurs as an object is pushed along and or into it's target.
 
 ###### Acid
-Acid Damage occurs as a material contacts and reacts, dissolving the material.
+Acid Damage occurs as a target contacts and reacts with the acid, dissolving the portions of the target exposed to the acid.
 
 ###### Cold
-Cold Damage occurs as a material's temperature drops significantly.
+Cold Damage occurs as a target's temperature drops significantly.
 
 ###### Electric
 Electric Damage occurs when a material is exposed to an 
@@ -90,7 +90,7 @@ Electric Damage occurs when a material is exposed to an
 Fire Damage occurs as a material's temperature increases significantly.
 
 ###### Force
-Force Damage occurs when physics dictates it must, even when it is coerced to do so.
+Force Damage occurs when physics dictates that it must, even when it is coerced to do so.
 
 ###### Necrotic
 ###### Poison
