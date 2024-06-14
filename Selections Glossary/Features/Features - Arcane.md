@@ -26,4 +26,4 @@ If you already have the 'Innate Spellcasting' Feature, you are not eligible to g
 ###### 3 AP
 ''
 
-Reduce your current total Flux by a number equal to half your Degree of Proficiency in 
+Reduce your current total Flux by a number equal to half your Degree of Proficiency in either the 'Static Casting' or 'Fluid Casting' skills, whichever is greater.
