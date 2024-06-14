@@ -33,12 +33,60 @@
             }
           },
           {
+            "id": "ec5e197d8bdf8806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "7a509e298285eef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Selections Glossary/Traits/Traits.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d7598893a638c4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Traits/Traits - Training.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a6c0bcbdcd77fabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Traits/Traits - Mentality.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a12843f8307c8f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Traits/Traits - Physicality.md",
                 "mode": "source",
                 "source": true
               }
@@ -81,18 +129,6 @@
             }
           },
           {
-            "id": "912afc5e8717e55f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spellcasting.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b63df3a4f757b801",
             "type": "leaf",
             "state": {
@@ -103,21 +139,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ec5e197d8bdf8806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Defenses.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -171,9 +195,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "912afc5e8717e55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spellcasting.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spellcasting.md",
+                "file": "Selections Glossary/Traits/Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spellcasting.md",
+                "file": "Selections Glossary/Traits/Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spellcasting.md"
+                "file": "Selections Glossary/Traits/Traits.md"
               }
             }
           }
@@ -302,27 +338,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "912afc5e8717e55f",
+  "active": "7a509e298285eef9",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Arcane.md",
-    "Spellcasting.md",
-    "Character Rules/Skills.md",
+    "Selections Glossary/Traits/Traits - Physicality.md",
+    "Selections Glossary/Traits/Traits.md",
+    "Selections Glossary/Traits/Traits - Training.md",
+    "Selections Glossary/Traits/Traits - Mentality.md",
+    "Character Rules/Defenses.md",
     "Selections Glossary/Features/Features - Martial.md",
+    "Spellcasting.md",
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features.md",
-    "Selections Glossary/Traits/Traits.md",
     "Equipment and Inventories/Ammunition.md",
     "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ranged Weapons.md",
-    "Character Rules/Defenses.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
-    "Selections Glossary/Traits/Traits - Training.md",
-    "Selections Glossary/Traits/Traits - Mentality.md",
-    "Selections Glossary/Traits/Traits - Physicality.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Character Rules/Creating A Character.md",
