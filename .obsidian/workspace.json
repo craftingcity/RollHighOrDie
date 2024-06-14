@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"true damage",
+                "query": "result",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,11 +191,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf3aa41675f045d7",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
-    "Combat and Actions/Spellcasting.md",
-    "Selections Glossary/Features/Features - Arcane.md",
     "Character Rules/Skills.md",
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Combat and Actions/Spellcasting.md",
     "Selections Glossary/Features/Features - Divine.md",
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ammunition.md",

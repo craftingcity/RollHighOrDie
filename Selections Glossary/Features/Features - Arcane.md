@@ -7,7 +7,7 @@ When you gain this Feature, your Flux Capacity is equal to your Charisma Modifie
 
 You can cast Spells.
 
-When you cast a Defined Spell, make a Static 
+When you cast a Defined Spell, make a Static Casting Skill Check. If the result is equal or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, 
 
 ## Learned Spellcasting
 ###### REQ: #.EXP 

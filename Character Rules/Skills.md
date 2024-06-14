@@ -60,6 +60,7 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 > Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
 ### Arcane Casting
+#### Static Casting
 ### Divine Casting
 
 ## Physical Skills
