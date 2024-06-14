@@ -15,4 +15,4 @@ When you gain this Feature, your Flux Capacity is equal to your Intelligence Mod
 
 You can cast Spells.
 
-## 
+## Stabilize Flux
