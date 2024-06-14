@@ -1,4 +1,3 @@
-# Preamble
 ### EXP - 1
 ## Second Wind
 ###### REQ: 1EXP

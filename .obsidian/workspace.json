@@ -57,6 +57,18 @@
             }
           },
           {
+            "id": "d5cc03c6fd8e3eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b63df3a4f757b801",
             "type": "leaf",
             "state": {
@@ -81,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -266,10 +278,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "b63df3a4f757b801",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features.md",
+    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
+    "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
     "Equipment and Inventories/Ammunition.md",
     "Combat and Actions/Combat Definitions.md",
@@ -282,7 +295,6 @@
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Features/Features - Divine.md",
-    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Mentality.md",
     "Selections Glossary/Traits/Traits - Physicality.md",
