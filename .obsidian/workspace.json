@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md"
+                "file": "Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -290,11 +290,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5cc03c6fd8e3eca",
+  "active": "b63df3a4f757b801",
   "lastOpenFiles": [
     "Selections Glossary/Features/Features - Divine.md",
-    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
+    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Traits/Traits.md",
     "Equipment and Inventories/Ammunition.md",

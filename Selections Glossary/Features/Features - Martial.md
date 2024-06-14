@@ -61,6 +61,16 @@ If you hit your first target, you deal your Weapon Damage as normal. If you hit 
 
 If you are wielding a Weapon that additionally has the Two-Handed or Heavy Tags, you deal your normal Weapon Damage to your second target instead.
 
+## Defensive Strike
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'You strike your opponent in a manner that defends your weaknesses.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit, you deal your Weapon Damage as normal, and you gain +2 to your Reflex, Fortitude, and Will Defenses until the beginning o
+
 ### EXP - 2
 ## Enforce
 ###### REQ: 2EXP
