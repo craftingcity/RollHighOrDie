@@ -18,4 +18,5 @@ Using Defined Spells is typically safer and more efficient than creating unique 
 In the context of Magic, Techniques are groups of Defined Spells or Spell Effects. Often, a Spellcaster will have access to multiple Techniques while specializing in a select few. Techniques are first categorized by complexity, being Basic, Complex, or Epic, and then by Power Source.
 
 ###### Costs of Spellcasting
-When you cast a Spell, you are providing the effort 
+The manner in which you pay for a Spell's costs depend on the Feature that granted you the ability to cast Spells.
+
