@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Spellcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Spellcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md"
+                "file": "Spellcasting.md"
               }
             }
           }
@@ -338,13 +338,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "912afc5e8717e55f",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features - Arcane.md",
+    "Spellcasting.md",
+    "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features.md",
-    "Spellcasting.md",
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Mentality.md",
     "Selections Glossary/Traits/Traits - Physicality.md",
