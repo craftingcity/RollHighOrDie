@@ -14,3 +14,5 @@ You can cast Spells.
 When you gain this Feature, your Flux Capacity is equal to your Intelligence Modifier. You learn two Basic Arcane Techniques of your choice.
 
 You can cast Spells.
+
+## 
