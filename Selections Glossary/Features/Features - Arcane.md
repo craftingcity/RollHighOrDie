@@ -19,10 +19,11 @@ When you gain this Feature, your Flux Capacity is equal to your Intelligence Mod
 
 You can cast Spells using this Feature. The Action Point Cost to cast a given Spell is listed alongside it's Effort and Complexity.
 
-If you already have the 'Learned Spellcasting' Feature, you are not eligible to gain this Feature.
+If you already have the 'Innate Spellcasting' Feature, you are not eligible to gain this Feature.
 
 ## Stabilize Flux
 ###### REQ: #.EXP
 ###### 3 AP
 ''
 
+Reduce your current total Flux by a number equal to half your Degree of Proficiency in 
