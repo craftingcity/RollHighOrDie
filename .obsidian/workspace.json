@@ -30,6 +30,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a4a3a40530cad0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Features/Features - Martial.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -73,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,13 +217,13 @@
   },
   "active": "cf3aa41675f045d7",
   "lastOpenFiles": [
-    "Combat and Actions/Spellcasting.md",
-    "Character Rules/Surviving.md",
-    "Character Rules/Skills.md",
-    "Selections Glossary/Features/Features - Arcane.md",
-    "Selections Glossary/Features/Features - Martial.md",
-    "Selections Glossary/Condition.md",
     "Selections Glossary/Features/Features - Divine.md",
+    "Selections Glossary/Features/Features - Martial.md",
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Character Rules/Skills.md",
+    "Character Rules/Surviving.md",
+    "Combat and Actions/Spellcasting.md",
+    "Selections Glossary/Condition.md",
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Melee Weapons.md",
