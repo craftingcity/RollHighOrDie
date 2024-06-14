@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat and Actions/Combat Definitions.md",
+                "file": "Character Rules/Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat and Actions/Combat Definitions.md",
+                "file": "Character Rules/Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat and Actions/Combat Definitions.md"
+                "file": "Character Rules/Experience.md"
               }
             }
           }
@@ -228,8 +228,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ae8fea0f7b723d5",
+  "active": "73b4cf251b7410a7",
   "lastOpenFiles": [
+    "Combat and Actions/Combat Definitions.md",
     "Combat and Actions/Actions During Encounters.md",
     "Character Rules/Skills.md",
     "Character Rules/Experience.md",
@@ -253,7 +254,6 @@
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features",
     "Selections Glossary/Features.md",
-    "Combat and Actions/Combat Definitions.md",
     "README.md",
     "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",

@@ -24,6 +24,11 @@ When a character is pushed, if they are pushed into an object or wall they canno
 
 While falling, at the beginning of their turn, gravity pushes a character 15' downward for every round they have been falling.
 
+###### Suffocating
+While a character does not have access to healthy, breathable air, they can hold their breath for a number of minutes equal to their Constitution Modifier.
+
+When a character finally runs out of air, they will begin to Suffocate. While Suffocating, a character takes 1d10 True Necrotic Damage for every round they have been Suffocating.
+
 ## Stance
 Stance is the way your character's body is positioned, and will affect how effectively you fight. The four stances RHoD mechanically cares for are 'High Ready', 'Low Ready', 'Crouched', and 'Prone'. 
 
@@ -132,12 +137,8 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 #### Solid Terrain
 #### Shifting Terrain
 #### Difficult Terrain
-#### Suffocating
-While a character does not have access to healthy, breathable air, they can hold their breath for a number of minutes equal to their Constitution Modifier.
 
-When a character finally runs out of air, they will begin to Suffocate. While Suffocating, a character takes 1d10 True Force Damage for every round they have been Suffocating.
 
-## Heat & Fire
 #### Flammable
 #### Enflamed
 ## Cold & Ice

@@ -25,6 +25,8 @@ During a Full Rest, you may gain Traits by expending Experience.
 During a Full Rest, you may gain or improve your Degree of Proficiency in a Skill by expending Experience.
 
 #### Combat Skills
+
+
 #### Physical Skills
 #### Personal Skills
 #### Knowledge Skills
