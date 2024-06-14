@@ -95,7 +95,7 @@ Electric Damage occurs when a target is exposed to an over-charged material.
 Fire Damage occurs as a target's temperature increases significantly.
 
 ###### Force
-Force Damage occurs when physics dictates that it must, even when it is coerced to do so.
+Force Damage occurs as a target is presented with the reality of physics, even when those physics have been coerced.
 
 ###### Necrotic
 Necrotic Damage occurs as the materials supporting a target's physical experience break, fail, rot, and die.
