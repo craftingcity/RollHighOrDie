@@ -146,6 +146,7 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | .50 BMG (AP+I)        | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing, Incendiary (1) |
 
 ### Energy Ammunition
-| Title  | Base   | Size       | D. Dice | D. Type | Other      |
-| ------ | ------ | ---------- | ------- | ------- | ---------- |
+| Title  | Base   | Size       | D. Dice | D. Type | Other          |
+| ------ | ------ | ---------- | ------- | ------- | -------------- |
 | Diesel | energy | Tiny (100) | 2d8     | Fire    | Incendiary (3) |
+| Napalm | energy | Tiny (50)  | 3d6     | Fire    | Incendiary (5) |
