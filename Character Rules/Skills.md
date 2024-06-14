@@ -61,6 +61,7 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 
 ### Arcane Casting
 #### Static Casting
+#### Fluid Casting
 ### Divine Casting
 
 ## Physical Skills
