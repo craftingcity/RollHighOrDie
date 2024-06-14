@@ -22,3 +22,7 @@ You can cast Spells using this Feature. The Action Point Cost to cast a given Sp
 If you already have the 'Learned Spellcasting' Feature, you are not eligible to gain this Feature.
 
 ## Stabilize Flux
+###### REQ: #.EXP
+###### 3 AP
+''
+
