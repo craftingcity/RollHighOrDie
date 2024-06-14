@@ -48,8 +48,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "928d95c01f39f652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Skills.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat and Actions/Spellcasting.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat and Actions/Spellcasting.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat and Actions/Spellcasting.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -177,10 +190,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d26ae6b80f4dc3a",
+  "active": "928d95c01f39f652",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Arcane.md",
     "Combat and Actions/Spellcasting.md",
+    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
     "conflict-files-obsidian-git.md",
     "Character Rules/Skills.md",
