@@ -87,7 +87,7 @@ Cold Damage occurs as a target's temperature drops significantly.
 Electric Damage occurs when a target is exposed to an over-charged material.
 
 ###### Fire
-Fire Damage occurs as a target's temperature increases significantly.
+Fire Damage occurs as a target's temperature increases significantly beyond it's nat.
 
 ###### Force
 Force Damage occurs when physics dictates that it must, even when it is coerced to do so.
@@ -99,7 +99,7 @@ Necrotic Damage occurs as the materials supporting a target's physical experienc
 Psychic Damage occurs as a target's perception of reality or state of mind is beyond function.
 
 ###### Radiant
-Radiant Damage occurs as a target becomes purely unmade - as when interacting with a deity's . 
+Radiant Damage occurs as a target becomes purely unmade - as when interacting with a deity's wrath or intense radioactivity. 
 
 ### Rules for Environments
 ## Weather
