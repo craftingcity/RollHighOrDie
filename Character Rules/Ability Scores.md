@@ -35,6 +35,7 @@ Constitution is a representation of a character's physical endurance and interna
 Intelligence is a representation of a character's mental logical functions, such as memory and reasoning.
 
 # Wisdom
-Wisdom is a representation of a character's 
+Wisdom is a representation of a character's mental survival functions, such as detecting danger or falsehoods.
 
 # Charisma
+Charisma is a representation of a character's outward emotional state and 
