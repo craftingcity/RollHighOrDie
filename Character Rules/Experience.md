@@ -25,9 +25,11 @@ During a Full Rest, you may gain Traits by expending Experience.
 During a Full Rest, you may gain or improve your Degree of Proficiency in a Skill by expending Experience.
 
 #### Combat Skills
-
+Increasing your Degree of Proficiency in any Combat Skill costs 2 Experience.
 
 #### Physical Skills
+Increasing your Degree of Proficiency in any Combat Skill costs 1 Experience.
+
 #### Personal Skills
 #### Knowledge Skills
 #### Professional Skills

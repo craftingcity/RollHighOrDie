@@ -2,7 +2,7 @@
 Skills are the separate and specific areas of theoretical, practical, or applied knowledge a character may have. Where a character's Ability Scores provide a general overview of their ability or ferocity, Skills are more situationally specific.
 
 ## Proficiency
-Proficiency has five Degrees, each of which represents a point in a range from 0 to 6. The Degrees of Proficiency are as follows; Untrained grants +0, Learning grants +2, Competent grants +4, Expert grants +6, and Master grants +8.
+Proficiency has five Degrees, each of which represents a point in a range from 0 to 8. The Degrees of Proficiency are as follows; Untrained grants +0, Learning grants +2, Competent grants +4, Expert grants +6, and Master grants +8.
 
 When you make a Skill Check, make an Ability Check using the Skill's Core Ability and add your Degree of Proficiency.
 
@@ -21,7 +21,7 @@ The following Skills are directly related to a character's performance in combat
 
 ### Weaponry
 Your Skill in a given Weapon Base directly affects your ability to hit with Attacks you make while using that Weapon Base.
-
+##### Melee
 #### Short Blunt
 #### Long Blunt
 #### Short Blade
@@ -29,6 +29,7 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 #### Axe
 #### Polearm
 #### Flexible
+##### Ranged
 #### Sling
 #### Bow
 #### Crossbow

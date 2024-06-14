@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7117fa1a29fdcd5d",
@@ -230,10 +229,10 @@
   },
   "active": "73b4cf251b7410a7",
   "lastOpenFiles": [
-    "Combat and Actions/Combat Definitions.md",
-    "Combat and Actions/Actions During Encounters.md",
     "Character Rules/Skills.md",
+    "Combat and Actions/Combat Definitions.md",
     "Character Rules/Experience.md",
+    "Combat and Actions/Actions During Encounters.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "conflict-files-obsidian-git.md",
     "Character Sheet.md",
