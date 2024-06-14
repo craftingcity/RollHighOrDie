@@ -149,7 +149,9 @@ You may only use this Feature once per turn.
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
 
-If you hit your target, you deal thrice your Weapon Damage, and you may not use this feature again until you complete a Long Rest.
+If you hit your target, you deal thrice your Weapon Damage.
+
+You may only use this Feature once per turn.
 
 ## Protective Stance
 ###### REQ: 2EXP
@@ -241,7 +243,7 @@ If you hit that creature, deal your Weapon Damage as normal. You impose -3 to th
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
 
-Make an Endurance Skill Check. If the result is 
+Make an Endurance Skill Check. If the result is fewer than 16, you may not use this Feature again until you complete a Long Rest.
 
 ## Fleet Foot
 ###### REQ: 3EXP
