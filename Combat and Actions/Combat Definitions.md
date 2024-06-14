@@ -139,5 +139,7 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 #### Flammable
 #### Enflamed
 #### Liquid
-#### 
+#### Freezable
+#### Frozen
+
 ## Weather
