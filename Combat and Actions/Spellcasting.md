@@ -20,12 +20,9 @@ In the context of Magic, Techniques are groups of Defined Spells or Spell Effect
 ## Costs of Spellcasting
 The manner in which you pay for a Spell's costs depend on the Feature that granted you the ability to cast Spells.
 
-###### Spellcasting Resources
-When you cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain a Spell's Effort Cost as Flux. When you gain Flux, if your resulting total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condition]].
-
-When you cast Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
-
 ###### Succeeding in Arcane Casting
+When you attempt to cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain the Spell's Effort Cost as Flux. When you gain Flux, if your current total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condition]].
+
 When you cast a Defined Spell, make a Static Casting Skill Check.
 
 When you cast a Spell you have completed with Spell Effects, make a Fluid Casting Skill Check.
@@ -33,3 +30,4 @@ When you cast a Spell you have completed with Spell Effects, make a Fluid Castin
 If the result is equal or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
 
 ###### Succeeding in Divine Casting
+When you cast Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
