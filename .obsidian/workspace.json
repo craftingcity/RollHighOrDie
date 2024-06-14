@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "de8e4d5fb7b0a55a",
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spellcasting.md",
+                "file": "Selections Glossary/Features/Features - Divine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spellcasting.md",
+                "file": "Selections Glossary/Features/Features - Divine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spellcasting.md"
+                "file": "Selections Glossary/Features/Features - Divine.md"
               }
             }
           }
@@ -338,13 +338,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "912afc5e8717e55f",
+  "active": "216eae1ff11e3e82",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features.md",
-    "Selections Glossary/Features/Features - Martial.md",
-    "Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
+    "Spellcasting.md",
+    "Selections Glossary/Features/Features.md",
+    "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Mentality.md",
     "Selections Glossary/Traits/Traits - Physicality.md",
