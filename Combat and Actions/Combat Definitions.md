@@ -89,6 +89,8 @@ Cold Damage occurs as a material's temperature drops significantly.
 Fire Damage occurs as a material's temperature increases significantly.
 
 ###### Force
+Force Damage occurs when physics dictates it must, even when it is coerced to do so.
+
 ###### Necrotic
 ###### Poison
 ###### Psychic
