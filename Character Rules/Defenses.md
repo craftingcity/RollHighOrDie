@@ -34,7 +34,7 @@ Your character's Armoring will depend on your currently worn Equipment.
 ###### Damage Resistance (DR)
 Typed Damage Resistance is your resistance to harm caused by that Damage Type. True Damage Resistance is your resistance to any and all harm.
 
-If you have both True and Typed Damage Resistance, apply yout 
+If you have both True and Typed Damage Resistance, apply your True Damage Resistance first, then your Typed Damage Resistance if applicable.
 
 When you would take Damage, if you have Typed Damage Resistance of that Damage Type, you reduce the Damage you would take by your current Damage Resistance of that Damage Type.
 
@@ -47,7 +47,7 @@ When you would take Damage, if you have True Damage Resistance, you reduce the D
 When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, times your TMK.
 
 ` If I'm at 3 Vitality, and someone does 1000 damage, why do I take 1 wound instead of just dying? `
-If you would take damage that reduces your Vitality to less than 0, instead, you incur a Wound, expend a Hit Die, and gain the number rolled plus your Constitution Modifier as Vitality.
+If you would take damage that reduces your Vitality to less than 0, if that damage would instead, you incur a Wound, expend a Hit Die, and gain the number rolled plus your Constitution Modifier as Vitality.
 
 When you have more Wounds than the value of your Constitution Modifier, at the beginning of your turn, and whenever you take another Wound, make a Death Call.
 
