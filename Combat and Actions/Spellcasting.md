@@ -31,3 +31,4 @@ If the result is equal or greater than the Spell's Complexity, you succeed in ca
 
 ###### Succeeding in Divine Casting
 When you cast Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
+
