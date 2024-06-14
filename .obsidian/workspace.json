@@ -96,9 +96,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "051725f3b9d681d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Ability Scores.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md",
+                "file": "Character Rules/Ability Scores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md",
+                "file": "Character Rules/Ability Scores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md"
+                "file": "Character Rules/Ability Scores.md"
               }
             }
           }
@@ -227,8 +239,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "871a14bc1f31265f",
+  "active": "051725f3b9d681d3",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ranged Weapons.md",
     "Character Rules/Skills.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Character Rules/Experience.md",
@@ -237,7 +250,6 @@
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "conflict-files-obsidian-git.md",
     "Character Sheet.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Character Rules/Defenses.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Creating A Character.md",

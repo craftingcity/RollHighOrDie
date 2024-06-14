@@ -23,6 +23,7 @@ When you have Advantage on a roll, roll the die twice and take the **higher** ro
 When you have Disadvantage on a roll, roll the die twice and take the **lower** roll.
 
 # Strength
+Strength is a represen
 
 # Dexterity
 

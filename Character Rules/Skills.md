@@ -38,17 +38,26 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 > Axes are a simple category of weapon, that spans the width of the humble hatchet and the glorious great axe. While an atypical weapon of war, the axe earns its place as a staple of intimidation and necessity.
 
 #### Polearm
-
+> Polearms are most commonly recognized as a long stick with a few pointy bits on the end. Spears, Glaives, Halberds. These polearms are each a simpler weapon on a long handle.
 
 #### Flexible
-
+> Flexible weapons are the least commonly used category of weapon. Whips, Chainlocks, and Flails are all examples of Flexible weapons - in the right hands, a simple strip of leather controls the battlefield.
 
 ##### Ranged
 #### Sling
+> Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 
+
 #### Bow
+> Using the power of elastics, Bows fire arrows at high speeds to pierce through armoring and cause significant internal damage.
+
 #### Crossbow
+> Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow known as a bolt at high speeds and with great accuracy.
+
 #### Pistol
+> Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of projectiles before they must be reloaded.
+
 #### Rifle
+> Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
 ### Arcane Casting
 ### Divine Casting

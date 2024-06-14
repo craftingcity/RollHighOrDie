@@ -22,7 +22,7 @@ Long Blades are the most typical weapons of melee combat - from the shortsword t
 Axes are a simple category of weapon, that spans the width of the humble hatchet and the glorious great axe. While an atypical weapon of war, the axe earns its place as a staple of intimidation and necessity.
 
 #### Polearm
-Polearms are most commonly recognized as a long stick with a few pointy bits on the end. Spears, Glaives, Halberds. These polearms are each a simple weapon on a longer handle.
+Polearms are most commonly recognized as a long stick with a few pointy bits on the end. Spears, Glaives, Halberds. These polearms are each a simpler weapon on a long handle.
 
 #### Flexible
 Flexible weapons are the least commonly used category of weapon. Whips, Chainlocks, and Flails are all examples of Flexible weapons - in the right hands, a simple strip of leather controls the battlefield.
