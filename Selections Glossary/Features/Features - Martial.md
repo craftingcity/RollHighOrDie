@@ -249,7 +249,7 @@ You may only use this feature once between Long Rests.
 ###### REQ: 3EXP
 ###### 2 AP
 ###### USE: Armor - Light or None
-'You have a need for speed. It's '
+'You have a need for speed.'
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may climb, crawl, or jump up to 10' instead of 5'.
 
@@ -257,6 +257,6 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 ###### REQ: 3EXP
 ###### 3 AP
 ###### USE: Armor - Heavy
-''
+'Your opponent's attacks falter and fail, as you defend the few chinks in your armoring.'
 
-Until the beginning of your next turn, you gain 2 Damage Resistance.
+Until the beginning of your next turn, you gain 3 Bludgeoning Damage Resistance, 3 Piercing Damage Resistance, and 3 Slashing Damage Resistance.
