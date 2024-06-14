@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6eda707d2321376d",
+        "id": "1cb697faf6c434c9",
         "type": "tabs",
+        "dimension": 64.06794425087108,
         "children": [
           {
-            "id": "051725f3b9d681d3",
+            "id": "35436dc749e41820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Rules/Ability Scores.md",
+                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ab6f4c8a3878b67f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Surviving.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "af9055fdea75b361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat and Actions/Actions During Encounters.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4ae8fea0f7b723d5",
+            "id": "06c439741c873e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,27 +31,33 @@
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "7117fa1a29fdcd5d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7165e4e6d0277634",
+            "id": "7a509e298285eef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Selections Glossary/Traits/Traits.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ba6d9bd9f6a67a3a",
+            "id": "7ff9593502cc819f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Features/Features - Martial.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ec5e197d8bdf8806",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,33 +67,17 @@
                 "source": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "de8e4d5fb7b0a55a",
+        "type": "tabs",
+        "dimension": 35.93205574912892,
+        "children": [
           {
-            "id": "73b4cf251b7410a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Experience.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "871a14bc1f31265f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "efcead8d1c449685",
+            "id": "eb80b1348eb43633",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,7 +89,19 @@
             }
           },
           {
-            "id": "0de6278e209cd1a3",
+            "id": "95927896b705e4ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "afc03fc4d9da5c5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,9 +111,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2d43a2538eba9942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Skills.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wisdom",
+                "query": "\"true damage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +164,7 @@
             }
           },
           {
-            "id": "535ea226861151da",
+            "id": "a44eb621d33dbe85",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -185,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -201,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md"
+                "file": "Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -263,36 +254,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0de6278e209cd1a3",
+  "active": "7ff9593502cc819f",
   "lastOpenFiles": [
-    "Combat and Actions/Combat Definitions.md",
-    "Combat and Actions/Actions During Encounters.md",
-    "Character Rules/Surviving.md",
-    "Character Rules/Skills.md",
-    "Character Rules/Ability Scores.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Melee Weapons.md",
-    "Character Rules/Experience.md",
-    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
-    "conflict-files-obsidian-git.md",
-    "Character Sheet.md",
-    "Character Rules/Defenses.md",
-    "Combat and Actions/Generic Actions.md",
-    "Character Rules/Creating A Character.md",
-    "Selections Glossary/Traits/Traits.md",
-    "Selections Glossary/Traits/Traits - Training.md",
-    "Selections Glossary/Traits/Traits - Physicality.md",
-    "Selections Glossary/Traits/Traits - Mentality.md",
-    "Selections Glossary/Traits",
     "Selections Glossary/Features/Features.md",
+    "Selections Glossary/Traits/Traits.md",
+    "Equipment and Inventories/Ammunition.md",
+    "Combat and Actions/Combat Definitions.md",
+    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Selections Glossary/Features/Features - Martial.md",
+    "Equipment and Inventories/Melee Weapons.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Character Rules/Defenses.md",
+    "Character Rules/Skills.md",
+    "Combat and Actions/Generic Actions.md",
+    "Character Rules/Ability Scores.md",
+    "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
+    "Selections Glossary/Traits/Traits - Training.md",
+    "Selections Glossary/Traits/Traits - Mentality.md",
+    "Selections Glossary/Traits/Traits - Physicality.md",
+    "Selections Glossary/Traits",
     "Selections Glossary/Features",
-    "Selections Glossary/Features.md",
+    "Character Rules/Creating A Character.md",
     "README.md",
+    "Character Sheet.md",
+    "Character Rules/Surviving.md",
     "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
+    "conflict-files-obsidian-git.md",
+    "Equipment and Inventories/Equipment.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Selections Glossary",
     "Combat and Actions",
