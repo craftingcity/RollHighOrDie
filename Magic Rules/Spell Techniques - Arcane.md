@@ -15,3 +15,4 @@
 #### Illusion I
 #### Necromancy I
 #### Transmutation I
+#### Metamancy I
