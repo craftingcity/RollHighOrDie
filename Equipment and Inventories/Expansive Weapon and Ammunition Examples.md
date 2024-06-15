@@ -1,4 +1,4 @@
-# Clasic Melee Weapons
+# Realist Melee Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
 | -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
 | Fists          | Short Blunt | -      | Melee - 5'  | Strength  | Reflex  | STR     | Bludgeoning |                        |
@@ -35,10 +35,10 @@
 # Modern Melee Weapons
 | Title          | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
 | -------------- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
-| Chainsaw       |      |      |       |         |         |         |         |       |
+|        |      |      |       |         |         |         |         |       |
 | Chainlock      |      |      |       |         |         |         |         |       |
 | Handheld Taser |      |      |       |         |         |         |         |       |
-| Sledge               |      |      |       |         |         |         |         |       |
+|                |      |      |       |         |         |         |         |       |
 
 # Fantastic Melee Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
