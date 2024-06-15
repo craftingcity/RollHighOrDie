@@ -40,7 +40,7 @@ While you are not in an Encounter, you may expend any number of Hit Die you have
 When you attempt Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
 
 ###### Increasing Piety
-While you are not in an Encounter, you increase your Piety by performing small actions for the favor of your patron. The following list provides examples of ideologically favorable actions and their corresponding Piety value.
+You can increase your Piety by performing small actions for the favor of your patron. The following list provides examples of ideologically favorable actions and their corresponding Piety value.
 
 | P.V. | Favorable Action                        | Ideo.       |
 | ---- | --------------------------------------- | ----------- |

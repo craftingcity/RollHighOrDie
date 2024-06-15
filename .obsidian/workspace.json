@@ -63,18 +63,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a35f4b5208c8c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "11a348538c536acc",
             "type": "leaf",
             "state": {
@@ -201,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Magic Rules/Spellcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Magic Rules/Spellcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md"
+                "file": "Magic Rules/Spellcasting.md"
               }
             }
           }
@@ -263,11 +251,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01b69ab5a89c5f62",
+  "active": "11a348538c536acc",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Arcane.md",
-    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Features/Features - Divine.md",
+    "Magic Rules/Spellcasting.md",
+    "Selections Glossary/Features/Features - Arcane.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Selections Glossary/Features/Features.md",
     "Character Rules/Defenses.md",
