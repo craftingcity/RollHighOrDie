@@ -74,6 +74,18 @@
             }
           },
           {
+            "id": "ae3e28dba68d420e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "21258d6d97601c8a",
             "type": "leaf",
             "state": {
@@ -228,13 +240,13 @@
   },
   "active": "11a348538c536acc",
   "lastOpenFiles": [
+    "Selections Glossary/Features/Features.md",
     "Character Rules/Defenses.md",
     "Magic Rules/Spellcasting.md",
     "Character Rules/Surviving.md",
     "Magic Rules/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
     "Magic Rules/Spell Techniques - Arcane.md",
-    "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Magic Rules",
     "Selections Glossary/Features/Features - Divine.md",
