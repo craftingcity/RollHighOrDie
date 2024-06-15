@@ -1,5 +1,8 @@
 ## Basic Arcane Techniques
 #### Basic Pyromancy
-#### Basic Aquamancy
+#### Basic Hydromancy
 #### Basic Geomancy
+#### Basic Aeromancy
+#### Basic Electromancy
+#### Basic Hemomancy
 #### Basic Pyromancy
