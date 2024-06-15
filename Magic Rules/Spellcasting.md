@@ -32,6 +32,9 @@ When you cast a Spell you have completed with Spell Effects, make a  Skill Check
 If the result is equal or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
 
 ###### Reducing Flux
+Your current total Flux will 
+
+While you are not in an Encounter, 
 
 ###### Succeeding in Divine Casting
 When you attempt Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
