@@ -12,4 +12,4 @@ For ease of presentation, Features are categorized by their "source of power" an
 #### Inherit and Replace
 When one ability "inherits and replaces" another, the first ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the first ability.
 
-#### Ineli
+#### Ineligible to Gain
