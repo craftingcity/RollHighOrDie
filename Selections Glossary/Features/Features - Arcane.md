@@ -28,10 +28,9 @@ If you already have the 'Innate Spellcasting' Feature, you are not eligible to g
 
 Reduce your current total Flux by a number equal to half your Degree of Proficiency in either the 'Static Casting' or 'Fluid Casting' skills, whichever is greater.
 
-## Name
-###### REQ: #.EXP
-###### X AP
-''
+## Basic Arcane Exploration
+###### REQ: 1EXP
+'Through intense introspection or studying, you have learned the basics of a interesting technique.'
 
 ...
 
