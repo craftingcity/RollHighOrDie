@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "15768b3123e0eadf",
@@ -138,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"expend a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,14 +241,14 @@
   },
   "active": "11a348538c536acc",
   "lastOpenFiles": [
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Features/Features.md",
     "Character Rules/Defenses.md",
-    "Magic Rules/Spellcasting.md",
     "Character Rules/Surviving.md",
     "Magic Rules/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
     "Magic Rules/Spell Techniques - Arcane.md",
-    "Selections Glossary/Features/Features - Arcane.md",
     "Magic Rules",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Martial.md",
