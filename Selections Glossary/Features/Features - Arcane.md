@@ -32,7 +32,7 @@ Reduce your current total Flux by a number equal to half your Degree of Proficie
 ###### REQ: 1EXP
 'Through intense introspection, practice, or study, you have learned the basics of another arcane technique.'
 
-You learn a Basic Arcane Feature of your choice.
+You learn a Basic Arcane Technique of your choice.
 
 ### EXP - 2
 ## Mental Management
