@@ -71,9 +71,10 @@ Fluid Casting is a character's skill in the combination of Spell Effects and cas
 
 ### Divine Casting
 #### Channel Casting
-Channel Casting is a character's skill in the handling of the dire
+Channel Casting is a character's skill in the handling of the direct intervention of their patron's will.
 
 #### Invocation Casting
+Invocation Casting is a character's skill in the recreation and use of Defined Spells.
 
 ## Physical Skills
 ### Strength
