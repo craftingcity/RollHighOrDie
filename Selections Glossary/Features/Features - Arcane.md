@@ -30,9 +30,9 @@ Reduce your current total Flux by a number equal to half your Degree of Proficie
 
 ## Basic Arcane Exploration
 ###### REQ: 1EXP
-'Through intense introspection or studying, you have learned the basics of a interesting technique.'
+'Through intense introspection, practice, or study, you have learned the basics of another arcane technique.'
 
-...
+You learn a Basic Arcane Feature of your choice.
 
 ### EXP - 2
 ## Mental Management
