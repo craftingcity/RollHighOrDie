@@ -7,4 +7,11 @@
 #### Electromancy I
 #### Hemomancy I
 ### 
-#### Basic Pyromancy
+#### Abjuration I
+#### Conjuration I
+#### Divination I
+#### Enchantment I
+#### Evocation I
+#### Illusion I
+#### Necromancy I
+#### Transmutation I
