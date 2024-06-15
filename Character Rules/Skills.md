@@ -66,6 +66,8 @@ You cannot gain a Degree of Proficiency in any Spellcasting Skill if you cannot 
 #### Static Casting
 #### Fluid Casting
 ### Divine Casting
+#### Channel Casting
+#### Invo
 
 ## Physical Skills
 ### Strength
