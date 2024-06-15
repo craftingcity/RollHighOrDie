@@ -104,6 +104,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Intimidation
 
 ## Knowledge Skills
++x hours with source
 #### Arcane
 #### Bureaucracy
 #### Culture
@@ -112,6 +113,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Natural
 
 ## Professional Skills
++x hours with source
 #### Alchemy
 #### Artistry
 #### Bushcraft
