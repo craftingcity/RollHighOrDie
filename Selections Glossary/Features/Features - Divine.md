@@ -20,11 +20,11 @@ You can cast Spells using this Feature. The Action Point Cost to cast a given sp
 If you already have the 'Divine Spellcasting' Feature, you are not eligible to gain this Feature.
 
 ## Combat Prayer
-###### REQ: #.EXP
-###### 1 AP
+###### REQ: 1EXP
+###### 2 AP
 'You preach the will of your patron amidst the chaos of combat, gaining favor and intimidating the opposition.'
 
-Make a your choice of a 'Channel Casting' or 'Invocation Casting' Skill Check. If the result is equal to or greater than 12, 
+Make a your choice of a 'Channel Casting' or 'Invocation Casting' Skill Check. If the result is equal to or greater than 12, you gain a number of Piety equal to half your Degree of Proficiency in the chosen Skill.
 
 ## Name
 ###### REQ: #.EXP
