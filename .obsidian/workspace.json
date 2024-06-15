@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expan",
+                "query": "reload",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Selections Glossary/Features/Features - Divine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Selections Glossary/Features/Features - Divine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md"
+                "file": "Selections Glossary/Features/Features - Divine.md"
               }
             }
           }
@@ -252,15 +252,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cdb9163e9ddf525",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Combat and Actions/Generic Actions.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Magic Rules/Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Combat and Actions/Generic Actions.md",
     "Selections Glossary/Features/Features.md",
     "Character Rules/Defenses.md",
     "Character Rules/Surviving.md",
