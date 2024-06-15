@@ -15,4 +15,4 @@ When one ability "inherits and replaces" another, the first ability gains all te
 #### Ineligible to Gain
 Unless otherwise stated, you may only ever gain a given Feature once.
 
-Some Features cannot be gained if you have a given Feature that it is incompatible with. These Features will list 
+Some Features are exclusive with other Features. If you have these other Features, you are ineligible to gain th
