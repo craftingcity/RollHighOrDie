@@ -13,3 +13,6 @@ For ease of presentation, Features are categorized by their "source of power" an
 When one ability "inherits and replaces" another, the first ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the first ability.
 
 #### Ineligible to Gain
+Unless otherwise stated, you may only ever gain a given Feature once.
+
+Some Features cannot be gained if you have a given Feature that it is incompatible with. These Features will list 

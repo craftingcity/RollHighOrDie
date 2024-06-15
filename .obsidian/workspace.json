@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Rules/Spell Techniques - Arcane.md",
+                "file": "Selections Glossary/Features/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Rules/Spell Techniques - Arcane.md",
+                "file": "Selections Glossary/Features/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Rules/Spell Techniques - Arcane.md"
+                "file": "Selections Glossary/Features/Features.md"
               }
             }
           }
@@ -160,11 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88197e79081b4fdc",
+  "active": "51088c81c6836548",
   "lastOpenFiles": [
+    "Magic Rules/Spell Techniques - Arcane.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Arcane.md",
-    "Magic Rules/Spell Techniques - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Combat and Actions/Generic Actions.md",
     "Magic Rules/Spellcasting.md",
