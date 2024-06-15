@@ -24,7 +24,7 @@ If you already have the 'Divine Spellcasting' Feature, you are not eligible to g
 ###### 1 AP
 'You preach the will of your patron amidst the chaos of combat, gaining favor and intimidating the opposition.'
 
-Make a 
+Make a your choice of a 'Channel Casting' or 'Invocation Casting' Skill Check. If the result is equal to or greater than 12, 
 
 ## Name
 ###### REQ: #.EXP

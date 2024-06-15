@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Selections Glossary/Features/Features - Divine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Selections Glossary/Features/Features - Divine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Selections Glossary/Features/Features - Divine.md"
               }
             }
           }
@@ -252,11 +252,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "928d95c01f39f652",
+  "active": "01b69ab5a89c5f62",
   "lastOpenFiles": [
+    "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
-    "Character Rules/Skills.md",
     "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Selections Glossary/Features/Features.md",
