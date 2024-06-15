@@ -42,7 +42,13 @@ When you attempt Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you 
 ###### Increasing Piety
 While you are not in an Encounter, you increase your Piety by performing small actions for the favor of your patron. The following list provides examples of ideologically favorable actions and their corresponding Piety value.
 
-| P.V. | Favorable Action   | Ideo.  |
-| ---- | ------------------ | ------ |
-| +1   | Punish the guilty. | Lawful |
-| +1   | Punish                    |        |
+| P.V. | Favorable Action                   | Ideo.       |
+| ---- | ---------------------------------- | ----------- |
+| +1   | Uphold moral law.                  | Lawful      |
+| +1   | Punish wrongdoing.                 | Good        |
+| +1   | Abuse moral law.                   | Chaos       |
+| +1   | Conduct wrongdoing.                | Evil        |
+| +2   | Execute an immoral entity          | Lawful/Good |
+| +2   | Execute a moral innocent           | Chaos/Evil  |
+| +2   | Participate in community assembly. | Lawful/Good |
+| +2   | Destroy community property                                   |             |
