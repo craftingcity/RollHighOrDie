@@ -5,7 +5,7 @@
 #### Geomancy I
 #### Aeromancy I
 #### Electromancy I
-#### Hemomancy I
+#### Biomancy I
 ### 
 #### Abjuration I
 #### Conjuration I
