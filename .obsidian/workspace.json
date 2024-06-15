@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Rules/Spellcasting.md",
+                "file": "Selections Glossary/Features/Features - Divine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Rules/Spellcasting.md",
+                "file": "Selections Glossary/Features/Features - Divine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Rules/Spellcasting.md"
+                "file": "Selections Glossary/Features/Features - Divine.md"
               }
             }
           }
@@ -251,10 +251,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11a348538c536acc",
+  "active": "01b69ab5a89c5f62",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Divine.md",
     "Magic Rules/Spellcasting.md",
+    "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Selections Glossary/Features/Features.md",
