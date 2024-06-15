@@ -4,23 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "6009951af8d08c50",
+        "id": "1cb697faf6c434c9",
         "type": "tabs",
+        "dimension": 64.06794425087108,
         "children": [
           {
-            "id": "cf3aa41675f045d7",
+            "id": "35436dc749e41820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "01b69ab5a89c5f62",
+            "id": "06c439741c873e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat and Actions/Combat Definitions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ec5e197d8bdf8806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7a509e298285eef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Traits/Traits.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d7598893a638c4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Traits/Traits - Training.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a6c0bcbdcd77fabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Traits/Traits - Mentality.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a12843f8307c8f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Traits/Traits - Physicality.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7ff9593502cc819f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Features/Features.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "216eae1ff11e3e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +117,19 @@
             }
           },
           {
-            "id": "a4a3a40530cad0dd",
+            "id": "d5cc03c6fd8e3eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Features/Features - Arcane.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b63df3a4f757b801",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,38 +140,52 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
-        "id": "15768b3123e0eadf",
+        "id": "de8e4d5fb7b0a55a",
         "type": "tabs",
+        "dimension": 35.93205574912892,
         "children": [
           {
-            "id": "4d26ae6b80f4dc3a",
+            "id": "eb80b1348eb43633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat and Actions/Spellcasting.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "21258d6d97601c8a",
+            "id": "95927896b705e4ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Rules/Surviving.md",
+                "file": "Equipment and Inventories/Melee Weapons.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "928d95c01f39f652",
+            "id": "afc03fc4d9da5c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2d43a2538eba9942",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +226,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"skills",
+                "query": "character status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,35 +326,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf3aa41675f045d7",
+  "active": "d5cc03c6fd8e3eca",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Divine.md",
+    "Combat and Actions/Spellcasting.md",
+    "Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
-    "Character Rules/Skills.md",
-    "Character Rules/Surviving.md",
-    "Combat and Actions/Spellcasting.md",
-    "Selections Glossary/Condition.md",
-    "conflict-files-obsidian-git.md",
-    "Equipment and Inventories/Ammunition.md",
-    "Equipment and Inventories/Melee Weapons.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Character Rules/Defenses.md",
-    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
-    "Combat and Actions/Combat Definitions.md",
-    "Selections Glossary/Traits/Traits.md",
+    "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Features/Features.md",
-    "Combat and Actions/Generic Actions.md",
-    "Character Rules/Ability Scores.md",
-    "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Mentality.md",
     "Selections Glossary/Traits/Traits - Physicality.md",
+    "Selections Glossary/Traits/Traits.md",
+    "Character Rules/Defenses.md",
+    "Combat and Actions/Combat Definitions.md",
+    "Character Rules/Skills.md",
+    "Equipment and Inventories/Ammunition.md",
+    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Equipment and Inventories/Melee Weapons.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Combat and Actions/Generic Actions.md",
+    "Character Rules/Ability Scores.md",
+    "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Character Rules/Creating A Character.md",
     "README.md",
     "Character Sheet.md",
+    "Character Rules/Surviving.md",
+    "Selections Glossary/Condition.md",
     "Selections Glossary/Ailment.md",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Selections Glossary",
