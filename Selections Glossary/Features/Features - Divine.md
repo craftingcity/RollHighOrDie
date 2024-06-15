@@ -2,7 +2,7 @@
 ## Divine Spellcasting
 ###### REQ: #.EXP
 ###### xAP
-'You are one of few, favored by your deity or ideology for your actions, and you have been granted power in exchange for your continued allegiance.'
+'You are one of few, favored by your patron or ideology for your actions, and you have been granted power in exchange for your continued allegiance.'
 
 Content!
 
