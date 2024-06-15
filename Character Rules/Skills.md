@@ -64,10 +64,16 @@ You cannot gain a Degree of Proficiency in any Spellcasting Skill if you cannot 
 
 ### Arcane Casting
 #### Static Casting
+Static Casting is a character's skill in the recreation and use of Defined Spells.
+
 #### Fluid Casting
+Fluid Casting is a character's skill in the combination of Spell Effects and casting their complete Spells.
+
 ### Divine Casting
 #### Channel Casting
-#### Invo
+Channel Casting is a character's skill in the handling of the dire
+
+#### Invocation Casting
 
 ## Physical Skills
 ### Strength
