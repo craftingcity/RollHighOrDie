@@ -28,10 +28,10 @@ If you already have the 'Innate Spellcasting' Feature, you are not eligible to g
 
 Reduce your current total Flux by a number equal to half your Degree of Proficiency in either the 'Static Casting' or 'Fluid Casting' skills, whichever is greater.
 
-## Mental Entr
+## Mental Entrenchment
 ###### REQ: #.EXP
 ###### X AP
-''
+'You push the irrelivent sections of your mind into a defended storage, allowing mental capacity for the control of Flux during Spellcasting.'
 
 ...
 
