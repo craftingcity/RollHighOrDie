@@ -55,7 +55,7 @@ If you ever have a number of Wounds equal to your Constitution Score, you die.
 ###### Hit Die & Recovering Vitality
 You have a number of Hit Die equal to half your TMK. Unless otherwise stated, these Hit Die are d6's. 
 
-While you are not in an Encounter, you may expend any number of Hit Die you have. When you expend a Hit Die, you gain the value rolled plus your Constitution Modifier as Vitality.
+While you are not in an Encounter, you may expend any number of Hit Die you have. When you expend a Hit Die, you gain the number rolled plus your Constitution Modifier as Vitality.
 
 ###### Death Call
 When you make a Death Call, you are as far from control as you can be, and you will grow farther from it as your character continues to die.

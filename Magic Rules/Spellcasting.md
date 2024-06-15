@@ -34,7 +34,7 @@ If the result is equal or greater than the Spell's Complexity, you succeed in ca
 ###### Reducing Flux
 The Flux you gain while casting spells will dissipate over time at rest.
 
-While you are not in an Encounter, you may expend a Hit Die
+While you are not in an Encounter, your current total Flux is reduced by 3 for every hour 
 
 ###### Succeeding in Divine Casting
 When you attempt Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.

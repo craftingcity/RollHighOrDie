@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"expend a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,8 +228,9 @@
   },
   "active": "11a348538c536acc",
   "lastOpenFiles": [
-    "Character Rules/Surviving.md",
+    "Character Rules/Defenses.md",
     "Magic Rules/Spellcasting.md",
+    "Character Rules/Surviving.md",
     "Magic Rules/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
     "Magic Rules/Spell Techniques - Arcane.md",
@@ -243,7 +245,6 @@
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ranged Weapons.md",
-    "Character Rules/Defenses.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Traits/Traits.md",
