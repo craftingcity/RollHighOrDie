@@ -29,7 +29,7 @@ When you cast a Defined Spell, make a Static Casting Skill Check.
 
 When you cast a Spell you have completed with Spell Effects, make a  Skill Check.
 
-If the result is equal or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
+If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
 
 ###### Reducing Flux
 The Flux you gain while casting spells will dissipate over time at rest.

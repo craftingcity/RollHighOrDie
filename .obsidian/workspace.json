@@ -122,8 +122,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Magic Rules/Spellcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Magic Rules/Spellcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md"
+                "file": "Magic Rules/Spellcasting.md"
               }
             }
           }
@@ -252,10 +251,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "11a348538c536acc",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Combat and Actions/Generic Actions.md",
+    "Selections Glossary/Features/Features - Arcane.md",
     "Character Rules/Skills.md",
     "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
@@ -271,10 +272,8 @@
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Melee Weapons.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Traits/Traits.md",
-    "Combat and Actions/Generic Actions.md",
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Traits/Traits - Training.md",
