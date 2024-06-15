@@ -23,6 +23,7 @@
 | Hatchet        | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    |                        |
 | Work Axe       | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Two-Handed             |
 | Broadaxe       | Axe         | Large  | Melee - 5'  | Strength  | Reflex  | 1d10    | Slashing    | Heavy, Two-Handed      |
+| Chainsaw       | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 3d4     | Slashing    | Heavy, Two-Handed                       |
 | Bo Staff       | Polearm     | Medium | Melee - 10' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light                  |
 | Spear          | Polearm     | Medium | Melee - 10' | STR/DEX   | Reflex  | 1d6     | Slashing    | Light, Versatile (1d8) |
 | Javelin        | Polearm     | Medium | Melee - 10' | Dexterity | Reflex  | 1d6     | Piercing    | Throwable              |
@@ -30,7 +31,8 @@
 | Glaive         | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Two-Handed             |
 | Halberd        | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d8     | Slashing    | Heavy, Two-Handed      |
 | Bullwhip       | Flexible    | Small  | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                        |
-| Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        | 
+| Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        |
+| Chainlock      | Flexible    | Medium | Melee - 10' | Strength  | Reflex  | 2d4     | Bludgeoning |                        |
 
 # Modern Melee Weapons
 | Title          | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
