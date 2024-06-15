@@ -4,7 +4,9 @@
 ###### xAP
 'You are one of few, favored by your patron or ideology for your actions, and you have been granted power in exchange for your continued allegiance.'
 
-Content!
+When you gain this Feature, your Piety Limit is equal to your Wisdom Score. You learn one Basic Divine Technique of your choice.
+
+You can cast Spells using this Feature. The Action Point Cost to cast a given spell is listed alongside it's Effort and Complexity.
 
 ## Pact Spellcasting
 ###### REQ: #.EXP
