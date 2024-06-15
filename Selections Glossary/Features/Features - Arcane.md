@@ -34,6 +34,8 @@ Reduce your current total Flux by a value equal to half your Degree of Proficien
 
 You learn a Basic Arcane Technique of your choice.
 
+You may gain this Feature any number of times.
+
 ### EXP - 2
 ## Mental Management
 ###### REQ: 2EXP

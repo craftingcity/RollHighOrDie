@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6009951af8d08c50",
+        "id": "2f889f5abc221610",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8b5ef70dccb9c8",
+            "id": "88197e79081b4fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Rules/Spell Techniques - Arcane.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "51088c81c6836548",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,112 +30,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "cf3aa41675f045d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "01b69ab5a89c5f62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a4a3a40530cad0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selections Glossary/Features/Features - Martial.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "15768b3123e0eadf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "11a348538c536acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Rules/Spellcasting.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5cdb9163e9ddf525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ae3e28dba68d420e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Defenses.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "21258d6d97601c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Surviving.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "928d95c01f39f652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Rules/Skills.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Selections Glossary/Features/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Skills.md",
+                "file": "Selections Glossary/Features/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Skills.md"
+                "file": "Selections Glossary/Features/Features.md"
               }
             }
           }
@@ -252,23 +161,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "928d95c01f39f652",
+  "active": "51088c81c6836548",
   "lastOpenFiles": [
-    "Character Rules/Surviving.md",
-    "Character Rules/Defenses.md",
-    "Combat and Actions/Generic Actions.md",
-    "Selections Glossary/Features/Features - Divine.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
-    "Character Rules/Skills.md",
-    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
+    "Magic Rules/Spell Techniques - Arcane.md",
+    "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Features/Features.md",
+    "Combat and Actions/Generic Actions.md",
+    "Magic Rules/Spellcasting.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Character Rules/Defenses.md",
+    "Character Rules/Surviving.md",
+    "Character Rules/Skills.md",
+    "Selections Glossary/Features/Features - Divine.md",
+    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Magic Rules/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
-    "Magic Rules/Spell Techniques - Arcane.md",
     "Magic Rules",
-    "Selections Glossary/Features/Features - Martial.md",
     "Selections Glossary/Condition.md",
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ammunition.md",
