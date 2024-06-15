@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Combat and Actions/Generic Actions.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md"
+                "file": "Character Rules/Skills.md"
               }
             }
           }
@@ -252,18 +252,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "928d95c01f39f652",
   "lastOpenFiles": [
-    "Equipment and Inventories/Ranged Weapons.md",
+    "Character Rules/Surviving.md",
+    "Character Rules/Defenses.md",
     "Combat and Actions/Generic Actions.md",
+    "Selections Glossary/Features/Features - Divine.md",
+    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Character Rules/Skills.md",
-    "Selections Glossary/Features/Features - Divine.md",
     "Magic Rules/Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features.md",
-    "Character Rules/Defenses.md",
-    "Character Rules/Surviving.md",
     "Magic Rules/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
     "Magic Rules/Spell Techniques - Arcane.md",
