@@ -27,3 +27,24 @@ If you already have the 'Innate Spellcasting' Feature, you are not eligible to g
 'You feel control leaving your grasp, and you begin to reign it back.'
 
 Reduce your current total Flux by a number equal to half your Degree of Proficiency in either the 'Static Casting' or 'Fluid Casting' skills, whichever is greater.
+
+## Mental Entr
+###### REQ: #.EXP
+###### X AP
+''
+
+...
+
+## Name
+###### REQ: #.EXP
+###### X AP
+''
+
+...
+
+## Name
+###### REQ: #.EXP
+###### X AP
+''
+
+...

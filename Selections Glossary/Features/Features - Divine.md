@@ -12,3 +12,24 @@ Content!
 'A deal was struck. In exchange for actions on your patron's behalf, they have allowed a meager drop of their power cross your lips.'
 
 Content!
+
+## Name
+###### REQ: #.EXP
+###### X AP
+''
+
+...
+
+## Name
+###### REQ: #.EXP
+###### X AP
+''
+
+...
+
+## Name
+###### REQ: #.EXP
+###### X AP
+''
+
+...
