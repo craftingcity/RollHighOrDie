@@ -19,10 +19,10 @@ You can cast Spells using this Feature. The Action Point Cost to cast a given sp
 
 If you already have the 'Divine Spellcasting' Feature, you are not eligible to gain this Feature.
 
-## Name
+## Combat Prayer
 ###### REQ: #.EXP
-###### X AP
-''
+###### 1 AP
+'You preach your '
 
 ...
 
