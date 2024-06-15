@@ -1,4 +1,4 @@
-# Realist Melee Weapons
+# Clasic Melee Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
 | -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
 | Fists          | Short Blunt | -      | Melee - 5'  | Strength  | Reflex  | STR     | Bludgeoning |                        |
@@ -32,8 +32,15 @@
 | Bullwhip       | Flexible    | Small  | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                        |
 | Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        | 
 
-# Fantastic Melee Weapons
+# Modern Melee Weapons
+| Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
+| -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
+|
 
+# Fantastic Melee Weapons
+| Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
+| -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
+|
 # Classic Ranged Weapons
 | Title              | Base     | Size   | Range     | Ability   | Defense | Ammunition   | Other                                       | 
 | ------------------ | -------- | ------ | --------- | --------- | ------- | ------------ | ------------------------------------------- |
