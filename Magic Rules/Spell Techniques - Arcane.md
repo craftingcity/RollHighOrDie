@@ -6,7 +6,7 @@
 #### Aeromancy I
 #### Electromancy I
 #### Biomancy I
-### 
+### Taxonomy
 #### Abjuration I
 #### Conjuration I
 #### Divination I
