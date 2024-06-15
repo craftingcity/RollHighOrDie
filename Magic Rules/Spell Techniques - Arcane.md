@@ -1,8 +1,10 @@
 ## Basic Arcane Techniques
-#### Basic Pyromancy
-#### Basic Hydromancy
-#### Basic Geomancy
-#### Basic Aeromancy
-#### Basic Electromancy
-#### Basic Hemomancy
+### Elementalism
+#### Pyromancy I
+#### Hydromancy I
+#### Geomancy I
+#### Aeromancy I
+#### Electromancy I
+#### Hemomancy I
+### 
 #### Basic Pyromancy
