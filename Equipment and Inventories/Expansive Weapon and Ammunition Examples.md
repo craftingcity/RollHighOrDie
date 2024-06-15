@@ -33,9 +33,12 @@
 | Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        | 
 
 # Modern Melee Weapons
-| Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
-| -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
-|
+| Title          | Base | Size | Range | Ability | Defense | D. Dice | D. Type | Other |
+| -------------- | ---- | ---- | ----- | ------- | ------- | ------- | ------- | ----- |
+| Chainsaw       |      |      |       |         |         |         |         |       |
+| Chainlock      |      |      |       |         |         |         |         |       |
+| Handheld Taser |      |      |       |         |         |         |         |       |
+| Sledge               |      |      |       |         |         |         |         |       |
 
 # Fantastic Melee Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
@@ -79,7 +82,9 @@
 | Flamethrower                 | Rifle  | Large  | 30'/60'     | Dexterity | Fortitude | energy       | Two-Handed, Mechanical (5/22)                                                            |
 
 # Fantastic Ranged Weapons
-
+| Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |
+| -------------- | ----------- | ------ | ----------- | --------- | ------- | ------- | ----------- | ---------------------- |
+|
 # Projectile Ammunition
 | Title                       | Base         | Size       | D. Dice | D. Type     | Other              |
 | --------------------------- | ------------ | ---------- | ------- | ----------- | ------------------ |
@@ -172,3 +177,6 @@
 |        |        |            |         |         |                |
 
 # Fantastic Ammunition
+| Title | Base | Size | D. Dice | D. Type | Other |
+| ----- | ---- | ---- | ------- | ------- | ----- |
+|       |      |      |         |         |       |
