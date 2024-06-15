@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "mode": "source",
                 "source": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md"
+                "file": "Equipment and Inventories/Ranged Weapons.md"
               }
             }
           }
@@ -254,8 +254,8 @@
   },
   "active": "5cdb9163e9ddf525",
   "lastOpenFiles": [
-    "Character Rules/Skills.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Magic Rules/Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
