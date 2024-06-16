@@ -91,8 +91,8 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | Sharpened Steel Greatarrow  | great-arrow  | Small  | 2d6     | Piercing    | Durable            |
 | Broadhead Steel Greatarrow  | great-arrow  | Small  | 3d6     | Piercing    | Durable, Barbed    |
 | Corehead Steel Greatarrow   | great-arrow  | Small  | 2d6     | Piercing    | Durable, Coring    |
-| Cannon Ball                 | shaped       | Medium | 4d8     | Bludgeoning | Durable            |
-| Cannon                             |              |        |         |             |                    |
+| Solid Ball                  | shaped       | Medium | 4d8     | Bludgeoning | Durable            |
+| Grape Ball                  | shaped       | Medium | 3d6     | Piercing    | Fragile            |
 
 ### Cartridge Ammunition
 | Title                 | Base         | Size       | D. Dice | D. Type     | Other                          |
@@ -146,6 +146,7 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | .50 BMG (FMJ)         | high caliber | Small (15) | 3d12    | Piercing    |                                |
 | .50 BMG (AP)          | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing                 |
 | .50 BMG (AP+I)        | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing, Incendiary (1) |
+|                       |              |            |         |             |                                |
 
 ### Energy Ammunition
 | Title  | Base   | Size       | D. Dice | D. Type | Other          |
