@@ -137,7 +137,7 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex    | low caliber  | Capacity (6), Two-Handed, Mechanical (1/16)                 |     |
 | Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex    | high caliber | Capacity (15), Two-Handed, Burst (2), Mechanical (2/16)     |     |
 | Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex    | high caliber | Capacity (30), Two-Handed, Burst (4), Mechanical (2/16)     |     |
-| "Kitted AeyKae"              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex    | 5.45x39mm    | Capacity (60), Two-Handed, Burst (4), Mechanical ()                                               |     |
+| "Kitted AeyKae"              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex    | 5.45x39mm    | Capacity (60), Two-Handed, Burst (4), Mechanical (3/18)     |     |
 | Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex    | high caliber | Capacity (10), Two-Handed, Mechanical (1/16)                |     |
 | Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex    | shotshell    | Capacity (2), Two-Handed                                    |     |
 | Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex    | shotshell    | Capacity (4), Two-Handed, Mechanical (1/16)                 |     |
@@ -146,3 +146,6 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Light Squad Automatic Weapon | Rifle    | Large  | 480'/1440'  | Dexterity | Reflex    | high caliber | Two-Handed, Burst (5), Mechanical (3/20)                    |     |
 | Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex    | high caliber | Two-Handed, Burst (5), Mechanical (4/20)                    |     |
 | Flamethrower                 | Rifle    | Large  | 30'/60'     | Dexterity | Fortitude | energy       | Two-Handed, Mechanical (5/22)                               |     |
+| Underhand Combat Launcher    | Launcher |        |             |           |           |              |                                                             |     |
+| Shouldered Combat Launcher   | Launcher |        |             |           |           |              |                                                             |     |
+|                              |          |        |             |           |           |              |                                                             |     |
