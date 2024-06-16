@@ -18,5 +18,5 @@ RHoD is the consistent, modular, fifth-edition roleplaying game you've been look
 	- Ranged Ammunition Restriction (like caliber? / pvc launchers cant shoot real grenades)
 	- Create wider array of Weapon Tags
 - Conditions, Ailments, & Emboldenments
-	- Finalize known Conditions/Ailments/Emboldenments
-	- Create wider array of 
+	- Finalize known C/A/E
+	- Create wider array of C/A/E
