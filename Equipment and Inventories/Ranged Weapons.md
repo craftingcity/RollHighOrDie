@@ -37,7 +37,9 @@ Harnessing the mystic or the scientific, Rifles are the more militaristic older 
 Rifles fire 'High Caliber' Ammunitions.
 
 #### Launcher
-Harnessing the mystic or the scientific, Launchers fire specialized ammunition that are intended to
+Harnessing the mystic or the scientific, Launchers fire specialized ammunition that are intended to cause massive damage.
+
+Launchers fire 'Shaped' Ammunitions.
 
 ## Tags
 ### Required Tags
@@ -88,6 +90,8 @@ The first value indicated (x) is this Weapon's Complexity Value.
 The second value indicated (y) is this Weapon's Unjam DC.
 
 When you make an Attack with this Weapon, if the number you roll on your d20 is equal to or less than this Weapon's Complexity Value, your Attack misses, and this Weapon is Jammed.
+
+#### 
 
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
