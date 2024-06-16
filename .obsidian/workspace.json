@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "54ce8cbe0a45b16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat and Actions/Combat Definitions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e0763270e6e99a91",
             "type": "leaf",
             "state": {
@@ -173,13 +185,13 @@
   },
   "active": "88197e79081b4fdc",
   "lastOpenFiles": [
-    "Equipment and Inventories/Inventory Management.md",
+    "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Armors.md",
+    "Equipment and Inventories/Inventory Management.md",
     "Magic Rules/Spell Techniques - Arcane.md",
     "Magic Rules/Spellcasting.md",
     "README.md",
     "Environment Definitions.md",
-    "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
