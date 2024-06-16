@@ -2,12 +2,12 @@
 Any Ranged Weapon fires a projectile known as its Ammunition. Much like their counterparts, each Ammunition is a Base and a collection of Tags.
 
 ## Bases
-### Man-powered
+### Classic
 #### Sling-Bullet
 #### Arrow
 #### Bolt
 #### Great-Arrow
-### Self-propelled
+### Modern
 #### Powder-Shot
 #### Low Caliber
 #### High Caliber

@@ -8,25 +8,33 @@ A character's ability to hit on Attacks with a given Weapon is directly related 
 ### Ranged Weapons & Ammunition
 Ranged Weapons are married to [[Ammunition]], as both are required for either to be effective. 
 
-When you make an Attack with a Ranged Weapon, you expend a piece of Loaded Ammunition if your Weapon has the Capacity Tag, or you expend a piece of Ammunition from your Quiver otherwise.
+When you make an Attack with a Ranged Weapon, you expend a piece of Loaded Ammunition if your Weapon has the 'Capacity' Tag, or you expend a piece of Ammunition from your Quiver Inventory Slot otherwise.
 
 ## Bases
 #### Sling
 Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 
 
-Slings fire 'sling-'
+Slings fire 'Sling-Bullet' Ammunitions.
 
 #### Bow
 Using the power of elastics, Bows fire arrows at high speeds to pierce through armoring and cause significant internal damage.
 
+Bows fire 'Arrow' Ammunitions.
+
 #### Crossbow
 Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow known as a bolt at high speeds and with great accuracy.
+
+Crossbows fire 'Bolt' Ammunitions.
 
 #### Pistol
 Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of projectiles before they must be reloaded.
 
+Pistols fire 'Low Caliber' Ammunitions.
+
 #### Rifle
 Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
+
+Rifles fire 'Low Caliber' Ammunitions.
 
 ## Tags
 ### Required Tags
