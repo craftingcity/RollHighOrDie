@@ -8,3 +8,4 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Close Area
 #### Remote Area
 ## Spell Effects
+#### 
