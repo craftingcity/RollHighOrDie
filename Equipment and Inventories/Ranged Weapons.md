@@ -124,7 +124,9 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Compound Crossbow            | Crossbow | Medium | 100'/300'   | Dexterity | Reflex    | bolt         | Capacity (1), Two-Handed, Mechanical (2/14)                 |     |
 | Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex    | powder-shot  | Capacity (1)                                                |     |
 | Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex    | low caliber  | Capacity (6), Quick                                         |     |
-| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex    | low caliber  | Capacity (13), Versatile (+2), Burst (2), Mechanical (1/16) |     |
+| Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex    | low caliber  | Capacity (7), Versatile (+2), Burst (2), Mechanical (1/16)  |     |
+| "Gee-Lock" Mark 19           | Pistol   | Small  | 210'/630'   | Dexterity | Reflex    | 9mm (any)    | Capacity (13), Versatile (+2), Burst (2), Mechanical (2/16) |     |
+| "Jungle Vulture"             | Pistol   | Medium | 240'/720'   | Dexterity | Ref          |              |                                                             |     |
 | Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex    | low caliber  | Capacity (15), Versatile (+2), Burst (4), Mechanical (3/16) |     |
 | Carbine                      | Pistol   | Medium | 360'/1080'  | Dexterity | Reflex    | low caliber  | Capacity (15), Two-Handed, Burst (3), Mechanical (1/16)     |     |
 | Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex    | low caliber  | Capacity (33), Two-Handed, Burst (5), Mechanical (2/16)     |     |
