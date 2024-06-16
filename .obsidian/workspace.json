@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat and Actions/Combat Definitions.md",
+                "file": "Environment Definitions.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat and Actions/Combat Definitions.md",
+                "file": "Environment Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat and Actions/Combat Definitions.md",
+                "file": "Environment Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat and Actions/Combat Definitions.md"
+                "file": "Environment Definitions.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "51088c81c6836548",
   "lastOpenFiles": [
+    "Combat and Actions/Combat Definitions.md",
+    "Environment Definitions.md",
     "Selections Glossary/Features/Features.md",
     "README.md",
     "Magic Rules/Spell Techniques - Arcane.md",
@@ -182,13 +184,11 @@
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Melee Weapons.md",
-    "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Traits/Traits.md",
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits/Traits - Mentality.md",
-    "Selections Glossary/Traits/Traits - Physicality.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
