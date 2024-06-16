@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Equipment and Inventories/Ranged Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Equipment and Inventories/Ranged Weapons.md"
               }
             }
           }
@@ -210,13 +210,13 @@
   },
   "active": "4120678816754c5a",
   "lastOpenFiles": [
+    "README.md",
     "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Inventory Management.md",
     "Magic Rules/Spell Techniques - Arcane.md",
     "Magic Rules/Spellcasting.md",
-    "README.md",
     "Environment Definitions.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Arcane.md",

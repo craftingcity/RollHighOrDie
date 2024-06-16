@@ -14,6 +14,8 @@ When you make an Attack with a Ranged Weapon, you expend a piece of Loaded Ammun
 #### Sling
 Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 
 
+Slings fire 'sling-'
+
 #### Bow
 Using the power of elastics, Bows fire arrows at high speeds to pierce through armoring and cause significant internal damage.
 
