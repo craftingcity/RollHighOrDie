@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md"
+                "file": "Selections Glossary/Magics/Spell Effects.md"
               }
             }
           }
@@ -222,14 +222,17 @@
   },
   "active": "4120678816754c5a",
   "lastOpenFiles": [
-    "Equipment and Inventories/Ammunition.md",
+    "Magic Rules/Magical Equipment.md",
+    "Selections Glossary/Magics/Spell Effects.md",
+    "Selections Glossary/Magics",
     "Equipment and Inventories/Ranged Weapons.md",
+    "Equipment and Inventories/Ammunition.md",
     "README.md",
     "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Inventory Management.md",
-    "Magic Rules/Spell Techniques - Arcane.md",
+    "Selections Glossary/Magics/Spell Techniques - Arcane.md",
     "Magic Rules/Spellcasting.md",
     "Environment Definitions.md",
     "Selections Glossary/Features/Features.md",
@@ -241,14 +244,12 @@
     "Character Rules/Skills.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
-    "Magic Rules/Spell Techniques - Divine.md",
+    "Selections Glossary/Magics/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
     "Magic Rules",
     "Selections Glossary/Condition.md",
     "conflict-files-obsidian-git.md",
     "Selections Glossary/Traits/Traits.md",
-    "Character Rules/Ability Scores.md",
-    "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
