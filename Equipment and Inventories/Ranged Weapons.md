@@ -76,7 +76,8 @@ This Tag is immutable, and cannot be changed.
 This is the Defense that the Weapon targets to determine hit or miss during a Generic Attack. The vast majority of Weapons target Reflex.
 
 ### Mundane Tags
-#### Caliber ('A', 'B', ')
+#### Caliber (x)
+This Weapon can only fire the Ammunition listed in the indicated field (x).
 
 #### Capacity (X)
 This is the Maximum Capacity of Loaded Ammunition for this Weapon. 
