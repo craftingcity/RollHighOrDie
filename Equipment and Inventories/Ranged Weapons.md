@@ -125,11 +125,11 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Flintlock Pistol             | Pistol   | Small  | 75'/225'    | Dexterity | Reflex    | powder-shot  | Capacity (1)                                                |     |
 | Revolving Pistol             | Pistol   | Small  | 240'/720'   | Dexterity | Reflex    | low caliber  | Capacity (6), Quick                                         |     |
 | Semi-Auto Pistol             | Pistol   | Small  | 210'/630'   | Dexterity | Reflex    | low caliber  | Capacity (7), Versatile (+2), Burst (2), Mechanical (1/16)  |     |
-| "Gee-Lock" Mark 19           | Pistol   | Small  | 210'/630'   | Dexterity | Reflex    | 9mm          | Capacity (13), Versatile (+2), Burst (2), Mechanical (1/16) |     |
+| "Gee-Lock Mark 19"           | Pistol   | Small  | 210'/630'   | Dexterity | Reflex    | 9mm          | Capacity (13), Versatile (+2), Burst (2), Mechanical (1/16) |     |
 | "Jungle Vulture"             | Pistol   | Medium | 240'/720'   | Dexterity | Reflex    | .357 Magnum  | Capacity (7), Versatile (+1), Burst (2), Mechanical (1/16)  |     |
 | Machine Pistol               | Pistol   | Small  | 120'/360'   | Dexterity | Reflex    | low caliber  | Capacity (15), Versatile (+2), Burst (4), Mechanical (3/16) |     |
 | Carbine                      | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex    | low caliber  | Capacity (15), Two-Handed, Burst (3), Mechanical (1/16)     |     |
-| "Dad's Plinker"              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex    | .22 LR       | Capacity (15), Two-Handed, Burst (3), Mechanical (1/16)     |     |
+| "Dad's Plinker"              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex    | .22 LR       | Capacity (20), Two-Handed, Burst (3), Mechanical (1/16)     |     |
 | Sub Machine Gun              | Pistol   | Medium | 180'/540'   | Dexterity | Reflex    | low caliber  | Capacity (33), Two-Handed, Burst (5), Mechanical (2/16)     |     |
 | Musket                       | Rifle    | Medium | 120'/360'   | Dexterity | Reflex    | powder-shot  | Capacity (1), Two-Handed                                    |     |
 | Classic Bolt-Action          | Rifle    | Medium | 540'/1620'  | Dexterity | Reflex    | high caliber | Capacity (5), Two-Handed, Mechanical (1/12)                 |     |
@@ -137,6 +137,7 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Lever-Action Rifle           | Rifle    | Medium | 240'/720'   | Dexterity | Reflex    | low caliber  | Capacity (6), Two-Handed, Mechanical (1/16)                 |     |
 | Semi-Auto Rifle              | Rifle    | Medium | 480'/1440'  | Dexterity | Reflex    | high caliber | Capacity (15), Two-Handed, Burst (2), Mechanical (2/16)     |     |
 | Full-Auto Rifle              | Rifle    | Medium | 360'/1080'  | Dexterity | Reflex    | high caliber | Capacity (30), Two-Handed, Burst (4), Mechanical (2/16)     |     |
+| "Aykae "
 | Designated Marksman Rifle    | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex    | high caliber | Capacity (10), Two-Handed, Mechanical (1/16)                |     |
 | Double Barrel Shotgun        | Rifle    | Medium | 30'/60'     | Dexterity | Reflex    | shotshell    | Capacity (2), Two-Handed                                    |     |
 | Pump Action Shotgun          | Rifle    | Medium | 60'/120'    | Dexterity | Reflex    | shotshell    | Capacity (4), Two-Handed, Mechanical (1/16)                 |     |
