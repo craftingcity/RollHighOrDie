@@ -159,7 +159,8 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | 40mm Incendiary Grenade     | shaped       |            |         |             |                                |
 | 40mm Non-Lethal Grenade     | shaped       |            |         |             |                                |
 | 40mm Smoke Grenade          |              |            |         |             |                                |
-| 15mm                             |              |            |         |             |                                |
+| 15mm Firework Shell         |              |            |         |             |                                |
+|                             |              |            |         |             |                                |
 
 ### Energy Ammunition
 | Title  | Base   | Size       | D. Dice | D. Type | Other          |
