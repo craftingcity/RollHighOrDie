@@ -148,10 +148,10 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | .50 BMG (AP+I)              | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing, Incendiary (1) |
 | Bottle Rocket               | high caliber | Small      | 2d6     | Force       | Explosive                      |
 | 12/70 Birdshot              | shotshell    |            |         |             |                                |
-| 12/70 Buckshot              |              |            |         |             |                                |
-| 12/70 Slug                  |              |            |         |             |                                |
-| 12/70 Sabot                 |              |            |         |             |                                |
-|
+| 12/70 Buckshot              | shotshell    |            |         |             |                                |
+| 12/70 Full Slug             | shotshell    |            |         |             |                                |
+| 12/70 Sabot Slug            | shotshell    |            |         |             |                                |
+| 12/70 Breach Slug           | shotshell    |            |         |             |                                |
 | OG-7V Warhead               | shaped       | Medium (5) | 8d6     | Force       | Explosive, Incendiary (1)      |
 | PG-7VL Warhead              | shaped       | Medium (5) | 12d6    | Force       | Explosive, Incendiary (1)      |
 | 40mm High Explosive Grenade | shaped       |            |         |             |                                |
