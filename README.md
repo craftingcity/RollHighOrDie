@@ -7,12 +7,16 @@ RHoD is the consistent, modular, fifth-edition roleplaying game you've been look
 	- Divine Features
 	- Divine Techniques
 - Weapons
+	- Melee Throwables
 	- Fantastic Weapons
 		- High-Fantasy Weapons
 		- Sci-Fi Weapons
-	- Throwable Weapons
 	- Explosives as Weapons
 		- Launchers (and Improvised Launchers)
+		- Handhelds
+		- Plantables
 	- Ranged Ammunition Restriction (like caliber? / pvc launchers cant shoot real grenades)
+	- Create wider array of Weapon Tags
 - Conditions, Ailments, & Emboldenments
-	- Finalize 
+	- Finalize known Conditions/Ailments/Emboldenments
+	- Create wider array of 
