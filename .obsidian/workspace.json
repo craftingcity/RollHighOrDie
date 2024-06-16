@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Rules/Spell Techniques - Arcane.md",
+                "file": "Equipment and Inventories/Armors.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e0763270e6e99a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Rules/Spell Techniques - Arcane.md",
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Rules/Spell Techniques - Arcane.md",
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Rules/Spell Techniques - Arcane.md"
+                "file": "Equipment and Inventories/Inventory Management.md"
               }
             }
           }
@@ -159,14 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88197e79081b4fdc",
+  "active": "e0763270e6e99a91",
   "lastOpenFiles": [
+    "Equipment and Inventories/Armors.md",
+    "Magic Rules/Spell Techniques - Arcane.md",
     "Magic Rules/Spellcasting.md",
     "README.md",
     "Environment Definitions.md",
     "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Features/Features.md",
-    "Magic Rules/Spell Techniques - Arcane.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Combat and Actions/Generic Actions.md",
@@ -187,7 +201,6 @@
     "Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Traits/Traits - Training.md",
-    "Selections Glossary/Traits/Traits - Mentality.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
