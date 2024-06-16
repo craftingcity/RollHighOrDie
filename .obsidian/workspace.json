@@ -4,35 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "2f889f5abc221610",
+        "id": "6009951af8d08c50",
         "type": "tabs",
         "children": [
           {
-            "id": "88197e79081b4fdc",
+            "id": "bc8b5ef70dccb9c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Selections Glossary/Features/Features.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4120678816754c5a",
+            "id": "cf3aa41675f045d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Selections Glossary/Features/Features - Arcane.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1ac8e357d673197d",
+            "id": "01b69ab5a89c5f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Features/Features - Divine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a4a3a40530cad0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Features/Features - Martial.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "15768b3123e0eadf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11a348538c536acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,67 +75,54 @@
             }
           },
           {
-            "id": "3ec4aff8be018d53",
+            "id": "5cdb9163e9ddf525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
+                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "43400aaa9a9ccac2",
+            "id": "ae3e28dba68d420e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Melee Weapons.md",
+                "file": "Character Rules/Defenses.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "54ce8cbe0a45b16c",
+            "id": "21258d6d97601c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat and Actions/Combat Definitions.md",
+                "file": "Character Rules/Surviving.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e0763270e6e99a91",
+            "id": "928d95c01f39f652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Inventory Management.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "51088c81c6836548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Environment Definitions.md",
+                "file": "Character Rules/Skills.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reload",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,11 +168,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -232,36 +251,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ac8e357d673197d",
+  "active": "11a348538c536acc",
   "lastOpenFiles": [
-    "Selections Glossary/Magics/Spell Effects.md",
-    "Equipment and Inventories/Melee Weapons.md",
-    "Magic Rules/Magical Equipment.md",
-    "Selections Glossary/Magics",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Ammunition.md",
-    "README.md",
-    "Equipment and Inventories/Armors.md",
-    "Combat and Actions/Combat Definitions.md",
-    "Equipment and Inventories/Inventory Management.md",
+    "Selections Glossary/Features/Features - Divine.md",
+    "Selections Glossary/Magics/Spell Techniques - Divine.md",
     "Selections Glossary/Magics/Spell Techniques - Arcane.md",
-    "Magic Rules/Spellcasting.md",
+    "Selections Glossary/Magics/Spell Effects.md",
+    "Selections Glossary/Magics",
+    "Magic Rules/Magical Equipment.md",
     "Environment Definitions.md",
-    "Selections Glossary/Features/Features.md",
+    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Features/Features - Arcane.md",
-    "Selections Glossary/Features/Features - Martial.md",
-    "Combat and Actions/Generic Actions.md",
+    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Selections Glossary/Features/Features.md",
     "Character Rules/Defenses.md",
     "Character Rules/Surviving.md",
-    "Character Rules/Skills.md",
-    "Selections Glossary/Features/Features - Divine.md",
-    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
-    "Selections Glossary/Magics/Spell Techniques - Divine.md",
+    "Magic Rules/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
+    "Magic Rules/Spell Techniques - Arcane.md",
     "Magic Rules",
+    "Selections Glossary/Features/Features - Martial.md",
+    "Character Rules/Skills.md",
     "Selections Glossary/Condition.md",
     "conflict-files-obsidian-git.md",
+    "Equipment and Inventories/Ammunition.md",
+    "Equipment and Inventories/Melee Weapons.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Traits/Traits.md",
+    "Combat and Actions/Generic Actions.md",
+    "Character Rules/Ability Scores.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Core Rules/Character Rules/Combat Laws/Action Economy",

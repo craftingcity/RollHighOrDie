@@ -52,3 +52,5 @@ You can increase your Piety by performing actions for the favor of your patron. 
 | +2   | Destroy significant community property. | Chaos/Evil  |
 | +2   | Spare the surrendered.                  | Lawful      |
 | +2   | Execute the surrendered.                | Chaos       |
+
+## Cons
