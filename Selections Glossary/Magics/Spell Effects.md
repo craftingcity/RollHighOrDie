@@ -3,9 +3,9 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
+#### Beam
 #### Point Target
 #### Range Target
 #### Close Area
 #### Remote Area
 ## Spell Effects
-#### 
