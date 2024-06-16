@@ -34,7 +34,10 @@ Pistols fire 'Low Caliber' Ammunitions.
 #### Rifle
 Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
-Rifles fire 'Low Caliber' Ammunitions.
+Rifles fire 'High Caliber' Ammunitions.
+
+#### Launcher
+Harnessing the mystic or the scientific, Launchers fire specialized ammunition that are intended to
 
 ## Tags
 ### Required Tags
