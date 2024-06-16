@@ -14,32 +14,32 @@ When you make an Attack with a Ranged Weapon, you expend a piece of Loaded Ammun
 #### Sling
 Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 
 
-Slings fire 'Sling-Bullet' Ammunitions.
+Unless otherwise specified, Slings fire 'Sling-Bullet' Ammunitions.
 
 #### Bow
 Using the power of elastics, Bows fire arrows at high speeds to pierce through armoring and cause significant internal damage.
 
-Bows fire 'Arrow' Ammunitions.
+Unless otherwise specified, Bows fire 'Arrow' Ammunitions.
 
 #### Crossbow
 Using the power of elastics and the stability of the buttstock, Crossbows fire a smaller arrow known as a bolt at high speeds and with great accuracy.
 
-Crossbows fire 'Bolt' Ammunitions.
+Unless otherwise specified, Crossbows fire 'Bolt' Ammunitions.
 
 #### Pistol
 Harnessing the mystic or the scientific, Pistols fire small projectiles at imperceptibly fast speeds, and can fire a number of projectiles before they must be reloaded.
 
-Pistols fire 'Low Caliber' Ammunitions.
+Unless otherwise specified, Pistols fire 'Low Caliber' Ammunitions.
 
 #### Rifle
 Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
-Rifles fire 'High Caliber' Ammunitions.
+Unless otherwise specified, Rifles fire 'High Caliber' Ammunitions.
 
 #### Launcher
 Harnessing the mystic or the scientific, Launchers fire specialized ammunition that are intended to cause massive damage.
 
-Launchers fire 'Shaped' Ammunitions.
+Unless otherwise specified, Launchers fire 'Shaped' Ammunitions.
 
 ## Tags
 ### Required Tags
