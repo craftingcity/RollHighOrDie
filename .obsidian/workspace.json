@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Magic Rules/Spell Techniques - Arcane.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Magic Rules/Spell Techniques - Arcane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Magic Rules/Spell Techniques - Arcane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Magic Rules/Spell Techniques - Arcane.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "88197e79081b4fdc",
   "lastOpenFiles": [
+    "Magic Rules/Spellcasting.md",
+    "README.md",
     "Environment Definitions.md",
     "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Features/Features.md",
-    "README.md",
     "Magic Rules/Spell Techniques - Arcane.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Combat and Actions/Generic Actions.md",
-    "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Character Rules/Defenses.md",
     "Character Rules/Surviving.md",
