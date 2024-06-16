@@ -147,5 +147,6 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Heavy Squad Automatic Weapon | Rifle    | Large  | 1080'/3240' | Dexterity | Reflex    | high caliber | Two-Handed, Burst (5), Mechanical (4/20)                    |     |
 | Flamethrower                 | Rifle    | Large  | 30'/60'     | Dexterity | Fortitude | energy       | Two-Handed, Mechanical (5/22)                               |     |
 | Cannon                       | Launcher | Large  |             |           |           | shaped       |                                                             |     |
+| Hand Mortar                  | Launcher | Medium |             |           |           |              |                                                             |     |
 | Underhand Launcher           | Launcher | Medium |             |           |           | shaped       |                                                             |     |
 | Shouldered Launcher          | Launcher | Large  |             |           |           | shaped       |                                                             |     |
