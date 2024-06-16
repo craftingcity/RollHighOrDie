@@ -146,6 +146,8 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | .50 BMG (FMJ)         | high caliber | Small (15) | 3d12    | Piercing    |                                |
 | .50 BMG (AP)          | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing                 |
 | .50 BMG (AP+I)        | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing, Incendiary (1) |
+| OG-7V                 | shaped       | Medium (5) | 8d6     | Force       | Explosive, Incendiary (1)      |
+| PG-7VL                | shaped       | Medium (5) | 12d6    | Force       | Explosive, Incendiary (1)      |
 |                       |              |            |         |             |                                |
 
 ### Energy Ammunition
