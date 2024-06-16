@@ -25,9 +25,7 @@ The manner in which you pay for a Spell's costs depend on the Feature that grant
 #### Succeeding in Arcane Casting
 When you attempt to cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain the Spell's Effort Cost as Flux. When you gain Flux, if your current total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condition]].
 
-When you cast a Defined Spell, make a Static Casting Skill Check.
-
-When you cast a Spell you have completed with Spell Effects, make a Fluid Casting Skill Check.
+Then, if you are casting a Defined Spell, make a Static Casting Skill Check, or if you are casting a Spell you have constructed using Spell Effects, make a Fluid Casting Skill Check.
 
 If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
 
