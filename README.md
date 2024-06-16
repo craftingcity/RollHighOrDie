@@ -11,7 +11,7 @@ RHoD is the consistent, modular, fifth-edition roleplaying game you've been look
 	- Fantastic Weapons
 		- High-Fantasy Weapons
 		- Sci-Fi Weapons
-	- Explosives as Weapons
+	- Explosives as Weapons & Equipment
 		- Launchers (and Improvised Launchers)
 		- Handhelds
 		- Placeables
@@ -21,3 +21,5 @@ RHoD is the consistent, modular, fifth-edition roleplaying game you've been look
 	- Finalize known C/A/E
 	- Create wider array of C/A/E
 - Environment Definitions
+- Equipment
+	- Shields (+REFLEX)

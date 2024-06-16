@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4120678816754c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "43400aaa9a9ccac2",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Armors.md"
+                "file": "README.md"
               }
             }
           }
@@ -195,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88197e79081b4fdc",
+  "active": "4120678816754c5a",
   "lastOpenFiles": [
-    "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Armors.md",
+    "Equipment and Inventories/Melee Weapons.md",
     "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Inventory Management.md",
     "Magic Rules/Spell Techniques - Arcane.md",
