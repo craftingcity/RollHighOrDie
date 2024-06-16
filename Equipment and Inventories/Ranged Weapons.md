@@ -148,7 +148,7 @@ If you hit, you roll that number of Damage Dice to deal your Weapon Damage.
 | Flamethrower                  | Rifle    | Large  | 30'/60'     | Dexterity | Fortitude | energy          | Two-Handed, Mechanical (5/22)                               |     |
 | Cannon                        | Launcher | Large  |             |           |           | shaped          |                                                             |     |
 | Hand Mortar                   | Launcher | Medium |             |           |           |                 |                                                             |     |
-| Underhand Launcher            | Launcher | Medium |             |           |           | shaped          |                                                             |     |
-| Shouldered Launcher           | Launcher | Large  |             |           |           | shaped          |                                                             |     |
-| Improvised Launcher           | Launcher |        |             |           |           |                 |                                                             |     |
-| "Uncle Sam's Rocket Launcher" | Launcher | Large  | 60'/360'    | Dexterity | Reflex    | 15mm            | Capacity (1), Two-Handed, Mechanical ()                                                            |     |
+| Underhand Launcher            | Launcher | Medium |             |           |           | shaped          | Capacity (1), Two-Handed, Mechanical (2/14)                                                            |     |
+| Shouldered Launcher           | Launcher | Large  |             |           |           | shaped          | Capacity (1), Two-Handed, Mechanical (1/14)                                                            |     |
+| Improvised Launcher           | Launcher | Large  | 60'/360'    | Dexterity | Reflex    | shaped          | Capacity (1), Two-Handed, Mechanical (2/14)                                                            |     |
+| "Uncle Sam's Rocket Launcher" | Launcher | Large  | 60'/360'    | Dexterity | Reflex    | 15mm            | Capacity (1), Two-Handed, Mechanical (2/14)                 |     |
