@@ -17,7 +17,7 @@ Every character in RHoD is given a number of Inventory Slots under the assumptio
 
 The slots given are as follows;
 	- Armor Worn (Large)
-		- The A
+	- Jewelry Worn (Medium)
 	- Main Hand (Medium)
 	- Off Hand (Medium)
 	- Sheath (Medium)

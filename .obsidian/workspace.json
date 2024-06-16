@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Inventory Management.md",
+                "file": "Equipment and Inventories/Armors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Inventory Management.md",
+                "file": "Equipment and Inventories/Armors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Inventory Management.md"
+                "file": "Equipment and Inventories/Armors.md"
               }
             }
           }
@@ -172,8 +171,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0763270e6e99a91",
+  "active": "88197e79081b4fdc",
   "lastOpenFiles": [
+    "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Armors.md",
     "Magic Rules/Spell Techniques - Arcane.md",
     "Magic Rules/Spellcasting.md",
@@ -199,7 +199,6 @@
     "Equipment and Inventories/Melee Weapons.md",
     "Selections Glossary/Traits/Traits.md",
     "Character Rules/Ability Scores.md",
-    "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Traits/Traits - Training.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
