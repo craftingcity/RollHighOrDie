@@ -1,4 +1,4 @@
 # Preamble
-In RHoD, a character's second line of defense against genuine personal damage is the Armor they wear.
+Within the fiction of the story you tell, your characters may use any number of Armors. For the purpose of mechanical potential, 
 
-Armor is categorized by into three groups, Light, Medium, and Heavy.
+## Light Armor

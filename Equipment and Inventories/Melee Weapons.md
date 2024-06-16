@@ -1,5 +1,5 @@
 # Preamble
-Within the fiction of the story you tell, your characters may use any number of weapons. For the purpose of mechanical potential, RHoD's weapons are a Base and a collection of Tags.
+Within the fiction of the story you tell, your characters may use any number of Weapons. For the purpose of mechanical potential, RHoD's weapons are a Base and a collection of Tags.
 
 Given this, weapons can be mutable while you are playing - you may replace, gain, or remove Tags from your Base weapon - so long as your character has the knowledge materials, and time, they can change may aspects of their weapon.
 
