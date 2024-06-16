@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selections Glossary/Features/Features.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features.md",
+                "file": "Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features.md"
+                "file": "Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "51088c81c6836548",
   "lastOpenFiles": [
+    "Selections Glossary/Features/Features.md",
     "README.md",
     "Magic Rules/Spell Techniques - Arcane.md",
-    "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Combat and Actions/Generic Actions.md",
