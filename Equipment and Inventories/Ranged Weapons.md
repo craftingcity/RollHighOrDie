@@ -76,6 +76,8 @@ This Tag is immutable, and cannot be changed.
 This is the Defense that the Weapon targets to determine hit or miss during a Generic Attack. The vast majority of Weapons target Reflex.
 
 ### Mundane Tags
+
+
 #### Capacity (X)
 This is the Maximum Capacity of Loaded Ammunition for this Weapon. 
 
@@ -90,8 +92,6 @@ The first value indicated (x) is this Weapon's Complexity Value.
 The second value indicated (y) is this Weapon's Unjam DC.
 
 When you make an Attack with this Weapon, if the number you roll on your d20 is equal to or less than this Weapon's Complexity Value, your Attack misses, and this Weapon is Jammed.
-
-#### 
 
 #### Quick
 While this Weapon is Equipped, in either hand, or Sheathed, you gain +1 to Initiative Rolls.
