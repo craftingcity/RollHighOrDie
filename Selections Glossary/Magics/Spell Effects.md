@@ -12,6 +12,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Touch Range
 #### Short Range
 #### Long Range
+#### Extreme Range
 ### Shape
 #### Sphere (x)
 #### Cube (x)
