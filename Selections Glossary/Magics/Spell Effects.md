@@ -28,5 +28,6 @@ Within the fiction of the story you tell, your characters may use any number of 
 ### Consequence
 ##### Ailment
 ##### Conditions
+##### Conversion
 ##### Damage
 ##### Emboldenment
