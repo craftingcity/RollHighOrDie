@@ -12,6 +12,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Short Range
 #### Long Range
 ### Shape
-#### Sphere
-#### Cube
-#### Plane
+#### Sphere (x)
+#### Cube (x)
+#### Plane (x)
+### Duration
