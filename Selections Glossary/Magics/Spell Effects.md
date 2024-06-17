@@ -19,6 +19,11 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Plane (x)
 ### Duration
 #### Immediate
-#### 
+#### Minute Long
+#### Hour Long
+#### Watch
+#### Day
+#### Until Triggered
+#### Until Saved
 ### Consequence
 #### Damage (x)
