@@ -21,8 +21,8 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Immediate
 #### Minute Long
 #### Hour Long
-#### Watch
-#### Day
+#### Watch Long
+#### Day Long
 #### Until Triggered
 #### Until Saved
 ### Consequence
