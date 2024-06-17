@@ -26,4 +26,6 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Until Triggered
 #### Until Saved
 ### Consequence
-#### Damage (x)
+##### Damage
+##### Ailment
+##### Emboldenment
