@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Rules/Spellcasting.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Rules/Spellcasting.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Rules/Spellcasting.md"
+                "file": "Selections Glossary/Magics/Spell Effects.md"
               }
             }
           }
@@ -232,8 +232,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ac8e357d673197d",
+  "active": "4120678816754c5a",
   "lastOpenFiles": [
+    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Magics/Spell Effects.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Magic Rules/Magical Equipment.md",
@@ -245,7 +246,6 @@
     "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Magics/Spell Techniques - Arcane.md",
-    "Magic Rules/Spellcasting.md",
     "Environment Definitions.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Arcane.md",
