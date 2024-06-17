@@ -152,14 +152,14 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | 12/70 Full Slug             | shotshell    |            |         |             |                                |
 | 12/70 Sabot Slug            | shotshell    |            |         |             |                                |
 | 12/70 Breach Slug           | shotshell    |            |         |             |                                |
-| 12/70 Flash Shot            |              |            |         |             |                                |
+| 12/70 Flash Shot            | shotshell    |            |         |             |                                |
 | OG-7V Warhead               | shaped       | Medium (5) | 8d6     | Force       | Explosive, Incendiary (1)      |
 | PG-7VL Warhead              | shaped       | Medium (5) | 12d6    | Force       | Explosive, Incendiary (1)      |
-| 40mm High Explosive Grenade | shaped       |            |         |             |                                |
+| 40mm High Explosive Grenade | shaped       | Small (3)           |         |             |                                |
 | 40mm Incendiary Grenade     | shaped       |            |         |             |                                |
 | 40mm Non-Lethal Grenade     | shaped       |            |         |             |                                |
-| 40mm Smoke Grenade          |              |            |         |             |                                |
-| 15mm Firework Shell         |              |            |         |             |                                |
+| 40mm Smoke Grenade          | shaped       |            |         |             |                                |
+| 15mm Firework Shell         | shaped       |            |         |             |                                |
 |                             |              |            |         |             |                                |
 
 ### Energy Ammunition
