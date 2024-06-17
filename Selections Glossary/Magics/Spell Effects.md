@@ -6,6 +6,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Beam
 #### Point Target
 #### Known Target
+
 ## Spell Effects
 ### Range
 #### Touch Range
