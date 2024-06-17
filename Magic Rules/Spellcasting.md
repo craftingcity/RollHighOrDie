@@ -52,3 +52,6 @@ You can increase your Piety by performing actions for the favor of your patron. 
 | +2   | Destroy significant community property. | Chaos/Evil  |
 | +2   | Spare the surrendered.                  | Lawful      |
 | +2   | Execute the surrendered.                | Chaos       |
+
+## Constructing Spells
+At any time, your character can mentally construct unique Spells using the Spell Effects they have learned through their Techniques.
