@@ -147,19 +147,19 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | .50 BMG (AP)                | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing                 |
 | .50 BMG (AP+I)              | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing, Incendiary (1) |
 | Bottle Rocket               | high caliber | Small (30) | 2d6     | Force       | Explosive                      |
-| 12/70 Birdshot              | shotshell    |            |         |             |                                |
-| 12/70 Buckshot              | shotshell    |            |         |             |                                |
-| 12/70 Full Slug             | shotshell    |            |         |             |                                |
-| 12/70 Sabot Slug            | shotshell    |            |         |             |                                |
-| 12/70 Breach Slug           | shotshell    |            |         |             |                                |
-| 12/70 Flash Shot            | shotshell    |            |         |             |                                |
+| 12/70 Birdshot              | shotshell    | Tiny (15)  |         |             |                                |
+| 12/70 Buckshot              | shotshell    | Tiny (12)  |         |             |                                |
+| 12/70 Full Slug             | shotshell    | Tiny (10)  |         |             |                                |
+| 12/70 Sabot Slug            | shotshell    | Tiny (8)   |         |             |                                |
+| 12/70 Breach Slug           | shotshell    | Tiny (8)   |         |             |                                |
+| 12/70 Flash Shot            | shotshell    | Tiny (12)  |         |             |                                |
 | OG-7V Warhead               | shaped       | Medium (5) | 8d6     | Force       | Explosive, Incendiary (1)      |
 | PG-7VL Warhead              | shaped       | Medium (5) | 12d6    | Force       | Explosive, Incendiary (1)      |
-| 40mm High Explosive Grenade | shaped       | Small (3)           |         |             |                                |
-| 40mm Incendiary Grenade     | shaped       |            |         |             |                                |
-| 40mm Non-Lethal Grenade     | shaped       |            |         |             |                                |
-| 40mm Smoke Grenade          | shaped       |            |         |             |                                |
-| 15mm Firework Shell         | shaped       |            |         |             |                                |
+| 40mm High Explosive Grenade | shaped       | Small (3)  |         |             |                                |
+| 40mm Incendiary Grenade     | shaped       | Small (3)  |         |             |                                |
+| 40mm Non-Lethal Grenade     | shaped       | Small (3)  |         |             |                                |
+| 40mm Smoke Grenade          | shaped       | Small (3)  |         |             |                                |
+| 15mm Firework Shell         | shaped       | Small (5)  |         |             |                                |
 |                             |              |            |         |             |                                |
 
 ### Energy Ammunition
