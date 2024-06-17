@@ -16,3 +16,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Cube (x)
 #### Plane (x)
 ### Duration
+#### Immediate
+#### 
+### Consequence
+#### Damage (x)
