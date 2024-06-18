@@ -12,4 +12,4 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 # Armor Tags
 ### Required Tags
 #### Size
-#### M
+#### Material
