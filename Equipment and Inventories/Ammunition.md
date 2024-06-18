@@ -78,19 +78,19 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | Broadhead Steel Arrow       | arrow        | Small (25) | 1d8     | Piercing    | Durable, Barbed    |
 | Corehead Steel Arrow        | arrow        | Small (25) | 1d6     | Piercing    | Durable, Coring    |
 | Sharpened Wooden Bolt       | bolt         | Tiny (20)  | 1d4     | Piercing    | Fragile            |
-| Bodkin Wooden Bolt          | bolt         | Tiny (20)       | 1d6     | Piercing    | Fragile            |
-| Broadhead Wooden Bolt       | bolt         | Tiny (20)       | 1d6     | Piercing    | Fragile, Barbed    |
-| Corehead Wooden Bolt        | bolt         | Tiny (20)       | 1d4     | Piercing    | Fragile, Coring    |
-| Sharpened Steel Bolt        | bolt         | Tiny       | 1d4     | Piercing    | Durable            |
-| Bodkin Steel Bolt           | bolt         | Tiny       | 1d6     | Piercing    | Durable            |
-| Broadhead Steel Bolt        | bolt         | Tiny       | 1d6     | Piercing    | Durable, Barbed    |
-| Corehead Steel Bolt         | bolt         | Tiny       | 1d4     | Piercing    | Durable, Coring    |
-| Sharpened Wooden Greatarrow | great-arrow  | Small      | 2d6     | Piercing    | Fragile            |
-| Broadhead Wooden Greatarrow | great-arrow  | Small      | 3d6     | Piercing    | Fragile, Barbed    |
-| Corehead Wooden Greatarrow  | great-arrow  | Small      | 2d6     | Piercing    | Fragile, Coring    |
-| Sharpened Steel Greatarrow  | great-arrow  | Small      | 2d6     | Piercing    | Durable            |
-| Broadhead Steel Greatarrow  | great-arrow  | Small      | 3d6     | Piercing    | Durable, Barbed    |
-| Corehead Steel Greatarrow   | great-arrow  | Small      | 2d6     | Piercing    | Durable, Coring    |
+| Bodkin Wooden Bolt          | bolt         | Tiny (20)  | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Bolt       | bolt         | Tiny (20)  | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Bolt        | bolt         | Tiny (20)  | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Bolt        | bolt         | Tiny (15)  | 1d4     | Piercing    | Durable            |
+| Bodkin Steel Bolt           | bolt         | Tiny (15)  | 1d6     | Piercing    | Durable            |
+| Broadhead Steel Bolt        | bolt         | Tiny (15)  | 1d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Bolt         | bolt         | Tiny (15)  | 1d4     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Greatarrow | great-arrow  | Small (5)  | 2d6     | Piercing    | Fragile            |
+| Broadhead Wooden Greatarrow | great-arrow  | Small (5)  | 3d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Greatarrow  | great-arrow  | Small (5)  | 2d6     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Greatarrow  | great-arrow  | Small (3)  | 2d6     | Piercing    | Durable            |
+| Broadhead Steel Greatarrow  | great-arrow  | Small (3)  | 3d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Greatarrow   | great-arrow  | Small (3)  | 2d6     | Piercing    | Durable, Coring    |
 | Solid Ball                  | shaped       | Medium     | 4d8     | Bludgeoning | Durable            |
 | Grape Ball                  | shaped       | Medium     | 3d6     | Piercing    | Fragile            |
 
@@ -152,17 +152,17 @@ All Cartridge Ammunitions inherently have the 'Fragile' Tag.
 | 12/70 Birdshot              | shotshell    | Tiny (15)  | 1d6     | Piercing    |                                |
 | 12/70 Buckshot              | shotshell    | Tiny (12)  | 1d12    | Piercing    |                                |
 | 12/70 Full Slug             | shotshell    | Tiny (10)  | 2d6     | Piercing    |                                |
-| 12/70 Sabot Slug            | shotshell    | Tiny (8)   | 2d8     | Piercing    | Armor Piercing                               |
+| 12/70 Sabot Slug            | shotshell    | Tiny (8)   | 2d8     | Piercing    | Armor Piercing                 |
 | 12/70 Breach Slug           | shotshell    | Tiny (8)   | 2d4     | Piercing    |                                |
-| 12/70 Flash Shot            | shotshell    | Tiny (12)  | 1d4     | Piercing    | Blinding (3)                               |
+| 12/70 Flash Shot            | shotshell    | Tiny (12)  | 1d4     | Piercing    | Blinding (3)                   |
 | 12/70 Beanbag               | shotshell    | Tint (12)  | 1d8     | Bludgeoning |                                |
-| OG-7V Warhead               | shaped       | Medium (5) | 8d10    | Force       | Explosive                      |
-| PG-7VL Warhead              | shaped       | Medium (5) | 12d10   | Force       | Explosive, Incendiary (1)      |
-| 40mm High Explosive Grenade | shaped       | Small (3)  | 4d8     | Force       | Explosive                      |
-| 40mm Incendiary Grenade     | shaped       | Small (3)  | 3d8     | Force       | Explosive, Incendiary (3)      |
-| 40mm Non-Lethal Grenade     | shaped       | Small (3)  | 3d6     | Force       | Explosive, Concussive (5)      |
-| 40mm Smoke Grenade          | shaped       | Small (3)  | -       | -           |                                |
-| 15mm Firework Shell         | shaped       | Small (5)  | 3d4     | Force       | Explosive, Incendiary (1)                               |
+| OG-7V Warhead               | shaped       | Medium     | 8d10    | Force       | Explosive                      |
+| PG-7VL Warhead              | shaped       | Medium     | 12d10   | Force       | Explosive, Incendiary (1)      |
+| 40mm High Explosive Grenade | shaped       | Small      | 4d8     | Force       | Explosive                      |
+| 40mm Incendiary Grenade     | shaped       | Small      | 3d8     | Force       | Explosive, Incendiary (3)      |
+| 40mm Non-Lethal Grenade     | shaped       | Small      | 3d6     | Force       | Explosive, Concussive (5)      |
+| 40mm Smoke Grenade          | shaped       | Small      | -       | -           |                                |
+| 15mm Firework Shell         | shaped       | Small      | 3d4     | Force       | Explosive, Incendiary (1)      |
 
 ### Energy Ammunition
 | Title  | Base   | Size       | D. Dice | D. Type | Other          |
