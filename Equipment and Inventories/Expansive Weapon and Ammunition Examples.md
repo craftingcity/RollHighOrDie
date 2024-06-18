@@ -94,6 +94,8 @@
 | Clay Bullet                 | sling-bullet | Small  | 1d6     | Bludgeoning | Fragile            |
 | Lead Bullet                 | sling-bullet | Small  | 1d6     | Bludgeoning | Durable            |
 | Cherry Bomb                 | sling-bullet | Small  | 1d4     | Force       | Fragile, Explosive |
+| Clay Bomb                   | sling-bullet | Small  | 2d8     |             |                    |
+| Clay Firebomb               | sling-bullet | Small  | 2d4     | Force       | Fragile, Explosive, Incendiary                    |
 | Sharpened Wooden Arrow      | arrow        | Small  | 1d4     | Piercing    | Fragile            |
 | Bodkin Wooden Arrow         | arrow        | Small  | 1d6     | Piercing    | Fragile            |
 | Broadhead Wooden Arrow      | arrow        | Small  | 1d6     | Piercing    | Fragile, Barbed    |
