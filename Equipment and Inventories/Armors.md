@@ -10,5 +10,6 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 ## Powered Armor
 
 # Armor Tags
-#### Patchwork
-#### 
+### Required Tags
+#### Size
+#### M

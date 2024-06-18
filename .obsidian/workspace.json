@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "3ec4aff8be018d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "43400aaa9a9ccac2",
             "type": "leaf",
             "state": {
@@ -86,6 +74,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3ec4aff8be018d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a1884ef75ebb9117",
             "type": "leaf",
             "state": {
@@ -109,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
