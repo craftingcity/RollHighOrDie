@@ -22,10 +22,10 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 # Example Armors
 | Title                      | Base   | Size   | Material | Style  | Coverage                         | Armoring Value | Other |
 | -------------------------- | ------ | ------ | -------- | ------ | -------------------------------- | -------------- | ----- |
-| Leather Jacket             | Light  | Medium | leather  | jacket | outer - upper                    |                |       |
-| Leather Longcoat           | Light  | Medium | leather  | jacket | outer -                                  |                |       |
-| Leather Vest               | Light  |        | leather  | vest   | inner - upper                    |                |       |
-| Leather Pants              | Light  |        | leather  | pants  | outer - lower                    |                |       |
+| Leather Jacket             | Light  | Small  | leather  | jacket | outer - upper                    |                |       |
+| Leather Longcoat           | Light  | Medium | leather  | jacket | outer - upper, lower             |                |       |
+| Leather Vest               | Light  | Small  | leather  | vest   | inner - upper                    |                |       |
+| Leather Pants              | Light  |Medium| leather  | pants  | outer - lower                    |                |       |
 | Leather Helmet             | Light  |        | leather  | helm   | outer - head                     |                |       |
 | Leather Boots              | Light  |        | leather  | boots  | outer - feet                     |                |       |
 | Leather Gloves             | Light  |        | leather  | gloves | outer - hands                    |                |       |
