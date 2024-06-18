@@ -69,8 +69,8 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | Clay Bullet                 | sling-bullet | Small (6)  | 1d6     | Bludgeoning | Fragile                            |
 | Lead Bullet                 | sling-bullet | Small (3)  | 1d6     | Bludgeoning | Durable                            |
 | Cherry Bomb                 | sling-bullet | Small (8)  | 1d4     | Force       | Fragile, Explosive                 |
-| Clay Bomb                   | sling-bullet | Small      | 2d8     | Force       | Fragile, Explosive                                   |
-| Clay Firebomb               | sling-bullet | Small      | 2d4     | Force       | Fragile, Explosive, Incendiary (3) |
+| Clay Bomb                   | sling-bullet | Small (4)  | 2d8     | Force       | Fragile, Explosive                 |
+| Clay Firebomb               | sling-bullet | Small (4)  | 2d4     | Force       | Fragile, Explosive, Incendiary (3) |
 | Sharpened Wooden Arrow      | arrow        | Small (30) | 1d4     | Piercing    | Fragile                            |
 | Bodkin Wooden Arrow         | arrow        | Small (30) | 1d6     | Piercing    | Fragile                            |
 | Broadhead Wooden Arrow      | arrow        | Small (30) | 1d6     | Piercing    | Fragile, Barbed                    |
