@@ -153,10 +153,10 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | 12/70 Sabot Slug            | shotshell    | Tiny (8)   | 2d8     | Piercing    |                                |
 | 12/70 Breach Slug           | shotshell    | Tiny (8)   | 2d4     | Piercing    |                                |
 | 12/70 Flash Shot            | shotshell    | Tiny (12)  | 1d4     | Piercing    |                                |
-| 12/70 
-| OG-7V Warhead               | shaped       | Medium (5) | 8d6     | Force       | Explosive, Incendiary (1)      |
-| PG-7VL Warhead              | shaped       | Medium (5) | 12d6    | Force       | Explosive, Incendiary (1)      |
-| 40mm High Explosive Grenade | shaped       | Small (3)  |         |             |                                |
+| 12/70 Beanbag               | shotshell    | Tint (12)  | 1d8     | Bludgeoning |                                |
+| OG-7V Warhead               | shaped       | Medium (5) | 8d10     | Force       | Explosive      |
+| PG-7VL Warhead              | shaped       | Medium (5) | 12d10    | Force       | Explosive, Incendiary (1)      |
+| 40mm High Explosive Grenade | shaped       | Small (3)  | 4d6     | Force       | Explosive                               |
 | 40mm Incendiary Grenade     | shaped       | Small (3)  |         |             |                                |
 | 40mm Non-Lethal Grenade     | shaped       | Small (3)  |         |             |                                |
 | 40mm Smoke Grenade          | shaped       | Small (3)  |         |             |                                |
