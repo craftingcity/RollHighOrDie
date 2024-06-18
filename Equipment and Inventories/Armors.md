@@ -29,12 +29,12 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Leather Boots              |       |        |          | boots  | outer - feet                     |                |       |
 | Leather Gloves             |       |        |          | gloves | outer - hands                    |                |       |
 | Leather Suit Armor         |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
-| Studded Leather Suit Armor |       |        |          | suit   |                                  |                |       |
-| Hide Jacket                |       |        |          | jacket |                                  |                |       |
-| Hide Pants                 |       |        |          | pants  |                                  |                |       |
-| Hide Helmet                |       |        |          | helm   |                                  |                |       |
-| Hide Suit Armor            |       |        |          | suit   |                                  |                |       |
+| Studded Leather Suit Armor |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
+| Hide Jacket                |       |        |          | jacket |outer - upper|                |       |
+| Hide Pants                 |       |        |          | pants  |outer - lower|                |       |
+| Hide Helmet                |       |        |          | helm   |outer - head|                |       |
+| Hide Suit Armor            |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
 | Chain Vest                 |       |        |          | vest   |                                  |                |       |
 | Chain Cap                  |       |        |          | helm   |                                  |                |       |
-| Chain Suit Armor           |       |        |          | suit   |                                  |                |       |
+| Chain Suit Armor           |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
 |                            |       |        |          |        |                                  |                |       |
