@@ -36,4 +36,4 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Hide Suit Armor            |       |        |          |        |                                  |                |       |
 | Chain Vest                 |       |        |          |        |                                  |                |       |
 | Chain Cap                  |       |        |          |        |                                  |                |       |
-| Chain                      |       |        |          |        |                                  |                |       |
+| Chain Suit Armor                     |       |        |          |        |                                  |                |       |
