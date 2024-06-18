@@ -36,5 +36,10 @@ Within the fiction of the story you tell, your characters may use any number of 
 ##### Damage
 #### Acid Damage
 #### Cold Damage
-####
+#### Electric Damage
+#### Fire Damage
+#### Force Damage
+#### Necrotic Damage
+#### Psychic Damage
+#### Radiant Damage
 ##### Emboldenment
