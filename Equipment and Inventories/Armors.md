@@ -37,5 +37,8 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Chain Vest                 |       |        |          | vest   | inner - upper                    |                |       |
 | Chain Cap                  |       |        |          | helm   | outer - head                     |                |       |
 | Chain Suit Armor           |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
-| Scale Chestplate           |       |        |          |        |                                  |                |       |
-| Scale Greaves                           |       |        |          |        |                                  |                |       |
+| Scalemail Chestplate       |       |        |          | jacket | both - upper                     |                |       |
+| Scalemail Greaves          |       |        |          | pants  |                                  |                |       |
+| Scalemail Boots            |       |        |          |        |                                  |                |       |
+| Scalemail Gauntlets        |       |        |          |        |                                  |                |       |
+| Scalemail Suit Armor       |       |        |          |        |                                  |                |       |
