@@ -42,7 +42,13 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9965bc1fc857cd92",
+        "type": "tabs",
+        "children": [
           {
             "id": "e0763270e6e99a91",
             "type": "leaf",
@@ -54,13 +60,7 @@
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9965bc1fc857cd92",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "43400aaa9a9ccac2",
             "type": "leaf",
@@ -121,8 +121,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Armors.md"
+                "file": "Equipment and Inventories/Inventory Management.md"
               }
             }
           }
@@ -251,10 +250,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88197e79081b4fdc",
+  "active": "e0763270e6e99a91",
   "lastOpenFiles": [
-    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Armors.md",
+    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Equipment and Inventories/Inventory Management.md",
