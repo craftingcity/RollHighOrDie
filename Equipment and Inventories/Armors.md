@@ -19,8 +19,8 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 ### Specialized Tags
 
 # Example Armors
-| Title            | Base  | Size   | Material | Style  | Armoring Value | Other |     |
-| ---------------- | ----- | ------ | -------- | ------ | -------------- | ----- | --- |
-| Leather Jacket   | Light | Small  | leather  | jacket |                |       |     |
-| Leather Longcoat | Light | Medium | leather  | jacket |                |       |     |
-|                  |       |        |          |        |                |       |     |
+| Title             | Base  | Size   | Material | Style  | Armoring Value | Other |     |
+| ----------------- | ----- | ------ | -------- | ------ | -------------- | ----- | --- |
+| Leather Jacket    | Light | Medium | leather  | jacket |                |       |     |
+| Leather Longcoat  | Light | Medium | leather  | jacket |                |       |     |
+| Leather Armor Set | Light |        |          |        |                |       |     |
