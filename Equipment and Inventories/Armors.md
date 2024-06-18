@@ -27,4 +27,4 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Leather Pants      |       |        |          | pants  |              |                |       |
 | Leather Helmet     |       |        |          | helm   |              |                |       |
 | Leather Suit Armor |       |        |          | suit   |              |                |       |
-|                    |       |        |          |        |              |                |       |
+| Studded Leather Suit                    |       |        |          |        |              |                |       |
