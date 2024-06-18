@@ -63,36 +63,36 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 
 # Example Ammunition
 ### Projectile Ammunition
-| Title                       | Base         | Size      | D. Dice | D. Type     | Other              |
-| --------------------------- | ------------ | --------- | ------- | ----------- | ------------------ |
-| Pebble                      | sling-bullet | Tiny (15) | 1d4     | Bludgeoning | Fragile            |
-| Clay Bullet                 | sling-bullet | Small ()     | 1d6     | Bludgeoning | Fragile            |
-| Lead Bullet                 | sling-bullet | Small     | 1d6     | Bludgeoning | Durable            |
-| Cherry Bomb                 | sling-bullet | Small     | 1d4     | Force       | Fragile, Explosive |
-| Sharpened Wooden Arrow      | arrow        | Small     | 1d4     | Piercing    | Fragile            |
-| Bodkin Wooden Arrow         | arrow        | Small     | 1d6     | Piercing    | Fragile            |
-| Broadhead Wooden Arrow      | arrow        | Small     | 1d6     | Piercing    | Fragile, Barbed    |
-| Corehead Wooden Arrow       | arrow        | Small     | 1d4     | Piercing    | Fragile, Coring    |
-| Sharpened Steel Arrow       | arrow        | Small     | 1d6     | Piercing    | Durable            |
-| Bodkin Steel Arrow          | arrow        | Small     | 1d8     | Piercing    | Durable            |
-| Broadhead Steel Arrow       | arrow        | Small     | 1d8     | Piercing    | Durable, Barbed    |
-| Corehead Steel Arrow        | arrow        | Small     | 1d6     | Piercing    | Durable, Coring    |
-| Sharpened Wooden Bolt       | bolt         | Tiny      | 1d4     | Piercing    | Fragile            |
-| Bodkin Wooden Bolt          | bolt         | Tiny      | 1d6     | Piercing    | Fragile            |
-| Broadhead Wooden Bolt       | bolt         | Tiny      | 1d6     | Piercing    | Fragile, Barbed    |
-| Corehead Wooden Bolt        | bolt         | Tiny      | 1d4     | Piercing    | Fragile, Coring    |
-| Sharpened Steel Bolt        | bolt         | Tiny      | 1d4     | Piercing    | Durable            |
-| Bodkin Steel Bolt           | bolt         | Tiny      | 1d6     | Piercing    | Durable            |
-| Broadhead Steel Bolt        | bolt         | Tiny      | 1d6     | Piercing    | Durable, Barbed    |
-| Corehead Steel Bolt         | bolt         | Tiny      | 1d4     | Piercing    | Durable, Coring    |
-| Sharpened Wooden Greatarrow | great-arrow  | Small     | 2d6     | Piercing    | Fragile            |
-| Broadhead Wooden Greatarrow | great-arrow  | Small     | 3d6     | Piercing    | Fragile, Barbed    |
-| Corehead Wooden Greatarrow  | great-arrow  | Small     | 2d6     | Piercing    | Fragile, Coring    |
-| Sharpened Steel Greatarrow  | great-arrow  | Small     | 2d6     | Piercing    | Durable            |
-| Broadhead Steel Greatarrow  | great-arrow  | Small     | 3d6     | Piercing    | Durable, Barbed    |
-| Corehead Steel Greatarrow   | great-arrow  | Small     | 2d6     | Piercing    | Durable, Coring    |
-| Solid Ball                  | shaped       | Medium    | 4d8     | Bludgeoning | Durable            |
-| Grape Ball                  | shaped       | Medium    | 3d6     | Piercing    | Fragile            |
+| Title                       | Base         | Size       | D. Dice | D. Type     | Other              |
+| --------------------------- | ------------ | ---------- | ------- | ----------- | ------------------ |
+| Pebble                      | sling-bullet | Tiny (15)  | 1d4     | Bludgeoning | Fragile            |
+| Clay Bullet                 | sling-bullet | Small (6)  | 1d6     | Bludgeoning | Fragile            |
+| Lead Bullet                 | sling-bullet | Small (3)  | 1d6     | Bludgeoning | Durable            |
+| Cherry Bomb                 | sling-bullet | Small (8)  | 1d4     | Force       | Fragile, Explosive |
+| Sharpened Wooden Arrow      | arrow        | Small (30) | 1d4     | Piercing    | Fragile            |
+| Bodkin Wooden Arrow         | arrow        | Small (30) | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Arrow      | arrow        | Small (30) | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Arrow       | arrow        | Small (30) | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Arrow       | arrow        | Small (25) | 1d6     | Piercing    | Durable            |
+| Bodkin Steel Arrow          | arrow        | Small (25) | 1d8     | Piercing    | Durable            |
+| Broadhead Steel Arrow       | arrow        | Small (25) | 1d8     | Piercing    | Durable, Barbed    |
+| Corehead Steel Arrow        | arrow        | Small (25) | 1d6     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Bolt       | bolt         | Tiny (20)  | 1d4     | Piercing    | Fragile            |
+| Bodkin Wooden Bolt          | bolt         | Tiny (20)       | 1d6     | Piercing    | Fragile            |
+| Broadhead Wooden Bolt       | bolt         | Tiny (20)       | 1d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Bolt        | bolt         | Tiny (20)       | 1d4     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Bolt        | bolt         | Tiny       | 1d4     | Piercing    | Durable            |
+| Bodkin Steel Bolt           | bolt         | Tiny       | 1d6     | Piercing    | Durable            |
+| Broadhead Steel Bolt        | bolt         | Tiny       | 1d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Bolt         | bolt         | Tiny       | 1d4     | Piercing    | Durable, Coring    |
+| Sharpened Wooden Greatarrow | great-arrow  | Small      | 2d6     | Piercing    | Fragile            |
+| Broadhead Wooden Greatarrow | great-arrow  | Small      | 3d6     | Piercing    | Fragile, Barbed    |
+| Corehead Wooden Greatarrow  | great-arrow  | Small      | 2d6     | Piercing    | Fragile, Coring    |
+| Sharpened Steel Greatarrow  | great-arrow  | Small      | 2d6     | Piercing    | Durable            |
+| Broadhead Steel Greatarrow  | great-arrow  | Small      | 3d6     | Piercing    | Durable, Barbed    |
+| Corehead Steel Greatarrow   | great-arrow  | Small      | 2d6     | Piercing    | Durable, Coring    |
+| Solid Ball                  | shaped       | Medium     | 4d8     | Bludgeoning | Durable            |
+| Grape Ball                  | shaped       | Medium     | 3d6     | Piercing    | Fragile            |
 
 ### Cartridge Ammunition
 All Cartridge Ammunitions inherently have the 'Fragile' Tag.
