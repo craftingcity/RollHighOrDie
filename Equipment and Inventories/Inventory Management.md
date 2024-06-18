@@ -20,6 +20,7 @@ The slots given are as follows;
 	- Jewelry Worn (Medium)
 	- Main Hand (Medium)
 	- Off Hand (Medium)
+		- Two-Hands (Large)
 	- Sheath (Medium)
 	- Coinpurse (Small)
 	- Quiver (Small)

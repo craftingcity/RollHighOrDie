@@ -3,4 +3,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 A character's [[Defenses#Armoring]] is directly related to the Armor they are wearing in their Armor Worn Inventory Slot.
 
+# Armor Bases
 ## Light Armor
+## Medium Armor
+## Heavy Armor
