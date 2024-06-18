@@ -13,3 +13,6 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 ### Required Tags
 #### Size
 #### Material
+#### Style
+
+#
