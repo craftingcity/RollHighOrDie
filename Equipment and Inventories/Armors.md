@@ -4,10 +4,10 @@ Within the fiction of the story you tell, your characters may use any number of 
 A character's [[Defenses#Armoring]] is directly related to the Armor they are wearing in their Armor Worn Inventory Slot.
 
 # Armor Bases
-## Light Armor
-## Medium Armor
-## Heavy Armor
-## Powered Armor
+## Light
+## Medium
+## Heavy
+## Powered
 
 # Armor Tags
 ### Required Tags
@@ -20,6 +20,6 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 ### Specialized Tags
 
 # Example Armors
-| Title | Base | Size | Material | Style | Coverage | Armoring Value | Other |
-| ----- | ---- | ---- | -------- | ----- | -------- | -------------- | ----- |
-|       |      |      |          |       |          |                |       |
+| Title          | Base | Size | Material | Style | Coverage | Armoring Value | Other |
+| -------------- | ---- | ---- | -------- | ----- | -------- | -------------- | ----- |
+| Leather Jacket | Li1ght     |      |          |       |          |                |       |
