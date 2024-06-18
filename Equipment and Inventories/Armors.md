@@ -27,8 +27,11 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Leather Pants              |       |        |          | pants  |              |                |       |
 | Leather Helmet             |       |        |          | helm   |              |                |       |
 | Leather Suit Armor         |       |        |          | suit   |              |                |       |
+| Leather Boots              |       |        |          |        |              |                |       |
+| Leather Gloves             |       |        |          |        |              |                |       |
 | Studded Leather Suit Armor |       |        |          |        |              |                |       |
 | Hide Jacket                |       |        |          |        |              |                |       |
 | Hide Pants                 |       |        |          |        |              |                |       |
 | Hide Helmet                |       |        |          |        |              |                |       |
-| Hide Suit Armor                           |       |        |          |        |              |                |       |
+| Hide Suit Armor            |       |        |          |        |              |                |       |
+|                            |       |        |          |        |              |                |       |
