@@ -29,4 +29,6 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Leather Suit Armor         |       |        |          | suit   |              |                |       |
 | Studded Leather Suit Armor |       |        |          |        |              |                |       |
 | Hide Jacket                |       |        |          |        |              |                |       |
-| Hide Pa                           |       |        |          |        |              |                |       |
+| Hide Pants                 |       |        |          |        |              |                |       |
+| Hide Helmet                |       |        |          |        |              |                |       |
+| Hide Suit Armor                           |       |        |          |        |              |                |       |
