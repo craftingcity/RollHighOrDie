@@ -25,9 +25,11 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Day Long
 #### Until Triggered
 #### Until Saved
+#### Permanent
 ### Consequence
 ##### Ailment
 ##### Conditions
 ##### Conversion
+#### 
 ##### Damage
 ##### Emboldenment
