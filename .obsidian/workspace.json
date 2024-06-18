@@ -105,6 +105,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "9965bc1fc857cd92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1884ef75ebb9117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat and Actions/Combat Definitions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reload",
+                "query": "\"damage type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +168,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,8 +253,9 @@
   },
   "active": "4120678816754c5a",
   "lastOpenFiles": [
-    "Equipment and Inventories/Ammunition.md",
+    "Combat and Actions/Combat Definitions.md",
     "Selections Glossary/Magics/Spell Effects.md",
+    "Equipment and Inventories/Ammunition.md",
     "conflict-files-obsidian-git.md",
     "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Melee Weapons.md",
@@ -244,7 +264,6 @@
     "Equipment and Inventories/Ranged Weapons.md",
     "README.md",
     "Equipment and Inventories/Armors.md",
-    "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Magics/Spell Techniques - Arcane.md",
     "Environment Definitions.md",
