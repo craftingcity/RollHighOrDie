@@ -14,5 +14,11 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 #### Size
 #### Material
 #### Style
+#### Armoring Value
+### Mundane Tags
+### Specialized Tags
 
-#
+# Example Armors
+| Title | Base | Size | Material | Style | Armoring Value | Other |
+| ----- | ---- | ---- | -------- | ----- | -------------- | ----- |
+|       |      |      |          |       |                |       |
