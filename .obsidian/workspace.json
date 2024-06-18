@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "9965bc1fc857cd92",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Equipment and Inventories/Ammunition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Equipment and Inventories/Ammunition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md"
+                "file": "Equipment and Inventories/Ammunition.md"
               }
             }
           }
@@ -251,13 +251,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4120678816754c5a",
+  "active": "3ec4aff8be018d53",
   "lastOpenFiles": [
-    "Combat and Actions/Combat Definitions.md",
+    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Magics/Spell Effects.md",
+    "Combat and Actions/Combat Definitions.md",
     "Equipment and Inventories/Ammunition.md",
     "conflict-files-obsidian-git.md",
-    "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Magic Rules/Magical Equipment.md",
     "Selections Glossary/Magics",
