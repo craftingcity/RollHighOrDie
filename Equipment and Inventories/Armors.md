@@ -30,11 +30,12 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Leather Gloves             |       |        |          | gloves | outer - hands                    |                |       |
 | Leather Suit Armor         |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
 | Studded Leather Suit Armor |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
-| Hide Jacket                |       |        |          | jacket |outer - upper|                |       |
-| Hide Pants                 |       |        |          | pants  |outer - lower|                |       |
-| Hide Helmet                |       |        |          | helm   |outer - head|                |       |
+| Hide Jacket                |       |        |          | jacket | outer - upper                    |                |       |
+| Hide Pants                 |       |        |          | pants  | outer - lower                    |                |       |
+| Hide Helmet                |       |        |          | helm   | outer - head                     |                |       |
 | Hide Suit Armor            |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
-| Chain Vest                 |       |        |          | vest   |                                  |                |       |
-| Chain Cap                  |       |        |          | helm   |                                  |                |       |
+| Chain Vest                 |       |        |          | vest   | inner - upper                    |                |       |
+| Chain Cap                  |       |        |          | helm   | outer - head                     |                |       |
 | Chain Suit Armor           |       |        |          | suit   | both - upper, lower, hands, feet |                |       |
-|                            |       |        |          |        |                                  |                |       |
+| Scale Chestplate           |       |        |          |        |                                  |                |       |
+| Scale Greaves                           |       |        |          |        |                                  |                |       |
