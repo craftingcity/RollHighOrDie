@@ -7,3 +7,4 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 ## Light Armor
 ## Medium Armor
 ## Heavy Armor
+## Powered Armor
