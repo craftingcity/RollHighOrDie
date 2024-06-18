@@ -20,6 +20,6 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 ### Specialized Tags
 
 # Example Armors
-| Title          | Base | Size | Material | Style | Coverage | Armoring Value | Other |
-| -------------- | ---- | ---- | -------- | ----- | -------- | -------------- | ----- |
-| Leather Jacket | Li1ght     |      |          |       |          |                |       |
+| Title          | Base  | Size   | Material | Style | Coverage | Armoring Value | Other |
+| -------------- | ----- | ------ | -------- | ----- | -------- | -------------- | ----- |
+| Leather Jacket | Light | Medium | leather  |       |          |                |       |
