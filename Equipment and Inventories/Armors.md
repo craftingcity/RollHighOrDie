@@ -23,7 +23,8 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Title              | Base  | Size   | Material | Style  | Coverage     | Armoring Value | Other |
 | ------------------ | ----- | ------ | -------- | ------ | ------------ | -------------- | ----- |
 | Leather Jacket     | Light | Medium | leather  | jacket | outer, upper |                |       |
-| Leather Vest       |       |        |          |        |              |                |       |
-| Leather Pants      |       |        |          |        |              |                |       |
-| Leather Helmet     |       |        |          |        |              |                |       |
-| Leather Suit Armor |       |        |          |        |              |                |       |
+| Leather Vest       |       |        |          | vest   |              |                |       |
+| Leather Pants      |       |        |          | pants  |              |                |       |
+| Leather Helmet     |       |        |          | helm   |              |                |       |
+| Leather Suit Armor |       |        |          | suit   |              |                |       |
+|                    |       |        |          |        |              |                |       |
