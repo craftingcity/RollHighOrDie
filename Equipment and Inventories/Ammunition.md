@@ -156,11 +156,11 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | 12/70 Beanbag               | shotshell    | Tint (12)  | 1d8     | Bludgeoning |                                |
 | OG-7V Warhead               | shaped       | Medium (5) | 8d10    | Force       | Explosive                      |
 | PG-7VL Warhead              | shaped       | Medium (5) | 12d10   | Force       | Explosive, Incendiary (1)      |
-| 40mm High Explosive Grenade | shaped       | Small (3)  | 4d6     | Force       | Explosive                      |
-| 40mm Incendiary Grenade     | shaped       | Small (3)  | 3d6     | Force       | Explosive, Incendiary (3)      |
-| 40mm Non-Lethal Grenade     | shaped       | Small (3)  | 2d8     | Force       | Explosive, Concussive (5)      |
-| 40mm Smoke Grenade          | shaped       | Small (3)  |         |             |                                |
-| 15mm Firework Shell         | shaped       | Small (5)  |         |             |                                |
+| 40mm High Explosive Grenade | shaped       | Small (3)  | 4d8     | Force       | Explosive                      |
+| 40mm Incendiary Grenade     | shaped       | Small (3)  | 3d8     | Force       | Explosive, Incendiary (3)      |
+| 40mm Non-Lethal Grenade     | shaped       | Small (3)  | 3d6     | Force       | Explosive, Concussive (5)      |
+| 40mm Smoke Grenade          | shaped       | Small (3)  | -       | -           |                                |
+| 15mm Firework Shell         | shaped       | Small (5)  | 3d4     | Force       | Explosive, Incendiary (1)                               |
 
 ### Energy Ammunition
 | Title  | Base   | Size       | D. Dice | D. Type | Other          |
