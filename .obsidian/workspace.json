@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Armors.md"
+                "file": "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md"
               }
             }
           }
@@ -239,8 +239,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88197e79081b4fdc",
+  "active": "474b6ba7c617d60d",
   "lastOpenFiles": [
+    "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Inventory Management.md",
     "Environment Definitions.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
@@ -254,7 +255,6 @@
     "Selections Glossary/Magics",
     "Equipment and Inventories/Ranged Weapons.md",
     "README.md",
-    "Equipment and Inventories/Armors.md",
     "Selections Glossary/Magics/Spell Techniques - Arcane.md",
     "Selections Glossary/Features/Features.md",
     "Selections Glossary/Features/Features - Arcane.md",
