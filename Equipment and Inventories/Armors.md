@@ -23,12 +23,12 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Title                      | Base  | Size   | Material | Style  | Coverage     | Armoring Value | Other |
 | -------------------------- | ----- | ------ | -------- | ------ | ------------ | -------------- | ----- |
 | Leather Jacket             | Light | Medium | leather  | jacket | outer, upper |                |       |
-| Leather Vest               |       |        |          | vest   |              |                |       |
-| Leather Pants              |       |        |          | pants  |              |                |       |
+| Leather Vest               |       |        |          | vest   |inner, upper|                |       |
+| Leather Pants              |       |        |          | pants  |outer|                |       |
 | Leather Helmet             |       |        |          | helm   |              |                |       |
-| Leather Suit Armor         |       |        |          | suit   |              |                |       |
-| Leather Boots              |       |        |          |        |              |                |       |
-| Leather Gloves             |       |        |          |        |              |                |       |
+| Leather Boots              |       |        |          | boots  |              |                |       |
+| Leather Gloves             |       |        |          | gloves |              |                |       |
+| Leather Suit Armor         |       |        |          | suit   | both, body  |                |       |
 | Studded Leather Suit Armor |       |        |          |        |              |                |       |
 | Hide Jacket                |       |        |          |        |              |                |       |
 | Hide Pants                 |       |        |          |        |              |                |       |
