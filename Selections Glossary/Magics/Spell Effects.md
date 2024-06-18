@@ -30,6 +30,8 @@ Within the fiction of the story you tell, your characters may use any number of 
 ##### Ailment
 ##### Conditions
 ##### Conversion
-#### 
+#### Compatible Conversion
+#### Incompatible Conversion
+#### Entity Conversion
 ##### Damage
 ##### Emboldenment
