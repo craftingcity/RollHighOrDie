@@ -23,16 +23,17 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Title                      | Base   | Size   | Material | Style  | Coverage                         | Armoring Value | Other |
 | -------------------------- | ------ | ------ | -------- | ------ | -------------------------------- | -------------- | ----- |
 | Leather Jacket             | Light  | Medium | leather  | jacket | outer - upper                    |                |       |
-| Leather Vest               | Light  |        |          | vest   | inner - upper                    |                |       |
-| Leather Pants              | Light  |        |          | pants  | outer - lower                    |                |       |
-| Leather Helmet             | Light  |        |          | helm   | outer - head                     |                |       |
-| Leather Boots              | Light  |        |          | boots  | outer - feet                     |                |       |
-| Leather Gloves             | Light  |        |          | gloves | outer - hands                    |                |       |
-| Leather Suit Armor         | Light  |        |          | suit   | both - upper, lower, hands, feet |                |       |
-| Studded Leather Suit Armor | Light  |        |          | suit   | both - upper, lower, hands, feet |                |       |
-| Hide Jacket                | Medium |        |          | jacket | outer - upper                    |                |       |
-| Hide Pants                 | Medium |        |          | pants  | outer - lower                    |                |       |
-| Hide Helmet                | Medium |        |          | helm   | outer - head                     |                |       |
+| Leather Longcoat           | Light  | Medium |leather|        |                                  |                |       |
+| Leather Vest               | Light  |        |leather| vest   | inner - upper                    |                |       |
+| Leather Pants              | Light  |        |leather| pants  | outer - lower                    |                |       |
+| Leather Helmet             | Light  |        |leather| helm   | outer - head                     |                |       |
+| Leather Boots              | Light  |        |leather| boots  | outer - feet                     |                |       |
+| Leather Gloves             | Light  |        |leather| gloves | outer - hands                    |                |       |
+| Leather Suit Armor         | Light  |        |leather| suit   | both - upper, lower, hands, feet |                |       |
+| Studded Leather Suit Armor | Light  |        |leather| suit   | both - upper, lower, hands, feet |                |       |
+| Hide Jacket                | Medium |        |hide| jacket | outer - upper                    |                |       |
+| Hide Pants                 | Medium |        |hide| pants  | outer - lower                    |                |       |
+| Hide Helmet                | Medium |        |hide| helm   | outer - head                     |                |       |
 | Hide Suit Armor            | Medium |        |          | suit   | both - upper, lower, hands, feet |                |       |
 | Chain Vest                 | Medium |        |          | vest   | inner - upper                    |                |       |
 | Chain Cap                  | Medium |        |          | helm   | outer - head                     |                |       |
