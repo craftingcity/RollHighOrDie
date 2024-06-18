@@ -25,14 +25,14 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Leather Jacket             | Light  | Small  | leather  | jacket | outer - upper                    |                |       |
 | Leather Longcoat           | Light  | Medium | leather  | jacket | outer - upper, lower             |                |       |
 | Leather Vest               | Light  | Small  | leather  | vest   | inner - upper                    |                |       |
-| Leather Pants              | Light  |Medium| leather  | pants  | outer - lower                    |                |       |
-| Leather Helmet             | Light  |        | leather  | helm   | outer - head                     |                |       |
-| Leather Boots              | Light  |        | leather  | boots  | outer - feet                     |                |       |
-| Leather Gloves             | Light  |        | leather  | gloves | outer - hands                    |                |       |
-| Leather Suit Armor         | Light  |        | leather  | suit   | both - upper, lower, hands, feet |                |       |
-| Studded Leather Suit Armor | Light  |        | leather  | suit   | both - upper, lower, hands, feet |                |       |
+| Leather Pants              | Light  | Medium | leather  | pants  | inner - lower                    |                |       |
+| Leather Helmet             | Light  | Small  | leather  | helm   | outer - head                     |                |       |
+| Leather Boots              | Light  | Small  | leather  | boots  | outer - feet                     |                |       |
+| Leather Gloves             | Light  | Small  | leather  | gloves | outer - hands                    |                |       |
+| Leather Suit Armor         | Light  | Medium | leather  | suit   | both - upper, lower, hands, feet |                |       |
+| Studded Leather Suit Armor | Light  | Medium | leather  | suit   | both - upper, lower, hands, feet |                |       |
 | Hide Jacket                | Medium |        | hide     | jacket | outer - upper                    |                |       |
-| Hide Pants                 | Medium |        | hide     | pants  | outer - lower                    |                |       |
+| Hide Pants                 | Medium |        | hide     | pants  | both - lower                    |                |       |
 | Hide Helmet                | Medium |        | hide     | helm   | outer - head                     |                |       |
 | Hide Suit Armor            | Medium |        | hide     | suit   | both - upper, lower, hands, feet |                |       |
 | Chain Vest                 | Medium |        | steel    | vest   | inner - upper                    |                |       |
