@@ -3,8 +3,9 @@
 #### Force Spike
 ```
 *Force Spike*
+Complexity:
+Effort: 4
 Speed:
-Effort:
 
 Long Range Projectile 
 Immediate Sphere (1')
