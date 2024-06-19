@@ -27,5 +27,8 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Studded Leather Armor Set | Light  | Medium | leather  | suit   |                |       |     |
 | Hide Armor Set            | Light  | Medium | hide     | suit   |                |       |     |
 | Chainmail Shirt           | Medium | Medium | steel    | vest   |                |       |     |
-| Chainmail Armor Set       | Medium | Large  | steel    | suit   |                |       |     |
-|                           |        |        |          |        |                |       |     |
+| Scalemail Armor Set       | Medium | Large  | steel    | suit   |                |       |     |
+| Platemail Chestplate      | Medium | Large  | steel    | vest   |                |       |     |
+| Chainmail Armor Set       | Heavy  | Large  | steel    | suit   |                |       |     |
+| Splint
+| Platemail Armor Set       | Heavy  |        |          |        |                |       |     |
