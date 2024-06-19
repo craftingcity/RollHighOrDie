@@ -5,7 +5,7 @@
 
 When you gain this Feature, your Piety Limit is equal to your Wisdom Score. You learn two Basic Divine Techniques of your choice.
 
-You can cast Spells using this Feature. The Action Point Cost to cast a given spell is listed alongside it's Effort and Complexity.
+You can cast Spells using this Feature. The Action Point Cost to cast a given spell is listed alongside it's Effort and Complexity as Speed.
 
 If you already have the 'Pact Spellcasting' Feature, you are not eligible to gain this Feature.
 
@@ -15,7 +15,7 @@ If you already have the 'Pact Spellcasting' Feature, you are not eligible to gai
 
 When you gain this Feature, your Piety Limit is equal to your Charisma Score. You learn a Basic Technique of your choice.
 
-You can cast Spells using this Feature. The Action Point Cost to cast a given spell is listed alongside it's Effort and Complexity.
+You can cast Spells using this Feature. The Action Point Cost to cast a given spell is listed alongside it's Effort and Complexity as Speed.
 
 If you already have the 'Divine Spellcasting' Feature, you are not eligible to gain this Feature.
 

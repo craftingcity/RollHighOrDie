@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "e6fb59d175411992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selections Glossary/Features/Features - Arcane.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d0d2e394c442d195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "1ac8e357d673197d",
             "type": "leaf",
             "state": {
@@ -68,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "9965bc1fc857cd92",
@@ -224,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Features/Features - Divine.md"
+                "file": "Selections Glossary/Magics/Spell Effects.md"
               }
             }
           }
@@ -286,12 +262,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0d2e394c442d195",
+  "active": "f3f2c3b8abdcc493",
   "lastOpenFiles": [
-    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
-    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Magics/Spell Effects.md",
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Selections Glossary/Features/Features - Divine.md",
+    "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Ranged Weapons.md",
@@ -311,7 +288,6 @@
     "Character Rules/Defenses.md",
     "Character Rules/Surviving.md",
     "Character Rules/Skills.md",
-    "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Magics/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
     "Magic Rules",

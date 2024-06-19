@@ -3,7 +3,7 @@
 #### Force Spike
 ```
 *Force Spike*
-Complexity:
+Complexity: 
 Effort: 4
 Speed:
 
