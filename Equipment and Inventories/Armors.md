@@ -30,5 +30,6 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Scalemail Armor Set       | Medium | Large  | steel    | suit   |                |       |     |
 | Platemail Chestplate      | Medium | Large  | steel    | vest   |                |       |     |
 | Chainmail Armor Set       | Heavy  | Large  | steel    | suit   |                |       |     |
-| Splint
-| Platemail Armor Set       | Heavy  |        |          |        |                |       |     |
+| Splinted Armor Set        | Heavy  | Large  | steel    | suit   |                |       |     |
+| Platemail Armor Set       | Heavy  | Large  | steel    | suit   |                |       |     |
+| Flak Suit                 | Heavy  | Large  |          |        |                |       |     |
