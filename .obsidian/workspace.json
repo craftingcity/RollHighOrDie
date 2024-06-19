@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9965bc1fc857cd92",
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Armors.md"
+                "file": "Selections Glossary/Magics/Defined Arcane Spells.md"
               }
             }
           }
@@ -249,11 +250,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88197e79081b4fdc",
+  "active": "4120678816754c5a",
   "lastOpenFiles": [
+    "Equipment and Inventories/Armors.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Selections Glossary/Magics/Spell Effects.md",
-    "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Ammunition.md",
