@@ -39,4 +39,5 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Chainmail Armor Set       | Heavy  | Large  | steel    | suit   | (80)  | Metallic            |     |
 | Splinted Armor Set        | Heavy  | Large  | steel    | suit   | (125) | Metallic            |     |
 | Platemail Armor Set       | Heavy  | Large  | steel    | suit   | (160) | Metallic            |     |
+| Monolith Ex                          |        |        |          |        |       |                     |     |
 
