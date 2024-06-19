@@ -3,11 +3,12 @@
 #### Force Spike
 ```
 *Force Spike*
+Speed:
+Effort:
 
-Projectile
-Long Range 
-Sphere (1')
-Immediate
+Long Range Projectile 
+Immediate Sphere (1')
 
-W
+
+Deal 1d10 Force Damage to a single Target.
 ```

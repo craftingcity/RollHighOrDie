@@ -15,6 +15,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Extreme Range
 ### Shape
 #### Sphere (x)
+#### Cone (x)
 #### Cube (x)
 #### Plane (x)
 ### Duration
