@@ -29,6 +29,12 @@ Then, if you are casting a Defined Spell, make a Static Casting Skill Check, or 
 
 If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
 
+###### Step-by-Step
+
+	1. Choose or Construct a spell to cast.
+	2. Expend Action Points equal to the spell's Effort Cost.
+	3. 
+
 ###### Reducing Flux
 The Flux you gain while casting spells will dissipate over time at rest.
 
