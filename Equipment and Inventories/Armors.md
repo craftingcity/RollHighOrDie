@@ -25,4 +25,5 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Leather Longcoat          | Light | Medium | leather  | jacket |                |       |     |
 | Leather Armor Set         | Light | Medium | leather  | suit   |                |       |     |
 | Studded Leather Armor Set | Light | Medium | leather  | suit   |                |       |     |
-|                           |       |        |          |        |                |       |     |
+| Chainmail Shirt               |       |        |          |        |                |       |     |
+| Chainmail                          |       |        |          |        |                |       |     |
