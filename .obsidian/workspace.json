@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md"
+                "file": "Selections Glossary/Magics/Defined Arcane Spells.md"
               }
             }
           }
@@ -262,10 +262,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3f2c3b8abdcc493",
+  "active": "4120678816754c5a",
   "lastOpenFiles": [
-    "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Selections Glossary/Magics/Spell Effects.md",
+    "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Magic Rules/Spellcasting.md",
