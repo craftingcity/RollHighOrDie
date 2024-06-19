@@ -22,20 +22,20 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 ### Specialized Tags
 
 # Example Armors
-| Title                     | Base   | Size   | Material | Style  | Armoring Value | Other              |     |
-| ------------------------- | ------ | ------ | -------- | ------ | -------------- | ------------------ | --- |
-| Leather Jacket            | Light  | Medium | leather  | jacket |                | Pockets (2x Small) |     |
-| Leather Longcoat          | Light  | Medium | leather  | jacket |                | Pockets (Medium)   |     |
-| Leather Armor Set         | Light  | Medium | leather  | suit   |                |                    |     |
-| Studded Leather Armor Set | Light  | Medium | leather  | suit   |                |                    |     |
-| Hide Armor Set            | Light  | Medium | hide     | suit   |                |                    |     |
-| Kevlar Vest               | Light  | Medium | kevlar   | vest   |                |                    |     |
-| Chainmail Shirt           | Medium | Medium | steel    | vest   |                |                    |     |
-| Scalemail Armor Set       | Medium | Large  | steel    | suit   |                |                    |     |
-| Platemail Chestplate      | Medium | Large  | steel    | vest   |                |                    |     |
-| Combat Jacket             | Medium | Large  | kevlar   | jacket |                |                    |     |
-| Flak Suit                 | Medium | Large  | kevlar   | suit   |                |                    |     |
-| Chainmail Armor Set       | Heavy  | Large  | steel    | suit   |                |                    |     |
-| Splinted Armor Set        | Heavy  | Large  | steel    | suit   |                |                    |     |
-| Platemail Armor Set       | Heavy  | Large  | steel    | suit   |                |                    |     |
+| Title                     | Base   | Size   | Material | Style  | Armoring Value | Other               |     |
+| ------------------------- | ------ | ------ | -------- | ------ | -------------- | ------------------- | --- |
+| Leather Jacket            | Light  | Medium | leather  | jacket | (2)            | Pockets (2x Small)  |     |
+| Leather Longcoat          | Light  | Medium | leather  | jacket | (3)               | Pockets (Medium)    |     |
+| Leather Armor Set         | Light  | Medium | leather  | suit   | (12)               |                     |     |
+| Studded Leather Armor Set | Light  | Medium | leather  | suit   |                |                     |     |
+| Hide Armor Set            | Light  | Medium | hide     | suit   |                |                     |     |
+| Kevlar Vest               | Light  | Medium | kevlar   | vest   |                |                     |     |
+| Chainmail Shirt           | Medium | Medium | steel    | vest   |                |                     |     |
+| Scalemail Armor Set       | Medium | Large  | steel    | suit   |                |                     |     |
+| Platemail Chestplate      | Medium | Large  | steel    | vest   |                |                     |     |
+| Combat Jacket             | Medium | Large  | kevlar   | jacket |                | Pockets (2x Medium) |     |
+| Flak Suit                 | Medium | Large  | kevlar   | suit   |                |                     |     |
+| Chainmail Armor Set       | Heavy  | Large  | steel    | suit   |                |                     |     |
+| Splinted Armor Set        | Heavy  | Large  | steel    | suit   |                |                     |     |
+| Platemail Armor Set       | Heavy  | Large  | steel    | suit   |                |                     |     |
 
