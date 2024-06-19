@@ -1,7 +1,7 @@
 # Preamble
 The ability to manipulate reality on a personal whim is known as "Magic", and the induvial manipulations are known as "Spells". The people or entities that can perform this "Magic" are known as "Spellcasters".
 
-Magic is an inherently setting-shaping concept, and does not necessarily appear in the setting of your game. The rules provided here describe magic's mechanical consequences
+Magic is an inherently setting-shaping concept. The rules provided here describe a version of magic's mechanical consequences, should it appear in your game.
 
 ## Understanding Spells
 Spells simply are the combination of a desired effect and magical effort. Some Spellcasters collect Defined Spells for their own use, while others gather potential Spell Effects and create unique Spells in and for the moment they need them.
