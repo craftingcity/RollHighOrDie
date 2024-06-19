@@ -25,14 +25,14 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 | Title                     | Base   | Size   | Material | Style  | Armoring Value | Other               |     |
 | ------------------------- | ------ | ------ | -------- | ------ | -------------- | ------------------- | --- |
 | Leather Jacket            | Light  | Medium | leather  | jacket | (2)            | Pockets (2x Small)  |     |
-| Leather Longcoat          | Light  | Medium | leather  | jacket | (3)               | Pockets (Medium)    |     |
-| Leather Armor Set         | Light  | Medium | leather  | suit   | (12)               |                     |     |
-| Studded Leather Armor Set | Light  | Medium | leather  | suit   |                |                     |     |
-| Hide Armor Set            | Light  | Medium | hide     | suit   |                |                     |     |
-| Kevlar Vest               | Light  | Medium | kevlar   | vest   |                |                     |     |
-| Chainmail Shirt           | Medium | Medium | steel    | vest   |                |                     |     |
-| Scalemail Armor Set       | Medium | Large  | steel    | suit   |                |                     |     |
-| Platemail Chestplate      | Medium | Large  | steel    | vest   |                |                     |     |
+| Leather Longcoat          | Light  | Medium | leather  | jacket | (3)            | Pockets (Medium)    |     |
+| Leather Armor Set         | Light  | Medium | leather  | suit   | (12)           |                     |     |
+| Studded Leather Armor Set | Light  | Medium | leather  | suit   | (16)           |                     |     |
+| Hide Armor Set            | Light  | Medium | hide     | suit   | (24)           |                     |     |
+| Kevlar Vest               | Light  | Medium | kevlar   | vest   | (26)           |                     |     |
+| Chainmail Shirt           | Medium | Medium | steel    | vest   | (32)               |                     |     |
+| Scalemail Armor Set       | Medium | Large  | steel    | suit   | (40)               |                     |     |
+| Platemail Chestplate      | Medium | Large  | steel    | vest   | (40)               |                     |     |
 | Combat Jacket             | Medium | Large  | kevlar   | jacket |                | Pockets (2x Medium) |     |
 | Flak Suit                 | Medium | Large  | kevlar   | suit   |                |                     |     |
 | Chainmail Armor Set       | Heavy  | Large  | steel    | suit   |                |                     |     |
