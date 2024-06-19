@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "f3f2c3b8abdcc493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "4120678816754c5a",
             "type": "leaf",
             "state": {
@@ -56,12 +44,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "9965bc1fc857cd92",
         "type": "tabs",
         "children": [
+          {
+            "id": "f3f2c3b8abdcc493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
           {
             "id": "e0763270e6e99a91",
             "type": "leaf",
