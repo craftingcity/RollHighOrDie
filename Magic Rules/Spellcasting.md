@@ -32,8 +32,10 @@ If the result is equal to or greater than the Spell's Complexity, you succeed in
 ###### Step-by-Step
 
 	1. Choose or Construct a spell to cast.
-	2. Expend Action Points equal to the spell's Effort Cost.
-	3. 
+	2. Expend Action Points equal to the spell's Speed.
+	3. Gain Flux equal to the spell's Effort.
+	4. Make a Static Casting or Fluid Casting Check.
+	5. If you succeeded against 
 
 ###### Reducing Flux
 The Flux you gain while casting spells will dissipate over time at rest.
