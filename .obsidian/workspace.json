@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9965bc1fc857cd92",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
+                "file": "Equipment and Inventories/Armors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
+                "file": "Equipment and Inventories/Armors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Magics/Defined Arcane Spells.md"
+                "file": "Equipment and Inventories/Armors.md"
               }
             }
           }
@@ -262,7 +261,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4120678816754c5a",
+  "active": "88197e79081b4fdc",
   "lastOpenFiles": [
     "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
