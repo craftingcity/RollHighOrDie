@@ -51,6 +51,7 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Facemask  | 2              | (head - front)                   |
 
 #### Armoring Value
+This is the 
 ### Mundane Tags
 #### Metallic
 #### Pockets (x)
