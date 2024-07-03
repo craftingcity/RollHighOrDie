@@ -49,9 +49,13 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Full Helm | 6              | (head - top, back, sides, front) |
 | Eyewear   | 1              | (head - eyes)                    |
 | Facemask  | 2              | (head - front)                   |
+|           |                |                                  |
 
 #### Armoring Value
-This is the total value of Armoring this Armor provides. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size
+This is the total value of Armoring this Armor provides. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 
+
+`A = (M + C) * S`
+
 ### Mundane Tags
 #### Metallic
 #### Pockets (x)
