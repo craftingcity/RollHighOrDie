@@ -49,13 +49,13 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Full Helm       | 6              | (head - top, back, sides, front) |
 | Eyewear         | 1              | (head - eyes)                    |
 | Facemask        | 2              | (head - front)                   |
-| Secure Vest     |                | (top - front)                    |
-| Chestplate      |                | (top - front, back)                                 |
-| Combat Jacket   |                | (top - )                                 |
-| Bracers         |                |                                  |
-| Gauntlets       |                |                                  |
-| Gloves          | 1              |                                  |
-| Shinguards      |                |                                  |
+| Secure Vest     |                | (upper - front)                    |
+| Chestplate      |                | (upper - front, back)              |
+| Combat Jacket   |                | (upper - front, back, arms)        |
+| Bracers         |                | (upper - arms)                     |
+| Gauntlets       |                | (upper - arms, hands)              |
+| Gloves          | 1              | (upper - hands)                    |
+| Shinguards      |                | (lower - )                                 |
 | Greaves         |                |                                  |
 | Boots           | 1              |                                  |
 | Combat Pants    |                |                                  |
