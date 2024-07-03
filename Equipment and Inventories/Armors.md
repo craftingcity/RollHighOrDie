@@ -26,14 +26,15 @@ This is the material the armor is mostly composed of. It is used in addition to 
 ##### Example Materials
 | Material   | Armoring |
 | ---------- | -------- |
-| Cloth      | 1        |
-| Leather    | 3        |
+| Padded Cloth      | 1        |
+| 
+| Beast Leather    | 3        |
 | Bronze     | 4        |
 | Steel      | 5        |
 | Elvenfiber | 6        |
 | Darksteel  | 7        |
 | Mythril    | 10       |
-| Adamentine | 12       |
+| Adamantine | 12       |
 
 #### Style
 #### Armoring Value
