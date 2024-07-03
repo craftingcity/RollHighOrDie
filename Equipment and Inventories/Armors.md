@@ -21,7 +21,7 @@ Medium Armors
 Large Armors
 
 #### Material
-This is the material the armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. 
+This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. 
 
 ##### Example Materials
 | Material         | Armoring |
@@ -39,7 +39,7 @@ This is the material the armor is mostly composed of. It is used in addition to 
 | Adamantine       | 16       |
 
 #### Style
-
+This is the style of Armor, reflecting the Armor's areas of 
 
 #### Armoring Value
 ### Mundane Tags
