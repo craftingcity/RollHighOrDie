@@ -21,7 +21,7 @@ Medium Armors
 Large Armors
 
 #### Material
-This is the material the armor
+This is the material the armor is mostly composed of. 
 #### Style
 #### Armoring Value
 ### Mundane Tags
