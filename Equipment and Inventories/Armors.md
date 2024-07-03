@@ -18,7 +18,10 @@ Small Armors
 
 Medium Armors
 
+Large Armors
+
 #### Material
+This is the major 
 #### Style
 #### Armoring Value
 ### Mundane Tags
