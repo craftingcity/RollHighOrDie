@@ -49,7 +49,7 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Full Helm       | 8              | (head - top, back, sides, front)                                 |
 | Eyewear         | 1              | (head - eyes)                                                    |
 | Facemask        | 2              | (head - front)                                                   |
-| Secure Vest     | 2              | (upper - front)                                                  |
+| Combat Vest     | 2              | (upper - front)                                                  |
 | Chestplate      | 4              | (upper - front, back)                                            |
 | Combat Jacket   | 6              | (upper - front, back, arms)                                      |
 | Bracers         | 2              | (upper - arms)                                                   |
