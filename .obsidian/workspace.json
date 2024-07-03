@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "83c95b4adb04dd97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a1884ef75ebb9117",
             "type": "leaf",
             "state": {
@@ -85,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +228,10 @@
   },
   "active": "88197e79081b4fdc",
   "lastOpenFiles": [
+    "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Melee Weapons.md",
     "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Selections Glossary/Features/Features - Arcane.md",

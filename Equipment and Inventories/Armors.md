@@ -23,7 +23,7 @@ Large Armors
 #### Material
 This is the material the armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. 
 
-
+The following table describes example materials 
 
 #### Style
 #### Armoring Value
