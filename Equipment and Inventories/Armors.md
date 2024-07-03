@@ -51,7 +51,7 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Facemask  | 2        | (head - front)                   |
 
 #### Armoring Value
-This is the total value of Armoring this Armor provides. This value is equal to the Material Value multiplied by the 
+This is the total value of Armoring this Armor provides. This value is equal to the Material
 ### Mundane Tags
 #### Metallic
 #### Pockets (x)
