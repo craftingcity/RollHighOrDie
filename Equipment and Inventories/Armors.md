@@ -14,11 +14,11 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 #### Size
 This is the mechanical Size of the Armor - Small, Medium, or Large - and is used in addition to the Armor's 'Material' and 'Style' to determine the total Armoring Value of the Armor.
 
-Small Armors 
+Small Armors have a Size Multiplier of 1.
 
-Medium Armors
+Medium Armors have a Size Multiplier of 2.
 
-Large Armors
+Large Armors have a Size Multiplier of 3.
 
 #### Material
 This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. 
