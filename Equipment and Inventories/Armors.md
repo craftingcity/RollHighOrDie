@@ -49,16 +49,17 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Full Helm       | 6              | (head - top, back, sides, front) |
 | Eyewear         | 1              | (head - eyes)                    |
 | Facemask        | 2              | (head - front)                   |
-| Secure Vest     |                | (upper - front)                    |
-| Chestplate      |                | (upper - front, back)              |
-| Combat Jacket   |                | (upper - front, back, arms)        |
-| Bracers         |                | (upper - arms)                     |
-| Gauntlets       |                | (upper - arms, hands)              |
-| Gloves          | 1              | (upper - hands)                    |
-| Shinguards      |                | (lower - )                                 |
-| Greaves         |                |                                  |
-| Boots           | 1              |                                  |
-| Combat Pants    |                |                                  |
+| Secure Vest     |                | (upper - front)                  |
+| Chestplate      |                | (upper - front, back)            |
+| Combat Jacket   |                | (upper - front, back, arms)      |
+| Bracers         |                | (upper - arms)                   |
+| Gauntlets       |                | (upper - arms, hands)            |
+| Gloves          | 1              | (upper - hands)                  |
+| Thighguards     |                | (lower - thigs)                  |
+| Shinguards      |                | (lower - shins)                  |
+| Greaves         |                | (lower - shins, feet)            |
+| Boots           | 1              | (lower - feet)                   |
+| Combat Pants    |                | (lower - thighs, shins)                                 |
 | Full-suit Armor |                |                                  |
 
 #### Armoring Value
