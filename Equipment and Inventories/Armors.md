@@ -44,7 +44,7 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 ##### Example Styles
 | Style | Coverage Value | Areas of Coverage |
 | ----- | -------------- | ----------------- |
-|       |                |                   |
+| Cap       |                |                   |
 
 #### Armoring Value
 ### Mundane Tags
