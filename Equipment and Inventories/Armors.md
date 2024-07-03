@@ -67,9 +67,10 @@ This is the total value of Armoring this Armor provides. This value is equal to 
 
 Armoring = (Material Value + Coverage Value) * Size Multiplier
 
-` current example numbers give `
+` current example numbers give ~550 as MaxArmoring `
 
 ### Mundane Tags
+#### 
 #### Metallic
 #### Pockets (x)
 #### Fuel (x)
