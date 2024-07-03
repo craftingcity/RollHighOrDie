@@ -61,6 +61,10 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Boots           | 1              | (lower - feet)                                                   |
 | Combat Pants    | 4              | (lower - thighs, shins)                                          |
 | Full-suit Armor | 12             | (upper & lower - front, back, arms, hands, thighs, shins, boots) |
+| Buckler         |                |                                                                  |
+| Round Shield    |                |                                                                  |
+| Kite Shield     |                |                                                                  |
+| Tower Sh                |                |                                                                  |
 
 #### Armoring Value
 This is the total value of Armoring this Armor provides. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 

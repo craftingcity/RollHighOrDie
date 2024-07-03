@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,10 +227,10 @@
   },
   "active": "88197e79081b4fdc",
   "lastOpenFiles": [
-    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
-    "Equipment and Inventories/Armors.md",
-    "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Inventory Management.md",
+    "Equipment and Inventories/Armors.md",
+    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
