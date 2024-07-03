@@ -12,7 +12,7 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 # Armor Tags
 ### Required Tags
 #### Size
-This is the mechanical
+This is the mechanical Size of the Armor - Small, Medium, or Large - and is used to determine the total Armoring Value 
 #### Material
 #### Style
 #### Armoring Value
