@@ -24,7 +24,7 @@ Large Armors
 This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. 
 
 ##### Example Materials
-| Material         | Armoring |
+| Material         | Value |
 | ---------------- | -------- |
 | Padded Cloth     | 1        |
 | Beast Hide       | 2        |
@@ -51,7 +51,7 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Facemask  | 2              | (head - front)                   |
 
 #### Armoring Value
-This is the 
+This is the total value of Armoring this Armor provides. This value is equal to the 
 ### Mundane Tags
 #### Metallic
 #### Pockets (x)
