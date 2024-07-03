@@ -24,9 +24,16 @@ Large Armors
 This is the material the armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. 
 
 ##### Example Materials
-| Material | Armoring |
-| -------- | -------- |
-|          |          |
+| Material   | Armoring |
+| ---------- | -------- |
+| Cloth      | 1        |
+| Leather    | 3        |
+| Bronze     | 4        |
+| Steel      | 5        |
+| Elvenfiber | 6        |
+| Darksteel  | 7        |
+| Mythril    | 10       |
+| Adamentine | 12       |
 
 #### Style
 #### Armoring Value
