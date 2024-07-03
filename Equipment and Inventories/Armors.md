@@ -42,7 +42,9 @@ This is the material the Armor is mostly composed of. It is used in addition to 
 This is the style of Armor, reflecting the Armor's areas of coverage, and is used in addition to the Armor's 'Material' and 'Size' to determine the total Armoring Value of the Armor.
 
 ##### Example Styles
-| Style | 
+| Style | Coverage Value | Areas of Coverage |
+| ----- | -------------- | ----------------- |
+|       |                |                   |
 
 #### Armoring Value
 ### Mundane Tags
