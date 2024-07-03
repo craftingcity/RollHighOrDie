@@ -24,17 +24,18 @@ Large Armors
 This is the material the armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. 
 
 ##### Example Materials
-| Material   | Armoring |
-| ---------- | -------- |
-| Padded Cloth      | 1        |
-| 
-| Beast Leather    | 3        |
-| Bronze     | 4        |
-| Steel      | 5        |
-| Elvenfiber | 6        |
-| Darksteel  | 7        |
-| Mythril    | 10       |
-| Adamantine | 12       |
+| Material         | Armoring |
+| ---------------- | -------- |
+| Padded Cloth     | 1        |
+| Beast Hide       | 2        |
+| Tanned Leather   | 3        |
+| Bronze Chainmail | 5        |
+| Bronze Plate     | 6        |
+| Steel Chainmail  | 5        |
+| Elvenfiber       | 6        |
+| Darksteel        | 7        |
+| Mythril          | 10       |
+| Adamantine       | 12       |
 
 #### Style
 #### Armoring Value
