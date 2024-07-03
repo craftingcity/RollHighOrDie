@@ -2,7 +2,7 @@
 In the world of RHoD, finding a way to take home your newfound wealth may be just as much of a problem as fighting off it's previous owners.
 
 ## Slot Management
-Items are always stored or held in Inventory Slots. Items and Inventory Slots separated into four descending size categories based on weight; Large (~75lb), Medium (~10-5lb), Small (~5-1lbs), and Tiny (>1lb). Only one item or stack of items may be stored in a single Inventory Slot at a time. 
+Items are always stored or held in Inventory Slots. Items and Inventory Slots separated into four descending size categories based on weight; Large (>75lb), Medium (~10-5lb), Small (~5-1lbs), and Tiny (>1lb). Only one item or stack of items may be stored in a single Inventory Slot at a time. 
 
 Inventory Slots may be used to store Items of smaller size categories:
 - One Large Slot can be used as three Medium Slots. 
