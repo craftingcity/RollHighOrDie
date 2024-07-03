@@ -1,7 +1,7 @@
 # Preamble
 The ability to manipulate reality on a personal whim is known as "Magic", and the induvial manipulations are known as "Spells". The people or entities that can perform this "Magic" are known as "Spellcasters".
 
-Magic is an inherently setting-shaping concept, and does not necessarily appear in the setting of your game. The rules provided here describe magic's mechanical consequences
+Magic is an inherently setting-shaping concept. The rules provided here describe a version of magic's mechanical consequences, should it appear in your game.
 
 ## Understanding Spells
 Spells simply are the combination of a desired effect and magical effort. Some Spellcasters collect Defined Spells for their own use, while others gather potential Spell Effects and create unique Spells in and for the moment they need them.
@@ -28,6 +28,15 @@ When you attempt to cast Spells using 'Innate Spellcasting' or 'Learned Spellcas
 Then, if you are casting a Defined Spell, make a Static Casting Skill Check, or if you are casting a Spell you have constructed using Spell Effects, make a Fluid Casting Skill Check.
 
 If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
+
+###### Step-by-Step
+
+	1. Choose or Construct a spell to cast.
+	2. Expend Action Points equal to the spell's Speed.
+	3. Gain Flux equal to the spell's Effort.
+	4. Make a Static Casting or Fluid Casting Check against the spell's Complexity.
+	5. Declare Targets.
+	6. Resolve Effects.
 
 ###### Reducing Flux
 The Flux you gain while casting spells will dissipate over time at rest.

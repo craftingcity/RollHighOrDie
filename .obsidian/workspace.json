@@ -86,6 +86,18 @@
             }
           },
           {
+            "id": "4437027edcaa7015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "3ec4aff8be018d53",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -251,19 +263,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4550318c9ffcb483",
+  "active": "4437027edcaa7015",
   "lastOpenFiles": [
+    "Equipment and Inventories/Ranged Weapons.md",
+    "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Melee Weapons.md",
+    "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Inventory Management.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Environment Definitions.md",
     "Combat and Actions/Combat Definitions.md",
     "Magic Rules/Spellcasting.md",
     "Selections Glossary/Magics/Spell Effects.md",
-    "conflict-files-obsidian-git.md",
     "Magic Rules/Magical Equipment.md",
     "Selections Glossary/Magics",
     "README.md",
@@ -280,7 +293,6 @@
     "Magic Rules/Spell Techniques - Naturalist.md",
     "Magic Rules",
     "Selections Glossary/Condition.md",
-    "Selections Glossary/Traits/Traits.md",
     "Selections Glossary/Traits",
     "Selections Glossary/Features",
     "Core Rules/Character Rules/Combat Laws/Action Economy",

@@ -10,11 +10,14 @@ Within the fiction of the story you tell, your characters may use any number of 
 ## Spell Effects
 ### Range
 #### Touch Range
+This Spell has a 5' Range.
+
 #### Short Range
 #### Long Range
 #### Extreme Range
 ### Shape
 #### Sphere (x)
+#### Cone (x)
 #### Cube (x)
 #### Plane (x)
 ### Duration
