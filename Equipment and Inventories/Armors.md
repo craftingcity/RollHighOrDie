@@ -31,13 +31,16 @@ This is the material the armor is mostly composed of. It is used in addition to 
 | Tanned Leather   | 3        |
 | Bronze Chainmail | 5        |
 | Bronze Plate     | 6        |
-| Steel Chainmail  | 5        |
-| Elvenfiber       | 6        |
-| Darksteel        | 7        |
-| Mythril          | 10       |
-| Adamantine       | 12       |
+| Steel Chainmail  | 6        |
+| Steel Plate      | 8        |
+| Elvenfiber       | 7        |
+| Darksteel        | 10       |
+| Mythril          | 12       |
+| Adamantine       | 16       |
 
 #### Style
+
+
 #### Armoring Value
 ### Mundane Tags
 #### Metallic
