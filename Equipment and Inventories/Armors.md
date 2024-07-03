@@ -42,13 +42,13 @@ This is the material the Armor is mostly composed of. It is used in addition to 
 This is the style of Armor, reflecting the Armor's areas of coverage, and is used in addition to the Armor's 'Material' and 'Size' to determine the total Armoring Value of the Armor.
 
 ##### Example Styles
-| Style     | Coverage Value | Areas of Coverage  |
-| --------- | -------------- | ------------------ |
-| Cap Helm  | 2              | (head - top, back) |
-| Half Helm |                |                    |
-| Full Helm |                |                    |
-| Eyewear   | 1              | (head - eyes)      |
-|           |                |                    |
+| Style     | Coverage Value | Areas of Coverage                |
+| --------- | -------------- | -------------------------------- |
+| Cap Helm  | 2              | (head - top, back)               |
+| Half Helm | 4              | (head - top, back, sides)        |
+| Full Helm | 6              | (head - top, back, sides, front) |
+| Eyewear   | 1              | (head - eyes)                    |
+| Facemask  | 2              | (head - front)                   |
 
 #### Armoring Value
 ### Mundane Tags
