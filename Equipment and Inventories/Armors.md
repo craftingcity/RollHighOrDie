@@ -14,6 +14,8 @@ A character's [[Defenses#Armoring]] is directly related to the Armor they are we
 #### Size
 This is the mechanical Size of the Armor - Small, Medium, or Large - and is used in addition to it's 'Material' and 'Style' to determine the total Armoring Value of the Armor.
 
+Small 
+
 #### Material
 #### Style
 #### Armoring Value
