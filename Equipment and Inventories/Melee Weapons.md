@@ -104,7 +104,9 @@ If you hit, you deal your Weapon Damage as normal.
 #### Damaged (x)
 This Weapon is currently poorly maintained or otherwise damaged, but not destroyed.
 
-When you make an Attack with this Weapon, if the 
+When you make an Attack with this Weapon, your Attack Roll Total is reduced by the indicated value (x).
+
+When you make an Attack with this Weapon, if the number you roll on your d20 is 1, increase the indicated value (x) by 1.
 
 ### Specialized Tags
 #### Barbed / Serrated
