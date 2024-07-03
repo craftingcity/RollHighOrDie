@@ -101,6 +101,11 @@ For W AP, you may throw this weapon. Target a creature within 30', and establish
 
 If you hit, you deal your Weapon Damage as normal.
 
+#### Damaged (x)
+This Weapon is currently poorly maintained or otherwise damaged, but not destroyed.
+
+When you make an Attack with this Weapon, if the 
+
 ### Specialized Tags
 #### Barbed / Serrated
 When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
