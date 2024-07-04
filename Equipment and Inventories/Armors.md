@@ -77,7 +77,10 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 
 ### Mundane Tags
 #### Padded
+While your Armoring is greater than 0, when you would take Bludgeoning Damage, you take half that damage instead, and when you would take .
+
 #### Metallic
+#### Restricting (x)
 #### Pockets (x)
 #### Fuel (x)
 ### Specialized Tags
