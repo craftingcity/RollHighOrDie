@@ -226,9 +226,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26ebe9b5abb60f16",
+  "floating": {
+    "id": "d99640e1eec9997d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5bee1e27d66530cf",
+        "type": "window",
+        "children": [
+          {
+            "id": "7ced2046aa1141a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2441c020017a6bdf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Selections Glossary/Magics/Spell Effects.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "2441c020017a6bdf",
   "lastOpenFiles": [
     "Magic Rules/Spellcasting.md",
+    "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Mounts.md",
     "Equipment and Inventories/Untitled",
@@ -237,7 +275,6 @@
     "Equipment and Inventories/Inventory Management.md",
     "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Equipment and Inventories/Ranged Weapons.md",
-    "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Equipment and Inventories/Ammunition.md",
