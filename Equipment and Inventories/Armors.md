@@ -66,7 +66,7 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Buckler         | 3              | (upper - arms)                                                                 |
 | Round Shield    | 6              | (upper - front, arms)                                                                 |
 | Kite Shield     | 5              | (upper - front, arms)                                                                 |
-| Tower Shield    | 8              | (upper ^ - front, arms)                                                                 |
+| Tower Shield    | 8              | (upper & lower - front, arms, thighs, shins)                                                                 |
 
 #### Armoring Value
 This is the total value of Armoring this Armor provides. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 
