@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "9965bc1fc857cd92",
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Rules/Defenses.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Rules/Defenses.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Rules/Defenses.md"
+                "file": "Selections Glossary/Magics/Spell Effects.md"
               }
             }
           }
@@ -288,13 +287,13 @@
       }
     ]
   },
-  "active": "11161bf4ed59864d",
+  "active": "26ebe9b5abb60f16",
   "lastOpenFiles": [
+    "Selections Glossary/Magics/Defined Arcane Spells.md",
+    "Selections Glossary/Magics/Spell Effects.md",
+    "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Armors.md",
     "Character Rules/Defenses.md",
-    "Magic Rules/Spellcasting.md",
-    "Selections Glossary/Magics/Spell Effects.md",
-    "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Mounts.md",
     "Equipment and Inventories/Untitled",
     "Equipment and Inventories/Melee Weapons.md",
