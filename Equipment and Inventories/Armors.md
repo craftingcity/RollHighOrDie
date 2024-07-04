@@ -77,8 +77,6 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 
 ### Mundane Tags
 #### Padded
-
-
 #### Metallic
 #### Pockets (x)
 #### Fuel (x)
