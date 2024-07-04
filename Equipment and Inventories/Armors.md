@@ -29,10 +29,12 @@ This is the material the Armor is mostly composed of. It is used in addition to 
 | Padded Cloth     | 1     |
 | Beast Hide       | 2     |
 | Tanned Leather   | 3     |
+| Kevlar           | 4     |
 | Bronze Chainmail | 5     |
 | Bronze Plate     | 6     |
 | Steel Chainmail  | 6     |
 | Steel Plate      | 8     |
+| Ceramic Composi
 | Elvenfiber       | 7     |
 | Darksteel        | 10    |
 | Mythril          | 12    |

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
                 "mode": "source",
                 "source": true
               }
@@ -62,36 +62,12 @@
             }
           },
           {
-            "id": "43400aaa9a9ccac2",
+            "id": "83c95b4adb04dd97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Equipment and Inventories/Melee Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4550318c9ffcb483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3ec4aff8be018d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +143,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Equipment and Inventories/Armors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
+                "file": "Equipment and Inventories/Armors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md"
+                "file": "Equipment and Inventories/Armors.md"
               }
             }
           }
@@ -251,32 +225,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4550318c9ffcb483",
+  "active": "88197e79081b4fdc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Equipment and Inventories/Melee Weapons.md",
-    "Selections Glossary/Magics/Defined Arcane Spells.md",
-    "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Inventory Management.md",
-    "Equipment and Inventories/Ammunition.md",
+    "Equipment and Inventories/Armors.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
+    "Equipment and Inventories/Melee Weapons.md",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Selections Glossary/Magics/Spell Effects.md",
+    "Selections Glossary/Magics/Defined Arcane Spells.md",
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Selections Glossary/Features/Features - Divine.md",
+    "Magic Rules/Spellcasting.md",
+    "Equipment and Inventories/Ammunition.md",
     "Environment Definitions.md",
     "Combat and Actions/Combat Definitions.md",
-    "Magic Rules/Spellcasting.md",
-    "Selections Glossary/Magics/Spell Effects.md",
+    "conflict-files-obsidian-git.md",
     "Magic Rules/Magical Equipment.md",
     "Selections Glossary/Magics",
     "README.md",
     "Selections Glossary/Magics/Spell Techniques - Arcane.md",
     "Selections Glossary/Features/Features.md",
-    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Combat and Actions/Generic Actions.md",
     "Character Rules/Defenses.md",
     "Character Rules/Surviving.md",
     "Character Rules/Skills.md",
-    "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Magics/Spell Techniques - Divine.md",
     "Magic Rules/Spell Techniques - Naturalist.md",
     "Magic Rules",
