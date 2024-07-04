@@ -76,10 +76,12 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 ` current example numbers give ~550 as MaxArmoring `
 
 ### Mundane Tags
-#### Padded
-While your Armoring is greater than 0, you have Bludgeoning Damage Resistance and Electric Damage Resistance equal to the value indicated
+#### Padded (x)
+While your Armoring is greater than 0, you have Bludgeoning Damage Resistance and Electric Damage Resistance equal to the value indicated (x) and you have Slashing Damage Vulnerability and Fire Damage Vulnerability equal to the value indicated (x).
 
-#### Metallic
+#### Metallic (x)
+While your Armoring is greater than 0, you have Slashing Damage Resistance and Peircing Damage Resistance equal to the value indicated (x) and you have Electric Damage Vulnerability and Fire Damage Vulnerability equal to the value indicated (x).
+
 #### Restricting (x)
 #### Pockets (x)
 #### Fuel (x)
