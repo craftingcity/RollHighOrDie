@@ -10,6 +10,7 @@ Speed:
 Long Range Projectile 
 Immediate Sphere (1')
 
+Make a Casting Skill Check against your Target's Will.
 
-Deal 1d10 Force Damage to a single Target.
+If you hit, you deal 1d10 force damage.
 ```
