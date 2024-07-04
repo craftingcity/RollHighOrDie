@@ -76,7 +76,9 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 ` current example numbers give ~550 as MaxArmoring `
 
 ### Mundane Tags
-#### 
+#### Padded
+
+
 #### Metallic
 #### Pockets (x)
 #### Fuel (x)
