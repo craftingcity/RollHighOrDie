@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resistance",
+                "query": "if the",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,7 +287,7 @@
       }
     ]
   },
-  "active": "26ebe9b5abb60f16",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Selections Glossary/Magics/Spell Effects.md",

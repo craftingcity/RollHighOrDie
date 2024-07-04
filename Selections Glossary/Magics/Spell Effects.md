@@ -5,12 +5,12 @@ Within the fiction of the story you tell, your characters may use any number of 
 #### Projectile
 This Spell creates and launches a shaped force of magic from you to a point you choose within range, interacting on contact with obstacles along it's path.
 
-When you cast a Projectile Spell, you will make a Casting Skill Check to determine the accuracy of the Spell's path to it's target. You will c
+When you cast a Projectile Spell, you will make a Casting Skill Check to determine the accuracy of the Spell's path to it's target. You will compare this total to your Target's Relevant Defense to determine if you have "hit" your Target.
 
 #### Beam
 This Spell creates a line of magic between yourself and a point you choose within range, attempting to pierce and bore through obstacles along it's path. 
 
-When you cast a Beam Spell, you will make a Casting Skill Check to determine the accuracy of the Spell's path to it's target.
+When you cast a Beam Spell, you will make a Casting Skill Check to determine the accuracy of the Spell's path to it's target. Targets of the Spell will make a Relevant Skill Check in an attempt to avoid the Beam. If 
 
 #### Point Target / Observation
 #### Known Target / Invocation
