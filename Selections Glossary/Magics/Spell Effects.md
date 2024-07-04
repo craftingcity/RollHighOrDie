@@ -8,7 +8,7 @@ This Spell creates and launches a shaped force of magic from you to a point you 
 When you cast a Projectile Spell, you will make a Casting Skill Check to determine the accuracy of the Spell's path to it's target.
 
 #### Beam
-This Spell creates a line of magic between yourself and a point you choose within range, attempting to pierce and bore through obstacles along it's path. Entities with the Beam when you cast it 
+This Spell creates a line of magic between yourself and a point you choose within range, attempting to pierce and bore through obstacles along it's path. Entities with the Beam when you cast it make a relevant Skill Check against the total of 
 
 #### Point Target / Observation
 #### Known Target / Invocation
