@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "if the",
+                "query": "\"if the",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
