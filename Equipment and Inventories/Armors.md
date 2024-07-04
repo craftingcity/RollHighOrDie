@@ -80,9 +80,11 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 While your Armoring is greater than 0, you have Bludgeoning Damage Resistance and Electric Damage Resistance equal to the value indicated (x) and you have Slashing Damage Vulnerability and Fire Damage Vulnerability equal to the value indicated (x).
 
 #### Metallic (x)
-While your Armoring is greater than 0, you have Slashing Damage Resistance and Peircing Damage Resistance equal to the value indicated (x) and you have Electric Damage Vulnerability and Fire Damage Vulnerability equal to the value indicated (x).
+While your Armoring is greater than 0, you have Slashing Damage Resistance and Piercing Damage Resistance equal to the value indicated (x) and you have Electric Damage Vulnerability and Fire Damage Vulnerability equal to the value indicated (x).
 
 #### Restricting (x)
+
+
 #### Pockets (x)
 #### Fuel (x)
 ### Specialized Tags

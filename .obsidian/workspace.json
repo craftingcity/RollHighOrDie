@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "11161bf4ed59864d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "9965bc1fc857cd92",
@@ -177,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Character Rules/Defenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Character Rules/Defenses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Armors.md"
+                "file": "Character Rules/Defenses.md"
               }
             }
           }
@@ -276,10 +288,10 @@
       }
     ]
   },
-  "active": "0dd8bcf383b8393f",
+  "active": "11161bf4ed59864d",
   "lastOpenFiles": [
-    "Character Rules/Defenses.md",
     "Equipment and Inventories/Armors.md",
+    "Character Rules/Defenses.md",
     "Magic Rules/Spellcasting.md",
     "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
