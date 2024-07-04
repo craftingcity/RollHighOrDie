@@ -31,12 +31,25 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9965bc1fc857cd92",
         "type": "tabs",
         "children": [
+          {
+            "id": "26ebe9b5abb60f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
           {
             "id": "e0763270e6e99a91",
             "type": "leaf",
@@ -85,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Magics/Defined Arcane Spells.md"
+                "file": "Selections Glossary/Magics/Spell Effects.md"
               }
             }
           }
@@ -214,8 +226,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4120678816754c5a",
+  "active": "26ebe9b5abb60f16",
   "lastOpenFiles": [
+    "Magic Rules/Spellcasting.md",
+    "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Mounts.md",
     "Equipment and Inventories/Untitled",
     "Equipment and Inventories/Armors.md",
@@ -224,10 +238,8 @@
     "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Selections Glossary/Magics/Spell Effects.md",
-    "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
-    "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Ammunition.md",
     "Environment Definitions.md",
     "Combat and Actions/Combat Definitions.md",
