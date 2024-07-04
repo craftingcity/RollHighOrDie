@@ -3,10 +3,10 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
-This Spell creates and launches a shaped force of magic from you to a point you choose within range, interacting with solid objects .
+This Spell creates and launches a shaped force of magic from you to a point you choose within range, interacting on contact with obstacles along it's path.
 
 #### Beam
-This Spell creates a line of magic between yourself and a point you choose within range, attempting to .
+This Spell creates a line of magic between yourself and a point you choose within range, attempting to pierce and bore through obstacles along it's path.
 
 #### Point Target / Observation
 #### Known Target / Invocation
