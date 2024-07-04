@@ -41,7 +41,11 @@ When you would take Damage, if you have Typed Damage Resistance of that Damage T
 When you would take any Damage, if you have True Damage Resistance, you reduce the Damage you would take by your current True Damage Resistance.
 
 ###### Damage Vulnerability (DV)
-Typed Damage Vulnerability is your 
+Typed Damage Vulnerability is your extra-vulnerability to harm caused by that Damage Type. True Damage Vulnerability is an extra-vulnerability to True Damage.
+
+When you would take Damage, if you have Typed Damage Vulnerability of that Damage Type, you increase the Damage you would take by your current Damage Vulnerability of that Damage Type.
+
+When you would take True Damage, if you have True Damage Vulnerability, you increase the Damage you would take by your current True Damage Vulnerability.
 
 ###### True Damage
 > There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
