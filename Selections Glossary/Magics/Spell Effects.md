@@ -3,8 +3,11 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
-This Spell creates and launches a formed 
+This Spell creates and launches a formed force of magic from you to a point you choose within range - but you must aim it.
+
 #### Beam
+This Spell creates a line of magic between yourself and a 
+
 #### Point Target / Observation
 #### Known Target / Invocation
 
