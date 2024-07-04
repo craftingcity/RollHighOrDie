@@ -77,7 +77,7 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 
 ### Mundane Tags
 #### Padded
-While your Armoring is greater than 0, when you would take Bludgeoning Damage, you take half that damage instead, and when you would take .
+While your Armoring is greater than 0, you have Bludgeoning Damage Resistance and Electric Damage Resistance equal to the value indicated
 
 #### Metallic
 #### Restricting (x)
