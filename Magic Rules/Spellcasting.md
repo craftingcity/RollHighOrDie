@@ -20,7 +20,9 @@ Using Defined Spells is typically safer and more efficient than creating unique 
 In the context of Magic, Techniques are groups of Defined Spells or Spell Effects. Often, a Spellcaster will have access to multiple Techniques while specializing in a select few. Techniques are first categorized by complexity, one of Basic, Complex, or Epic, and then by Power Source.
 
 ## Costs of Spellcasting
-The manner in which you pay for a Spell's costs depend on the Feature that granted you the ability to cast Spells.
+The resource you use to pay for a Spell's costs depend on the Feature that granted you the ability to cast Spells, but the process of Casting any given Spell is largely the same across Features.
+
+To Cast a Spell, 
 
 #### Succeeding in Arcane Casting
 When you attempt to cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain the Spell's Effort Cost as Flux. When you gain Flux, if your current total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condition]].
@@ -71,4 +73,4 @@ After you have selected a Spell Base, you may choose any number of Spell Effects
 
 > While your character may be an incredibly proficient Spellcaster, you are no match for the brutal efficiency of culture; recreating a Defined Spell using identical Spell Effects will result in greater Complexity and or Effort values.
 
-After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must // find? choose/select? if speed = complexity / effort spells that are "complex" but not draining take longer, and more draining/powerful spell effects cause you to cast it "quicker" if it isnt mentally "complex" // the Spell's Speed
+After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must // find? choose/select? if speed = complexity / effort spells that are "complex" but not draining take longer, and more draining/powerful spell effects cause you to cast it "quicker" if it isnt mentally "complex" // the Spell's Speed - the number of Action Points you must spend Casting the Spell.
