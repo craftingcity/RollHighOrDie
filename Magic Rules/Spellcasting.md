@@ -71,4 +71,4 @@ After you have selected a Spell Base, you may choose any number of Spell Effects
 
 > While your character may be an incredibly proficient Spellcaster, you are no match for the brutal efficiency of culture; recreating a Defined Spell using identical Spell Effects will result in greater Complexity and or Effort values.
 
-After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must // find? choose/select? speed is based on consequence and area
+After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must // find? choose/select? if speed = complexity / effort spells that are "complex" but not draining take longer, and more draining/powerful spell effects cause you to cast it "quicker" if it isnt mentally "complex" // the Spell's Speed
