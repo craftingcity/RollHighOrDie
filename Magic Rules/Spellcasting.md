@@ -71,3 +71,4 @@ After you have selected a Spell Base, you may choose any number of Spell Effects
 
 > While your character may be an incredibly proficient Spellcaster, you are no match for the brutal efficiency of culture; recreating a Defined Spell using identical Spell Effects will result in greater Complexity and or Effort values.
 
+After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must 
