@@ -31,22 +31,17 @@ Then, if you are casting a Defined Spell, make a Static Casting Skill Check, or 
 
 If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
 
-###### Step-by-Step
-
-	1. Choose or Construct a spell to cast.
-	2. Expend Action Points equal to the spell's Speed.
-	3. Gain Flux equal to the spell's Effort.
-	4. Make a Static Casting or Fluid Casting Check against the spell's Complexity.
-	5. Declare Targets.
-	6. Resolve Effects.
-
 ###### Reducing Flux
 The Flux you gain while casting spells will dissipate over time at rest.
 
 While you are not in an Encounter, you may expend any number of Hit Die you have to reduce your current total Flux. When you expend a Hit Die this way, you reduce your Flux by a value equal to half the number rolled plus your Constitution Modifier.
 
 #### Succeeding in Divine Casting
-When you attempt Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety. You cannot expend Piety you do not have.
+When you attempt Spells using 'Divine Spellcasting' or 'Pact Spellcasting', you expend the Spell's Effort Cost as Piety, your Spellcasting Resource. You cannot expend Piety you do not have.
+
+Then, if you are casting a Defined Spell, make a Invocation Casting Skill Check, or if you are casting a Spell you have constructed using Spell Effects, make a Channeling Casting Skill Check.
+
+If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails.
 
 ###### Increasing Piety
 You can increase your Piety by performing actions for the favor of your patron. The following list provides examples of ideologically favorable actions and their corresponding Piety value.
