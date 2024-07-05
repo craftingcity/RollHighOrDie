@@ -43,7 +43,7 @@ Then, if you are casting a Defined Spell, make a Invocation Casting Skill Check,
 
 If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails.
 
-###### Increasing Piety
+###### Gaining Piety
 You can increase your Piety by performing actions for the favor of your patron. The following list provides examples of ideologically favorable actions and their corresponding Piety value.
 
 | P.V. | Favorable Action                        | Ideo.       |
@@ -66,6 +66,6 @@ A Spell's Base determines a number of core feature of casting a given spell, inc
 
 After you have selected a Spell Base, you may choose any number of Spell Effects you know as the effects of the Spell. As you do, the Spell Effects you choose will add to the Spell's total Complexity and or Effort. You will use these total values when you are Casting this Spell.
 
-> While your character may be an incredibly proficient Spellcaster, you are no match for the brutal efficiency of culture; recreating a Defined Spell using identical Spell Effects will result in greater Complexity and or Effort values.
+> Using Defined Spells is typically safer and more efficient than creating unique Spells due to their communal nature...
 
-After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must // find? choose/select? if speed = complexity / effort spells that are "complex" but not draining take longer, and more draining/powerful spell effects cause you to cast it "quicker" if it isnt mentally "complex" // the Spell's Speed - the number of Action Points you must spend Casting the Spell.
+After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must calculate // find? choose/select? if `speed = complexity / effort * X` spells that are "complex" but not draining take longer, and more draining/powerful spell effects cause you to cast it "quicker" if it isnt mentally "complex" // the Spell's Speed - the number of Action Points you must spend Casting the Spell.
