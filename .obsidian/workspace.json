@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"if the",
+                "query": "Construct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,7 +288,7 @@
       }
     ]
   },
-  "active": "1ac8e357d673197d",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
