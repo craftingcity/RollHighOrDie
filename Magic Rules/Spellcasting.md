@@ -65,4 +65,7 @@ You can increase your Piety by performing actions for the favor of your patron. 
 ## Constructing Spells
 At any time, your character can mentally construct unique Spells using the Spell Effects they have learned through their Techniques.
 
-A Spell's Base 
+A Spell's Base determines a number of core feature of casting a given spell, including 
+	- Line of Sight
+	- Accuracy Casting
+	- 
