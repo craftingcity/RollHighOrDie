@@ -68,4 +68,6 @@ At any time, your character can mentally construct unique Spells using the Spell
 A Spell's Base determines a number of core feature of casting a given spell, including whether or not Line of Sight and or a second "accuracy" Casting Skill Check are required, and how it does or does not interact with the space in between yourself and your target.
 
 After you have selected a Spell Base, you may choose any number of Spell Effects you know as the effects of the Spell. As you do, the Spell Effects you choose will add to the Spell's total Complexity and or Effort. You will use these total values when you are Casting this Spell.
-	> While your character may be an incredibly proficient Spellcaster, you are no match for the brutal efficiency of culture; casting Defined Spells will be more efficient than casting a Spell you have constructed, .
+
+> While your character may be an incredibly proficient Spellcaster, you are no match for the brutal efficiency of culture; recreating a Defined Spell using identical Spell Effects will result in greater Complexity and or Effort values.
+
