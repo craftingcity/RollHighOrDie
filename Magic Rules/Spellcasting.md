@@ -22,7 +22,7 @@ In the context of Magic, Techniques are groups of Defined Spells or Spell Effect
 ## Costs of Spellcasting
 The resource you use to pay for a Spell's costs depend on the Feature that granted you the ability to cast Spells, but the process of Casting any given Spell is largely the same across Features.
 
-To Cast a Spell, 
+To Cast a Spell, you must first expend Action Points equal to the Speed of the Spell, then expend your Spellcasting Resource. After expending these resources, 
 
 #### Succeeding in Arcane Casting
 When you attempt to cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain the Spell's Effort Cost as Flux. When you gain Flux, if your current total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condition]].
