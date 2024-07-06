@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Rules/Spellcasting.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Rules/Spellcasting.md",
+                "file": "Selections Glossary/Magics/Spell Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Rules/Spellcasting.md"
+                "file": "Selections Glossary/Magics/Spell Effects.md"
               }
             }
           }
@@ -288,11 +288,11 @@
       }
     ]
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "26ebe9b5abb60f16",
   "lastOpenFiles": [
+    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
-    "Magic Rules/Spellcasting.md",
     "Equipment and Inventories/Armors.md",
     "Character Rules/Defenses.md",
     "Mounts.md",
