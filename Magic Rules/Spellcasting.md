@@ -68,4 +68,5 @@ After you have selected a Spell Base, you may choose any number of Spell Effects
 
 > Using Defined Spells is typically safer and more efficient than creating unique Spells due to their communal nature...
 
-After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must calculate the Spell's Speed - the number of Action Points you must spend Casting the Spell. A Spell's Speed is directly related to it's Complexity 
+After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must calculate the Spell's Speed - the number of Action Points you must spend Casting the Spell. A Spell's Speed is equal to half it's Effort.
+
