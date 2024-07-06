@@ -15,7 +15,7 @@ When you cast a Beam Spell, you will make a Casting Skill Check to determine the
 #### Point Target / Observation
 This spell forcefully imposes magical effects at a point you choose within Range and Line of Sight.
 
-
+When you cast a 
 
 #### Known Target / Invocation
 This spell forcefully imposes magical effects onto a creature or object you choose within Range.
