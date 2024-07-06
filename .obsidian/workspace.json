@@ -279,16 +279,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
+        "x": 828,
         "y": 0,
-        "width": 768,
+        "width": 708,
         "height": 912,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "26ebe9b5abb60f16",
+  "active": "2441c020017a6bdf",
   "lastOpenFiles": [
     "Magic Rules/Spellcasting.md",
     "Selections Glossary/Magics/Spell Effects.md",
