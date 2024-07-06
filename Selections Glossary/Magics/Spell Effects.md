@@ -12,13 +12,13 @@ This Spell creates a line of magic between yourself and a point you choose withi
 
 When you cast a Beam Spell, you will make a Casting Skill Check to determine the accuracy of the Spell's path to it's Target. Entities with the path will make a Relevant Skill Check in an attempt to avoid the Beam. If the total of their Skill Check is greater than your Casting Skill Check, they successfully dodge the Beam.
 
-#### Point Target / Observation
+#### Point
 This spell forcefully imposes magical effects at a point you choose within Range and Line of Sight.
 
-When you cast a 
+When you cast a Point Spell, you will 
 
 #### Known Target / Invocation
-This spell forcefully imposes magical effects onto a creature or object you choose within Range.
+This spell forcefully imposes magical effects onto an entity you choose within Range.
 
 ## Spell Effects
 ### Range
