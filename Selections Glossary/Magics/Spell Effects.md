@@ -15,7 +15,7 @@ When you cast a Beam Spell, your Casting Skill Check will determine the accuracy
 #### Point
 This spell forcefully imposes magical effects at a point you choose within Range and Line of Sight.
 
-When you cast a Point Spell, your Casting Skill Check will determine 
+When you cast a Point Spell, your Casting Skill Check will determine the Spell's ability to effect Targets. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your target.
 
 #### Known Target / Invocation
 This spell forcefully imposes magical effects onto an entity you choose within Range.
