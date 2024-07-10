@@ -122,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md"
+                "file": "Equipment and Inventories/Inventory Management.md"
               }
             }
           }
@@ -288,24 +289,24 @@
       }
     ]
   },
-  "active": "26ebe9b5abb60f16",
+  "active": "e0763270e6e99a91",
   "lastOpenFiles": [
-    "Magic Rules/Spellcasting.md",
+    "Equipment and Inventories/Melee Weapons.md",
+    "Combat and Actions/Combat Definitions.md",
+    "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Selections Glossary/Magics/Spell Effects.md",
+    "Magic Rules/Spellcasting.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Equipment and Inventories/Armors.md",
     "Character Rules/Defenses.md",
     "Mounts.md",
     "Equipment and Inventories/Untitled",
-    "Equipment and Inventories/Melee Weapons.md",
     "Equipment and Inventories/Inventory Management.md",
-    "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Equipment and Inventories/Ranged Weapons.md",
     "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Divine.md",
     "Equipment and Inventories/Ammunition.md",
     "Environment Definitions.md",
-    "Combat and Actions/Combat Definitions.md",
     "conflict-files-obsidian-git.md",
     "Magic Rules/Magical Equipment.md",
     "Selections Glossary/Magics",
