@@ -3,14 +3,27 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
+This Spell creates and launches a shaped force of magic from you to a point you choose within Range and Line of Sight, interacting on contact with obstacles along it's path.
+
+When you cast a Projectile Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your Target.
+
 #### Beam
-#### Point Target
-#### Known Target
+This Spell creates a line of magic between yourself and a point you choose within Range, attempting to pierce or bore through obstacles along it's path. 
+
+When you cast a Beam Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. Entities with the path will make a Relevant Skill Check in an attempt to avoid the Beam. If the total of their Skill Check is greater than your Casting Skill Check, they successfully dodge the Beam.
+
+#### Point
+This spell forcefully imposes magical effects at a point you choose within Range and Line of Sight.
+
+When you cast a Point Spell, your Casting Skill Check will determine the Spell's ability to effect Targets. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your target.
+
+#### Known Target / Invocation
+This spell forcefully imposes magical effects onto an entity you choose within Range.
 
 ## Spell Effects
 ### Range
 #### Touch Range
-This Spell has a 5' Range.
+This Spell has a 5' Range. This spell's 
 
 #### Short Range
 #### Long Range

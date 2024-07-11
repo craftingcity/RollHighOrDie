@@ -24,19 +24,21 @@ Large Armors have a Size Multiplier of 3.
 This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. 
 
 ##### Example Materials
-| Material         | Value |
-| ---------------- | ----- |
-| Padded Cloth     | 1     |
-| Beast Hide       | 2     |
-| Tanned Leather   | 3     |
-| Bronze Chainmail | 5     |
-| Bronze Plate     | 6     |
-| Steel Chainmail  | 6     |
-| Steel Plate      | 8     |
-| Elvenfiber       | 7     |
-| Darksteel        | 10    |
-| Mythril          | 12    |
-| Adamantine       | 16    |
+| Material          | Value |
+| ----------------- | ----- |
+| Padded Cloth      | 1     |
+| Beast Hide        | 2     |
+| Tanned Leather    | 3     |
+| Kevlar            | 4     |
+| Bronze Chainmail  | 5     |
+| Bronze Plate      | 6     |
+| Steel Chainmail   | 6     |
+| Steel Plate       | 8     |
+| Ceramic Composite | 9     |
+| Elvenfiber        | 7     |
+| Darksteel         | 10    |
+| Mythril           | 12    |
+| Adamantine        | 16    |
 
 #### Style
 This is the style of Armor, reflecting the Armor's areas of coverage, and is used in addition to the Armor's 'Material' and 'Size' to determine the total Armoring Value of the Armor.
@@ -61,10 +63,10 @@ This is the style of Armor, reflecting the Armor's areas of coverage, and is use
 | Boots           | 1              | (lower - feet)                                                   |
 | Combat Pants    | 4              | (lower - thighs, shins)                                          |
 | Full-suit Armor | 12             | (upper & lower - front, back, arms, hands, thighs, shins, boots) |
-| Buckler         | 3              |                                                                  |
-| Round Shield    | 6              |                                                                  |
-| Kite Shield     | 5              |                                                                  |
-| Tower Shield    | 8              |                                                                  |
+| Buckler         | 3              | (upper - arms)                                                                 |
+| Round Shield    | 6              | (upper - front, arms)                                                                 |
+| Kite Shield     | 5              | (upper - front, arms)                                                                 |
+| Tower Shield    | 8              | (upper & lower - front, arms, thighs, shins)                                                                 |
 
 #### Armoring Value
 This is the total value of Armoring this Armor provides. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 
@@ -74,8 +76,15 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 ` current example numbers give ~550 as MaxArmoring `
 
 ### Mundane Tags
-#### 
-#### Metallic
+#### Padded (x)
+While your Armoring is greater than 0, you have Bludgeoning Damage Resistance and Electric Damage Resistance equal to the value indicated (x) and you have Slashing Damage Vulnerability and Fire Damage Vulnerability equal to the value indicated (x).
+
+#### Metallic (x)
+While your Armoring is greater than 0, you have Slashing Damage Resistance and Piercing Damage Resistance equal to the value indicated (x) and you have Electric Damage Vulnerability and Fire Damage Vulnerability equal to the value indicated (x).
+
+#### Restricting (x)
+While you are wearing this Armor, your Dexterity Ability Score is reduced by the indicated value (x).
+
 #### Pockets (x)
 #### Fuel (x)
 ### Specialized Tags
