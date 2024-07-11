@@ -86,6 +86,16 @@
             }
           },
           {
+            "id": "74ca6f4099c1d95e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "3ec4aff8be018d53",
             "type": "leaf",
             "state": {
@@ -122,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,7 +261,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4550318c9ffcb483",
+  "active": "74ca6f4099c1d95e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Equipment and Inventories/Ranged Weapons.md",
