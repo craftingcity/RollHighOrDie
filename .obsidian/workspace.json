@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88197e79081b4fdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Armors.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "4120678816754c5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "file": "Selections Glossary/Magics/Defined Arcane Spells.md",
                 "mode": "source",
                 "source": true
               }
@@ -42,13 +30,50 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0dd8bcf383b8393f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment and Inventories/Armors.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "11161bf4ed59864d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9965bc1fc857cd92",
         "type": "tabs",
         "children": [
+          {
+            "id": "26ebe9b5abb60f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Magics/Spell Effects.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
           {
             "id": "e0763270e6e99a91",
             "type": "leaf",
@@ -62,46 +87,12 @@
             }
           },
           {
-            "id": "43400aaa9a9ccac2",
+            "id": "83c95b4adb04dd97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Equipment and Inventories/Melee Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4550318c9ffcb483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ranged Weapons.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "74ca6f4099c1d95e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "3ec4aff8be018d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment and Inventories/Ammunition.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,9 +109,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "474b6ba7c617d60d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Construct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equipment and Inventories/Inventory Management.md"
+              }
             }
           }
         ]
@@ -245,34 +252,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74ca6f4099c1d95e",
+  "active": "e0763270e6e99a91",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
-    "Mounts.md",
-    "Equipment and Inventories/Ranged Weapons.md",
+    "Magic Rules/Spellcasting.md",
+    "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Melee Weapons.md",
+    "Combat and Actions/Combat Definitions.md",
+    "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
+    "Selections Glossary/Magics/Spell Effects.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
     "Equipment and Inventories/Armors.md",
-    "Equipment and Inventories/Inventory Management.md",
+    "Character Rules/Defenses.md",
+    "Mounts.md",
+    "Equipment and Inventories/Untitled",
+    "Equipment and Inventories/Ranged Weapons.md",
+    "Selections Glossary/Features/Features - Arcane.md",
+    "Selections Glossary/Features/Features - Divine.md",
     "Equipment and Inventories/Ammunition.md",
-    "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Environment Definitions.md",
-    "Combat and Actions/Combat Definitions.md",
-    "Magic Rules/Spellcasting.md",
-    "Selections Glossary/Magics/Spell Effects.md",
+    "conflict-files-obsidian-git.md",
     "Magic Rules/Magical Equipment.md",
     "Selections Glossary/Magics",
     "README.md",
     "Selections Glossary/Magics/Spell Techniques - Arcane.md",
     "Selections Glossary/Features/Features.md",
-    "Selections Glossary/Features/Features - Arcane.md",
     "Selections Glossary/Features/Features - Martial.md",
     "Combat and Actions/Generic Actions.md",
-    "Character Rules/Defenses.md",
     "Character Rules/Surviving.md",
     "Character Rules/Skills.md",
-    "Selections Glossary/Features/Features - Divine.md",
     "Selections Glossary/Magics/Spell Techniques - Divine.md",
     "Magic Rules",
     "Selections Glossary/Traits",
@@ -281,7 +288,6 @@
     "Selections Glossary",
     "Combat and Actions",
     "Templates",
-    "Equipment and Inventories",
-    "Character Rules/Systems"
+    "Equipment and Inventories"
   ]
 }
