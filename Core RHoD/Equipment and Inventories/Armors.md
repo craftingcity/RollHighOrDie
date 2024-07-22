@@ -65,8 +65,9 @@ The Style's Total Coverage Value is the total of all Coverage Values of the Styl
 | Boots           | 1              | (lower - feet)                                                  |
 | Combat Pants    | 4              | (lower - thighs, shins)                                         |
 | Full-suit Armor | 12             | (upper & lower - front, back, arms, hands, thighs, shins, feet) |
+| Tank-suit Armor |                |                                                                 |
 | Buckler         | 3              | (upper - arms)                                                  |
-| Round Shield    | 6              | (upper - front, arms)                                           | 
+| Round Shield    | 6              | (upper - front, arms)                                           |
 | Kite Shield     | 5              | (upper - front, arms)                                           |
 | Tower Shield    | 8              | (upper & lower - front, arms, thighs, shins)                    |
 
