@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment and Inventories/Armors.md",
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment and Inventories/Armors.md"
+                "file": "Core RHoD/Equipment and Inventories/Armors.md"
               }
             }
           }
@@ -167,41 +167,41 @@
   },
   "active": "81be0ec429f61494",
   "lastOpenFiles": [
-    "Magic Rules/Spellcasting.md",
-    "Equipment and Inventories/Armors.md",
-    "Selections Glossary/Magics/Spell Effects.md",
-    "Equipment and Inventories/Inventory Management.md",
-    "Equipment and Inventories/Melee Weapons.md",
-    "Equipment and Inventories/Ranged Weapons.md",
-    "Combat and Actions/Combat Definitions.md",
-    "Equipment and Inventories/Ammunition.md",
+    "Core RHoD",
+    "Magic Expansion/Spellcasting.md",
+    "Core RHoD/Equipment and Inventories/Armors.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+    "Core RHoD/Combat and Actions/Combat Definitions.md",
+    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "conflict-files-obsidian-git.md",
-    "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
-    "Mounts.md",
-    "Selections Glossary/Magics/Defined Arcane Spells.md",
+    "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
+    "Core RHoD/Mounts.md",
+    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
-    "Environment Definitions.md",
-    "Magic Rules/Magical Equipment.md",
-    "Selections Glossary/Magics",
+    "Core RHoD/Environment Definitions.md",
+    "Magic Expansion/Magical Equipment.md",
+    "Magic Expansion/Magics Glossary",
     "README.md",
-    "Selections Glossary/Magics/Spell Techniques - Arcane.md",
-    "Selections Glossary/Features/Features.md",
-    "Selections Glossary/Features/Features - Arcane.md",
-    "Selections Glossary/Features/Features - Martial.md",
-    "Combat and Actions/Generic Actions.md",
-    "Character Rules/Defenses.md",
-    "Character Rules/Surviving.md",
-    "Character Rules/Skills.md",
-    "Selections Glossary/Features/Features - Divine.md",
-    "Selections Glossary/Magics/Spell Techniques - Divine.md",
-    "Magic Rules",
-    "Selections Glossary/Traits",
-    "Selections Glossary/Features",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Core RHoD/Selections Glossary/Features/Features.md",
+    "Magic Expansion/Features - Arcane.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
+    "Core RHoD/Character Rules/Defenses.md",
+    "Core RHoD/Character Rules/Surviving.md",
+    "Core RHoD/Character Rules/Skills.md",
+    "Magic Expansion/Features - Divine.md",
+    "Magic Expansion",
+    "Core RHoD/Selections Glossary/Traits",
+    "Core RHoD/Selections Glossary/Features",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
-    "Selections Glossary",
-    "Combat and Actions",
+    "Core RHoD/Selections Glossary",
+    "Core RHoD/Combat and Actions",
     "Templates",
-    "Equipment and Inventories",
+    "Core RHoD/Equipment and Inventories",
     "Character Rules/Systems"
   ]
 }
