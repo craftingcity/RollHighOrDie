@@ -98,7 +98,7 @@ While you are wearing this Armor, your Dexterity Ability Score is reduced by the
 While you are wearing this Armor, you gain the indicated number and size (x) of Inventory Slots. While using Equipment stored in these Inventory Slots, you may ignore the 'UNPACK' Interaction Cost of that Equipment.
 
 #### Fuel (x)
-While you are Resting, you may expend the number and type (x)
+While you are Resting, you may Fuel your Armor by expending the indicated number and type (x) of 
 
 ### Specialized Tags
 
