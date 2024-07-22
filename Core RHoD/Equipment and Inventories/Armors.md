@@ -36,9 +36,9 @@ This is the material the Armor is mostly composed of. It is used in addition to 
 | Steel Plate       | 8     |
 | Ceramic Composite | 9     |
 | Elvenfiber        | 7     |
-| Darksteel         | 10    |
-| Mythril           | 12    |
-| Adamantine        | 16    |
+| Darksteel Plate   | 10    |
+| Mythril Plate     | 12    |
+| Adamantine Plate  | 16    |
 
 #### Style
 This is the style of Armor, reflecting the Armor's Areas of Coverage, and is used in addition to the Armor's 'Material' and 'Size' to determine the total Armoring Value of the Armor.
@@ -80,7 +80,9 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 
 > For example, let's examine a Steel Plate Full-suit Armor as made for a traditional human - Medium sized.
 > Medium Armors have a SM of 2. Steel Plate has a MV of 8. Full-suit Armor has a CV of 15.
-> Material Value (8) + Coverage Value (15) = 
+> Material Value (8) + Coverage Value (15) = 23
+> 23 * Size Multiplier (2) = 46
+> Medium Size Steel Plate Full-suit Armor has a total Armoring Value of 46.
 
 ### Mundane Tags
 #### Padded (x)
@@ -93,26 +95,10 @@ While your Armoring is greater than 0, you have Slashing Damage Resistance and P
 While you are wearing this Armor, your Dexterity Ability Score is reduced by the indicated value (x).
 
 #### Pockets (x)
+While you are wearing this Armor, you gain the indicated number and size (x) of Inventory Slots. While using equipment in these 
 #### Fuel (x)
 ### Specialized Tags
 
 # Example Armors (OLD?)
 | Title                     | Base    | Size   | Material | Style  | A.V.  | Other                                                     |     |
 | ------------------------- | ------- | ------ | -------- | ------ | ----- | --------------------------------------------------------- | --- |
-| Leather Jacket            | Light   | Medium | leather  | jacket | (2)   | Pockets (2x Small)                                        |     |
-| Leather Longcoat          | Light   | Medium | leather  | jacket | (3)   | Pockets (Medium)                                          |     |
-| Leather Armor Set         | Light   | Medium | leather  | suit   | (9)   |                                                           |     |
-| Studded Leather Armor Set | Light   | Medium | leather  | suit   | (16)  |                                                           |     |
-| Bone Armor Set            | Light   | Large  | bone     | suit   | (20)  |                                                           |     |
-| Hide Armor Set            | Light   | Medium | hide     | suit   | (24)  |                                                           |     |
-| Kevlar Vest               | Light   | Medium | kevlar   | vest   | (26)  |                                                           |     |
-| Chainmail Shirt           | Medium  | Medium | steel    | vest   | (32)  | Metallic                                                  |     |
-| Scalemail Armor Set       | Medium  | Large  | steel    | suit   | (40)  | Metallic                                                  |     |
-| Platemail Chestplate      | Medium  | Large  | steel    | vest   | (40)  | Metallic                                                  |     |
-| Combat Jacket             | Medium  | Large  | kevlar   | jacket | (52)  | Pockets (2x Medium)                                       |     |
-| Flak Suit                 | Medium  | Large  | kevlar   | suit   | (72)  |                                                           |     |
-| Chainmail Armor Set       | Heavy   | Large  | steel    | suit   | (80)  | Metallic                                                  |     |
-| Splinted Armor Set        | Heavy   | Large  | steel    | suit   | (125) | Metallic                                                  |     |
-| Platemail Armor Set       | Heavy   | Large  | steel    | suit   | (160) | Metallic                                                  |     |
-| Monolith Exosuit          | Powered | Large  | steel    | suit   | (280) | Pockets (5x Small), Metallic, Fuel (charged suit battery) |     |
-
