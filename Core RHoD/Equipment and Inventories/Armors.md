@@ -78,7 +78,9 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 
 ` current example numbers give ~700 as MaxArmoring `
 
-> For example, let's examine a Steel Full-suit Armor, also known as 
+> For example, let's examine a Steel Plate Full-suit Armor as made for a traditional human - Medium sized.
+> Medium Armors have a SM of 2. Steel Plate has a MV of 8. Full-suit Armor has a CV of 15.
+> Material Value (8) + Coverage Value (15) = 
 
 ### Mundane Tags
 #### Padded (x)
