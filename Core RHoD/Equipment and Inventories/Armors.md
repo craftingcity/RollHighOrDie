@@ -43,33 +43,32 @@ This is the material the Armor is mostly composed of. It is used in addition to 
 #### Style
 This is the style of Armor, reflecting the Armor's Areas of Coverage, and is used in addition to the Armor's 'Material' and 'Size' to determine the total Armoring Value of the Armor.
 
-The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3. 
+The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, Feet have 1CV, Front has 2CV, and Suit has 3CV). 
 
 ##### Example Styles
-| Style           | Coverage Value | Areas of Coverage                                               |
-| --------------- | -------------- | --------------------------------------------------------------- |
-| Cap Helm        | 4              | (head - top, back)                                              |
-| Half Helm       | 6              | (head - top, back, sides)                                       |
-| Full Helm       | 8              | (head - top, back, sides, front)                                |
-| Eyewear         | 1              | (head - eyes)                                                   |
-| Facemask        | 2              | (head - front)                                                  |
-| Combat Vest     | 2              | (upper - front)                                                 |
-| Chestplate      | 4              | (upper - front, back)                                           |
-| Combat Jacket   | 6              | (upper - front, back, arms)                                     |
-| Bracers         | 2              | (upper - arms)                                                  |
-| Gauntlets       | 3              | (upper - arms, hands)                                           |
-| Gloves          | 1              | (upper - hands)                                                 |
-| Thighguards     | 2              | (lower - thigs)                                                 |
-| Shinguards      | 2              | (lower - shins)                                                 |
-| Greaves         | 3              | (lower - shins, feet)                                           |
-| Boots           | 1              | (lower - feet)                                                  |
-| Combat Pants    | 4              | (lower - thighs, shins)                                         |
-| Full-suit Armor | 12             | (upper & lower - front, back, arms, hands, thighs, shins, feet) |
-| Tank-suit Armor |                |                                                                 |
-| Buckler         | 3              | (upper - arms)                                                  |
-| Round Shield    | 6              | (upper - front, arms)                                           |
-| Kite Shield     | 5              | (upper - front, arms)                                           |
-| Tower Shield    | 8              | (upper & lower - front, arms, thighs, shins)                    |
+| Style           | Coverage Value | Areas of Coverage                                                     |
+| --------------- | -------------- | --------------------------------------------------------------------- |
+| Cap Helm        | 4              | (head - top, back)                                                    |
+| Half Helm       | 6              | (head - top, back, sides)                                             |
+| Full Helm       | 8              | (head - top, back, sides, front)                                      |
+| Eyewear         | 1              | (head - eyes)                                                         |
+| Facemask        | 2              | (head - front)                                                        |
+| Combat Vest     | 2              | (upper - front)                                                       |
+| Chestplate      | 4              | (upper - front, back)                                                 |
+| Combat Jacket   | 6              | (upper - front, back, arms)                                           |
+| Bracers         | 2              | (upper - arms)                                                        |
+| Gauntlets       | 3              | (upper - arms, hands)                                                 |
+| Gloves          | 1              | (upper - hands)                                                       |
+| Thighguards     | 2              | (lower - thigs)                                                       |
+| Shinguards      | 2              | (lower - shins)                                                       |
+| Greaves         | 3              | (lower - shins, feet)                                                 |
+| Boots           | 1              | (lower - feet)                                                        |
+| Combat Pants    | 4              | (lower - thighs, shins)                                               |
+| Full-suit Armor | 15             | (upper & lower - suit, front, back, arms, hands, thighs, shins, feet) | 
+| Buckler         | 3              | (upper - arms)                                                        |
+| Round Shield    | 6              | (upper - front, arms)                                                 |
+| Kite Shield     | 5              | (upper - front, arms)                                                 |
+| Tower Shield    | 8              | (upper & lower - front, arms, thighs, shins)                          |
 
 #### Armoring Value
 This is the total value of Armoring this Armor provides. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 
