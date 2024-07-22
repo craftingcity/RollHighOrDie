@@ -86,16 +86,6 @@
             }
           },
           {
-            "id": "74ca6f4099c1d95e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
             "id": "3ec4aff8be018d53",
             "type": "leaf",
             "state": {
@@ -119,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equipment and Inventories/Armors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equipment and Inventories/Armors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equipment and Inventories/Armors.md"
+              }
             }
           }
         ]
@@ -245,16 +238,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74ca6f4099c1d95e",
+  "active": "88197e79081b4fdc",
   "lastOpenFiles": [
+    "Equipment and Inventories/Inventory Management.md",
+    "Equipment and Inventories/Armors.md",
+    "Equipment and Inventories/Ranged Weapons.md",
     "conflict-files-obsidian-git.md",
     "Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Mounts.md",
-    "Equipment and Inventories/Ranged Weapons.md",
     "Equipment and Inventories/Melee Weapons.md",
     "Selections Glossary/Magics/Defined Arcane Spells.md",
-    "Equipment and Inventories/Armors.md",
-    "Equipment and Inventories/Inventory Management.md",
     "Equipment and Inventories/Ammunition.md",
     "Equipment and Inventories/Expansive Weapon and Ammunition Examples.md",
     "Environment Definitions.md",
