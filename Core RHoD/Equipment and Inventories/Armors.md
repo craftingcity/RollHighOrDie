@@ -64,7 +64,8 @@ The Style's Total Coverage Value is the total of all Coverage Values of the Styl
 | Greaves         | 3              | (lower - shins, feet)                                                 |
 | Boots           | 1              | (lower - feet)                                                        |
 | Combat Pants    | 4              | (lower - thighs, shins)                                               |
-| Full-suit Armor | 15             | (upper & lower - suit, front, back, arms, hands, thighs, shins, feet) | 
+| Combat Suit     | 3              | (upper & lower - suit)                                                | 
+| Full-suit Armor | 15             | (upper & lower - suit, front, back, arms, hands, thighs, shins, feet) |
 | Buckler         | 3              | (upper - arms)                                                        |
 | Round Shield    | 6              | (upper - front, arms)                                                 |
 | Kite Shield     | 5              | (upper - front, arms)                                                 |
@@ -75,7 +76,9 @@ This is the total value of Armoring this Armor provides. This value is equal to 
 
 Armoring = (Material Value + Coverage Value) * Size Multiplier
 
-` current example numbers give ~550 as MaxArmoring `
+` current example numbers give ~700 as MaxArmoring `
+
+> For example, let's examine a Steel Full-suit Armor, also known as 
 
 ### Mundane Tags
 #### Padded (x)
@@ -91,7 +94,7 @@ While you are wearing this Armor, your Dexterity Ability Score is reduced by the
 #### Fuel (x)
 ### Specialized Tags
 
-# Example Armors
+# Example Armors (OLD?)
 | Title                     | Base    | Size   | Material | Style  | A.V.  | Other                                                     |     |
 | ------------------------- | ------- | ------ | -------- | ------ | ----- | --------------------------------------------------------- | --- |
 | Leather Jacket            | Light   | Medium | leather  | jacket | (2)   | Pockets (2x Small)                                        |     |
