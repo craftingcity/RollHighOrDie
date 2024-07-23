@@ -55,7 +55,12 @@ Target a willing creature within 5ft of you. You provide them with the 'Aided' [
 You manipulate an object.
 
 > The following actions are example uses of the Interact Action;
-> 	
+> 	- UNPACK:
+> 	- OPEN:
+> 	- PREP:
+> 	- APPLY:
+> 	- INJEST:
+> 	- FEED:
 
 ## Reload
 ###### 2AP

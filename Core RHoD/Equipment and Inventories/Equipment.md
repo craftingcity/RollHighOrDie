@@ -10,12 +10,14 @@ While you manipulate your equipment by using the Interact Actions, you will prog
 
 ## Example Equipment
 ### Consumables
-#### Antitoxin
-Tiny (5), 2 Action Cost (UNPACK > INJEST)
+#### Vial of Antitoxin
+Tiny (5), 2 Action Cost (UNPACK > INJEST/FEED)
 
-INJEST: You resolve all stacks of the 'Posioned' [[Ailment]].
+INJEST: You consume the contents of the vial. You resolve all stacks of the 'Posioned' [[Ailment]].
 
-#### Antibiotic
+FEED: You feed the contents of the vial to 
+
+#### Bottle of Antibiotic
 Tiny (5), 2 Action Cost (UNPACK > INJEST)
 
 INJEST:
@@ -31,14 +33,15 @@ Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
-APPLY: You insert the needle into another willing creature. That creature gains 10 stacks of the 'Regeneration' [[Emboldenment]].
+APPLY: You insert the needle into another willing creature who is adjacent to you that you can see. That creature gains 10 stacks of the 'Regeneration' [[Emboldenment]].
 
 #### Burn Cream
 Tiny (5), x Action Cost (UNPACK > PREP > APPLY)
 
 #### Tourniquet
-#### Splint
-#### Painkillers
+#### Improvised Splint
+#### Medical Splint
+#### Bottle of Painkiller
 #### Vial of Poison
 ### Fuels
 #### Oil
