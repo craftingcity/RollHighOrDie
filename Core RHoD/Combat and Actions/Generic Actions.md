@@ -55,10 +55,11 @@ Target a willing creature within 5ft of you. You provide them with the 'Aided' [
 You manipulate an object.
 
 > The following actions are example uses of the Interact Action;
-> 	- UNPACK:
-> 	- OPEN:
-> 	- PREP:
-> 	- APPLY:
+> 	- UNPACK: You gather a packed item into your hand.
+> 	- HOLD: You gather a loose item into your hand.
+> 	- OPEN: You open a door, container, or similar object.
+> 	- PREP: You prepare the item for further use.
+> 	- APPLY: You apply the item to yourself or an adjacent 
 > 	- INJEST:
 > 	- FEED:
 
