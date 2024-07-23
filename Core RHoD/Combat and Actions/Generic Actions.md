@@ -57,11 +57,14 @@ You manipulate an object.
 > The following actions are example uses of the Interact Action;
 > 	- UNPACK: You gather a packed item into your hand.
 > 	- HOLD: You gather a loose item into your hand.
+> 	- PACK: You pack an item in your hand into a container.
 > 	- OPEN: You open a door, container, or similar object.
+> 	- CLOSE: You close a door, container, or similar object.
 > 	- PREP: You prepare the item for further use.
-> 	- APPLY: You apply the item to yourself or an adjacent 
-> 	- INJEST:
-> 	- FEED:
+> 	- APPLY: You apply the item to yourself or a willing creature who is adjacent to you and you can see.
+> 	- INJEST: You ingest the item.
+> 	- FEED: You feed the item to a willing creature who is adjacent to you and you can see.
+> 	- WRAP: You wrap the item around an object.
 
 ## Reload
 ###### 2AP
