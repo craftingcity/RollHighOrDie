@@ -45,6 +45,7 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Pole (10ft)
 #### Portable Ram
 ### Parts
-#### Steel Chain (10ft)
 #### Lock
+#### Steel Chain (10ft)
+####
 
