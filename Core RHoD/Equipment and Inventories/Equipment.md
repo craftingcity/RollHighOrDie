@@ -23,7 +23,12 @@ Tiny (10), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
 WRAP III: 
 
 #### Bloodbag
-Medium (3), Action Cost (UNPACK > PREP > LOCA)
+Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > POKE)
+
+LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, spend another Action Point to retry.
+
+POKE: You insert the needle into another willing creature. At the beginning of the creature's turn, they 
+
 #### Burn Cream
 #### Tourniquet
 #### Splint
