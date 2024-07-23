@@ -17,6 +17,9 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 #### Vial of Poison
 ### Fuels
 #### Oil
+#### Kerosene
+#### Gasoline
+#### Desel
 ### Gear
 #### Manacles / Handcuffs
 ### Lights
@@ -26,7 +29,7 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 #### Bullseye Lamp
 #### Flint & Steel
 #### Tinderbox
-#### T
+#### Torch
 ### Traps & Throwables
 #### Ball Bearings
 #### Beartrap
@@ -48,9 +51,14 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Pole (10ft)
 #### Portable Ram
 #### Shovel
+#### Grappling Hook
+#### Tent
+#### Sleeping Roll
+#### Lock
 ### Parts
 #### Hemp Rope (50ft)
 #### Lock
 #### Steel Chain (10ft)
-#### Steel Rope
+#### Steel Spike
 #### Vial
+#### Flask
