@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b5f94631e8f0ee35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "88197e79081b4fdc",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md"
               }
             }
           }
@@ -202,10 +214,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e12c86fb31fbe8de",
+  "active": "b5f94631e8f0ee35",
   "lastOpenFiles": [
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
@@ -228,7 +241,6 @@
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Features - Arcane.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Character Rules/Skills.md",
     "Magic Expansion/Features - Divine.md",

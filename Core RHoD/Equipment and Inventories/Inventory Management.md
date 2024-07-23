@@ -13,7 +13,7 @@ Inventory Slots may be used to store Items of smaller size categories:
 Many items should be contained together for ease of access and use, and are light enough that this is possible. These items are considered 'stackable' and will have a number after their Size that indicates that maximum number of these items that can fit together in one stack. Once this number is exceeded, excess items will need to be stored in another stack in a different Slot.
 
 #### Character Inventory
-Every character in RHoD is given a number of Inventory Slots under the assumption that these items are being carried, worn, or held. 
+Every character in RHoD is given a number of 'Equipment' Slots under the assumption that items stored in these Slots are being carried, worn, or held. 
 
 The slots given are as follows;
 	- Armor Worn (Large)
@@ -25,7 +25,7 @@ The slots given are as follows;
 	- Coinpurse (Small)
 	- Quiver (Small)
 
-In addition to these 'equipment' Slots, a character gains a number of additional slots based on their Strength Modifier, assumed to be the additional straps, bags, and pouches an Adventurer acquires over time. 
+In addition to these 'Equipment' Slots, a character gains a number of 'Strength Based' slots based on their Strength Modifier, assumed to be the additional straps, bags, and pouches an Adventurer acquires over time. 
 
 Characters who are considered Large gain an effective +4 to their Strength Modifier and characters who are considered Small incur an effective -4 to their Strength Modifier for calculating the number of 'Strength Based' Inventory Slots a character receives.
 

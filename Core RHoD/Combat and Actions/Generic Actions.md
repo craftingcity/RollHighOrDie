@@ -59,6 +59,7 @@ You manipulate an object.
 > 	- drawing or holstering a weapon
 > 	- opening a door
 > 	- using a consumable item on yourself
+> 	- accessing stored items
 
 ## Reload
 ###### 2AP
