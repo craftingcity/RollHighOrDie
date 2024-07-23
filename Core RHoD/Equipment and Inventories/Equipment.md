@@ -10,7 +10,12 @@ While you manipulate your equipment by using the Interact Actions, you will prog
 
 ## Example Equipment
 ### Consumables
-#### Antitoxin / Antipoison
+#### Antitoxin
+Tiny (5), 2 Action Cost (UNPACK > INJEST)
+
+INJEST:
+
+#### Antibiotic
 Tiny (5), 2 Action Cost (UNPACK > INJEST)
 
 INJEST:
@@ -22,13 +27,15 @@ WRAP II:
 WRAP III:
 
 #### Bloodbag
-Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > POKE)
+Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
-POKE: You insert the needle into another willing creature. 
+APPLY: You insert the needle into another willing creature. 
 
 #### Burn Cream
+Tiny (5), x Action Cost (UNPACK > PREP > APPLY)
+
 #### Tourniquet
 #### Splint
 #### Painkillers
