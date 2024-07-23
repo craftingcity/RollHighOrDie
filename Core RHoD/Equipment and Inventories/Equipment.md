@@ -23,7 +23,7 @@ WRAP III:
 #### Bloodbag
 Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > POKE)
 
-LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, spend another Action Point to retry.
+LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
 POKE: You insert the needle into another willing creature. 
 
