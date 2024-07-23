@@ -18,5 +18,7 @@ Tiny, 2+ Action Cost (UNPACK > HOLD > ...)
 
 THROW: You throw the vial at a Target within 30 feet of you that you can see. Make a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
 
+SPLASH: You splash the contents of the vial onto a Target adjacent to you that you can see. Make a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
+
 ### Tools
 
