@@ -11,14 +11,18 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 ## Example Equipment
 ### Consumables
 #### Antitoxin / Antipoison
-#### Healer's 
+#### Medical Kit
 ### Gear
 ### Lights
 #### Candle
+#### Open Lamp
+#### Hooded Lamp
+#### Bus
 ### Traps & Throwables
 #### Ball Bearings
+#### Beartrap
 #### Caltrops
-#### Vial of Sulfuric Acid
+#### Vial of Potent Acid
 Tiny, 3 Action Cost (UNPACK > HOLD > THROW/SPLASH)
 
 THROW: You throw the vial at a Target within 30 feet of you that you can see. Make a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
@@ -27,6 +31,7 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 
 ### Tools
 #### Crowbar
+#### Ladder, Collapsible
 #### Hammer
 ### Parts
 #### Steel Chain (10ft)
