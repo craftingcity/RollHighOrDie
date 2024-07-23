@@ -13,11 +13,10 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 ### Gear
 ### Lights
 ### Traps & Throwables
-#### Vial of Acid
+#### Vial of 
 Tiny, 2+ Action Cost (UNPACK > HOLD > ...)
 
-THROW: You throw the vial at a Target within 30 
+THROW: You throw the vial at a Target within 30 feet of you that you can see. Make a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
 
 ### Tools
-
 

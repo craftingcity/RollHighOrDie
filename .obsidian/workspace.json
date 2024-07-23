@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "damage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e12c86fb31fbe8de",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
