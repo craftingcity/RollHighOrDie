@@ -30,8 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f2e14433e7e5f518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9965bc1fc857cd92",
@@ -68,18 +81,6 @@
               "type": "markdown",
               "state": {
                 "file": "Core RHoD/Character Rules/Features.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f2e14433e7e5f518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "mode": "source",
                 "source": true
               }
