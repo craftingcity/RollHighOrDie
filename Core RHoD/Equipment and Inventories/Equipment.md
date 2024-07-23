@@ -6,9 +6,7 @@ For ease of access and presentation, [[Armors]], [[Ammunition]], [[Melee Weapons
 ## Using Equipment
 To use Equipment, a character will take a number of Interact Actions to manipulate the Equipment into activating it's mechanical effect. The Interact Actions required are totaled and listed as the Equipment's Action Cost. 
 
-A character must have at least one Hand free to use Equipment - if you are holding something in your hand, you must take an Interact Action to sheath or stow it before using the equipment. 
-
-If a character cannot fully pay for the Action Cost to activate an equipment, they may take as many Interact Actions as they can in preparation for their next turn, when they can continue taking Interact Actions to complete the activation.
+While you manipulate your equipment by using the Interact Actions, you will progress through the Equipment's Action Cost. You do not need to take all of the Interact Actions on one turn, and your progress through the Action Cost is saved
 
 ## Example Equipment
 ### Consumables
