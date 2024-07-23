@@ -3,4 +3,4 @@ In the game of RHoD, a character's Equipment are their second avenue of versatil
 
 For ease of access and presentation, [[Armors]], [[Melee Weapons]], and [[Ranged Weapons]] are more explicitly explained later.
 
-To use Equipment, a character relies on the Interact Action to manipulate the Equipment 
+To use Equipment, a character will take a number of Interact Actions to manipulate the Equipment into activating it's mechanical effect. These actions are totaled and listed as the Equipment's Interaction Use Cost, which .
