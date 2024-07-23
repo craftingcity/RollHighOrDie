@@ -24,6 +24,9 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 #### Open Lamp
 #### Hooded Lamp
 #### Bullseye Lamp
+#### Flint & Steel
+#### Tinderbox
+#### T
 ### Traps & Throwables
 #### Ball Bearings
 #### Beartrap
@@ -44,8 +47,10 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Piton
 #### Pole (10ft)
 #### Portable Ram
+#### Shovel
 ### Parts
+#### Hemp Rope (50ft)
 #### Lock
 #### Steel Chain (10ft)
-####
-
+#### Steel Rope
+#### Vial
