@@ -14,7 +14,10 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 ### Lights
 ### Traps & Throwables
 #### Vial of Acid
-Size: Tiny
+Tiny, 2+ Action Cost (UNPACK > HOLD > ...)
+
+THROW: You throw the vial at a Target within 30 
+
 ### Tools
 
 
