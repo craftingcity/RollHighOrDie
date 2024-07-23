@@ -15,7 +15,10 @@ If a character cannot fully pay for the Action Cost to activate an equipment, th
 #### Antitoxin / Antipoison
 #### Bandage
 #### Bloodbag
+#### Burn Cream
 #### Tourniquet
+#### Splint
+#### Pain
 #### Vial of Poison
 ### Fuels
 #### Oil
