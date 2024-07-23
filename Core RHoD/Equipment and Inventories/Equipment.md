@@ -11,8 +11,10 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 ## Example Equipment
 ### Consumables
 #### Antitoxin / Antipoison
+#### Bandage
 #### Medical Kit
-#### 
+#### Tourniquet
+#### Vial of Poison
 ### Fuels
 #### Oil
 ### Gear
@@ -40,6 +42,8 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Magnifying Glass
 #### Pickaxe
 #### Piton
+#### Pole (10ft)
+#### Portable Ram
 ### Parts
 #### Steel Chain (10ft)
 #### Lock
