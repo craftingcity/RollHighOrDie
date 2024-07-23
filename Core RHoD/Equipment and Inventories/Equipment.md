@@ -9,9 +9,12 @@ To use Equipment, a character will take a number of Interact Actions to manipula
 These Interact Actions are totaled and listed as the Equipment's Action Cost, which is the total number of Action Points a character spends manipulating the equipment into it's activated state, assuming it is not stored in your Main or Off Hands.
 
 ## Example Equipment
-#### Gear
-#### Lights
-#### Traps
-#### Tools
+### Consumables
+### Gear
+### Lights
+### Traps & Throwables
+#### Vial of Acid
+Size: Tiny
+### Tools
 
 
