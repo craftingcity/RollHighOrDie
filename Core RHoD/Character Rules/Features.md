@@ -1,5 +1,5 @@
 # Preamble
-Features are the abilities that characters gain throughout their time under the spotlight of your game. Features are typically active abilities, and have Action Point requirements. 
+Features are the abilities that characters gain throughout their time under the spotlight of your game. Features are typically active abilities, and have Action Point requirements. A character's Features are their first and most direct avenue of versatility.
 
 Some Features have Prerequisites that you must meet or surpass before you are eligible to take that feature.
 
