@@ -34,6 +34,7 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 #### Ball Bearings
 #### Beartrap
 #### Caltrops
+#### Snare
 #### Vial of Potent Acid
 Tiny, 3 Action Cost (UNPACK > HOLD > THROW/SPLASH)
 
@@ -54,11 +55,14 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Grappling Hook
 #### Tent
 #### Sleeping Roll
-#### Lockpicking Kit
 #### Drill
 #### Saw
 #### Mirror
-#### 
+#### Water Purifier
+### Toolkits
+#### Lockpicking Kit
+#### Chemical Kit
+#### Disguise K
 ### Parts
 #### Hemp Rope (50ft)
 #### Lock
