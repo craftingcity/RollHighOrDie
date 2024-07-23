@@ -57,9 +57,10 @@ You manipulate an object.
 > The following actions fall under the Interact Generic Action;
 > 	- grabbing an item you can reach
 > 	- drawing or holstering a weapon
-> 	- opening a door
+> 	- opening a door, chest, or bag
 > 	- using a consumable item on yourself
 > 	- accessing stored items
+> 	- throw an item
 
 ## Reload
 ###### 2AP
