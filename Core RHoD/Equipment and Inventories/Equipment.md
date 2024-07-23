@@ -18,7 +18,8 @@ INJEST:
 #### Bandage
 Tiny (10), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
 
-WRAP III: 
+WRAP II:
+WRAP III:
 
 #### Bloodbag
 Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > POKE)
