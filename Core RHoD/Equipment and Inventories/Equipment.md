@@ -13,7 +13,7 @@ While you manipulate your equipment by using the Interact Actions, you will prog
 #### Antitoxin
 Tiny (5), 2 Action Cost (UNPACK > INJEST)
 
-INJEST:
+INJEST: You resolve all stacks of the 'Posioned' [[Ailment]].
 
 #### Antibiotic
 Tiny (5), 2 Action Cost (UNPACK > INJEST)

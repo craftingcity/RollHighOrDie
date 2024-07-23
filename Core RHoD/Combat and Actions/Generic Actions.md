@@ -54,13 +54,8 @@ Target a willing creature within 5ft of you. You provide them with the 'Aided' [
 
 You manipulate an object.
 
-> The following actions fall under the Interact Generic Action;
-> 	- grabbing an item you can reach
-> 	- drawing or holstering a weapon
-> 	- opening a door, chest, or bag
-> 	- using a consumable item on yourself
-> 	- accessing stored items
-> 	- throw an item
+> The following actions are example uses of the Interact Action;
+> 	
 
 ## Reload
 ###### 2AP
