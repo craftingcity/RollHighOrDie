@@ -18,9 +18,12 @@ Tiny (5), 2 Action Cost (UNPACK > INJEST)
 INJEST:
 
 #### Bandage
-Tiny ()
+Tiny (10), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
+
+WRAP III: 
 
 #### Bloodbag
+Medium (3), Action Cost (UNPACK > PREP > LOCA)
 #### Burn Cream
 #### Tourniquet
 #### Splint
