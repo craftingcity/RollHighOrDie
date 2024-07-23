@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9965bc1fc857cd92",
@@ -116,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "damage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
+                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md"
               }
             }
           }
@@ -216,11 +214,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "b5f94631e8f0ee35",
   "lastOpenFiles": [
-    "Core RHoD/Equipment and Inventories/Armors.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
+    "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
