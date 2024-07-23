@@ -12,12 +12,16 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 ### Consumables
 #### Antitoxin / Antipoison
 #### Medical Kit
+#### 
+### Fuels
+#### Oil
 ### Gear
+#### Manacles / Handcuffs
 ### Lights
 #### Candle
 #### Open Lamp
 #### Hooded Lamp
-#### Bus
+#### Bullseye Lamp
 ### Traps & Throwables
 #### Ball Bearings
 #### Beartrap
@@ -33,6 +37,10 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Crowbar
 #### Ladder, Collapsible
 #### Hammer
+#### Magnifying Glass
+#### Pickaxe
+#### Piton
 ### Parts
 #### Steel Chain (10ft)
+#### Lock
 
