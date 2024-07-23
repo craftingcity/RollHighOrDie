@@ -6,7 +6,7 @@ For ease of access and presentation, [[Armors]], [[Ammunition]], [[Melee Weapons
 ## Using Equipment
 To use Equipment, a character will take a number of Interact Actions to manipulate the Equipment into activating it's mechanical effect. The Interact Actions required are totaled and listed as the Equipment's Action Cost. 
 
-While you manipulate your equipment by using the Interact Actions, you will progress through the Equipment's Action Cost. You do not need to take all of the Interact Actions on one turn, and your progress through the Action Cost is saved
+While you manipulate your equipment by using the Interact Actions, you will progress through the Equipment's Action Cost. You do not need to take all of the Interact Actions on one turn, and your progress through the Action Cost is saved. When you take one of the Interact Actions that has a listed effect, perform and resolve it immediately.
 
 ## Example Equipment
 ### Consumables
