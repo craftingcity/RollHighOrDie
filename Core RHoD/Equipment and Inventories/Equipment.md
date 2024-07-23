@@ -22,13 +22,13 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 #### Desel
 ### Gear
 #### Manacles / Handcuffs
+#### Harness
 ### Lights
 #### Candle
 #### Open Lamp
 #### Hooded Lamp
 #### Bullseye Lamp
-#### Flint & Steel
-#### Tinderbox
+#### Flint & Steel / Tinderbox
 #### Torch
 ### Traps & Throwables
 #### Ball Bearings
@@ -54,7 +54,11 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Grappling Hook
 #### Tent
 #### Sleeping Roll
-#### Lock
+#### Lockpicking Kit
+#### Drill
+#### Saw
+#### Mirror
+#### 
 ### Parts
 #### Hemp Rope (50ft)
 #### Lock
