@@ -36,9 +36,11 @@ LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 o
 APPLY: You insert the needle into another willing creature who is adjacent to you and you can see. That creature gains 10 stacks of the 'Regeneration' [[Emboldenment]].
 
 #### Burn Cream
-Tiny (5), x Action Cost (UNPACK > PREP > APPLY)
+Tiny (5), 3 Action Cost (UNPACK > PREP > APPLY)
 
 #### Tourniquet
+Tiny (5), 3 Action Cost (UNPACK > WRAP > APPLY)
+
 #### Improvised Splint
 #### Medical Splint
 #### Bottle of Painkiller
