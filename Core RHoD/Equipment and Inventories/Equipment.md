@@ -14,6 +14,7 @@ If a character cannot fully pay for the Action Cost to activate an equipment, th
 ### Consumables
 #### Antitoxin / Antipoison
 #### Bandage
+#### Bloodbag
 #### Tourniquet
 #### Vial of Poison
 ### Fuels
@@ -37,7 +38,7 @@ If a character cannot fully pay for the Action Cost to activate an equipment, th
 #### Caltrops
 #### Snare
 #### Vial of Potent Acid
-Tiny, 3 Action Cost (UNPACK > HOLD > THROW/SPLASH)
+Tiny (5), 3 Action Cost (UNPACK > HOLD > THROW/SPLASH)
 
 THROW: You throw the vial at a Target within 30 feet of you that you can see. Make a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
 
@@ -60,6 +61,7 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Saw
 #### Mirror
 #### Water Purifier
+#### Whistle
 ### Toolkits
 #### Lockpicking Kit
 #### Chemical Kit
