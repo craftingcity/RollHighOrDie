@@ -12,14 +12,13 @@ These Interact Actions are totaled and listed as the Equipment's Action Cost, wh
 ### Consumables
 #### Antitoxin / Antipoison
 #### Bandage
-#### Medical Kit
 #### Tourniquet
 #### Vial of Poison
 ### Fuels
 #### Oil
 #### Kerosene
 #### Gasoline
-#### Desel
+#### Diesel
 ### Gear
 #### Manacles / Handcuffs
 #### Harness
@@ -62,7 +61,9 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 ### Toolkits
 #### Lockpicking Kit
 #### Chemical Kit
-#### Disguise K
+#### Disguise Kit
+#### Medical Kit
+#### Appraisal Kit
 ### Parts
 #### Hemp Rope (50ft)
 #### Lock
