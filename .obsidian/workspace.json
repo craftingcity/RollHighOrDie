@@ -60,9 +60,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fe1c7311acf38666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "276f64cbea2a0669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md"
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md"
               }
             }
           }
@@ -190,11 +214,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2fdc5f57b0f844e",
+  "active": "276f64cbea2a0669",
   "lastOpenFiles": [
+    "Core RHoD/Combat and Actions/Actions During Encounters.md",
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Ailment.md",
@@ -220,8 +246,6 @@
     "Core RHoD/Selections Glossary/Traits",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Selections Glossary",
     "Core RHoD/Equipment and Inventories",
     "Core RHoD/Combat and Actions",
