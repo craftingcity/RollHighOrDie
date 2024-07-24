@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "mode": "source",
                 "source": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
               }
             }
           }
@@ -215,6 +215,7 @@
   },
   "active": "5eafc8460bef9879",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
@@ -244,7 +245,6 @@
     "Core RHoD/Selections Glossary/Features",
     "Core RHoD/Selections Glossary/Traits",
     "Core RHoD/Selections Glossary/Condition.md",
-    "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Core RHoD/Selections Glossary",
     "Core RHoD/Equipment and Inventories",
     "Core RHoD/Combat and Actions",
