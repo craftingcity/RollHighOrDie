@@ -22,6 +22,8 @@ Tiny (5), 2 Action Cost (UNPACK > INJEST)
 
 INJEST:
 
+#### Bottle of Antiseptic
+
 #### Bandage
 Tiny (10), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
 
