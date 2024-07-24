@@ -45,11 +45,17 @@ Tiny (5), 3 Action Cost (UNPACK > PREP > APPLY)
 Tiny (5), 3 Action Cost (UNPACK > WRAP > APPLY)
 
 #### Improvised Splint
-Medium (1), Action Cost (UNPACK > )
+Medium (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
 
 #### Medical Splint
+Medium (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
+
 #### Bottle of Painkiller
+Tiny (5), 2 Action Cost (UNPACK > INJEST or FEED)
+
 #### Vial of Poison
+Tiny (5), 2 Action Cost (UNPACK > FEED or APPLY)
+
 ### Fuels
 #### Oil
 #### Kerosene
