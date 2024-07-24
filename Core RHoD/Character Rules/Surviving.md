@@ -33,12 +33,12 @@ When a day passes or you take a Full Rest, you will gain or lose conditions base
 - If you drink a Half Ration, you gain a stack of the 'Dehydrated' [[Condition]].
 - If you drink no Ration, you gain three stacks of the 'Dehydrated' [[Condition]]. 
 
-## Rest
-Rest allows your body to perform the unconscious processes that will rejuvenate and recuperate your physical and mental health.
+## Sleep
+Sleep allows your body to perform the unconscious processes that will rejuvenate and recuperate your physical and mental health.
 
-While you are Resting, you will fulfill your character's need for Rest.
+While you are Resting, you will fulfill your character's need for Sleep.
 
-When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Rest you've had.
+When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Sleep you've had.
 
 - If you Rest for 8 or more hours, you lose one stack of the 'Exhausted' [[Condition]] or you gain the 'Well Rested' [[Condition]] if you have no 'Exhausted' stacks.
 - If you Rest for more than 4 hours, but less than 8, you experience no mechanical benefit or detriment.
