@@ -65,6 +65,7 @@ You manipulate an object.
 > 	- INJEST: You ingest the item.
 > 	- FEED: You feed the item to a willing creature who is adjacent to you and you can see.
 > 	- WRAP: You wrap the item around an object.
+> 	- LOCATE: You spend time feeling or visually searching for a fine detail.
 
 ## Reload
 ###### 2AP

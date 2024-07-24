@@ -18,11 +18,12 @@ INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poi
 FEED: You feed the contents of the vial to another willing creature who is adjacent to you and you can see. That creature resolves all stacks of the 'Poisoned' [[Ailment]].
 
 #### Bottle of Antibiotic
-Tiny (5), 2 Action Cost (UNPACK > INJEST)
+Tiny (5), 2 Action Cost (UNPACK > INJEST or FEED)
 
 INJEST:
 
 #### Bottle of Antiseptic
+Tiny (5), 2 Action Cost (UNPACK > APPLY)
 
 #### Bandage
 Tiny (10), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
@@ -44,6 +45,8 @@ Tiny (5), 3 Action Cost (UNPACK > PREP > APPLY)
 Tiny (5), 3 Action Cost (UNPACK > WRAP > APPLY)
 
 #### Improvised Splint
+Medium (1), Action Cost (UNPACK > )
+
 #### Medical Splint
 #### Bottle of Painkiller
 #### Vial of Poison
