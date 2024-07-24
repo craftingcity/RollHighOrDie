@@ -4,82 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89157571819144bd",
+        "id": "db57b01feac0ca1d",
         "type": "tabs",
         "children": [
           {
-            "id": "141ee88493320137",
+            "id": "55b2d4ee0c752af0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Creating A Character.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dd645d7c8b4f0ef3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5eafc8460bef9879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a28768e7d46d86fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Surviving.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f2fdc5f57b0f844e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fe1c7311acf38666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "276f64cbea2a0669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                "file": "Core RHoD/Character Sheet.md",
                 "mode": "source",
                 "source": true
               }
@@ -151,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
+                "file": "Core RHoD/Character Sheet.md"
               }
             }
           }
@@ -213,21 +147,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5eafc8460bef9879",
+  "active": "55b2d4ee0c752af0",
   "lastOpenFiles": [
-    "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Surviving.md",
+    "Core RHoD/Character Sheet.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
+    "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Character Rules/Traits.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
@@ -241,10 +177,8 @@
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magical Equipment.md",
     "Magic Expansion",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Features",
     "Core RHoD/Selections Glossary/Traits",
-    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary",
     "Core RHoD/Equipment and Inventories",
     "Core RHoD/Combat and Actions",
