@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "mode": "source",
                 "source": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md"
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
               }
             }
           }
@@ -215,6 +215,7 @@
   },
   "active": "5eafc8460bef9879",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
@@ -239,7 +240,6 @@
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magical Equipment.md",
     "Magic Expansion",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Features",
     "Core RHoD/Selections Glossary/Traits",
