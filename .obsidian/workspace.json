@@ -26,6 +26,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "408fb574a38be80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Experience.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "30635cb515d9fdb1",
             "type": "leaf",
             "state": {
@@ -167,8 +179,9 @@
   },
   "active": "141ee88493320137",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Ability Scores.md",
+    "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Creating A Character.md",
+    "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Skills.md",
     "Equipment and Inventories/Inventory Management.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
@@ -196,7 +209,6 @@
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Selections Glossary",
     "Core RHoD/Equipment and Inventories",
     "Core RHoD/Combat and Actions",
