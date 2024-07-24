@@ -7,8 +7,13 @@ As a Player in the game of RHoD, you will act as a Character that you will work 
 	2. Perform the above 6 times, noting the individual totals.
 	3. Assign the rolled totals as your Ability Scores.
 	4. Your Ability Score Modifier for a given Score is the value of that Ability Score divided by 2, and subtracted by 5.
-		- AS
-2. Introduce Character Concept
+		- *Modifier = (Score / 2) - 5*
+2. Introduce your Character Concept to your Referee
+	1. Who is your character in the setting?
+	2. What have they been doing before our story begins?
+	3. Why is this character unique?
+	4. How does this character feel about what happened?
+	5. Where 
 3. Spend 4 [[Experience]]
 	- It is recommended that you attain at least one [[Features]], one [[Traits]], and one or more Combat [[Skills]] for creating your first Character.
 4. Acquire Equipment
