@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "23f42dfa98225641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "cde6beedb14c0da9",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Traits.md",
+                "file": "Core RHoD/Character Rules/Defenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Traits.md",
+                "file": "Core RHoD/Character Rules/Defenses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Traits.md"
+                "file": "Core RHoD/Character Rules/Defenses.md"
               }
             }
           }
@@ -190,13 +202,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5eafc8460bef9879",
+  "active": "23f42dfa98225641",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Experience.md",
-    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Equipment and Inventories/Inventory Management.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
