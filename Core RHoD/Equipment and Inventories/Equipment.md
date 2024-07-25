@@ -20,10 +20,14 @@ FEED: You feed the contents of the vial to another willing creature who is adjac
 #### Bottle of Antibiotic
 Tiny (5), 2 Action Cost (UNPACK > INJEST or FEED)
 
-INJEST:
+INJEST: You consume the contents of the vial. You resolve all stacks of the 'Infected' [[Ailment]].
+
+FEED: You feed the contents of the vial to another willing creature who is adjacent to you and you can see. That creature resolves all stacks of the 'Infected' [[Ailment]].
 
 #### Bottle of Antiseptic
 Tiny (5), 2 Action Cost (UNPACK > APPLY)
+
+APPLY:
 
 #### Bandage
 Tiny (10), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
@@ -75,8 +79,11 @@ Tiny (5), 2 Action Cost (UNPACK > FEED or APPLY)
 #### Ball Bearings
 #### Beartrap
 #### Caltrops
-#### Snare
-#### Vial of Potent Acid
+#### Hand Grenade
+#### Molotov Grenade
+#### Light Snare
+#### Heavy Snare
+#### Vial of Acid
 Tiny (5), 2 Action Cost (UNPACK > THROW/SPLASH)
 
 THROW: You throw the vial at a Target within 30 feet of you that you can see. Make a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
