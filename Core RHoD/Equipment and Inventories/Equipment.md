@@ -90,7 +90,9 @@ APPLY II: You finish applying the splint to a wound. The creature you applied th
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 
 #### Vial of Poison
-Tiny (1), 2 Action Cost (UNPACK > SPLASH or FORCE > FEED)
+Tiny (1), 2 Action Cost (UNPACK > APPLY or FEED)
+
+
 
 ### Fuels
 #### Oil
