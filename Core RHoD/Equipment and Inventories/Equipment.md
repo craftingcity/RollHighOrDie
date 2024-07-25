@@ -26,8 +26,8 @@ Tool Actions are the specific uses that a Tool or Toolkit have. Any combination 
 Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
-	- Tools with CONTAIN, CHEMISTRY - CONTAIN Tool is consumed
-	- 
+	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
+	- 1x "Healing Materials"
 
 INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]].
 
@@ -35,6 +35,10 @@ FEED: You feed the contents of the vial to another adjacent creature you can see
 
 #### Bottle of Antibiotic
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
+Creation: 
+	- 1 Watch spent at 16+ Alchemy or Herbalism
+	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
+	- 1x "Healing Materials"
 
 INJEST: You consume the contents of the bottle. You resolve all stacks of the 'Infected' [[Ailment]].
 
@@ -42,11 +46,18 @@ FEED: You feed the contents of the vial to another adjacent creature you can see
 
 #### Bottle of Antiseptic
 Tiny (5), 2 Action Cost (UNPACK > APPLY)
+Creation: 
+	- 1 Watch spent at 16+ Alchemy or Herbalism
+	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
+	- 1x "Healing Materials"
 
 APPLY: You apply the contents of the bottle to a wound. The creature you applied the contents to resolves a stack of the 'Poisoned' or 'Infected' [[Ailment]], their choice. Then, they take 1 True Necrotic Damage.
 
 #### Bandage
 Tiny (3), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
+Creation:
+	- 1 Watch spent at 8+ Crafting, Bushcraft, Weaving
+	- Tools with *CUTTING*
 
 WRAP I: You wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
 WRAP II: You continue to wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
