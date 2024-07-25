@@ -41,7 +41,7 @@ Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
-APPLY: You insert the needle into another willing creature who is adjacent to you and you can see. That creature gains 10 stacks of the 'Regeneration' [[Emboldenment]].
+APPLY: You insert the needle into another willing creature who is adjacent to you and you can see. That creature gains 2d4 + 3 stacks of the 'Regeneration' [[Emboldenment]].
 
 #### Burn Cream
 Tiny (2), 3 Action Cost (UNPACK > PREP > APPLY)
