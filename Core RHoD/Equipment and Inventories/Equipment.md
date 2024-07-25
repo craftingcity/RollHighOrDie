@@ -12,9 +12,9 @@ While you manipulate your equipment by using the Interact Actions, you will prog
 Equipment is inherently made or manufactured by a creature - if you so desire, that creature may be your character.
 
 Creating equipment requires time, skill, equipment, and materials. When combined, a crafter will have made a number of final product. While you are Creating equipment, the unfinished product is size of the finished product, and must be stored as such.
-	- Creation Time is the number of Watches spent succeeding on the related Skill Check.
-	- Creation Skill is the Skill related to this type of equipment and the Difficulty Class of succeeding in the creation of this item.
-	- Creation Equipment is the total Tool Actions required to work on this equipment's Creation.
+	- Creation Time is the total number of Watches required succeeding on the related Skill Check.
+	- Creation Skill are the Skills related to the Creation process of this equipment and the Difficulty Class of succeeding in Creation.
+	- Creation Equipment are the total Tool Actions required to work on this equipment's Creation.
 	- Creation Materials are the non-equipment items assembled as a part of the Creation process.
 
 ## Example Equipment
@@ -119,6 +119,12 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Mirror
 #### Water Purifier
 #### Whistle
+#### Hemp Rope (50ft)
+#### Lock
+#### Steel Chain (10ft)
+#### Steel Spike
+#### Vial
+#### Flask
 ### Toolkits
 #### Medical Kit
 #### Repair Kit
@@ -126,10 +132,4 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Chemical Kit
 #### Disguise Kit
 #### Appraisal Kit
-### Parts
-#### Hemp Rope (50ft)
-#### Lock
-#### Steel Chain (10ft)
-#### Steel Spike
-#### Vial
-#### Flask
+
