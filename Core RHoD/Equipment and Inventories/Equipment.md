@@ -18,12 +18,13 @@ Creating Equipment requires time, skill, tools, and materials. When combined, a 
 	- Creation Materials are the generic non-equipment items assembled as a part of the Creation process.
 
 #### Tool Actions
-Tool Actions are the specific uses that a Tool or Toolkit have. Any combination of equipment with relevant Tool Actions 
+Tool Actions are the specific uses that a Tool or Toolkit have. Any combination of equipment with relevant Tool Actions will fulfill Tool Action requirements. Providing more Tools with relevant Tool Actions does not benefit the Creation process.
 
 ## Example Equipment
 ### Consumables
 #### Vial of Antitoxin
 Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
+Creation: 1 Watch
 
 INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]].
 
