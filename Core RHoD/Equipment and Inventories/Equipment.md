@@ -14,6 +14,8 @@ Equipment is inherently made or manufactured by a creature - if you so desire, t
 Creating equipment requires time, skill, equipment, and materials. When combined, a crafter will have made a number of final product. While you are Creating equipment, the unfinished product is size of the finished product, and must be stored as such.
 	- Creation Time is the number of Watches spent succeeding on the related Skill Check.
 	- Creation Skill is the Skill related to this type of equipment and the Difficulty Class of succeeding in the creation of this item.
+	- Creation Equipment is the total Tool Actions required to work on this equipment's Creation.
+	- Creation Materials are the non-equipment items assembled as a part of the Creation process.
 
 ## Example Equipment
 ### Consumables
