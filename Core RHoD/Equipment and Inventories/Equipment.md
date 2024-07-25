@@ -24,7 +24,10 @@ Tool Actions are the specific uses that a Tool or Toolkit have. Any combination 
 ### Consumables
 #### Vial of Antitoxin
 Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
-Creation: 1 Watch
+Creation: 
+	- 1 Watch spent at 16+ Alchemy or Herbalism
+	- Tools with CONTAIN, CHEMISTRY - CONTAIN Tool is consumed
+	- 
 
 INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]].
 
