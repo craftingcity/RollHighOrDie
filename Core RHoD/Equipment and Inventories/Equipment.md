@@ -79,16 +79,18 @@ APPLY: You apply the contents to a wound. The creature you applied the contents 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
 
-APPLY: You apply the tourniquet above a wound. The creature you applied the tourniquet to resolves 4
+APPLY: You apply the tourniquet above a wound. The creature you applied the tourniquet to resolves 4 stacks of the 'Bleeding' [[Ailment]].
 
 #### Splint
 Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
+
+APPLY II: You finish applying the splint to a wound. The creature you applied the splint to resolves a stack of the 'Hobbled' [[Ailment]].
 
 #### Bottle of Painkiller
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 
 #### Vial of Poison
-Tiny (1), 2 Action Cost (UNPACK > FEED or APPLY)
+Tiny (1), 2 Action Cost (UNPACK > SPLASH or FORCE > FEED)
 
 ### Fuels
 #### Oil
