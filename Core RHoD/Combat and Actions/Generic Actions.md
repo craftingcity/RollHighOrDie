@@ -28,7 +28,7 @@ You must have at least one free hand to use this Action.
 Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may push your target 5' into a space within 10' of you or you you may push your target into Prone Stance.
 
 ## Maneuver
-###### 2 AP
+###### 1 AP
 'You move, positioning yourself in the most favorable position you can yet reach.'
 
 Choose one:
@@ -37,10 +37,12 @@ Choose one:
 	- You may climb, crawl, or jump up to 5 feet.
 
 ## Detect
-###### 2AP
+###### 1 AP
 'You take a moment to scan your surroundings, identifying hidden threats and relevant information within the area.'
 
-Make a Perception Skill Check. Any creatures in the area under the 'Hidden' [[Condition]] must make a Stealth Skill Check equal to or greater than your total, or they are no longer 'Hidden'.
+Make a Perception Skill Check. You gain information regarding what you can sense in the area.
+
+Any creatures in the area under the 'Hidden' [[Condition]] must make a Stealth Skill Check equal to or greater than your total, or they are no longer 'Hidden'.
 
 ## Aid
 ###### 2 AP
@@ -49,7 +51,7 @@ Make a Perception Skill Check. Any creatures in the area under the 'Hidden' [[Co
 Target a willing creature within 5ft of you. You provide them with the 'Aided' [[Emboldenment]] as you move to assist them on their next action.
 
 ## Interact
-###### 1AP
+###### 1 AP
 'You take a moment to grab, pull, or push in a simple quick motion.'
 
 You manipulate an object.
@@ -68,7 +70,7 @@ You manipulate an object.
 > 	- LOCATE: You spend time feeling or visually searching for a fine detail.
 
 ## Reload
-###### 2AP
+###### 2 AP
 ''
 
 You reload a Weapon in your hand with as much ammunition as you can.

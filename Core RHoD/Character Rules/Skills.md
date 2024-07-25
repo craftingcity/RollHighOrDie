@@ -113,7 +113,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Natural
 
 ## Professional Skills
-+x hours with source
++x hours performed
 #### Alchemy
 #### Artistry
 #### Bushcraft
