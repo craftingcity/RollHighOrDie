@@ -27,7 +27,7 @@ FEED: You feed the contents of the vial to another willing creature who is adjac
 #### Bottle of Antiseptic
 Tiny (5), 2 Action Cost (UNPACK > APPLY)
 
-APPLY:
+APPLY: You pour the Antiseptic onto a wound.
 
 #### Bandage
 Tiny (10), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
