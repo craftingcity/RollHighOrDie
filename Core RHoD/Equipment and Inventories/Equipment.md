@@ -58,7 +58,7 @@ Tiny (3), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
 Creation:
 	- 1 Watch spent at 8+ Crafting, Bushcraft, Weaving
 	- Tools with *CUTTING*
-	- 1x "Fiber Sheet" -> 2x Bandage
+	- 1x "Fiber Sheet" -> 3x Bandage
 
 WRAP I: You wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
 WRAP II: You continue to wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
