@@ -11,10 +11,9 @@ While you manipulate your equipment by using the Interact Actions, you will prog
 ## Creating Equipment
 Equipment is inherently made or manufactured by a creature - if you so desire, that creature may be your character.
 
-Creating equipment requires time, proficiency, equipment, and materials. When combined, a crafter will have made a number of final product.
-
-#### Time
-Creation Time is given in number of Watches spent succeeding on the related Skill Check.
+Creating equipment requires time, skill, equipment, and materials. When combined, a crafter will have made a number of final product. While you are Creating equipment, the unfinished product is size of the finished product, and must be stored as such.
+	- Creation Time is the number of Watches spent succeeding on the related Skill Check.
+	- Creation Skill is the Skill related to this type of equipment and the Difficulty Class of succeeding in the creation of this item.
 
 ## Example Equipment
 ### Consumables
