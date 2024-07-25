@@ -11,14 +11,14 @@ While you manipulate your equipment by using the Interact Actions, you will prog
 ## Example Equipment
 ### Consumables
 #### Vial of Antitoxin
-Tiny (5), 2 Action Cost (UNPACK > INJEST or FEED)
+Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
 
 INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]].
 
 FEED: You feed the contents of the vial to another willing creature who is adjacent to you and you can see. That creature resolves all stacks of the 'Poisoned' [[Ailment]].
 
 #### Bottle of Antibiotic
-Tiny (5), 2 Action Cost (UNPACK > INJEST or FEED)
+Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 
 INJEST: You consume the contents of the vial. You resolve all stacks of the 'Infected' [[Ailment]].
 
@@ -27,10 +27,10 @@ FEED: You feed the contents of the vial to another willing creature who is adjac
 #### Bottle of Antiseptic
 Tiny (5), 2 Action Cost (UNPACK > APPLY)
 
-APPLY: You pour the Antiseptic onto a wound.
+APPLY: You pour the Antiseptic onto a wound. The creature you applied Antiseptic to resolves a stack of the 'Poisoned' or 'Infected' [[Ailment]], their choice. Then, they take
 
 #### Bandage
-Tiny (10), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
+Tiny (3), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
 
 WRAP II:
 WRAP III:
@@ -43,22 +43,22 @@ LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 o
 APPLY: You insert the needle into another willing creature who is adjacent to you and you can see. That creature gains 10 stacks of the 'Regeneration' [[Emboldenment]].
 
 #### Burn Cream
-Tiny (5), 3 Action Cost (UNPACK > PREP > APPLY)
+Tiny (2), 3 Action Cost (UNPACK > PREP > APPLY)
 
 #### Tourniquet
-Tiny (5), 3 Action Cost (UNPACK > WRAP > APPLY)
+Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
 
 #### Improvised Splint
-Medium (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
+Small (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
 
 #### Medical Splint
-Medium (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
+Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
 
 #### Bottle of Painkiller
-Tiny (5), 2 Action Cost (UNPACK > INJEST or FEED)
+Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 
 #### Vial of Poison
-Tiny (5), 2 Action Cost (UNPACK > FEED or APPLY)
+Tiny (1), 2 Action Cost (UNPACK > FEED or APPLY)
 
 ### Fuels
 #### Oil
