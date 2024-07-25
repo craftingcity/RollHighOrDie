@@ -42,7 +42,7 @@ Creation:
 
 INJEST: You consume the contents of the bottle. You resolve all stacks of the 'Infected' [[Ailment]].
 
-FEED: You feed the contents of the vial to another adjacent creature you can see. That creature resolves all stacks of the 'Infected' [[Ailment]].
+FEED: You feed the contents of the bottle to another adjacent creature you can see. That creature resolves all stacks of the 'Infected' [[Ailment]].
 
 #### Bottle of Antiseptic
 Tiny (5), 2 Action Cost (UNPACK > APPLY)
@@ -66,33 +66,45 @@ WRAP III: You finish wrapping the bandage onto a wound. Resolve two stacks of th
 
 #### Bloodbag
 Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
+Creation: 
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
-APPLY: You insert the needle into another willing creature who is adjacent to you and you can see. That creature gains 2d4 + 3 stacks of the 'Regeneration' [[Emboldenment]].
+APPLY: You insert the needle into another willing adjacent creature you can see. That creature gains 2d4 + 3 stacks of the 'Regeneration' [[Emboldenment]].
 
 #### Herbal Cream
 Tiny (2), 3 Action Cost (UNPACK > PREP > APPLY)
+Creation: 
 
-APPLY: You apply the contents to a wound. The creature you applied the contents to regains two expended Hit Die. Then, they may expend a Hit Die and regain the number rolled plus their Constitution Modifier as Vitality.
+APPLY: You apply the cream to a wound. The creature you applied the contents to regains two expended Hit Die. Then, they may expend a Hit Die and regain the number rolled plus their Constitution Modifier as Vitality.
 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
+Creation: 
 
-APPLY: You apply the tourniquet above a wound. The creature you applied the tourniquet to resolves 4 stacks of the 'Bleeding' [[Ailment]].
+APPLY: You apply the tourniquet above a wound. The creature you applied the tourniquet to resolves 4 stacks of the 'Bleeding' [[Ailment]]. Then, they take 1 True Necrotic Damage.
 
 #### Splint
 Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
+Creation: 
 
 APPLY II: You finish applying the splint to a wound. The creature you applied the splint to resolves a stack of the 'Hobbled' [[Ailment]].
 
 #### Bottle of Painkiller
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
+Creation: 
+
+INJEST:
+
+FE
 
 #### Vial of Poison
 Tiny (1), 2 Action Cost (UNPACK > APPLY or FEED)
+Creation: 
 
+APPLY:
 
+FEED:
 
 ### Fuels
 #### Oil
