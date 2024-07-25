@@ -16,11 +16,6 @@ After a Condition has Resolved, you are no longer under it's effects.
 #### Dehydrated
 ## Environment Conditions
 #### Low-light Vision
-## Combat Conditions
-#### Bleeding
-#### Burning
-#### Blinded
-#### Dazed
 #### Hidden
 ## Arcane Conditions
 #### Flux Overpressure

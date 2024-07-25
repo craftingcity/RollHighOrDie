@@ -8,5 +8,12 @@ You have Disadvantage on Attacks targeting creatures other than the creature tha
 When you make a Maneuver, if you are within Weapon Range and Line of Sight of the creature that imposed this Ailment on you, they make an Attack against your Reflex.
 
 #### Hobbled
+#### Bleeding
+#### Burning
+#### Blinded
+#### Dazed
+#### Infected
+#### Poisoned
+
 ## Arcane Ailments
 ## Divine Ailments

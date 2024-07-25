@@ -32,8 +32,9 @@ APPLY: You pour the contents of the bottle onto a wound. The creature you applie
 #### Bandage
 Tiny (3), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
 
-WRAP II: You wrap the bandage onto a wound. 
-WRAP III: You finish wra
+WRAP I: You wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
+WRAP II: You continue to wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
+WRAP III: You finish wrapping the bandage onto a wound. Resolve two stacks of the 'Bleeding' [[Ailment]].
 
 #### Bloodbag
 Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
