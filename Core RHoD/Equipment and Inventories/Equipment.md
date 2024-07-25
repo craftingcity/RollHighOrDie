@@ -15,10 +15,10 @@ Creating Equipment requires time, skill, tools, and materials. When combined, a 
 	- Creation Time is the total number of Watches required succeeding on the related Skill Check.
 	- Creation Skill are the Skills related to the Creation process of this equipment and the Difficulty Class of succeeding in Creation.
 	- Creation Tools are the total Tool Actions required to work on this equipment's Creation.
-	- Creation Materials are the non-equipment items assembled as a part of the Creation process.
+	- Creation Materials are the generic non-equipment items assembled as a part of the Creation process.
 
 #### Tool Actions
-Tool Actions are the specific actions that a Tool or Toolkit is used for in the process of Creating Equipment
+Tool Actions are the specific uses that a Tool or Toolkit have. Any combination of equipment with relevant Tool Actions 
 
 ## Example Equipment
 ### Consumables
