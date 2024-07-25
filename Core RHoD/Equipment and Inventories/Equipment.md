@@ -20,20 +20,20 @@ FEED: You feed the contents of the vial to another willing creature who is adjac
 #### Bottle of Antibiotic
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 
-INJEST: You consume the contents of the vial. You resolve all stacks of the 'Infected' [[Ailment]].
+INJEST: You consume the contents of the bottle. You resolve all stacks of the 'Infected' [[Ailment]].
 
 FEED: You feed the contents of the vial to another willing creature who is adjacent to you and you can see. That creature resolves all stacks of the 'Infected' [[Ailment]].
 
 #### Bottle of Antiseptic
 Tiny (5), 2 Action Cost (UNPACK > APPLY)
 
-APPLY: You pour the Antiseptic onto a wound. The creature you applied Antiseptic to resolves a stack of the 'Poisoned' or 'Infected' [[Ailment]], their choice. Then, they take
+APPLY: You pour the contents of the bottle onto a wound. The creature you applied Antiseptic to resolves a stack of the 'Poisoned' or 'Infected' [[Ailment]], their choice. Then, they take 1 True Radiant Damage.
 
 #### Bandage
 Tiny (3), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
 
-WRAP II:
-WRAP III:
+WRAP II: You wrap the bandage onto a wound. 
+WRAP III: You finish wra
 
 #### Bloodbag
 Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
