@@ -46,13 +46,15 @@ APPLY: You insert the needle into another willing creature who is adjacent to yo
 #### Herbal Cream
 Tiny (2), 3 Action Cost (UNPACK > PREP > APPLY)
 
-APPLY: You apply the contents to a wound. The creature you applied the contents to regains two expended Hit Die. Then, they ma
+APPLY: You apply the contents to a wound. The creature you applied the contents to regains two expended Hit Die. Then, they may expend a Hit Die and regain the number rolled plus their Constitution Modifier as Vitality.
 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
 
+APPLY:
+
 #### Improvised Splint
-Small (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
+Small (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
 
 #### Medical Splint
 Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
@@ -112,10 +114,11 @@ SPLASH: You splash the contents of the vial onto a Target adjacent to you that y
 #### Water Purifier
 #### Whistle
 ### Toolkits
+#### Medical Kit
+#### Repair Kit
 #### Lockpicking Kit
 #### Chemical Kit
 #### Disguise Kit
-#### Medical Kit
 #### Appraisal Kit
 ### Parts
 #### Hemp Rope (50ft)
