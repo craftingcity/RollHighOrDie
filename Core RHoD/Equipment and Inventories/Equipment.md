@@ -67,7 +67,9 @@ WRAP III: You finish wrapping the bandage onto a wound. Resolve two stacks of th
 #### Bloodbag
 Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
 Creation: 
-	- 1 Watch spent at 
+	- 1 Watch spent at 18+ Alchemy, Herbalism, or Medical
+	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
+	- 1x "Fresh Clean Blood" -> 1x Bloodbag
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
