@@ -15,14 +15,14 @@ Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
 
 INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]].
 
-FEED: You feed the contents of the vial to another willing creature who is adjacent to you and you can see. That creature resolves all stacks of the 'Poisoned' [[Ailment]].
+FEED: You feed the contents of the vial to another adjacent creature you can see. That creature resolves all stacks of the 'Poisoned' [[Ailment]].
 
 #### Bottle of Antibiotic
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 
 INJEST: You consume the contents of the bottle. You resolve all stacks of the 'Infected' [[Ailment]].
 
-FEED: You feed the contents of the vial to another willing creature who is adjacent to you and you can see. That creature resolves all stacks of the 'Infected' [[Ailment]].
+FEED: You feed the contents of the vial to another adjacent creature you can see. That creature resolves all stacks of the 'Infected' [[Ailment]].
 
 #### Bottle of Antiseptic
 Tiny (5), 2 Action Cost (UNPACK > APPLY)
@@ -51,13 +51,10 @@ APPLY: You apply the contents to a wound. The creature you applied the contents 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
 
-APPLY:
+APPLY: You apply the tourniquet above a wound. The
 
-#### Improvised Splint
-Small (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
-
-#### Medical Splint
-Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
+#### Splint
+Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
 
 #### Bottle of Painkiller
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
