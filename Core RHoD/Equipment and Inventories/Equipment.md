@@ -27,7 +27,7 @@ Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Materials"
+	- 1x "Healing Materials" -> 1x Vial of Antitoxin
 
 INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]].
 
@@ -38,7 +38,7 @@ Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Materials"
+	- 1x "Healing Materials" -> 1x Bottle of Antibiotic
 
 INJEST: You consume the contents of the bottle. You resolve all stacks of the 'Infected' [[Ailment]].
 
@@ -49,7 +49,7 @@ Tiny (5), 2 Action Cost (UNPACK > APPLY)
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Materials"
+	- 1x "Healing Materials" -> 1x Bottle of Antiseptic
 
 APPLY: You apply the contents of the bottle to a wound. The creature you applied the contents to resolves a stack of the 'Poisoned' or 'Infected' [[Ailment]], their choice. Then, they take 1 True Necrotic Damage.
 
@@ -58,6 +58,7 @@ Tiny (3), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
 Creation:
 	- 1 Watch spent at 8+ Crafting, Bushcraft, Weaving
 	- Tools with *CUTTING*
+	- 1x "Fiber Sheet" -> 2x Bandage
 
 WRAP I: You wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
 WRAP II: You continue to wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
@@ -78,7 +79,7 @@ APPLY: You apply the contents to a wound. The creature you applied the contents 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
 
-APPLY: You apply the tourniquet above a wound. The
+APPLY: You apply the tourniquet above a wound. The creature you applied the tourniquet to resolves 4
 
 #### Splint
 Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
