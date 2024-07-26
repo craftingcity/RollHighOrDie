@@ -27,7 +27,7 @@ Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Materials" -> 1x Vial of Antitoxin
+	- 1x "Healing Substance" -> 1x Vial of Antitoxin
 
 INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]].
 
@@ -38,7 +38,7 @@ Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Materials" -> 1x Bottle of Antibiotic
+	- 1x "Healing Substance" -> 1x Bottle of Antibiotic
 
 INJEST: You consume the contents of the bottle. You resolve all stacks of the 'Infected' [[Ailment]].
 
@@ -49,7 +49,7 @@ Tiny (5), 2 Action Cost (UNPACK > APPLY)
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Materials" -> 1x Bottle of Antiseptic
+	- 1x "Healing Substance" -> 1x Bottle of Antiseptic
 
 APPLY: You apply the contents of the bottle to a wound. The creature you applied the contents to resolves a stack of the 'Poisoned' or 'Infected' [[Ailment]], their choice. Then, they take 1 True Necrotic Damage.
 
@@ -68,7 +68,7 @@ Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
 Creation: 
 	- 1 Watch spent at 18+ Alchemy, Herbalism, or Medical
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Fresh Clean Blood" -> 1x Bloodbag
+	- 1x "Fresh, Clean Blood" -> 1x Bloodbag
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
@@ -79,7 +79,7 @@ Tiny (2), 3 Action Cost (UNPACK > PREP > APPLY)
 Creation: 
 	- 1 Watch spent at 12+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Materials" -> 1x Herbal Cream
+	- 1x "Healing Substance" -> 1x Herbal Cream
 
 APPLY: You apply the cream to a wound. The creature you applied the contents to regains two expended Hit Die. Then, they may expend a Hit Die and regain the number rolled plus their Constitution Modifier as Vitality.
 
@@ -105,6 +105,9 @@ APPLY II: You finish applying the splint to a wound. The creature you applied th
 #### Bottle of Painkiller
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
 Creation: 
+	- 1 Watch spent at 10+ Alchemy or Herbalism
+	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
+	- 1x "Healing Substance" -> 1x Bottle of Painkiller
 
 INJEST:
 
