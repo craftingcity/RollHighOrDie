@@ -60,7 +60,6 @@ Creation:
 	- Tools with *CUTTING*
 	- 1x "Fiber Sheet" -> 3x Bandage
 
-WRAP I: You wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
 WRAP II: You continue to wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
 WRAP III: You finish wrapping the bandage onto a wound. Resolve two stacks of the 'Bleeding' [[Ailment]].
 
@@ -78,6 +77,9 @@ APPLY: You insert the needle into another willing adjacent creature you can see.
 #### Herbal Cream
 Tiny (2), 3 Action Cost (UNPACK > PREP > APPLY)
 Creation: 
+	- 1 Watch spent at 12+ Alchemy or Herbalism
+	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
+	- 1x "Healing Materials" -> 1x Herbal Cream
 
 APPLY: You apply the cream to a wound. The creature you applied the contents to regains two expended Hit Die. Then, they may expend a Hit Die and regain the number rolled plus their Constitution Modifier as Vitality.
 
