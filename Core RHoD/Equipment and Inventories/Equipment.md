@@ -86,12 +86,19 @@ APPLY: You apply the cream to a wound. The creature you applied the contents to 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
 Creation: 
+	- 1 Watch spent at 8+ Crafting, Bushcraft, Weaving
+	- Tools with *CUTTING*
+	- 1x "Fiber Sheet" -> 2x Tourniquet
 
 APPLY: You apply the tourniquet above a wound. The creature you applied the tourniquet to resolves 4 stacks of the 'Bleeding' [[Ailment]]. Then, they take 1 True Necrotic Damage.
 
 #### Splint
 Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
 Creation: 
+	- 1 Watch spent at 8+ Crafting, Bushcraft, Weaving
+	- Tools with *CUTTING*
+	- 1x "Fiber Sheet"
+	- 2x "Plank" -> 1x Splint
 
 APPLY II: You finish applying the splint to a wound. The creature you applied the splint to resolves a stack of the 'Hobbled' [[Ailment]].
 
