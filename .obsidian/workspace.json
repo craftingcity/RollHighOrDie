@@ -78,7 +78,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -230,10 +231,10 @@
   },
   "active": "e12c86fb31fbe8de",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Skills.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Character Rules/Surviving.md",

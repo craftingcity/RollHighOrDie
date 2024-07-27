@@ -109,9 +109,9 @@ Creation:
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
 	- 1x "Healing Substance" -> 1x Bottle of Painkiller
 
-INJEST:
+INJEST: You consume the contents of the bottle. You gain a stack of the 'Pain Dulled' [[Emboldenment]].
 
-FEED:
+FEED: You feed the contents of the bottle to another adjacent creature you can see. That creature gain a stack of the 'Pain Dulled' [[Emboldenment]].
 
 #### Vial of Poison
 Tiny (1), 2 Action Cost (UNPACK > APPLY or FEED)
