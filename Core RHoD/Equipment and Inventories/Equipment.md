@@ -96,7 +96,7 @@ APPLY: You apply the cream to a wound. Expend a Charge. The creature you applied
 Creation: 
 	- 1 Watch spent at 12+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Substance" -> 1x Herbal Cream
+	- 2x "Healing Substance" -> 1x Herbal Cream
 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
@@ -106,6 +106,8 @@ Creation:
 	- 1x "Fiber Sheet" -> 2x Tourniquet
 
 APPLY: You apply the tourniquet above a wound. The creature you applied the tourniquet to resolves 4 stacks of the 'Bleeding' [[Ailment]]. Then, they take 1 True Necrotic Damage.
+
+REMOVE: You remove the tourniquet. If the wound has not been otherwise treated, the creature gains 4 stacks of the 'Bleeding' [[Ailment]].
 
 #### Splint
 Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
