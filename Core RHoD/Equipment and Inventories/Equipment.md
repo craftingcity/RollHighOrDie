@@ -123,18 +123,16 @@ Creation:
 
 #### Bottle of Painkiller
 Tiny, 2 Action Cost (UNPACK > INJEST or FEED)
-Bottle of Painkiller has 
+Bottle of Painkiller has 5 Charges
 
-INJEST: You consume the contents of the bottle. You gain a stack of the 'Pain Dulled' [[Emboldenment]].
+INJEST: You consume a portion of the contents of the bottle. Expend a Charge. You gain a stack of the 'Pain Dulled' [[Emboldenment]].
 
-FEED: You feed the contents of the bottle to another adjacent creature you can see. That creature gains a stack of the 'Pain Dulled' [[Emboldenment]].
+FEED: You feed a portion of the contents of the bottle to another adjacent creature you can see. Expend a Charge. That creature gains a stack of the 'Pain Dulled' [[Emboldenment]].
 
 Creation: 
 	- 1 Watch spent at 10+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
 	- 1x "Healing Substance" -> 1x Bottle of Painkiller
-
-
 
 #### Vial of Poison
 Tiny (1), 2 Action Cost (UNPACK > APPLY or FEED)
@@ -143,7 +141,7 @@ Creation:
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
 	- 1x "Toxic Substance" -> 1x Vial of Poison
 
-APPLY: You apply the contents of the vial to a Blade Weapon or an Ammunition. When you hit with an attack using the Weapon or Ammunition, you impose one stack of the 'Poisoned' [[Ailment]] on the Target of your attack.
+APPLY: You apply a portion of the contents of the vial to a Blade Weapon or an Ammunition. Expend a Charge. 
 
 FEED:
 
