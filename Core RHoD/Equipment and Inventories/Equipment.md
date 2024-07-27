@@ -120,7 +120,7 @@ Creation:
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
 	- 1x "Toxic Substance" -> 1x Vial of Poison
 
-APPLY: You apply the contents of the vial to a Blade Weapon or a set of Ammunition. 
+APPLY: You apply the contents of the vial to a Blade Weapon or an Ammunition. When you hit with an attack using the Weapon or Ammunition, you impose one stack of the 'Poisoned' [[Ailment]] on the Target of your attack.
 
 FEED:
 
