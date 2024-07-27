@@ -116,6 +116,9 @@ FEED:
 #### Vial of Poison
 Tiny (1), 2 Action Cost (UNPACK > APPLY or FEED)
 Creation: 
+	- 1 Watch spent at 10+ Alchemy or Herbalism
+	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
+	- 1x "Toxic Substance" -> 1x Vial of Poison
 
 APPLY:
 
