@@ -89,9 +89,9 @@ Creation:
 
 #### Herbal Cream
 Tiny, 3 Action Cost (UNPACK > PREP > APPLY)
+Herbal Cream has 3 Charges
 
-
-APPLY: You apply the cream to a wound. The creature you applied the contents to regains two expended Hit Die. Then, they may expend a Hit Die and regain the number rolled plus their Constitution Modifier as Vitality.
+APPLY: You apply the cream to a wound. Expend a Charge. The creature you applied the contents to regains two expended Hit Die. Then, they may expend a Hit Die and regain the number rolled plus their Constitution Modifier as Vitality.
 
 Creation: 
 	- 1 Watch spent at 12+ Alchemy or Herbalism
