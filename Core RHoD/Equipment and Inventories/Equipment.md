@@ -120,7 +120,7 @@ Creation:
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
 	- 1x "Toxic Substance" -> 1x Vial of Poison
 
-APPLY:
+APPLY: You apply the contents of the vial to a Blade Weapon or a set of Ammunition. 
 
 FEED:
 
