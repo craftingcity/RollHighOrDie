@@ -100,35 +100,41 @@ Creation:
 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
-Creation: 
-	- 1 Watch spent at 8+ Crafting, Bushcraft, Weaving
-	- Tools with *CUTTING*
-	- 1x "Fiber Sheet" -> 2x Tourniquet
 
 APPLY: You apply the tourniquet above a wound. The creature you applied the tourniquet to resolves 4 stacks of the 'Bleeding' [[Ailment]]. Then, they take 1 True Necrotic Damage.
 
 REMOVE: You remove the tourniquet. If the wound has not been otherwise treated, the creature gains 4 stacks of the 'Bleeding' [[Ailment]].
 
+Creation: 
+	- 1 Watch spent at 8+ Crafting, Bushcraft, Weaving
+	- Tools with *CUTTING*
+	- 1x "Fiber Sheet" -> 2x Tourniquet
+
 #### Splint
-Small (1), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
+Small, 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
+
+APPLY II: You finish applying the splint to a wound. The creature you applied the splint to resolves a stack of the 'Hobbled' [[Ailment]].
+
 Creation: 
 	- 1 Watch spent at 8+ Crafting, Bushcraft, Weaving
 	- Tools with *CUTTING*
 	- 1x "Fiber Sheet"
 	- 2x "Plank" -> 1x Splint
 
-APPLY II: You finish applying the splint to a wound. The creature you applied the splint to resolves a stack of the 'Hobbled' [[Ailment]].
-
 #### Bottle of Painkiller
-Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
+Tiny, 2 Action Cost (UNPACK > INJEST or FEED)
+Bottle of Painkiller has 
+
+INJEST: You consume the contents of the bottle. You gain a stack of the 'Pain Dulled' [[Emboldenment]].
+
+FEED: You feed the contents of the bottle to another adjacent creature you can see. That creature gains a stack of the 'Pain Dulled' [[Emboldenment]].
+
 Creation: 
 	- 1 Watch spent at 10+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
 	- 1x "Healing Substance" -> 1x Bottle of Painkiller
 
-INJEST: You consume the contents of the bottle. You gain a stack of the 'Pain Dulled' [[Emboldenment]].
 
-FEED: You feed the contents of the bottle to another adjacent creature you can see. That creature gains a stack of the 'Pain Dulled' [[Emboldenment]].
 
 #### Vial of Poison
 Tiny (1), 2 Action Cost (UNPACK > APPLY or FEED)
