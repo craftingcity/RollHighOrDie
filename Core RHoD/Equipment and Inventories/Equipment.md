@@ -8,7 +8,10 @@ To use Equipment, a character will take a number of Interact Actions to manipula
 
 While you manipulate your equipment by using the Interact Actions, you will progress through the Equipment's Action Cost. You do not need to take all of the Interact Actions on one turn, and your progress through the Action Cost is saved. When you take one of the Interact Actions that has a listed effect, perform and resolve it immediately.
 
-## Creating Equipment
+#### Equipment Charges
+
+
+#### Creating Equipment
 Equipment is inherently made or manufactured by a creature - if you so desire, that creature may be your character.
 
 Creating Equipment requires time, skill, tools, and materials. When combined, a crafter will have made a number of final product. While you are Creating equipment, the unfinished product is size of the finished product, and must be stored as such.
@@ -17,7 +20,7 @@ Creating Equipment requires time, skill, tools, and materials. When combined, a 
 	- Creation Tools are the total Tool Actions required to work on this equipment's Creation.
 	- Creation Materials are the generic non-equipment items assembled as a part of the Creation process.
 
-#### Tool Actions
+##### Tool Actions
 Tool Actions are the specific uses that a Tool or Toolkit have. Any combination of equipment with relevant Tool Actions will fulfill Tool Action requirements. Providing more Tools with relevant Tool Actions does not benefit the Creation process.
 
 ## Example Equipment
