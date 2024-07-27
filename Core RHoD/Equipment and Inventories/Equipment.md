@@ -64,7 +64,7 @@ Creation:
 
 #### Bandage
 Tiny (3), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
-Bandage 
+Bandage has 1 Charge.
 
 WRAP II: You continue to wrap the bandage onto a wound. Resolve a stack of the 'Bleeding' [[Ailment]].
 WRAP III: You finish wrapping the bandage onto a wound. Resolve two stacks of the 'Bleeding' [[Ailment]].
