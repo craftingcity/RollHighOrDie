@@ -9,7 +9,7 @@ To use Equipment, a character will take a number of Interact Actions to manipula
 While you manipulate your equipment by using the Interact Actions, you will progress through the Equipment's Action Cost. You do not need to take all of the Interact Actions on one turn, and your progress through the Action Cost is saved. When you take one of the Interact Actions that has a listed effect, perform and resolve it immediately.
 
 #### Equipment Charges
-
+Some pieces of Equipment can only be used so many times before they are empty or useless. Mechanically, this is represented by a number of charges
 
 #### Creating Equipment
 Equipment is inherently made or manufactured by a creature - if you so desire, that creature may be your character.
