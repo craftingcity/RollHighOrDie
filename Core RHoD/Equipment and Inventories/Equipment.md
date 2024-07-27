@@ -143,7 +143,7 @@ Creation:
 
 APPLY: You apply a portion of the contents of the vial to a Blade Weapon or an Ammunition. Expend a Charge. When you deal damage with an Attack using that Weapon or Ammunition, make another Attack against that creature's Fortitude. If you hit, you impose a stack of the 'Poisoned' [[Ailment]].
 
-FEED: You feed a portion of the contents of the vial to another adjacent creature you can see. Expend any number of Charges. Th
+FEED: You feed a portion of the contents of the vial to another adjacent creature you can see. Expend any number of Charges. That creature gains a number of stacks of the 'Poisoned' [[Ailment]] equal to the number of charges expended.
 
 ### Fuels
 #### Oil
