@@ -136,6 +136,7 @@ Creation:
 
 #### Vial of Poison
 Tiny, 2 Action Cost (UNPACK > APPLY or FEED)
+Vial of Poison has 5 Charges
 
 APPLY: You apply a portion of the contents of the vial to a Blade Weapon or an Ammunition. Expend a Charge. When you deal damage with an Attack using that Weapon or Ammunition, make another Attack against that creature's Fortitude. If you hit, you impose a stack of the 'Poisoned' [[Ailment]].
 
@@ -170,12 +171,14 @@ Creation:
 #### Light Snare
 #### Heavy Snare
 #### Vial of Acid
-Tiny (5), 2 Action Cost (UNPACK > THROW or SPLASH)
-Creation: 
+Tiny, 2 Action Cost (UNPACK > THROW or SPLASH)
+Vial of Acid has 1
 
 THROW: You throw the vial at a Target within 30 feet of you that you can see. Make a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
 
 SPLASH: You splash the contents of the vial onto an adjacent Target that you can see. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
+
+Creation: 
 
 ### Tools
 #### Crowbar
