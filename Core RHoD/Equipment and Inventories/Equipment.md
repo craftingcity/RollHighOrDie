@@ -174,9 +174,11 @@ Creation:
 Tiny, 2 Action Cost (UNPACK > THROW or SPLASH)
 Vial of Acid has 1 Charge
 
-THROW: You throw the vial at a Target within 30 feet of you that you can see. ExaMake a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
+THROW: You throw the vial at a Target within 30 feet of you that you can see. Expend all Charges. Make a Throw Skill Check. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
 
-SPLASH: You splash the contents of the vial onto an adjacent Target that you can see. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
+SPLASH: You splash the contents of the vial onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, they take 3d4 Acid Damage.
+
+APPLY: You carefully apply the contents of the vial to a stable surface, etching a message or image into the surface.
 
 Creation: 
 
