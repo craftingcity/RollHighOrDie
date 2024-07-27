@@ -27,14 +27,16 @@ Tool Actions are the specific uses that a Tool or Toolkit have. Any combination 
 ### Consumables
 #### Vial of Antitoxin
 Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
+Vial of Antitoxin has 1 Charge
+
+INJEST: You consume the contents of the vial. Expend a charge. You resolve all stacks of the 'Poisoned' [[Ailment]].
+
+FEED: You feed the contents of the vial to another adjacent creature you can see. Expend a charge. That creature resolves all stacks of the 'Poisoned' [[Ailment]].
+
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
 	- 1x "Healing Substance" -> 1x Vial of Antitoxin 
-
-INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]]. 
-
-FEED: You feed the contents of the vial to another adjacent creature you can see. That creature resolves all stacks of the 'Poisoned' [[Ailment]].
 
 #### Bottle of Antibiotic
 Tiny (3), 2 Action Cost (UNPACK > INJEST or FEED)
