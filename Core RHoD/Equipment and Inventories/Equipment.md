@@ -30,11 +30,9 @@ Tiny (1), 2 Action Cost (UNPACK > INJEST or FEED)
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Substance" -> 1x Vial of Antitoxin
+	- 1x "Healing Substance" -> 1x Vial of Antitoxin 
 
-This Vial of Antitoxin has 
-
-INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]].
+INJEST: You consume the contents of the vial. You resolve all stacks of the 'Poisoned' [[Ailment]]. 
 
 FEED: You feed the contents of the vial to another adjacent creature you can see. That creature resolves all stacks of the 'Poisoned' [[Ailment]].
 
