@@ -149,6 +149,7 @@ Creation:
 
 ### Fuels
 #### Oil
+Tiny (40), X Action Cost (UNPACK > )
 #### Kerosene
 #### Gasoline
 #### Diesel
