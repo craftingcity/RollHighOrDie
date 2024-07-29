@@ -149,10 +149,10 @@ Creation:
 
 ### Fuels
 #### Oil
-Tiny (40), X Action Cost (UNPACK > SPLASH)
+Small (40), X Action Cost (UNPACK > SPLASH)
 Oil has 1 Charge
 
-SPLASH: You splash the 
+SPLASH: You splash the contents of the jar onto a 
 
 #### Kerosene
 #### Gasoline
