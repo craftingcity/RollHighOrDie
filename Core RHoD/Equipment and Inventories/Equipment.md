@@ -202,7 +202,8 @@ APPLY:
 Creation:
 
 #### Harness
-Small, x Action Cost (UNPACK > PREP > )
+Small, x Action Cost (UNPACK > PREP > WEAR)
+
 ### Lights
 #### Candle
 #### Open Lamp
@@ -215,6 +216,8 @@ Small, x Action Cost (UNPACK > PREP > )
 #### Beartrap
 #### Caltrops
 #### Hand Grenade
+Small (5), 3 Action Cost (UNPACK > PREP > THROW)
+
 #### Molotov Grenade
 #### Light Snare
 #### Heavy Snare
