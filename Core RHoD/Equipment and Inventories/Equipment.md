@@ -19,12 +19,13 @@ Creating Equipment requires time, skill, tools, and materials. When combined, a 
 	- Creation Skill are the Skills related to the Creation process of this equipment and the Difficulty Class of succeeding in Creation.
 	- Creation Tools are the total Tool Actions required to work on this equipment's Creation.
 	- Creation Materials are the items assembled as a part of the Creation process.
-
-###### Equipment without Creation Costs
-Some Equipment (such as Oil) does not have a Creation clause. These Equipment are created by more complex processes than our characters can emulate in a reasonable amount of time with assumedly mobile tools.
-
 ##### Tool Actions
 Tool Actions are the specific uses that a Tool or Toolkit have. Any combination of equipment with relevant Tool Actions will fulfill Tool Action requirements. Providing more Tools with relevant Tool Actions does not benefit the Creation process.
+
+###### Equipment without Creation Costs
+Some Equipment does not have a Creation clause. These Equipment are created by more complex processes than our characters can emulate in a reasonable amount of time with assumedly mobile tools.
+
+
 
 ## Example Equipment
 ### Consumables
@@ -201,6 +202,7 @@ APPLY:
 Creation:
 
 #### Harness
+Small, x Action Cost (UNPACK > PREP > )
 ### Lights
 #### Candle
 #### Open Lamp
