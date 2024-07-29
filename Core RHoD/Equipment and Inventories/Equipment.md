@@ -149,7 +149,11 @@ Creation:
 
 ### Fuels
 #### Oil
-Tiny (40), X Action Cost (UNPACK > )
+Tiny (40), X Action Cost (UNPACK > SPLASH)
+Oil has 1 Charge
+
+SPLASH: You splash the 
+
 #### Kerosene
 #### Gasoline
 #### Diesel
