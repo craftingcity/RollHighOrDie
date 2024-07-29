@@ -219,6 +219,8 @@ Small, x Action Cost (UNPACK > PREP > WEAR)
 Small (5), 3 Action Cost (UNPACK > PREP > THROW)
 
 #### Molotov Grenade
+Small (5), 3 Action Cost (UNPACK > PREP > THROW)
+
 #### Light Snare
 #### Heavy Snare
 #### Vial of Acid
