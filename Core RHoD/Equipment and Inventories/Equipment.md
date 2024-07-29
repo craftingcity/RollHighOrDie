@@ -155,8 +155,8 @@ Oil has 1 Charge
 SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
 
 #### Kerosene
-Small (35), 2 Action Cost (UNPACK > SPLASH)
-Oil has 1 Charge
+Small (40), 2 Action Cost (UNPACK > SPLASH)
+Kerosene has 1 Charge
 
 SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
 
@@ -167,7 +167,7 @@ Creation:
 
 #### Diesel
 Medium (20), 2 Action Cost (UNPACK > SPLASH)
-Oil has 1 Charge
+Diesel has 1 Charge
 
 SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose two stacks of the 'Flammable' [[Ailment]].
 
@@ -177,15 +177,15 @@ Creation:
 	- 1x "Oil" -> 1x Diesel
 
 #### Gasoline
-Medium (25), 2 Action Cost (UNPACK > SPLASH)
-Oil has 1 Charge
+Medium (20), 2 Action Cost (UNPACK > SPLASH)
+Gasoline has 1 Charge
 
-SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
+SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose two stacks of the 'Flammable' [[Ailment]].
 
 Creation: 
-	- 1 Watch spent at 14+ Alchemy
+	- 1 Watch spent at 18+ Alchemy
 	- Tools with *CONTAIN*, *CHEMISTRY*
-	- 1x "Oil" -> 2x Kerosene
+	- 1x "Oil" -> 2x Gasoline
 
 ### Gear
 #### Manacles / Handcuffs
