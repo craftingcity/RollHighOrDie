@@ -149,10 +149,10 @@ Creation:
 
 ### Fuels
 #### Oil
-Small (40), X Action Cost (UNPACK > SPLASH)
+Small (40), 2 Action Cost (UNPACK > SPLASH)
 Oil has 1 Charge
 
-SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex
+SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
 
 #### Kerosene
 #### Gasoline
