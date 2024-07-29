@@ -161,21 +161,31 @@ Oil has 1 Charge
 SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
 
 Creation: 
-	- 1 Watch spent at 10+ Alchemy or Herbalism
-	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Substance" -> 1x Vial of Poison
+	- 1 Watch spent at 14+ Alchemy
+	- Tools with *CONTAIN*, *CHEMISTRY*
+	- 1x "Oil" -> 2x Kerosene
 
 #### Diesel
 Medium (20), 2 Action Cost (UNPACK > SPLASH)
 Oil has 1 Charge
 
-SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
+SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose two stacks of the 'Flammable' [[Ailment]].
+
+Creation: 
+	- 1 Watch spent at 14+ Alchemy
+	- Tools with *CONTAIN*, *CHEMISTRY*
+	- 1x "Oil" -> 1x Diesel
 
 #### Gasoline
 Medium (25), 2 Action Cost (UNPACK > SPLASH)
 Oil has 1 Charge
 
 SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
+
+Creation: 
+	- 1 Watch spent at 14+ Alchemy
+	- Tools with *CONTAIN*, *CHEMISTRY*
+	- 1x "Oil" -> 2x Kerosene
 
 ### Gear
 #### Manacles / Handcuffs
