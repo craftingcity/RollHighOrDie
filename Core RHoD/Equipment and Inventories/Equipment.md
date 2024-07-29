@@ -189,6 +189,12 @@ Creation:
 
 ### Gear
 #### Manacles / Handcuffs
+Small, x Action Cost (UNPACK > PREP > FORCE > APPLY)
+
+FORCE:
+
+APPLY:
+
 #### Harness
 ### Lights
 #### Candle
