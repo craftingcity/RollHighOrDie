@@ -331,10 +331,10 @@ Large, X Action Cost (UNPACK > APPLY)
 Medium, X Action Cost (UNPACK > APPLY)
 
 #### Grappling Hook
-Small, X Action Cost (UNPACK > > THROW or PLACE)
+Small, X Action Cost (UNPACK > TIE > THROW or PLACE)
 
 #### Tent
-Large, X Action Cost ()
+Large, X Action Cost (UNPACK > PLACE > PREP I > PREP II > APPLY I > APPLY II)
 
 #### Sleeping Roll
 Medium, X Action Cost ()

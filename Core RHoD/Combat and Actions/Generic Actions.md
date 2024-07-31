@@ -68,9 +68,10 @@ You manipulate an object.
 > 	- APPLY: You apply the item to yourself or another willing adjacent creature you can see.
 > 	- INJEST: You ingest the item.
 > 	- FEED: You feed the item to another willing adjacent creature you can see.
-> 	- WRAP: You wrap the item around an object.
+> 	- WRAP: You wrap the item around something.
 > 	- LOCATE: You spend time feeling or visually searching for a fine detail.
 > 	- LIGHT: You light an object aflame.
+> 	- TIE: You tie a knot.
 
 ## Reload
 ###### 2 AP
