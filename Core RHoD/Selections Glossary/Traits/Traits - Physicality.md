@@ -1,4 +1,14 @@
+## Tough
+###### REQ: 3EXP
+''
+- Your Hit Dice are d8.
+
 ## Hardened
+###### REQ: 4EXP, Tough
+''
+- Your Hit Dice are d10.
+
+## Tough
 ###### REQ: 3EXP
 ''
 - Your Hit Dice are d8.
