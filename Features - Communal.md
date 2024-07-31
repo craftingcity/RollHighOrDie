@@ -4,7 +4,7 @@
 ###### 2 AP
 'You scream with the pride and rage of battle, emboldening your like-minded allies.'
 
-Make an Intimidation Skill Check against the Will De
+Make an Intimidation Skill Check. If the result is equal to or greater than the Will Defense of any creatures within 20 feet of you who do not also have this Trait, you impose the 'Frightened' [[Ailment]]
 
 # EXP - 2
 ## Rally
