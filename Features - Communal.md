@@ -1,9 +1,10 @@
 # EXP - 1
-## x
+## Battle Cry
 ###### REQ: 1EXP
 ###### 2 AP
-'You scream with pride and rage, emboldein'
-x
+'You scream with the pride and rage of battle, emboldening your like-minded allies.'
+
+Make an Intimidation Skill Check against the Will De
 
 # EXP - 2
 ## Rally
