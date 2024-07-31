@@ -156,13 +156,13 @@ Creation:
 Small (20), 2 Action Cost (UNPACK > SPLASH)
 Oil has 1 Charge
 
-SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
+SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]], and the space they occupy becomes 'Flammable'. If the result is less than your Target's Reflex Defense, the space they occupy becomes 'Flammable'.
 
 #### Kerosene
 Small (40), 2 Action Cost (UNPACK > SPLASH)
 Kerosene has 1 Charge
 
-SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]].
+SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]], and the space they occupy becomes 'Flammable'. If the result is less than your Target's Reflex Defense, the space they occupy becomes 'Flammable'.
 
 Creation: 
 	- 1 Watch spent at 14+ Alchemy
@@ -173,7 +173,7 @@ Creation:
 Medium (20), 2 Action Cost (UNPACK > SPLASH)
 Diesel has 1 Charge
 
-SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose two stacks of the 'Flammable' [[Ailment]].
+SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose two stacks of the 'Flammable' [[Ailment]], and the space they occupy becomes 'Flammable'. If the result is less than your Target's Reflex Defense, the space they occupy becomes 'Flammable'.
 
 Creation: 
 	- 1 Watch spent at 14+ Alchemy
@@ -184,7 +184,7 @@ Creation:
 Medium (20), 2 Action Cost (UNPACK > SPLASH)
 Gasoline has 1 Charge
 
-SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose two stacks of the 'Flammable' [[Ailment]].
+SPLASH: You splash the contents of the jug onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose two stacks of the 'Flammable' [[Ailment]], and the space they occupy becomes 'Flammable'. If the result is less than your Target's Reflex Defense, the space they occupy becomes 'Flammable'.
 
 Creation: 
 	- 1 Watch spent at 18+ Alchemy
@@ -202,10 +202,11 @@ APPLY:
 Creation:
 
 #### Harness
-Small, x Action Cost (UNPACK > PREP > WEAR)
+Medium, x Action Cost (UNPACK > PREP > WEAR)
 
 ### Lights
 #### Candle
+Small, 2 Action Cost (UNPACK)
 #### Open Lamp
 #### Hooded Lamp
 #### Bullseye Lamp
