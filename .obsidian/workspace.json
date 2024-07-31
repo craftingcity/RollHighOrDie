@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features - Communal.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features - Communal.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features - Communal.md"
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md"
               }
             }
           }
@@ -197,11 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3bb5797fac8e4b",
+  "active": "59077a837b686a02",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Features - Communal.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
