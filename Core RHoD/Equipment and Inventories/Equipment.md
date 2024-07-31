@@ -336,16 +336,16 @@ Small, X Action Cost (UNPACK > TIE > THROW or PLACE)
 Large, X Action Cost (UNPACK > PLACE > PREP I > PREP II > APPLY I > APPLY II)
 
 #### Sleeping Roll
-Medium, X Action Cost ()
+Medium, X Action Cost (UNPACK > PLACE)
 
 #### Hand Drill
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > APPLY)
 
 #### Saw
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > APPLY)
 
 #### Mirror
-Tiny, X Action Cost ()
+Tiny, X Action Cost (UNPACK > LOCATE)
 
 #### Water Purifier
 Small, X Action Cost ()
