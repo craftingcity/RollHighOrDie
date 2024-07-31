@@ -1,7 +1,8 @@
 # EXP - 1
 ## x
 ###### REQ: 1EXP
-''
+###### 2 AP
+'You scream with pride and rage, emboldein'
 x
 
 # EXP - 2
