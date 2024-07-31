@@ -14,7 +14,4 @@
 - When you gain this Trait, increase your Constitution Score by 1.
 - When you would take your first Wound during an Encounter, you do not. Instead, expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality. You may only use this ability once between Long Rests.
 
-## Innate Teleportation
-###### REQ: xEXP
-''
 - 
