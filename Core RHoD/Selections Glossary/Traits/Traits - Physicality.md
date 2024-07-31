@@ -1,17 +1,17 @@
 ## Tough
-###### REQ: 3EXP
+###### REQ: 2EXP
 ''
 - Your Hit Dice are d8.
 
-## Hardened
-###### REQ: 4EXP, Tough
+## Durable
+###### REQ: 3EXP, Tough
 ''
 - Your Hit Dice are d10.
 
-## Tough
-###### REQ: 3EXP
+## Hardened
+###### REQ: 4EXP, Durable
 ''
-- Your Hit Dice are d8.
+- Your Hit Dice are d12.
 
 ## Low-light Visibility
 ###### REQ: 3EXP
