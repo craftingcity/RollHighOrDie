@@ -1,7 +1,7 @@
 ## Accurate
 ###### REQ: 3EXP
 ''
-- While you are wielding a Weapon, you gain +2 Attack Rolls made with that Weapon.
+- While you are wielding a Weapon, you gain +2 to Attack Rolls made with that Weapon.
 
 ## Alert
 ###### REQ: 3EXP
@@ -18,3 +18,7 @@
 ''
 - During an Encounter, you may make your first Maneuver without paying it's Action Point Cost.
 
+## Finisher
+###### REQ: 3EXP
+''
+- During an Encounter, you gain +2 
