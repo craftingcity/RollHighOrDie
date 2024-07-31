@@ -29,6 +29,6 @@ This trait inherits and replaces the 'Durable' Physicality Trait.
 ###### REQ: 4EXP, Tough or Durable or Hardened
 'For one reason or another, you simply do not get hurt as much as others do. More than once, you've stood tall where others fall into unconsciousness.'
 - When you gain this Trait, increase your Constitution Score by 1.
-- When you would take your first Wound during an Encounter, you do not. Instead, expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality. You may only use this ability once between Long Rests.
+- When you would take your first Wound during an Encounter, you may choose to expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality instead. You do not take the Wound that triggered this trait. You may only use this ability once between Long Rests.
 
 - 
