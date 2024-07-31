@@ -215,7 +215,7 @@ Small, x Action Cost (UNPACK > PREP > WEAR)
 #### Ball Bearings
 Tiny, 2 Action Cost (UNPACK > THROW)
 
-THROW: You throw the Ball Bearings. Choose a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 10, you throw accurately. Otherwise, choose another space that is adjacent to you. The space you chose becomes 'Unstable'.
+THROW: You throw the Ball Bearings. Choose a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 10, you throw accurately. Otherwise, choose another space that is adjacent to you. The space you chose becomes 'Unstable' until you recover the Ball Bearings.
 
 Creation:
 	- 1 Watch spent at 12+ Smithing
@@ -229,7 +229,7 @@ PREP I: You begin to prepare the Beartrap. Make a Manipulation Skill Check. If t
 
 PREP II: You continue preparing the Beartrap. Make a Manipulation Skill Check. If the result is less than 8, you fail to prepare the trap, and take 1d6 Slashing Damage in the process. If the result is equal to or greater than 12, the Beartrap is Set.
 
-While the Beartrap is Set, if a creature occupies the space in which you have placed the Beartrap, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 16, they take 2d6 Slashing Damage and you impose the 'Hobbled' [[Ailment]].
+> While the Beartrap is Set, if a creature occupies the space in which you have placed the Beartrap, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 16, they take 2d6 Slashing Damage and you impose the 'Hobbled' [[Ailment]], and the Beartrap is no longer Set.
 
 Creation:
 	- 2 Watches spent at 14+ Smithing
@@ -237,6 +237,15 @@ Creation:
 	- 4x "Steel Bar" -> Beartrap
 
 #### Caltrops
+Tiny, 2 Action Cost (UNPACK > THROW)
+
+THROW: You throw the Caltrops. Choose a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 14, you throw accurately. Otherwise, choose another space that is adjacent to you. The space you chose becomes 'Sharp' until you recover the Caltrops.
+
+Creation:
+	- 1 Watch spent at 12+ Smithing
+	- Tools with *FORGE*
+	- 1x "Steel Bar" -> 2x Caltrops
+
 #### Hand Grenade
 Small, 3 Action Cost (UNPACK > PREP > THROW)
 
