@@ -266,10 +266,16 @@ PLACE: You place the Snare in an adjacent space.
 
 PREP II: You finish preparing the Snare, and it is now Set.
 
-> While the Light Snare is Set, if a creature occupies the space in which you have placed the Light Snare, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 8, they take 1d4 Slashing Damage and you impose the 
+> While the Light Snare is Set, if a creature occupies the space in which you have placed the Light Snare, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 8, they take 1d4 Slashing Damage and you impose the 'Caught' [[Ailment]], and the Light Snare is no longer Set.
 
 #### Heavy Snare
-Small, X Action Cost ()
+Small, 4 Action Cost (UNPACK > PLACE > PREP I > PREP II) 
+
+PLACE: You place the Snare in an adjacent space.
+
+PREP II: You finish preparing the Snare, and it is now Set.
+
+> While the Heavy Snare is Set, if a creature occupies the space in which you have placed the Heavy Snare, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 12, they take 2d4 Slashing Damage and you impose the 'Caught' [[Ailment]], and the Heavy Snare is no longer Set.
 
 #### Vial of Acid
 Tiny, 2 Action Cost (UNPACK > THROW or SPLASH)
