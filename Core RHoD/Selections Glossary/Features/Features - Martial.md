@@ -162,14 +162,6 @@ If you hit your target, you deal thrice your Weapon Damage.
 
 You may only use this Feature once per turn.
 
-## Protective Stance
-###### REQ: 2EXP
-###### 2 AP
-###### Use: Shield
-'You hold your shield over an ally, taking the burden of combat from them for a moment.'
-
-Target an ally within 5' of you. Until the beginning of your next turn, if they are the target of an attack and they are still within 5' of you, you are the target of that attack instead.
-
 ## Reckless Stance
 ###### REQ: 2EXP
 ###### 1 AP
@@ -266,6 +258,6 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 ###### REQ: 3EXP
 ###### 3 AP
 ###### USE: Armor - Heavy
-'Your opponent's attacks falter and fail, as you defend the few chinks in your armoring.'
+'Your opponent's attacks falter and fail as you defend the few chinks in your armoring.'
 
 Until the beginning of your next turn, you gain 3 Bludgeoning Damage Resistance, 3 Piercing Damage Resistance, and 3 Slashing Damage Resistance.

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0a3bb5797fac8e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features - Communal.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "da6df03bdce508d8",
             "type": "leaf",
             "state": {
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -185,12 +196,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "c00ed92ef99dbc1c",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Features - Communal.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Ailment.md",
@@ -213,7 +225,6 @@
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
-    "Core RHoD/Mounts.md",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
     "Core RHoD/Selections Glossary/Traits",
