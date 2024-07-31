@@ -17,4 +17,4 @@
 ###### REQ: 3EXP
 ''
 - During an Encounter, you may make your first Maneuver without paying it's Action Point Cost.
-- When you are under the 'Engaged' [[Ailment]], you gain ...
+

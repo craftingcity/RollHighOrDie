@@ -4,148 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "15f530a34222c547",
-        "type": "split",
+        "id": "3753e95ae43f14d4",
+        "type": "tabs",
         "children": [
           {
-            "id": "872404b813f2cf02",
-            "type": "split",
-            "dimension": 36.26373626373626,
-            "children": [
-              {
-                "id": "8126c654fd5d3c91",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "56c4b1603b6d2e1d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core RHoD/Combat and Actions/Generic Actions.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "bbfe2453df8f97bd",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core RHoD/Character Rules/Skills.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "8847b21871c7a446",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f05295959cb57e59",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core RHoD/Selections Glossary/Emboldenment.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "d7a22ce942b4e8b8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core RHoD/Selections Glossary/Condition.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "1d9a2e3b0007b182",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core RHoD/Selections Glossary/Ailment.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
+            "id": "c00ed92ef99dbc1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "mode": "source",
+                "source": true
               }
-            ],
-            "direction": "horizontal"
+            }
           },
           {
-            "id": "3753e95ae43f14d4",
-            "type": "tabs",
-            "dimension": 63.73626373626373,
-            "children": [
-              {
-                "id": "c00ed92ef99dbc1c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "da6df03bdce508d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "59077a837b686a02",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "bffed7aea9c6f393",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "da6df03bdce508d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "mode": "source",
+                "source": true
               }
-            ],
-            "currentTab": 1
+            }
+          },
+          {
+            "id": "59077a837b686a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bffed7aea9c6f393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eb5976c37e201ff3",
