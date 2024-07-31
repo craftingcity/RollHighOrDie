@@ -9,7 +9,7 @@ To use Equipment, a character will take a number of Interact Actions to manipula
 While you manipulate your equipment by using the Interact Actions, you will progress through the Equipment's Action Cost. You do not need to take all of the Interact Actions on one turn, and your progress through the Action Cost is saved. When you take one of the Interact Actions that has a listed effect, perform and resolve it immediately.
 
 #### Equipment Charges
-Some pieces of Equipment can only be used so many times before they are empty or useless. This is mechanically represented by that Equipment having number of charges that are expended as the Equipment is used.
+Some pieces of Equipment can only be used so many times before they are empty or useless. This is mechanically represented by that Equipment having number of charges that are expended as the Equipment is used. Equipment without Charges can be reused indefinitely.
 
 #### Creating Equipment
 Equipment is inherently made or manufactured by a creature - if you so desire, that creature may be your character.
@@ -18,10 +18,14 @@ Creating Equipment requires time, skill, tools, and materials. When combined, a 
 	- Creation Time is the total number of Watches required succeeding on the related Skill Check.
 	- Creation Skill are the Skills related to the Creation process of this equipment and the Difficulty Class of succeeding in Creation.
 	- Creation Tools are the total Tool Actions required to work on this equipment's Creation.
-	- Creation Materials are the generic non-equipment items assembled as a part of the Creation process.
-
+	- Creation Materials are the items assembled as a part of the Creation process.
 ##### Tool Actions
 Tool Actions are the specific uses that a Tool or Toolkit have. Any combination of equipment with relevant Tool Actions will fulfill Tool Action requirements. Providing more Tools with relevant Tool Actions does not benefit the Creation process.
+
+###### Equipment without Creation Costs
+Some Equipment does not have a Creation clause. These Equipment are created by more complex processes than our characters can emulate in a reasonable amount of time with assumedly mobile tools.
+
+
 
 ## Example Equipment
 ### Consumables
@@ -189,7 +193,17 @@ Creation:
 
 ### Gear
 #### Manacles / Handcuffs
+Small, x Action Cost (UNPACK > PREP > FORCE > APPLY)
+
+FORCE:
+
+APPLY:
+
+Creation:
+
 #### Harness
+Small, x Action Cost (UNPACK > PREP > WEAR)
+
 ### Lights
 #### Candle
 #### Open Lamp
@@ -209,7 +223,11 @@ Creation:
 #### Beartrap
 #### Caltrops
 #### Hand Grenade
+Small (5), 3 Action Cost (UNPACK > PREP > THROW)
+
 #### Molotov Grenade
+Small (5), 3 Action Cost (UNPACK > PREP > THROW)
+
 #### Light Snare
 #### Heavy Snare
 #### Vial of Acid
