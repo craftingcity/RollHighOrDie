@@ -1,12 +1,12 @@
 ## Accurate
 ###### REQ: 3EXP
 ''
-- While you are wielding a Weapon, you gain +2 Attack 
+- While you are wielding a Weapon, you gain +2 Attack Rolls made with that Weapon.
 
 ## Alert
 ###### REQ: 3EXP
 ''
-- 
+- While you are not under the 'Unco'
 
 ## Striker
 ###### REQ: 3EXP

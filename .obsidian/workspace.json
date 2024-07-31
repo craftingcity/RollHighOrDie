@@ -82,7 +82,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -273,22 +274,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "da6df03bdce508d8",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
+    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
