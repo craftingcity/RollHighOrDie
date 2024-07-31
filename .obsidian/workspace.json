@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"if the result",
+                "query": "\"expend a hit ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,10 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "0a3bb5797fac8e4b",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Features - Communal.md",
+    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
@@ -213,7 +214,6 @@
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Environment Definitions.md",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",

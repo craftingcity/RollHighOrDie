@@ -4,7 +4,9 @@
 ###### 2 AP
 'You scream with the pride and rage of battle, emboldening your like-minded allies.'
 
-Make an Intimidation Skill Check. If the result is equal to or greater than the Will Defense of any creatures within 20 feet of you who do not also have this Trait, you impose the 'Frightened' [[Ailment]]
+Make an Intimidation Skill Check. If the result is equal to or greater than the Will Defense of any creatures within 30 feet of you who do not also have this Trait, you impose the 'Frightened' [[Ailment]] on that creature.
+
+Allies within 30 feet of you who also have this Trait 
 
 # EXP - 2
 ## Rally
@@ -12,7 +14,7 @@ Make an Intimidation Skill Check. If the result is equal to or greater than the 
 ###### 2 AP
 'You speak to an ally's heart, emboldening them momentarily.'
 
-Target an ally who can hear you. Until the beginning of your next turn, that ally gains +2 to Wisdom or Charisma Ability Checks.
+Target an ally who can hear you. Until the beginning of your next turn, you impose the 'Rall.
 
 ## Protective Stance
 ###### REQ: 2EXP
