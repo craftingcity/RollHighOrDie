@@ -26,4 +26,4 @@
 ## Healer
 ###### REQ: 3EXP
 ''
-- While it is your turn, 
+- While it is your turn, if you cause a creature to gain any number of Vitality, they may gain that number plus 4 instead.
