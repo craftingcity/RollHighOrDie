@@ -8,8 +8,9 @@ x
 ## Rally
 ###### REQ: 2EXP
 ###### 2 AP
-''
-Target an ally who can hear you. Until the beginning of your next turn, that ally gains 
+'You speak to an ally's heart, emboldening them momentarily.'
+
+Target an ally who can hear you. Until the beginning of your next turn, that ally gains +2 to Wisdom or Charisma Ability Checks.
 
 ## Protective Stance
 ###### REQ: 2EXP
