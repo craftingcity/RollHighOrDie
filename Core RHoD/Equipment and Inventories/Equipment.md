@@ -317,17 +317,39 @@ Large, X Action Cost ()
 #### Sleeping Roll
 Medium, X Action Cost ()
 
-#### Drill
+#### Hand Drill
+Small, X Action Cost ()
+
 #### Saw
+Small, X Action Cost ()
+
 #### Mirror
+Tiny, X Action Cost ()
+
 #### Water Purifier
+Small, X Action Cost ()
+
 #### Whistle
+Tiny, X Action Cost ()
+
 #### Hemp Rope (50ft)
+Medium, X Action Cost ()
+
 #### Lock
+Small, X Action Cost ()
+
 #### Steel Chain (10ft)
+Medium, X Action Cost ()
+
 #### Steel Spike
+Large, X Action Cost ()
+
 #### Vial
+Tiny, X Action Cost ()
+
 #### Flask
+Small, X Action Cost ()
+
 ### Toolkits
 #### Medical Kit
 #### Repair Kit
