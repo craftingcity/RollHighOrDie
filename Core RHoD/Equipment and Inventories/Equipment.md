@@ -227,7 +227,11 @@ Medium, X Action Cost (UNPACK > PLACE > PREP I > PREP II)
 
 PREP I: You begin to prepare the Beartrap. Make a Manipulation Skill Check. If the result is less than 6, you fail to prepare the trap, and take 1d4 Slashing Damage in the process. If the result is equal to or greater than 10, continue.
 
-PREP II: You finish preparing the Beartrap. Make a Manipulation Skill Check. If the result is less than 8, you fail to prepare the trap, and take 2d4 Slashing Damage in the process. If the result is equal to or greater than 12, continue.
+PREP II: You continue preparing the Beartrap. Make a Manipulation Skill Check. If the result is less than 8, you fail to prepare the trap, and take 2d4 Slashing Damage in the process. If the result is equal to or greater than 12, the Beartrap is Set.
+
+While the Beartrap is Set, if a creature occupies the space in which you have placed the Beartrap, they make an Acrobatics or Stealth Skill Check, their choice. If the re
+
+Creation:
 
 #### Caltrops
 #### Hand Grenade
