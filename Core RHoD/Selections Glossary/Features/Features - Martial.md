@@ -226,16 +226,6 @@ If you hit, you deal your Weapon Damage as normal, and until the end of your nex
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker 5' into a space within 10' of you.
 
-## Cover Fire
-###### REQ: 3EXP
-###### 2W AP
-###### USE: Ranged Weapon
-'You evaluate the battlefield, and find an ally in need. Changing your aim, you prepare to provide offensive protection.'
-
-Target an ally you can see. Until the beginning of your turn, when they are the target of an attack, if you have Line of Sight on the attacking creature, make an Attack against that creature's Reflex.
-
-If you hit that creature, deal your Weapon Damage as normal. You impose -3 to that creature's Attack Roll against your target ally.
-
 ## Bloody Regeneration
 ###### REQ: 3EXP
 ###### 1 AP
