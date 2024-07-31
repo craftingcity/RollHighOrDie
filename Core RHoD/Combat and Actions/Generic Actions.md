@@ -15,9 +15,9 @@ When you "hit", roll your Weapon Damage and add your Weapon Ability Modifier. Th
 
 ## Grapple
 ###### 3 AP
-''
+'With a free hand, you grab a hold onto another creature.'
 
-Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you impose the 'Grappled' [[Ailment]].
+Target an adjacent creature and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you impose the 'Grappled' [[Ailment]].
 
 You must have at least one free hand to use this Action.
 
@@ -25,7 +25,7 @@ You must have at least one free hand to use this Action.
 ###### 3 AP
 ''
 
-Target a creature within 5' of you and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may push your target 5' into a space within 10' of you or you you may push your target into Prone Stance.
+Target an adjacent creature and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may push your target 5' into a space within 10' of you or you you may push your target into Prone Stance.
 
 ## Maneuver
 ###### 1 AP
@@ -82,7 +82,7 @@ You may increase that Weapon's Loaded Ammunition for as much Ammunition as you a
 ###### 2AP
 ''
 
-You attempt to unjam a Jammed Weapon in your hand. Make a Manipulate Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you unjam your weapon.
+You attempt to unjam a Jammed Weapon in your hand. Make a Manipulation Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you unjam your weapon.
 
 ## Hide
 ###### 2AP

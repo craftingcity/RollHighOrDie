@@ -225,7 +225,7 @@ Creation:
 #### Beartrap
 Medium, X Action Cost (UNPACK > PLACE > PREP I > PREP II)
 
-PREP I: You begin to prepare the Beartrap. Make a Manipulation Skill Check. 
+PREP I: You begin to prepare the Beartrap. Make a Manipulation Skill Check. If the result is less than 8, 
 
 #### Caltrops
 #### Hand Grenade
