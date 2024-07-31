@@ -21,4 +21,9 @@
 ## Finisher
 ###### REQ: 3EXP
 ''
-- During an Encounter, you gain +2 
+- During an Encounter, you gain +2 to Attack Rolls against creatures that have one or more Wounds.
+
+## Healer
+###### REQ: 3EXP
+''
+- While it is your turn, 

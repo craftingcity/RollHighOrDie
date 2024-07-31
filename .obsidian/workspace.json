@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"you gain",
+                "query": "\"you gain +",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -186,7 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da6df03bdce508d8",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
