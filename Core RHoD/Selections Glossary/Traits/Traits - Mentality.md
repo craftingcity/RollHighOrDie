@@ -4,6 +4,10 @@
 ''
 - Your gain +2 to your Will Defense.
 
+## Unbreakable
+''
+- You gain +2 to your Fortitude Defense.
+
 ## Threatening Bravado
 ###### REQ: 3EXP, Courageous
 ''

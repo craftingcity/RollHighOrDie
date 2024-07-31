@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md"
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md"
               }
             }
           }
@@ -197,11 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da6df03bdce508d8",
+  "active": "59077a837b686a02",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Features - Communal.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Character Rules/Skills.md",
