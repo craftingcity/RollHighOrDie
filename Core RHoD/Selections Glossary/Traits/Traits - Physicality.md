@@ -1,10 +1,15 @@
+## Hardened
+###### REQ: 3EXP
+''
+- Your Hit Dice are d8.
+
 ## Low-light Visibility
-###### REQ: xEXP
+###### REQ: 3EXP
 'You excel under low-light conditions where others falter. Often, you find carrying a light at night unnecessary.'
 - You are always under the 'Low-light Visibility' [[Condition]].
 
 ## Boiling Blood
-###### REQ: xEXP
+###### REQ: 3EXP
 ''
 - When you take your first Wound during an Encounter, until the end of the Encounter, you gain +2 to your Reflex and Fortitude Defenses and +2 to your Weapon Damage.
 
