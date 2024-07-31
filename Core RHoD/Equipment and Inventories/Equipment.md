@@ -218,7 +218,9 @@ Tiny, 2 Action Cost (UNPACK > THROW)
 THROW:
 
 Creation:
-	- 
+	- 1 Watch spent at 12+ Smithing
+	- Tools with *FORGE*
+	- 1x "Steel Bar" -> 1x Ball Bearings
 
 #### Beartrap
 #### Caltrops
