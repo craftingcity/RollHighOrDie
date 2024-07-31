@@ -260,6 +260,8 @@ Small, 3 Action Cost (UNPACK > PREP > THROW)
 Small, 3 Action Cost (UNPACK > PREP > THROW)
 
 #### Light Snare
+Small, 
+
 #### Heavy Snare
 #### Vial of Acid
 Tiny, 2 Action Cost (UNPACK > THROW or SPLASH)

@@ -6,6 +6,7 @@
       {
         "id": "47dc082db10422b5",
         "type": "split",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "8126c654fd5d3c91",
@@ -85,6 +86,7 @@
       {
         "id": "9965bc1fc857cd92",
         "type": "tabs",
+        "dimension": 46.041666666666664,
         "children": [
           {
             "id": "e12c86fb31fbe8de",
@@ -104,6 +106,7 @@
       {
         "id": "c3310fc661e71ea2",
         "type": "tabs",
+        "dimension": 20.625,
         "children": [
           {
             "id": "eabae7a0d409783c",
@@ -183,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Ailment.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Ailment.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Ailment.md"
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
               }
             }
           }
@@ -245,14 +248,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d9a2e3b0007b182",
+  "active": "e12c86fb31fbe8de",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Environment Definitions.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Character Rules/Surviving.md",
