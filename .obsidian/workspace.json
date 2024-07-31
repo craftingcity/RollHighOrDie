@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Selections Glossary/Ailment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Selections Glossary/Ailment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
+                "file": "Core RHoD/Selections Glossary/Ailment.md"
               }
             }
           }
@@ -245,7 +245,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eabae7a0d409783c",
+  "active": "1d9a2e3b0007b182",
   "lastOpenFiles": [
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",

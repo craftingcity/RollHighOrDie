@@ -74,7 +74,7 @@ You manipulate an object.
 
 ## Reload
 ###### 2 AP
-''
+'You reload the Weapon in your hands with viable ammunition.'
 
 You reload a Weapon in your hand with as much ammunition as you can.
 
@@ -82,13 +82,13 @@ You may increase that Weapon's Loaded Ammunition for as much Ammunition as you a
 
 ## Unjam
 ###### 2AP
-''
+'You manipulate your Weapon to resolve a malfunction.'
 
 You attempt to unjam a Jammed Weapon in your hand. Make a Manipulation Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you unjam your weapon.
 
 ## Hide
 ###### 2AP
-''
+'You brace against the shadows and make yourself small, hiding from those who would wish you caught.'
 
 You attempt to conceal yourself. Make a Stealth Skill Check. If a creature that considers you hostile has Line of Sight on you, you make the check with Disadvantage.
 
