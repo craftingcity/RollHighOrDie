@@ -216,7 +216,6 @@ Small, 2 Action Cost (UNPACK > LIGHT)
 #### Open Lamp
 #### Hooded Lamp
 #### Bullseye Lamp
-#### Flint & Steel / Tinderbox
 #### Torch
 ### Traps & Throwables
 #### Ball Bearings
@@ -370,6 +369,9 @@ Large, X Action Cost ()
 Tiny, X Action Cost ()
 
 #### Flask
+Small, X Action Cost ()
+
+#### Flint & Steel / Tinderbox
 Small, X Action Cost ()
 
 ### Toolkits
