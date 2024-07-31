@@ -100,7 +100,7 @@ APPLY: You apply the cream to a wound. Expend a Charge. The creature you applied
 Creation: 
 	- 1 Watch spent at 12+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 2x "Healing Substance" -> 1x Herbal Cream
+	- 2x "Chemicals" -> 1x Herbal Cream
 
 #### Tourniquet
 Small (3), 3 Action Cost (UNPACK > WRAP > APPLY)
@@ -136,7 +136,7 @@ FEED: You feed a portion of the contents of the bottle to another adjacent creat
 Creation: 
 	- 1 Watch spent at 10+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Substance" -> 1x Bottle of Painkiller
+	- 1x "Chemicals" -> 1x Bottle of Painkiller
 
 #### Vial of Poison
 Tiny, 2 Action Cost (UNPACK > APPLY or FEED)
@@ -149,7 +149,7 @@ FEED: You feed a portion of the contents of the vial to another adjacent creatur
 Creation: 
 	- 1 Watch spent at 10+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Substance" -> 1x Vial of Poison
+	- 1x "Chemicals" -> 1x Vial of Poison
 
 ### Fuels
 #### Oil
@@ -157,6 +157,11 @@ Small (20), 2 Action Cost (UNPACK > SPLASH)
 Oil has 1 Charge
 
 SPLASH: You splash the contents of the jar onto an adjacent Target that you can see. Expend a Charge. Make a Throw Skill Check with Advantage. If the result is equal to or greater than your Target's Reflex Defense, you impose a stack of the 'Flammable' [[Ailment]], and the space they occupy becomes 'Flammable'. If the result is less than your Target's Reflex Defense, the space they occupy becomes 'Flammable'.
+
+Creation: 
+	- 1 Watch spent at 14+ Alchemy
+	- Tools with *CONTAIN*, *CHEMISTRY*
+	- 10x "Chemicals" -> 1x Oil
 
 #### Kerosene
 Small (40), 2 Action Cost (UNPACK > SPLASH)
@@ -302,4 +307,5 @@ Creation:
 #### Chemical Kit
 #### Disguise Kit
 #### Appraisal Kit
+#### Smithing Kit
 
