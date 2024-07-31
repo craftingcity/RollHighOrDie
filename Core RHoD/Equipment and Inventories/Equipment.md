@@ -223,6 +223,10 @@ Creation:
 	- 1x "Steel Bar" -> 1x Ball Bearings
 
 #### Beartrap
+Medium, X Action Cost (UNPACK > PLACE > PREP I > PREP II)
+
+PREP I: You begin to prepare the Beartrap. Make a Manipulation Skill Check. 
+
 #### Caltrops
 #### Hand Grenade
 Small, 3 Action Cost (UNPACK > PREP > THROW)
