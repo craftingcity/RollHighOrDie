@@ -138,7 +138,7 @@ If you hit your target, you deal your Weapon Damage as normal.
 
 You may only use this feature once per turn.
 
-## Hobble
+## Break A Leg
 ###### REQ: 2EXP
 ###### W+1 AP
 ###### USE: Melee or Ranged Weapon
