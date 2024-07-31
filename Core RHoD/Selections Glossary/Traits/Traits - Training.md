@@ -6,7 +6,7 @@
 ## Alert
 ###### REQ: 3EXP
 ''
-- While you are not under the 'Unco'
+- While you are not under the 'Unconscious' [[Condition]], you cannot gain the 'Surprised' [[Ailment]].
 
 ## Striker
 ###### REQ: 3EXP
