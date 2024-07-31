@@ -59,6 +59,7 @@ You manipulate an object.
 > The following actions are example uses of the Interact Action;
 > 	- UNPACK: You gather a packed item into your hand.
 > 	- HOLD: You gather a loose item into your hand.
+> 	- PLACE: You place an item onto an adjacent space.
 > 	- PACK: You pack an item in your hand into a container.
 > 	- OPEN: You open a door, container, or similar object.
 > 	- CLOSE: You close a door, container, or similar object.
@@ -69,7 +70,7 @@ You manipulate an object.
 > 	- FEED: You feed the item to another willing adjacent creature you can see.
 > 	- WRAP: You wrap the item around an object.
 > 	- LOCATE: You spend time feeling or visually searching for a fine detail.
-> 	- LIGHT: You 
+> 	- LIGHT: You light an object aflame.
 
 ## Reload
 ###### 2 AP

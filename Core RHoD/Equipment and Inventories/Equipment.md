@@ -40,7 +40,7 @@ FEED: You feed the contents of the vial to another adjacent creature you can see
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Substance" -> 1x Vial of Antitoxin 
+	- 1x "Chemicals" -> 1x Vial of Antitoxin 
 
 #### Bottle of Antibiotic
 Tiny, 2 Action Cost (UNPACK > INJEST or FEED)
@@ -53,7 +53,7 @@ FEED: You feed a portion of the bottle to another adjacent creature you can see.
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Substance" -> 1x Bottle of Antibiotic
+	- 1x "Chemicals" -> 1x Bottle of Antibiotic
 
 #### Bottle of Antiseptic
 Tiny, 2 Action Cost (UNPACK > APPLY)
@@ -64,7 +64,7 @@ APPLY: You apply a portion of contents of the bottle to a wound. Expend a charge
 Creation: 
 	- 1 Watch spent at 16+ Alchemy or Herbalism
 	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
-	- 1x "Healing Substance" -> 1x Bottle of Antiseptic
+	- 1x "Chemicals" -> 1x Bottle of Antiseptic
 
 #### Bandage
 Tiny (3), 4 Action Cost (UNPACK > WRAP I > WRAP II > WRAP III)
@@ -202,7 +202,7 @@ APPLY:
 Creation:
 
 #### Harness
-Medium, x Action Cost (UNPACK > PREP > WEAR)
+Medium, x Action Cost (UNPACK > PREP > APPLY)
 
 ### Lights
 #### Candle
@@ -267,6 +267,9 @@ SPLASH: You splash the contents of the vial onto an adjacent Target that you can
 APPLY: You carefully apply the contents of the vial to a stable surface, etching a message or image into the surface.
 
 Creation: 
+	- 1 Watch spent at 12+ Alchemy or Herbalism
+	- Tools with *CONTAIN*, *CHEMISTRY* - *CONTAIN* Tool is consumed
+	- 1x "Chemicals" -> 1x Vial of Acid
 
 ### Tools
 #### Crowbar
