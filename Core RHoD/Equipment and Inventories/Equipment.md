@@ -351,13 +351,13 @@ Tiny, X Action Cost (UNPACK > LOCATE)
 Small, X Action Cost (UNPACK > PREP > APPLY)
 
 #### Whistle
-Tiny, X Action Cost (UNPACK > APPL)
+Tiny, X Action Cost (UNPACK > APPLY)
 
 #### Hemp Rope (50ft)
-Medium, X Action Cost ()
+Medium, X Action Cost (UNPACK > LOCATE > TIE)
 
 #### Lock
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > APPLY)
 
 #### Steel Chain (10ft)
 Medium, X Action Cost ()
