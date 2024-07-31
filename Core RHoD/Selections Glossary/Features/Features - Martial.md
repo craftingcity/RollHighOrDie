@@ -250,4 +250,4 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 ###### USE: Armor - Heavy
 'Your opponent's attacks falter and fail as you defend the few chinks in your armoring.'
 
-Until the beginning of your next turn, you gain 3 Bludgeoning Damage Resistance, 3 Piercing Damage Resistance, and 3 Slashing Damage Resistance.
+Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Slashing Damage Resistance.

@@ -14,9 +14,10 @@
 ###### REQ: 5EXP, Unbreakable
 ''
 
-This trait inherits and replaces the 'Courageous' Mentality Trait.
+This trait inherits and replaces the 'Unbreakable' Mentality Trait.
 
-- While you do not have a Wound, you have 
+- While you do not have a Wound, you gain gain 1 Bludgeoning, Piercing, and Slashing Damage Resistance.
+
 ## Threatening Bravado
 ###### REQ: 5EXP, Courageous
 ''
