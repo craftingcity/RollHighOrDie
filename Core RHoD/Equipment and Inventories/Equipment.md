@@ -264,7 +264,9 @@ Tiny (3), 4 Action Cost (UNPACK > PLACE > PREP I > PREP II)
 
 PLACE: You place the Snare in an adjacent space.
 
-PREP II: You finish preparing the Snare
+PREP II: You finish preparing the Snare, and it is now Set.
+
+> While the Light Snare is Set, if a creature occupies the space in which you have placed the Light Snare, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 8, they take 1d4 Slashing Damage and you impose the 
 
 #### Heavy Snare
 Small, X Action Cost ()
