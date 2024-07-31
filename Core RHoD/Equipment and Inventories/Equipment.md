@@ -260,9 +260,11 @@ Small, 3 Action Cost (UNPACK > PREP > THROW)
 Small, 3 Action Cost (UNPACK > LIGHT > THROW)
 
 #### Light Snare
-Tiny (3), X Action Cost (UNPACK > PREP I > PLACE > PREP II) 
+Tiny (3), 4 Action Cost (UNPACK > PLACE > PREP I > PREP II) 
 
-PREP II: You finish preparing the Snare. 
+PLACE: You place the Snare in an adjacent space.
+
+PREP II: You finish preparing the Snare
 
 #### Heavy Snare
 Small, X Action Cost ()
