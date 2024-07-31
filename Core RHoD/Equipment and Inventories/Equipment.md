@@ -215,7 +215,7 @@ Small, x Action Cost (UNPACK > PREP > WEAR)
 #### Ball Bearings
 Tiny, 2 Action Cost (UNPACK > THROW)
 
-THROW: You throw the Ball Bearings at a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 14, you throw accurately, and the space you chose is  
+THROW: You throw the Ball Bearings. Choose a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 10, you throw accurately. Otherwise, choose another space that is adjacent to you. The space you chose becomes 'Unstable'.
 
 Creation:
 	- 1 Watch spent at 12+ Smithing
