@@ -257,10 +257,10 @@ Creation:
 Small, 3 Action Cost (UNPACK > PREP > THROW)
 
 #### Molotov Grenade
-Small, 3 Action Cost (UNPACK > PREP > THROW)
+Small, 3 Action Cost (UNPACK > LIGHT > THROW)
 
 #### Light Snare
-Tiny (3), X Action Cost () 
+Tiny (3), X Action Cost (UNPACK > PREP I > PLACE > PREP II) 
 
 #### Heavy Snare
 Small, X Action Cost ()
