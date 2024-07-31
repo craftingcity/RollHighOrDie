@@ -225,7 +225,9 @@ Creation:
 #### Beartrap
 Medium, X Action Cost (UNPACK > PLACE > PREP I > PREP II)
 
-PREP I: You begin to prepare the Beartrap. Make a Manipulation Skill Check. If the result is less than 8, 
+PREP I: You begin to prepare the Beartrap. Make a Manipulation Skill Check. If the result is less than 6, you fail to prepare the trap, and take 1d4 Slashing Damage in the process. If the result is equal to or greater than 10, continue.
+
+PREP II: You finish preparing the Beartrap. Make a Manipulation Skill Check. If the result is less than 8, you fail to prepare the trap, and take 2d4 Slashing Damage in the process. If the result is equal to or greater than 12, continue.
 
 #### Caltrops
 #### Hand Grenade
