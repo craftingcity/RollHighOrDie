@@ -285,16 +285,38 @@ Creation:
 Medium, X Action Cost ()
 
 #### Ladder, Collapsible
+Large, X Action Cost ()
+
 #### Hammer
+Small, X Action Cost ()
+
 #### Magnifying Glass
+Small, X Action Cost ()
+
 #### Pickaxe
+Medium, X Action Cost ()
+
 #### Piton
-#### Pole (10ft)
+Small, X Action Cost ()
+
+#### Pole, Collapsible (10ft)
+Small, X Action Cost ()
+
 #### Portable Ram
+Large, X Action Cost ()
+
 #### Shovel
+Medium, X Action Cost ()
+
 #### Grappling Hook
+Small, X Action Cost ()
+
 #### Tent
+Large, X Action Cost ()
+
 #### Sleeping Roll
+Medium, X Action Cost ()
+
 #### Drill
 #### Saw
 #### Mirror
