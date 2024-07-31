@@ -1,4 +1,4 @@
 ## Courageous
 ###### REQ: 3EXP
 ''
-- Your 
+- Your gain +2 to your Will Defense.

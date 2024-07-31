@@ -12,3 +12,9 @@
 ###### REQ: 3EXP
 ''
 - During an Encounter, you have Advantage on Attacks against creatures that have not yet taken their turn.
+
+## Nimble
+###### REQ: 3EXP
+''
+- During an Encounter, you may make your first Maneuver without paying it's Action Point Cost.
+- 
