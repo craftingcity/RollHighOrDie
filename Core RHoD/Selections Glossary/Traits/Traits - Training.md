@@ -1,7 +1,8 @@
+# EXP - 3
 ## Accurate
 ###### REQ: 3EXP
 ''
-- While you are wielding a Weapon, you gain +2 to Attack Rolls made with that Weapon.
+- While you are wielding a Weapon you are Proficient in, you gain +2 to Attack Rolls made with that Weapon.
 
 ## Alert
 ###### REQ: 3EXP
