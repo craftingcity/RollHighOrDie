@@ -141,7 +141,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"you gain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -212,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md"
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md"
               }
             }
           }
@@ -274,12 +273,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bffed7aea9c6f393",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",

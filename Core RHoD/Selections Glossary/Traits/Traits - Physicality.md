@@ -1,16 +1,16 @@
 ## Tough
-###### REQ: 2EXP
+###### REQ: 3EXP
 ''
 - Your Hit Dice are d8.
 
 ## Durable
-###### REQ: 3EXP, Tough
+###### REQ: 5EXP, Tough
 ''
 This trait inherits and replaces the 'Tough' Physicality Trait.
 - Your Hit Dice are d10.
 
 ## Hardened
-###### REQ: 4EXP, Durable
+###### REQ: 5EXP, Durable
 ''
 This trait inherits and replaces the 'Durable' Physicality Trait.
 - Your Hit Dice are d12.

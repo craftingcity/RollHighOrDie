@@ -1,7 +1,7 @@
 ## Accurate
 ###### REQ: 3EXP
 ''
-- 
+- While you are wielding a Weapon, you gain +2 Attack 
 
 ## Alert
 ###### REQ: 3EXP
