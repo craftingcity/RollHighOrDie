@@ -199,6 +199,13 @@ Creation:
 #### Torch
 ### Traps & Throwables
 #### Ball Bearings
+Tiny, 2 Action Cost (UNPACK > THROW)
+
+THROW:
+
+Creation:
+	- 
+
 #### Beartrap
 #### Caltrops
 #### Hand Grenade
