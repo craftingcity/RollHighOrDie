@@ -313,25 +313,25 @@ Large, X Action Cost (UNPACK > PREP I > PREP II > PLACE)
 Small, X Action Cost (UNPACK > APPLY)
 
 #### Magnifying Glass
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > LOCATE)
 
 #### Pickaxe
-Medium, X Action Cost ()
+Medium, X Action Cost (UNPACK > APPLY)
 
 #### Piton
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > APPLY)
 
 #### Pole, Collapsible (10ft)
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > PREP > APPLY)
 
 #### Portable Ram
-Large, X Action Cost ()
+Large, X Action Cost (UNPACK > APPLY)
 
 #### Shovel
-Medium, X Action Cost ()
+Medium, X Action Cost (UNPACK > APPLY)
 
 #### Grappling Hook
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > > THROW or PLACE)
 
 #### Tent
 Large, X Action Cost ()
