@@ -23,9 +23,9 @@ You must have at least one free hand to use this Action.
 
 ## Shove
 ###### 3 AP
-''
+'You push forcefully against a creature, attempting to throw them off balance and into your preferred position.'
 
-Target an adjacent creature and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may push your target 5' into a space within 10' of you or you you may push your target into Prone Stance.
+Target an adjacent creature and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may push your target 5' into a space within 10' of you or you may push your target into Prone Stance.
 
 ## Maneuver
 ###### 1 AP
@@ -52,7 +52,7 @@ Target a willing creature within 5ft of you. You provide them with the 'Aided' [
 
 ## Interact
 ###### 1 AP
-'You take a moment to grab, pull, or push in a simple quick motion.'
+'You take a moment to perform a simple action.'
 
 You manipulate an object.
 
@@ -69,6 +69,7 @@ You manipulate an object.
 > 	- FEED: You feed the item to another willing adjacent creature you can see.
 > 	- WRAP: You wrap the item around an object.
 > 	- LOCATE: You spend time feeling or visually searching for a fine detail.
+> 	- LIGHT: You 
 
 ## Reload
 ###### 2 AP

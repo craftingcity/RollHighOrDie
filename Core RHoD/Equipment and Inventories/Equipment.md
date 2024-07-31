@@ -206,7 +206,8 @@ Medium, x Action Cost (UNPACK > PREP > WEAR)
 
 ### Lights
 #### Candle
-Small, 2 Action Cost (UNPACK)
+Small, 2 Action Cost (UNPACK > LIGHT)
+
 #### Open Lamp
 #### Hooded Lamp
 #### Bullseye Lamp
