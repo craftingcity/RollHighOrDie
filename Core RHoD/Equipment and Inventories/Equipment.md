@@ -236,7 +236,7 @@ PREP I: You begin to prepare the Beartrap. Make a Manipulation Skill Check. If t
 
 PREP II: You continue preparing the Beartrap. Make a Manipulation Skill Check. If the result is less than 8, you fail to prepare the trap, and take 1d6 Slashing Damage in the process. If the result is equal to or greater than 12, the Beartrap is Set.
 
-> While the Beartrap is Set, if a creature occupies the space in which you have placed the Beartrap, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 16, they take 2d6 Slashing Damage and you impose the 'Hobbled' [[Ailment]], and the Beartrap is no longer Set.
+> While the Beartrap is Set, if a creature occupies the space in which you have placed the Beartrap, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 16, they take 2d6 Slashing Damage and you impose the 'Hobbled' and 'Caught' [[Ailment]], and the Beartrap is no longer Set.
 
 Creation:
 	- 2 Watches spent at 14+ Smithing
@@ -271,16 +271,21 @@ PREP II: You finish preparing the Snare, and it is now Set.
 Creation:
 	- 1 Watch spent at 12+ Smithing
 	- Tools with *FORGE*
-	- 1x "Steel Bar" -> 2x Caltrops
+	- 1x "Steel Bar" -> 12x Light Snare
 
 #### Heavy Snare
-Small, 4 Action Cost (UNPACK > PLACE > PREP I > PREP II) 
+Tiny, 4 Action Cost (UNPACK > PLACE > PREP I > PREP II) 
 
 PLACE: You place the Snare in an adjacent space.
 
 PREP II: You finish preparing the Snare, and it is now Set.
 
-> While the Heavy Snare is Set, if a creature occupies the space in which you have placed the Heavy Snare, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 12, they take 2d4 Slashing Damage and you impose the 'Caught' [[Ailment]], and the Heavy Snare is no longer Set.
+> While the Heavy Snare is Set, if a creature occupies the space in which you have placed the Heavy Snare, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 16, they take 2d4 Slashing Damage and you impose the 'Caught' [[Ailment]], and the Heavy Snare is no longer Set.
+
+Creation:
+	- 1 Watch spent at 12+ Smithing
+	- Tools with *FORGE*
+	- 1x "Steel Bar" -> 4x Heavy Snare
 
 #### Vial of Acid
 Tiny, 2 Action Cost (UNPACK > THROW or SPLASH)
@@ -299,13 +304,13 @@ Creation:
 
 ### Tools
 #### Crowbar
-Medium, X Action Cost ()
+Medium, X Action Cost (UNPACK > LOCATE > APPLY)
 
 #### Ladder, Collapsible
-Large, X Action Cost ()
+Large, X Action Cost (UNPACK > PREP I > PREP II > PLACE)
 
 #### Hammer
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > APPLY)
 
 #### Magnifying Glass
 Small, X Action Cost ()
