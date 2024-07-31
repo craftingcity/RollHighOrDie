@@ -215,7 +215,7 @@ Small, x Action Cost (UNPACK > PREP > WEAR)
 #### Ball Bearings
 Tiny, 2 Action Cost (UNPACK > THROW)
 
-THROW:
+THROW: You throw the Ball Bearings at a space within 20 feet of you. Make a Throw Skill Check. If the result is 
 
 Creation:
 	- 1 Watch spent at 12+ Smithing
@@ -225,10 +225,10 @@ Creation:
 #### Beartrap
 #### Caltrops
 #### Hand Grenade
-Small (5), 3 Action Cost (UNPACK > PREP > THROW)
+Small, 3 Action Cost (UNPACK > PREP > THROW)
 
 #### Molotov Grenade
-Small (5), 3 Action Cost (UNPACK > PREP > THROW)
+Small, 3 Action Cost (UNPACK > PREP > THROW)
 
 #### Light Snare
 #### Heavy Snare
