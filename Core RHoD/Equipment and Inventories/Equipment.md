@@ -268,6 +268,11 @@ PREP II: You finish preparing the Snare, and it is now Set.
 
 > While the Light Snare is Set, if a creature occupies the space in which you have placed the Light Snare, they make an Acrobatics or Stealth Skill Check, their choice. If the result is less than 8, they take 1d4 Slashing Damage and you impose the 'Caught' [[Ailment]], and the Light Snare is no longer Set.
 
+Creation:
+	- 1 Watch spent at 12+ Smithing
+	- Tools with *FORGE*
+	- 1x "Steel Bar" -> 2x Caltrops
+
 #### Heavy Snare
 Small, 4 Action Cost (UNPACK > PLACE > PREP I > PREP II) 
 
