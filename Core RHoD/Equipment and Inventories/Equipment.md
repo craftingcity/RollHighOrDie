@@ -348,10 +348,10 @@ Small, X Action Cost (UNPACK > APPLY)
 Tiny, X Action Cost (UNPACK > LOCATE)
 
 #### Water Purifier
-Small, X Action Cost ()
+Small, X Action Cost (UNPACK > PREP > APPLY)
 
 #### Whistle
-Tiny, X Action Cost ()
+Tiny, X Action Cost (UNPACK > APPL)
 
 #### Hemp Rope (50ft)
 Medium, X Action Cost ()
