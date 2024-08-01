@@ -26,3 +26,5 @@ RHoD is the consistent, modular, fifth-edition roleplaying game you've been look
 	- Shields (+REFLEX)
 - Skills
 	- Using Skills for mechanical benefit (via 'Interact'?)
+
+arrogance 
