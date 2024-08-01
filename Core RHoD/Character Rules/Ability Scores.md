@@ -22,6 +22,9 @@ When you have Advantage on a roll, roll the die twice and take the **higher** ro
 
 When you have Disadvantage on a roll, roll the die twice and take the **lower** roll.
 
+guarantees
+
+
 # Strength
 Strength is a representation of a character's physical power.
 
