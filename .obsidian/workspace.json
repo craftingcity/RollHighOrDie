@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Creating A Character.md",
+                "file": "Referee Hanbook/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Creating A Character.md",
+                "file": "Referee Hanbook/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Creating A Character.md",
+                "file": "Referee Hanbook/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Creating A Character.md"
+                "file": "Referee Hanbook/Untitled.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "54cd4a3471b95574",
   "lastOpenFiles": [
+    "Referee Hanbook/Creating Settings.md",
+    "Referee Hanbook/Untitled.md",
+    "Referee Hanbook/Managing Players.md",
+    "README.md",
+    "Referee Hanbook",
+    "Core RHoD/Character Rules/Creating A Character.md",
     "Roll High or Die (CORE).odt",
     "New OpenDocument Text.odt",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
@@ -172,18 +178,12 @@
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
-    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD",
-    "Magic Expansion/Spellcasting.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
     "Core RHoD/Selections Glossary/Traits",
     "Core RHoD/Selections Glossary/Features",
     "Core Rules/Character Rules/Combat Laws/Action Economy",
-    "Core RHoD/Selections Glossary",
-    "Core RHoD/Combat and Actions",
-    "Templates"
+    "Core RHoD/Selections Glossary"
   ]
 }
