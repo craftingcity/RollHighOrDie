@@ -7,7 +7,7 @@ Actor Name:
 	CONSTITUTION: (__)
 	INTELLIGENCE: (__)
 	WISDOM: (__)
-	CHARISMA] (__)
+	CHARISMA (__)
 
 Character Features:
 	Current [[Experience]]:
