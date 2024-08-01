@@ -12,7 +12,7 @@ RHoD is the consistent, modular, fifth-edition roleplaying game you've been look
 		- High-Fantasy Weapons
 		- Sci-Fi Weapons
 	- Explosives as Weapons & Equipment
-		- Launchers (and Improvised Launchers)
+		- ~~Launchers (and Improvised Launchers)~~
 		- Handhelds
 		- Placeables
 	- Ranged Ammunition Restriction

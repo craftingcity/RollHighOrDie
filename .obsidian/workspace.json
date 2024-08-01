@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54cd4a3471b95574",
+  "active": "81be0ec429f61494",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Referee Hanbook/Specific or Generalized Items.md",
     "Referee Hanbook/Creating Settings.md",
     "Referee Hanbook/Managing Players.md",
@@ -160,7 +161,7 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Features - Communal.md",
+    "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Sheet.md",
     "Core RHoD/Character Rules/Skills.md",
@@ -171,7 +172,6 @@
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Environment Definitions.md",
