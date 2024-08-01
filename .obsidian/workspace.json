@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Sheet.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "mode": "source",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Sheet.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Sheet.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Sheet.md"
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "81bd480d495367bf",
   "lastOpenFiles": [
+    "Core RHoD/Character Sheet.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
@@ -223,7 +224,6 @@
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
-    "conflict-files-obsidian-git.md",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
     "Core RHoD/Selections Glossary/Traits",
