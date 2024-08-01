@@ -4,67 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3753e95ae43f14d4",
+        "id": "0028de299cf94e48",
         "type": "tabs",
         "children": [
           {
-            "id": "81bd480d495367bf",
+            "id": "54cd4a3471b95574",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0a3bb5797fac8e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Features - Communal.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "da6df03bdce508d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "59077a837b686a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bffed7aea9c6f393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -133,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,16 +139,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81bd480d495367bf",
+  "active": "81be0ec429f61494",
   "lastOpenFiles": [
+    "Roll High or Die (CORE).odt",
+    "New OpenDocument Text.odt",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Features - Communal.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Sheet.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Features - Communal.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Condition.md",
@@ -216,14 +163,12 @@
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD",
     "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
-    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
     "Core RHoD/Selections Glossary/Traits",
@@ -231,7 +176,6 @@
     "Core Rules/Character Rules/Combat Laws/Action Economy",
     "Core RHoD/Selections Glossary",
     "Core RHoD/Combat and Actions",
-    "Templates",
-    "Core RHoD/Equipment and Inventories"
+    "Templates"
   ]
 }
