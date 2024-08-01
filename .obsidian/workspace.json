@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Character Sheet.md",
                 "mode": "source",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md"
+                "file": "Core RHoD/Character Sheet.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "81bd480d495367bf",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Features - Communal.md",
@@ -204,7 +205,6 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Ailment.md",

@@ -4,7 +4,7 @@ Skills are the separate and specific areas of theoretical, practical, or applied
 ## Proficiency
 Proficiency has five Degrees, each of which represents a point in a range from 0 to 8. The Degrees of Proficiency are as follows; Untrained grants +0, Learning grants +2, Competent grants +4, Expert grants +6, and Master grants +8.
 
-When you make a Skill Check, make an Ability Check using the Skill's Core Ability and add your Degree of Proficiency.
+When you make a Skill Check, make an Ability Check using the Skill's Core Ability, and add your Degree of Proficiency in that Skill.
 
 ## Combat Skills
 The following Skills are directly related to a character's performance in combat.
@@ -60,7 +60,7 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 > Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
 ```
-*MA*
+*MAGIC EXPANSION*
 ## Spellcasting
 You cannot gain a Degree of Proficiency in any Spellcasting Skill if you cannot cast Spells.
 
