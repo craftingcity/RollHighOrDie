@@ -187,6 +187,10 @@ You are no longer under the 'Engaged' [[Ailment]].
 
 Make a Maneuver.
 
+## Exert
+###### REQ: 2EXP
+###### 0 AP
+
 ### EXP - 3
 ## Halting Engagement
 ###### REQ: 3EXP, Engage
