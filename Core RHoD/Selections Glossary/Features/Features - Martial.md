@@ -190,6 +190,9 @@ Make a Maneuver.
 ## Exert
 ###### REQ: 2EXP
 ###### 0 AP
+'At physical cost, you take no moment to pause.'
+
+Expend a Hit Die and make an Endurance Skill 
 
 ### EXP - 3
 ## Halting Engagement
