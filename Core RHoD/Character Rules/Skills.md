@@ -59,6 +59,8 @@ Your Skill in a given Weapon Base directly affects your ability to hit with Atta
 #### Rifle
 > Harnessing the mystic or the scientific, Rifles are the more militaristic older sibling of the humble Pistol, and typically shoot larger caliber ammunition.
 
+```
+*MA*
 ## Spellcasting
 You cannot gain a Degree of Proficiency in any Spellcasting Skill if you cannot cast Spells.
 
@@ -75,6 +77,7 @@ Channel Casting is a character's skill in advocating for a use of certain Spell 
 
 #### Invocation Casting
 Invocation Casting is a character's skill in the recreation and use of Defined Spells.
+```
 
 ## Physical Skills
 ### Strength

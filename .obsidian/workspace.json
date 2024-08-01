@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"damage resistance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
+                "file": "Core RHoD/Character Rules/Skills.md"
               }
             }
           }
@@ -198,11 +197,12 @@
   },
   "active": "81bd480d495367bf",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Ability Scores.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Features - Communal.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
@@ -224,7 +224,6 @@
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "conflict-files-obsidian-git.md",
-    "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
     "Core RHoD/Selections Glossary/Traits",

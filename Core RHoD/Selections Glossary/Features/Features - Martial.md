@@ -192,7 +192,7 @@ Make a Maneuver.
 ###### 0 AP
 'At physical cost, you take no moment to pause.'
 
-Expend a Hit Die and make an Endurance Skill 
+Expend a Hit Die and make an Endurance Skill Check. If the result is equal to or greater than 12, gain half the number rolled on your Hit Die as Action Points.
 
 ### EXP - 3
 ## Halting Engagement
