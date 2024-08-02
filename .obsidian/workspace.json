@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Ability Scores.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Ability Scores.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Ability Scores.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Ability Scores.md"
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "49069832470dd31e",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
@@ -157,7 +158,6 @@
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Creating A Character.md",
-    "Core RHoD/Character Rules/Ability Scores.md",
     "README.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Referee Hanbook/Specific or Generalized Items.md",
