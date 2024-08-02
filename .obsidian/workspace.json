@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md"
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -184,12 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4da53ea20a9905c2",
+  "active": "49069832470dd31e",
   "lastOpenFiles": [
+    "Core RHoD/Combat and Actions/Actions During Encounters.md",
+    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
-    "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Creating A Character.md",
@@ -208,7 +209,6 @@
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Sheet.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Condition.md",
