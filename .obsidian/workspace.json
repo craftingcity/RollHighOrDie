@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Defenses.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Defenses.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Defenses.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Defenses.md"
+                "file": "Core RHoD/Character Rules/Skills.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "4da53ea20a9905c2",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
@@ -214,7 +215,6 @@
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
