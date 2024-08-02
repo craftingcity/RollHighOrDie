@@ -31,25 +31,6 @@ If you take damage that would reduce your Armoring to less than 0, instead, it r
 
 Your character's Armoring will depend on your currently worn Equipment.
 
-###### Damage Resistance (DR)
-Typed Damage Resistance is your resistance to harm caused by that Damage Type. True Damage Resistance is your resistance to any and all harm.
-
-If you have both True and Typed Damage Resistance, apply your True Damage Resistance first, then your Typed Damage Resistance if applicable.
-
-When you would take Damage, if you have Typed Damage Resistance of that Damage Type, you reduce the Damage you would take by your current Damage Resistance of that Damage Type.
-
-When you would take any Damage, if you have True Damage Resistance, you reduce the Damage you would take by your current True Damage Resistance.
-
-###### Damage Vulnerability (DV)
-Typed Damage Vulnerability is your extra-vulnerability to harm caused by that Damage Type. True Damage Vulnerability is an extra-vulnerability to True Damage.
-
-When you would take Damage, if you have Typed Damage Vulnerability of that Damage Type, you increase the Damage you would take by your current Damage Vulnerability of that Damage Type.
-
-When you would take True Damage, if you have True Damage Vulnerability, you increase the Damage you would take by your current True Damage Vulnerability.
-
-###### True Damage
-> There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
-
 #### Vitality
 When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, times your TMK.
 
@@ -75,3 +56,21 @@ If the result is 9 or fewer, you fail, and you gain a stack of the 'Exhausted' [
 
 If the result is 1, you die.
 
+###### Damage Resistance (DR)
+Typed Damage Resistance is your resistance to harm caused by that Damage Type. True Damage Resistance is your resistance to any and all harm.
+
+If you have both True and Typed Damage Resistance, apply your True Damage Resistance first, then your Typed Damage Resistance if applicable.
+
+When you would take Damage, if you have Typed Damage Resistance of that Damage Type, you reduce the Damage you would take by your current Damage Resistance of that Damage Type.
+
+When you would take any Damage, if you have True Damage Resistance, you reduce the Damage you would take by your current True Damage Resistance.
+
+###### Damage Vulnerability (DV)
+Typed Damage Vulnerability is your extra-vulnerability to harm caused by that Damage Type. True Damage Vulnerability is an extra-vulnerability to True Damage.
+
+When you would take Damage, if you have Typed Damage Vulnerability of that Damage Type, you increase the Damage you would take by your current Damage Vulnerability of that Damage Type.
+
+When you would take True Damage, if you have True Damage Vulnerability, you increase the Damage you would take by your current True Damage Vulnerability.
+
+###### True Damage
+> There are times a character will take damage despite the condition of their Armoring. This damage is known as True Damage. When a character takes True Damage, they treat their Armoring as 0 when taking that damage.
