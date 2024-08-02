@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6b0166c62230c7b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Surviving.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Full Rest\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Experience.md",
+                "file": "Core RHoD/Character Rules/Surviving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Experience.md",
+                "file": "Core RHoD/Character Rules/Surviving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Experience.md"
+                "file": "Core RHoD/Character Rules/Surviving.md"
               }
             }
           }
@@ -160,8 +173,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4da53ea20a9905c2",
+  "active": "6b0166c62230c7b0",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "README.md",
@@ -190,7 +204,6 @@
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",

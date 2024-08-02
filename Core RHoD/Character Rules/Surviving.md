@@ -16,7 +16,7 @@ We all must eat. If you do not eat, you do not physically have the energy you re
 
 When you are Travelling or Resting you may fulfill your character's need for Food. A Ration contains a full day's Food - three meals.
 
-When a day passes or you take a Full Rest, you will gain or lose conditions based on the amount of Food you've eaten;
+When a day passes, you will gain or lose conditions based on the amount of Food you've eaten;
 
 - If you eat a Full Ration, you Chemically Resolve any number of stacks of 'Hungry' or 'Starving' [[Condition]] you have.
 - If you eat a Half Ration, you gain a stack of the 'Hungry' [[Condition]], and you Chemically Resolve any number of stacks of the 'Starving' [[Condition]] you have.
