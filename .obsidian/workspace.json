@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Experience.md",
+                "file": "Core RHoD/Character Rules/Surviving.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Experience.md",
+                "file": "Core RHoD/Character Rules/Surviving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Experience.md",
+                "file": "Core RHoD/Character Rules/Surviving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Experience.md"
+                "file": "Core RHoD/Character Rules/Surviving.md"
               }
             }
           }
@@ -186,8 +186,8 @@
   },
   "active": "4da53ea20a9905c2",
   "lastOpenFiles": [
-    "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Experience.md",
+    "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Ability Scores.md",
