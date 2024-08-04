@@ -101,9 +101,12 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ## Personal Skills
 ### Intelligence
 #### Appraise
+> Appraise is the ability to accurately estimate the value or worth of an object.
 #### Investigation
+> Investigation is the ability to accurately gather information through interaction.
 ### Wisdom
 #### Animal Empathy
+> Animal Empathy is the ability to accurately understand the intentions and mental state of a ""
 #### Deduction
 #### Perception
 #### Streetwise
