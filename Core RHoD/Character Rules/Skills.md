@@ -89,7 +89,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Manipulation
 > Manipulation is the practical application of fine motor skills onto an object.
 #### Stealth
-> Stealth is the practical application of obscuring an object or yourself both during motion and at rest.
+> Stealth is the practical application of obscuring an object or yourself to avoid detection.
 #### Thievery
 > Thievery is the practical application of distraction and dexterity in the removal of objects without detection.
 #### Throwing
