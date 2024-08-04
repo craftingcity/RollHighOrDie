@@ -112,7 +112,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Perception
 > Perception is the ability to notice and comprehend important sense-stimulus.
 #### Streetwise
-> Streetwise is the ability to manuever 
+> Streetwise is the ability to maneuver through a 
 ### Charisma
 #### Diplomacy
 #### Deception
