@@ -121,12 +121,14 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Disguise
 > Disguise is the ability to change your outward presentation with the goal of acting in another identity.
 #### Intimidation
-> Intimidation is the ability to force another into agreement with you 
+> Intimidation is the ability to convince another through threat of direct consequence.
 
 ## Knowledge Skills
 +x hours with source
 #### Arcane
+> Arcane is the area of knowledge that encompasses the mystic, occult, or otherwise unnatural.
 #### Bureaucracy
+> Bureaucracy is the area of knowledge that encompasses the corporate, political 
 #### Culture
 #### Engineering
 #### Medical
