@@ -115,10 +115,13 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Streetwise is the ability to gather information from or navigate through a populous area.
 ### Charisma
 #### Diplomacy
-> Diplomacy is the abil
+> Diplomacy is the ability to convince another of sound facts and reason.
 #### Deception
+> Deception is the ability to convince another of false facts or reason.
 #### Disguise
+> Disguise is the ability to change your outward presentation with the goal of acting in another identity.
 #### Intimidation
+> Intimidation is the ability to force another into agreement with you 
 
 ## Knowledge Skills
 +x hours with source
