@@ -143,7 +143,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Alchemy
 > Alchemy is the skillset applied while creating "artificial" or "processed" chemical items.
 #### Artistry
-> Artistry is the skillset applied while creating physical static art.
+> Artistry is the skillset applied while creating physical static art, such as a painting.
 #### Bushcraft
 > Bushcraft is the skillset applied while surviving the wilderness.
 #### Cooking
@@ -161,7 +161,10 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Smithing
 > Smithing is the skillset applied while working with metal and creating items with it.
 #### Performance
+> Performance is the skillset applied while creating fluid inter-personal art, such as a play.
 #### Riding
+> Riding is the skillset applied while working with trained animals to transport yourself.
 #### Woodworking
-Wp is the skillset applied while working with metal and creating items with it.
+> Woodworking is the skillset applied while working with wood and creating items with it.
 #### Weaving
+> Weaving is the skillset applied while working with fabric and creating items with it.
