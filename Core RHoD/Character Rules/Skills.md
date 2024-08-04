@@ -85,9 +85,11 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Athletics is the practical application of strength onto physics, akin to the notion of "brute force".
 ### Dexterity
 #### Acrobatics
-> Acrobatics is the practical application of dexterity onto physics, leveraging it's 
+> Acrobatics is the practical application of dexterity onto physics, leveraging it's laws in your favor.
 #### Manipulation
+> Manipulation is the practical application of fine motor skills onto an object.
 #### Stealth
+> 
 #### Thievery
 #### Throwing
 ### Constitution
