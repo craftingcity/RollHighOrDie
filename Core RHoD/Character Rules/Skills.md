@@ -141,19 +141,27 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ## Professional Skills
 +x hours performed
 #### Alchemy
-> 
+> Alchemy is the skillset applied while creating "artificial" or "processed" chemical items.
 #### Artistry
-> Artisty is the skillset applied while creating physical static art.
+> Artistry is the skillset applied while creating physical static art.
 #### Bushcraft
 > Bushcraft is the skillset applied while surviving the wilderness.
 #### Cooking
+> Cooking is the skillset applied while preparing and creating food and meals.
 #### Crafting
+> Crafting is the skillset applied while creating physical objects through the use of tools.
 #### Herbalism
+> Herbalism is the skillset applied while creating "natural" or "raw" chemical items.
 #### Jeweling
+> Jeweling is the skillset applied while creating fine jewelry.
 #### Leatherworking
+> Leatherworking is the skillset applied while working with leather and creating items with it.
 #### Masonry
+> Masonry is the skillset applied while working with stone and creating items with it.
 #### Smithing
+> Smithing is the skillset applied while working with metal and creating items with it.
 #### Performance
 #### Riding
 #### Woodworking
+Wp is the skillset applied while working with metal and creating items with it.
 #### Weaving
