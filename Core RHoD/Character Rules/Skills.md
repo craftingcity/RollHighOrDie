@@ -82,6 +82,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ## Physical Skills
 ### Strength
 #### Athletics
+> Athletics 
 ### Dexterity
 #### Acrobatics
 #### Manipulation
