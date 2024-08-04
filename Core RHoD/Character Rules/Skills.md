@@ -126,11 +126,11 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ## Knowledge Skills
 +x hours with source
 #### Arcane
-> Arcane is the area of knowledge that encompasses the mystic, occult, or otherwise extra-natural spheres.
+> Arcane is the understanding of extra-natural phenomenon.
 #### Bureaucracy
-> Bureaucracy is the area of knowledge that encompasses the corporate, political, and organizational spheres.
+> Bureaucracy is the understanding of organizational operation.
 #### Culture
-> Culture is the area of knowledge that encompasses the norms, ideology, and 
+> Culture is the understanding of 
 #### Engineering
 #### Medical
 #### Natural
