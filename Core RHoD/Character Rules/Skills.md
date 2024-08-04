@@ -132,9 +132,11 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Culture
 > Culture is the understanding of norms and ideology.
 #### Engineering
-> Engineering is the understa
+> Engineering is the understanding of physical mechanics.
 #### Medical
+> Medical is the understanding of medical processes and effects.
 #### Natural
+> Natural is the understanding of 
 
 ## Professional Skills
 +x hours performed
