@@ -126,7 +126,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ## Knowledge Skills
 +x hours with source
 #### Arcane
-> Arcane is the understanding of extra-natural phenomenon.
+> Arcane is the understanding of extra-natural phenomenon, such as the mystical or occult.
 #### Bureaucracy
 > Bureaucracy is the understanding of organizational operation.
 #### Culture
@@ -136,7 +136,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Medical
 > Medical is the understanding of medical processes and effects.
 #### Natural
-> Natural is the understanding of mundane 
+> Natural is the understanding of mundane phenomenon, such as flora and fauna.
 
 ## Professional Skills
 +x hours performed
