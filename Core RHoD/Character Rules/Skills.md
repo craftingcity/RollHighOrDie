@@ -87,7 +87,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Acrobatics
 > Acrobatics is the application of dexterity onto physics, leveraging it's laws in your favor.
 #### Manipulation
-> Manipulation is the application of fine motor skills onto an object.
+> Manipulation is the application of fine motor skills onto an object to change the object's state.
 #### Stealth
 > Stealth is the application of obscuring an object or yourself to avoid detection.
 #### Thievery
@@ -144,7 +144,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > 
 #### Artistry
 #### Bushcraft
-> Bushcraft 
+> Bushcraft is the skillset app
 #### Cooking
 #### Crafting
 #### Herbalism
