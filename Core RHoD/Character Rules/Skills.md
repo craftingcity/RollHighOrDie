@@ -89,7 +89,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Manipulation
 > Manipulation is the practical application of fine motor skills onto an object.
 #### Stealth
-> Stealth is the deliberate act of 
+> Stealth is
 #### Thievery
 #### Throwing
 ### Constitution
