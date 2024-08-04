@@ -106,8 +106,9 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Investigation is the ability to accurately gather information through interaction.
 ### Wisdom
 #### Animal Empathy
-> Animal Empathy is the ability to accurately understand the intentions and mental state of a ""
+> Animal Empathy is the ability to accurately understand the intentions and mental state of a creature that is "less than sentient".
 #### Deduction
+> Deduction is the ability to accurately intuit the 
 #### Perception
 #### Streetwise
 ### Charisma
