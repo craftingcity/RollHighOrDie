@@ -82,9 +82,10 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ## Physical Skills
 ### Strength
 #### Athletics
-> Athletics is a character's prowess in the practical application of strength 
+> Athletics is the practical application of strength in competition - with physics or another creature.
 ### Dexterity
 #### Acrobatics
+> Acrobatics is the practical application of dexterity in movement.
 #### Manipulation
 #### Stealth
 #### Thievery
