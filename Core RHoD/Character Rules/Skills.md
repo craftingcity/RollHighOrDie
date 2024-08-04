@@ -91,12 +91,12 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Stealth
 > Stealth is the application of obscuring an object or yourself to avoid detection.
 #### Thievery
-> Thievery is the application of distraction and dexterity in the removal of objects without detection.
+> Thievery is the application of distraction and dexterity in the addition or removal of objects from an area or person without detection.
 #### Throwing
 > Throwing is the application of technique and force to propel an object.
 ### Constitution
 #### Endurance
-> Endurance is the application of sustained prowess over time.
+> Endurance is the application of sustained effort over time.
 
 ## Personal Skills
 ### Intelligence
@@ -141,8 +141,10 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ## Professional Skills
 +x hours performed
 #### Alchemy
+> 
 #### Artistry
 #### Bushcraft
+> Bushcraft 
 #### Cooking
 #### Crafting
 #### Herbalism
