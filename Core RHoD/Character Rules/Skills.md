@@ -136,7 +136,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Medical
 > Medical is the understanding of medical processes and effects.
 #### Natural
-> Natural is the understanding of 
+> Natural is the understanding of mundane 
 
 ## Professional Skills
 +x hours performed
