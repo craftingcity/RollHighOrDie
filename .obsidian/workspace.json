@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core RHoD/Character Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md"
+                "file": "Core RHoD/Character Rules/Skills.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "49069832470dd31e",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Character Rules/Skills.md",
@@ -177,7 +178,6 @@
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
