@@ -93,7 +93,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Thievery
 > Thievery is the practical application of distraction and dexterity in the removal of objects without detection.
 #### Throwing
-> Throwing is the practical application of 
+> Throwing is the practical application of technique and 
 ### Constitution
 #### Endurance
 
