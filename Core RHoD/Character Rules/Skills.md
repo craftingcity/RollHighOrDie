@@ -130,8 +130,9 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Bureaucracy
 > Bureaucracy is the understanding of organizational operation.
 #### Culture
-> Culture is the understanding of 
+> Culture is the understanding of norms and ideology.
 #### Engineering
+> Engineering is the understa
 #### Medical
 #### Natural
 
