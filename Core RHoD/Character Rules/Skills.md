@@ -91,7 +91,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Stealth
 > Stealth is the practical application of obscuring an object or yourself both during motion and at rest.
 #### Thievery
-> 
+> Thievery is the practical application of distraction and dexterity in the removal of objects without detection.
 #### Throwing
 ### Constitution
 #### Endurance
