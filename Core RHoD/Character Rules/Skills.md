@@ -143,8 +143,9 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 #### Alchemy
 > 
 #### Artistry
+> Artisty is the skillset applied while creating physical static art.
 #### Bushcraft
-> Bushcraft is the skillset app
+> Bushcraft is the skillset applied while surviving the wilderness.
 #### Cooking
 #### Crafting
 #### Herbalism
