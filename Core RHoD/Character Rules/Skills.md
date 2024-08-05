@@ -98,6 +98,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Thievery is the application of distraction and dexterity in the addition or removal of objects from an area or person without detection.
 #### Throwing
 > Throwing is the application of technique and force to propel an object.
+> Throwing is used via 
 ### Constitution
 #### Endurance
 > Endurance is the application of sustained effort over time.
