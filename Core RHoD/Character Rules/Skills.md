@@ -87,12 +87,13 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Dexterity
 #### Acrobatics
 > Acrobatics is the application of dexterity onto physics, leveraging it's laws in your favor.
->  -- acrobatics is currently underutilized? --
+> Acrobatics is used while avoiding traps.
 #### Manipulation
 > Manipulation is the application of fine motor skills onto an object to change the object's state.
 > Manipulation is used by the 'Unjam' Action, and in the use of some Equipment.
 #### Stealth
 > Stealth is the application of obscuring an object or yourself to avoid detection.
+> Stealth is used by the 'Hide' Action.
 #### Thievery
 > Thievery is the application of distraction and dexterity in the addition or removal of objects from an area or person without detection.
 #### Throwing
