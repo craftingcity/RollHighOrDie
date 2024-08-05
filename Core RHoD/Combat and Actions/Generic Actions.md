@@ -34,7 +34,7 @@ Target an adjacent creature and establish Line of Sight. Make an Athletics Skill
 Choose one:
 	- You may change your Stance.
 	- You may run up to 10 feet.
-	- You may climb, crawl, or jump up to 5 feet.
+	- You may crawl up to 5 feet.
 
 ## Detect
 ###### 1 AP
