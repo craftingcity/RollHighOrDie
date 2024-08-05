@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2f46d19aee99a525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Thievery",
+                "query": "climb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md"
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md"
               }
             }
           }
@@ -148,10 +161,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "2f46d19aee99a525",
   "lastOpenFiles": [
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Defenses.md",

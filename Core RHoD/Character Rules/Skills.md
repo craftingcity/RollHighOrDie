@@ -83,7 +83,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Strength
 #### Athletics
 > Athletics is the application of strength onto physics, akin to the notion of "brute force".
-> Athletics is used by the 'Grapple' and 'Shove' Actions. 
+> Athletics is used by the 'Grapple' and 'Shove' Actions. Additionally, Athletics can be used 
 ### Dexterity
 #### Acrobatics
 > Acrobatics is the application of dexterity onto physics, leveraging it's laws in your favor.
@@ -102,7 +102,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Constitution
 #### Endurance
 > Endurance is the application of sustained effort over time.
-> Endurance 
+> Endurance is used
 
 ## Personal Skills
 ### Intelligence

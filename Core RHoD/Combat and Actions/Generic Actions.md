@@ -14,7 +14,7 @@ Compare your Attack Roll Total to your target's Relevant Defense for your Weapon
 When you "hit", roll your Weapon Damage and add your Weapon Ability Modifier. The target of your Attack takes that much damage.
 
 ## Grapple
-###### 3 AP
+###### 2 AP
 'With a free hand, you grab a hold onto another creature.'
 
 Target an adjacent creature and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you impose the 'Grappled' [[Ailment]].
@@ -22,7 +22,7 @@ Target an adjacent creature and establish Line of Sight. Make an Athletics Skill
 You must have at least one free hand to use this Action.
 
 ## Shove
-###### 3 AP
+###### 2 AP
 'You push forcefully against a creature, attempting to throw them off balance and into your preferred position.'
 
 Target an adjacent creature and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may push your target 5' into a space within 10' of you or you may push your target into Prone Stance.
@@ -82,13 +82,13 @@ You reload a Weapon in your hand with as much ammunition as you can.
 You may increase that Weapon's Loaded Ammunition for as much Ammunition as you are carrying up to it's Maximum Capacity.
 
 ## Unjam
-###### 2AP
+###### 2 AP
 'You manipulate your Weapon to resolve a malfunction.'
 
 You attempt to unjam a Jammed Weapon in your hand. Make a Manipulation Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you unjam your weapon.
 
 ## Hide
-###### 2AP
+###### 2 AP
 'You brace against the shadows and make yourself small, hiding from those who would wish you caught.'
 
 You attempt to conceal yourself. Make a Stealth Skill Check. If a creature that considers you hostile has Line of Sight on you, you make the check with Disadvantage.
