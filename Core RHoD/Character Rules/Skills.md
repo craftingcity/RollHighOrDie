@@ -102,6 +102,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Constitution
 #### Endurance
 > Endurance is the application of sustained effort over time.
+> Endurance 
 
 ## Personal Skills
 ### Intelligence
