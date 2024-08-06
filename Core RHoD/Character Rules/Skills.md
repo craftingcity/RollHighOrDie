@@ -129,13 +129,16 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Charisma
 #### Diplomacy
 > Diplomacy is the ability to convince another of sound facts and reason.
-> Diplomacy is used in communications where you are speaking 
+> Diplomacy is used in communications where you are speaking of the subjective truth of your reality.
 #### Deception
 > Deception is the ability to convince another of false facts or reason.
+> Deception is used in communications where you are speaking against the subjective truth of your reality.
 #### Disguise
 > Disguise is the ability to change your outward presentation with the goal of acting in another identity.
+> Disguise is used to deceive others' perception of your identity.
 #### Intimidation
 > Intimidation is the ability to convince another through threat of direct consequence.
+> Intimidation is used in communications where the subjective truth is irrelevant
 
 ## Knowledge Skills
 +x hours with source
