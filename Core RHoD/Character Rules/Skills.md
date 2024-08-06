@@ -103,7 +103,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Constitution
 #### Endurance
 > Endurance is the application of sustained effort over time.
-> Endurance is used 
+> Endurance is used in conjunction with other skills.
 
 ## Personal Skills
 ### Intelligence
@@ -112,6 +112,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Appraise is used while participating in mercantilism.
 #### Investigation
 > Investigation is the ability to accurately gather information through interaction.
+> Investigation is used 
 ### Wisdom
 #### Animal Empathy
 > Animal Empathy is the ability to accurately understand the intentions and mental state of a creature that is "less than sentient".
