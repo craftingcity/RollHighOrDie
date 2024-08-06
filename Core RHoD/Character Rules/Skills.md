@@ -116,11 +116,13 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Wisdom
 #### Animal Empathy
 > Animal Empathy is the ability to accurately understand the intentions and mental state of a creature that is "less than sentient".
-> Animal 
+> Animal Empathy is used to predict an animal's intention.
 #### Deduction
 > Deduction is the ability to intuit the accuracy of statements made by another or to intuit the general mental state of another.
+> Deduction is used to predict another person's intention.
 #### Perception
 > Perception is the ability to notice and comprehend important sense-stimulus.
+> Perception is used to detect important information 
 #### Streetwise
 > Streetwise is the ability to gather information from or navigate through a populous area.
 ### Charisma
