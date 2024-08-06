@@ -83,11 +83,11 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Strength
 #### Athletics
 > Athletics is the application of strength onto physics, akin to the notion of "brute force".
-> Athletics is used by the 'Grapple' and 'Shove' Actions, and is usejn     0.
+> Athletics is used by the 'Grapple' and 'Shove' Actions, and while jumping or climbing.
 ### Dexterity
 #### Acrobatics
 > Acrobatics is the application of dexterity onto physics, leveraging it's laws in your favor.
-> Acrobatics is used while avoiding traps.
+> Acrobatics is used while avoiding traps, and while jumping.
 #### Manipulation
 > Manipulation is the application of fine motor skills onto an object to change the object's state.
 > Manipulation is used by the 'Unjam' Action, and in the use of some Equipment.
@@ -96,6 +96,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Stealth is used by the 'Hide' Action, and while avoiding traps.
 #### Thievery
 > Thievery is the application of distraction and dexterity in the addition or removal of objects from an area or person without detection.
+> Thievery is used to gather equipment and informaiton
 #### Throwing
 > Throwing is the application of technique and force to propel an object.
 > Throwing is used by some Equipment.
