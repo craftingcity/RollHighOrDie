@@ -96,19 +96,20 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Stealth is used by the 'Hide' Action, and while avoiding traps.
 #### Thievery
 > Thievery is the application of distraction and dexterity in the addition or removal of objects from an area or person without detection.
-> Thievery is used to gather equipment and informaiton
+> Thievery is used to gather items covertly.
 #### Throwing
 > Throwing is the application of technique and force to propel an object.
-> Throwing is used by some Equipment.
+> Throwing is used by some Weapons and Equipment.
 ### Constitution
 #### Endurance
 > Endurance is the application of sustained effort over time.
-> Endurance is used
+> Endurance is used 
 
 ## Personal Skills
 ### Intelligence
 #### Appraise
 > Appraise is the ability to accurately estimate the value or worth of an object.
+> Appraise is used while participating in mercantilism.
 #### Investigation
 > Investigation is the ability to accurately gather information through interaction.
 ### Wisdom
