@@ -138,7 +138,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Disguise is used to deceive others' perception of your identity.
 #### Intimidation
 > Intimidation is the ability to convince another through threat of direct consequence.
-> Intimidation is used in communications where the subjective truth is irrelevant
+> Intimidation is used in communications where the subjective truth is less relevant than your desires.
 
 ## Knowledge Skills
 +x hours with source
