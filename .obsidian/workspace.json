@@ -42,17 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "f7e6790b1f8df950",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
+              }
             }
           }
         ]
@@ -177,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7e6790b1f8df950",
+  "active": "5d8f0d00d1c71812",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
