@@ -177,7 +177,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Masonry is the skillset applied while working with stone and creating items with it.
 #### Smithing
 > Smithing is the skillset applied while working with metal and creating items with it.
-#### Performance
+#### Performance./
 > Performance is the skillset applied while creating fluid inter-personal art, such as a play.
 #### Riding
 > Riding is the skillset applied while working with trained animals to transport yourself.
