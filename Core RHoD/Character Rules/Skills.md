@@ -112,10 +112,11 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Appraise is used while participating in mercantilism.
 #### Investigation
 > Investigation is the ability to accurately gather information through interaction.
-> Investigation is used to discover information from a
+> Investigation is used to discover information from an object you're holding or from a space you're in.
 ### Wisdom
 #### Animal Empathy
 > Animal Empathy is the ability to accurately understand the intentions and mental state of a creature that is "less than sentient".
+> Animal 
 #### Deduction
 > Deduction is the ability to intuit the accuracy of statements made by another or to intuit the general mental state of another.
 #### Perception
