@@ -122,12 +122,14 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Deduction is used to predict another person's intention.
 #### Perception
 > Perception is the ability to notice and comprehend important sense-stimulus.
-> Perception is used to detect important information 
+> Perception is used to detect important information within your surroundings.
 #### Streetwise
 > Streetwise is the ability to gather information from or navigate through a populous area.
+> Streetwise is used to find relevant businesses, organizations, or information while within a city or town.
 ### Charisma
 #### Diplomacy
 > Diplomacy is the ability to convince another of sound facts and reason.
+> Diplomacy is used in communications where you are speaking 
 #### Deception
 > Deception is the ability to convince another of false facts or reason.
 #### Disguise
