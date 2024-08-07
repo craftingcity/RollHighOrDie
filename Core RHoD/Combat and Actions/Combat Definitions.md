@@ -118,7 +118,7 @@ Blinding Light is too much light, even through squinted eyes. Typically, Blindin
 While you are in a space lit by Blinging Light, gain the 'Blinded' [[Condition]] until you are no longer in a space lit by Blinging Light.
 
 ###### High Light
-High Light is bright, but not blinding. High Light is emitted by sources like a "local" star, a campfire, or an electric or arcane lamp.
+High Light is bright, but not blinding. High Light is emitted by sources like the sun, a campfire, or an electric or arcane lamp.
 
 High Light has no mechanical benefits or deficits.
 

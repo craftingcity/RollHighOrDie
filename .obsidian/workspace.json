@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Environment Definitions.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Environment Definitions.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Environment Definitions.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Environment Definitions.md"
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "3fdd5165474ac20d",
   "lastOpenFiles": [
+    "Core RHoD/Environment Definitions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
@@ -177,7 +178,6 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Character Sheet.md",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
