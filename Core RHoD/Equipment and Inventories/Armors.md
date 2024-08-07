@@ -92,7 +92,7 @@ While you are wearing this Armor, your Dexterity Ability Score is reduced by the
 While you are wearing this Armor, you gain the indicated number and size (x) of Inventory Slots. While using Equipment stored in these Inventory Slots, you may ignore the 'UNPACK' Interaction Cost of that Equipment.
 
 ### Specialized Tags
-#### Fuel (x)
+#### Powered (x)
 While you are Resting, you may Fuel your Armor by expending the indicated number and type (x) of items. If you do, your Armor is Fueled for one Day.
 
 If your Armor is not Fueled, you treat this Armor as if it had no other Mundane or Specialized Tags.
