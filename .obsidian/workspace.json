@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Emboldenment.md"
+                "file": "Core RHoD/Selections Glossary/Condition.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "3fdd5165474ac20d",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
@@ -177,7 +178,6 @@
     "New OpenDocument Text.odt",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD",
     "Magic Expansion/Magics Glossary",
     "Magic Expansion",
