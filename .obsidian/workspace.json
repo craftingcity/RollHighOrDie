@@ -11,9 +11,11 @@
             "id": "3fdd5165474ac20d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Roll High or Die (COREvA01).pdf"
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll High or Die (COREvA01).pdf",
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll High or Die (COREvA01).pdf",
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll High or Die (COREvA01).pdf"
+                "file": "Core RHoD/Equipment and Inventories/Armors.md"
               }
             }
           }
@@ -147,8 +149,14 @@
   },
   "active": "3fdd5165474ac20d",
   "lastOpenFiles": [
-    "Core RHoD/Equipment and Inventories/Armors.md",
+    "Roll High or Die (GLOSSARY-TEMPLATE).odt",
+    "New OpenDocument Text.odt",
     "Roll High or Die (COREvA01).pdf",
+    "Stable Releases/Roll High or Die (COREvA01).odt",
+    "Stable Releases/Roll High or Die (COREvA01).pdf",
+    "Stable Releases",
+    "New folder",
+    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Roll High or Die (COREvA01).odt",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
@@ -175,12 +183,7 @@
     "Referee Hanbook/Managing Players.md",
     "Referee Hanbook",
     "Roll High or Die (CORE).odt",
-    "New OpenDocument Text.odt",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD",
-    "Magic Expansion/Magics Glossary",
-    "Magic Expansion",
-    "Core RHoD/Selections Glossary/Traits",
-    "Core RHoD/Selections Glossary/Features"
+    "Core RHoD"
   ]
 }
