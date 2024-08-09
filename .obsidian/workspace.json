@@ -17,7 +17,25 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "f0455368aef1ed88"
+          }
+        ]
+      },
+      {
+        "id": "f3786d355f403b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c42aa8bda40bbca7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
+              }
+            },
+            "group": "f0455368aef1ed88"
           }
         ]
       }
@@ -147,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fdd5165474ac20d",
+  "active": "c42aa8bda40bbca7",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",

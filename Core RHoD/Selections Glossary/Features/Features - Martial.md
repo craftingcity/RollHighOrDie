@@ -1,4 +1,4 @@
-### EXP - 1
+# EXP - 1
 ## Second Wind
 ###### REQ: 1EXP
 ###### 3AP
@@ -71,7 +71,8 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 
 If you hit, you deal your Weapon Damage as normal, and you gain +2 to your Reflex, Fortitude, and Will Defenses until the beginning of your next turn.
 
-### EXP - 2
+# EXP - 2
+
 ## Enforce
 ###### REQ: 2EXP
 ###### W+1 AP
@@ -194,7 +195,7 @@ Make a Maneuver.
 
 Expend a Hit Die and make an Endurance Skill Check. If the result is equal to or greater than 12, gain half the number rolled on your Hit Die as Action Points.
 
-### EXP - 3
+# EXP - 3
 ## Halting Engagement
 ###### REQ: 3EXP, Engage
 'It won't be easy to run while you're still kicking.'
