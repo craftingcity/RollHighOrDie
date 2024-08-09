@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "3fdd5165474ac20d",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "RHoD Glossary (Magic).odt",
