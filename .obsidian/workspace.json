@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Armors.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Armors.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Armors.md",
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Armors.md"
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "3fdd5165474ac20d",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Armors.md",
     "RHoD Glossary (Low Fantasy).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE).odt",
     "New OpenDocument Text.odt",
@@ -157,7 +158,6 @@
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Stable Releases",
     "New folder",
-    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Roll High or Die (COREvA01).odt",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
@@ -183,7 +183,6 @@
     "Referee Hanbook/Creating Settings.md",
     "Referee Hanbook/Managing Players.md",
     "Referee Hanbook",
-    "Roll High or Die (CORE).odt",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md"
   ]
 }
