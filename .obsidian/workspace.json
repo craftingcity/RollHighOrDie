@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inven",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
               }
             }
           }
@@ -150,6 +149,8 @@
   },
   "active": "b834dcc0734c1ae2",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
@@ -161,7 +162,6 @@
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "RHoD Glossary (Magic).odt",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "RHoD Glossary (Low Fantasy).odt",
