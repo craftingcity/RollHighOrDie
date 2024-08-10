@@ -11,11 +11,9 @@
             "id": "b834dcc0734c1ae2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
-                "mode": "source",
-                "source": true
+                "file": "Stable Releases/Roll High or Die (COREvA01).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Stable Releases/Roll High or Die (COREvA01).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Stable Releases/Roll High or Die (COREvA01).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md"
+                "file": "Stable Releases/Roll High or Die (COREvA01).pdf"
               }
             }
           }
@@ -149,10 +147,13 @@
   },
   "active": "b834dcc0734c1ae2",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Character Rules/Features.md",
+    "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Creating A Character.md",
+    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "RHoD Glossary (Magic).odt",
     "Core RHoD/Equipment and Inventories/Armors.md",
@@ -169,14 +170,11 @@
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Environment Definitions.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Defenses.md",
-    "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Experience.md",
