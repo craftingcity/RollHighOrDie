@@ -11,9 +11,11 @@
             "id": "b834dcc0734c1ae2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Stable Releases/Roll High or Die (COREvA01).pdf"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stable Releases/Roll High or Die (COREvA01).pdf",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stable Releases/Roll High or Die (COREvA01).pdf",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stable Releases/Roll High or Die (COREvA01).pdf"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -147,6 +149,7 @@
   },
   "active": "b834dcc0734c1ae2",
   "lastOpenFiles": [
+    "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Character Rules/Ability Scores.md",
@@ -162,7 +165,6 @@
     "New OpenDocument Text.odt",
     "Roll High or Die (COREvA01).pdf",
     "Stable Releases/Roll High or Die (COREvA01).odt",
-    "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Stable Releases",
     "New folder",
     "Roll High or Die (COREvA01).odt",
@@ -181,7 +183,6 @@
     "README.md",
     "Referee Hanbook/Specific or Generalized Items.md",
     "Referee Hanbook/Creating Settings.md",
-    "Referee Hanbook/Managing Players.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md"
+    "Referee Hanbook/Managing Players.md"
   ]
 }
