@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec5b58a3826019f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b1dfc3a8885a0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Equipment and Inventories/Ammunition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Equipment and Inventories/Ammunition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
+                "file": "Core RHoD/Equipment and Inventories/Ammunition.md"
               }
             }
           }
@@ -150,11 +168,12 @@
   "active": "b834dcc0734c1ae2",
   "lastOpenFiles": [
     "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
+    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
@@ -166,7 +185,6 @@
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "RHoD Glossary (Magic).odt",
-    "Core RHoD/Equipment and Inventories/Armors.md",
     "RHoD Glossary (Low Fantasy).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE).odt",
     "New OpenDocument Text.odt",
