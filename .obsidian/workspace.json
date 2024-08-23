@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md"
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "b834dcc0734c1ae2",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
@@ -178,12 +180,10 @@
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
-    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Experience.md",
     "README.md",
     "Referee Hanbook/Specific or Generalized Items.md",
-    "Referee Hanbook/Creating Settings.md",
-    "Referee Hanbook/Managing Players.md"
+    "Referee Hanbook/Creating Settings.md"
   ]
 }

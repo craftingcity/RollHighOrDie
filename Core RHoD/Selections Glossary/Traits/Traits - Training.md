@@ -27,4 +27,4 @@
 ## Striker
 ###### REQ: 3EXP
 ''
-- During an Encounter, you have Advantage on Attacks against creatures that have not yet taken their turn.
+- During an Encounter, you have Advantage on Attacks against creatures that have not yet taken a turn in the encounter.
