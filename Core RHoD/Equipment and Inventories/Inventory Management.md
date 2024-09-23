@@ -1,6 +1,7 @@
 # Preamble
 In the world of RHoD, finding a way to take home your newfound wealth may be just as much of a problem as fighting off it's previous owners. Any and all items, especially your [[Equipment]], must be stored with you if you wish to access them later.
 
+``` 
 ## Slot Management
 Items are always stored or held in Inventory Slots. Items and Inventory Slots separated into four descending size categories based on weight; Large (>75lb), Medium (~10-5lb), Small (~5-1lbs), and Tiny (>1lb). Only one item or stack of items may be stored in a single Inventory Slot at a time. 
 
@@ -8,13 +9,15 @@ Inventory Slots may be used to store Items of smaller size categories:
 - One Large Slot can be used as three Medium Slots. 
 - One Medium can be used as four Small Slots. 
 - One Small slot can be used as three Tiny Slots.
+```
 
 #### Item Stacks
 Some items should be contained together for ease of access and use, and are light enough that this is a possibility. These items are considered 'stackable' and will have a number after their Size that indicates that maximum number of these items that can fit together in one stack. Once this number is exceeded, excess items must be stored in another stack in a different Slot.
 
 #### Character Inventory
-Every character in RHoD is given a number of 'Equipment' Slots under the assumption that items stored in these Slots are being carried, worn, or held. 
+Every character in RHoD is given four 'Equipment' Slots under the assumption that items stored in these Slots are being carried, worn, or held. 
 
+```
 The slots given are as follows;
 	- Armor Worn (Large)
 	- Headgear (Medium)
@@ -24,6 +27,7 @@ The slots given are as follows;
 	- Sheath (Medium)
 	- Coinpurse (Small)
 	- Quiver (Small)
+```
 
 In addition to these 'Equipment' Slots, a character gains a number of 'Strength Based' slots based on their Strength Modifier, assumed to be the additional straps, bags, and pouches an Adventurer acquires over time. 
 
