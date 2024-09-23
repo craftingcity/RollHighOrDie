@@ -38,4 +38,4 @@ Containers are considered Equipment and must be stored in a character's Inventor
 
 Items stored in 'Container' Slots cannot be accessed without first performing the 'UNPACK' Interact Action.
 
-'Container' Slots may have defined restrictions on the Size or Type of Item stored within it.
+'Container' Slots may have restrictions on the Size or Type of Item stored within it, as defined in it's description.
