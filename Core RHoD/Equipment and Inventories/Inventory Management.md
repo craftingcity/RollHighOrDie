@@ -2,7 +2,7 @@
 In the world of RHoD, finding a way to take home your newfound wealth may be just as much of a problem as fighting off it's previous owners. Any and all items, especially your [[Equipment]], must be stored with you if you wish to access them later.
 
 ## Slot Management
-Items are always stored or held in Inventory Slots. Items are separated into four descending size categories based on weight; Large (>75lb), Medium (~10-5lb), Small (~5-1lbs), and Tiny (>1lb). Only one item or stack of items may be stored in a single Inventory Slot at a time.
+Items are always stored or held in Inventory Slots. Items are separated into four descending size categories based on weight; Large (>75lb), Medium (~15-5lb), Small (~5-1lbs), and Tiny (>1lb). Only one item or stack of items may be stored in a single Inventory Slot at a time.
 
 ```
 Inventory Slots may be used to store Items of smaller size categories:

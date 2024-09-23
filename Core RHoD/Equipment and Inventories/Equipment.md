@@ -210,7 +210,7 @@ Creation:
 Medium, x Action Cost (UNPACK > PREP > APPLY)
 
 #### Pouch
-Medium, 1 Action Cost (UNPACK / PACK)
+Small, 1 Action Cost (UNPACK / PACK)
 
 > A Pouch has three Slots that may be used to store Small or Tiny Items.
 
@@ -238,6 +238,11 @@ Large, 1 Action Cost (UNPACK / PACK)
 Large, 1 Action Cost (UNPACK / PACK)
 
 > A Huge Bag has four Slots that may be used for Medium Items, and six Slots that may be used to store Small or Tiny Items.
+
+#### Chest
+Large, 1 Action Cost (UNPACK / PACK)
+
+> A Chest has two Slots that may be used for Large Itemssix Slots that may be used for Medium Items, and twelve Slots that may be used to store Small or Tiny Items.
 
 ### Lights
 #### Candle
