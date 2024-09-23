@@ -217,7 +217,7 @@ Small, 1 Action Cost (UNPACK / PACK)
 #### Quiver
 Medium, 1 Action Cost (UNPACK / PACK)
 
-> A Quiver has three Slots that may be used to Store Small or Tiny Ammunition Items
+> A Quiver has five Slots that may be used to Store Small or Tiny Ammunition Items.
 
 #### Small Organizer
 Medium, 1 Action Cost (UNPACK / PACK)
