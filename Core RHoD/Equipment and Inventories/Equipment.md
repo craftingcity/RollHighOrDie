@@ -232,13 +232,12 @@ Medium, 1 Action Cost (UNPACK / PACK)
 #### Large Bag
 Large, 1 Action Cost (UNPACK / PACK)
 
-> A Large Bag has three Slots that may be used to store Small or Tiny Items.
+> A Large Bag has two Slots that may be used for Medium Items, and four Slots that may be used to store Small or Tiny Items.
 
 #### Huge Bag
 Large, 1 Action Cost (UNPACK / PACK)
 
-> A Pouch has three Slots that may be used to store Small or Tiny Items.
-
+> A Huge Bag has four Slots that may be used for Medium Items, and six Slots that may be used to store Small or Tiny Items.
 
 ### Lights
 #### Candle
