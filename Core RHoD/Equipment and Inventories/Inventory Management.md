@@ -34,3 +34,4 @@ In addition to these 'Equipment' Slots, a character gains a number of 'Strength 
 Characters who are considered Large gain an effective +3 to their Strength Modifier and characters who are considered Small incur an effective -3 to their Strength Modifier for calculating the number of 'Strength Based' Inventory Slots a character receives.
 
 #### Containers
+Containers are a particularly useful type of Equipment for an Adventurer, 
