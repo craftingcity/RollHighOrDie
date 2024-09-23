@@ -34,4 +34,4 @@ The slots given are as follows;
 
 
 #### Containers
-Containers are considered Equipment and must be stored in a character's Inventory Slots while it is on their person, but allow a character to bend the "one item to slot" rule in their favor. 
+Containers are considered Equipment and must be stored in a character's Inventory Slots while it is on their person, but allow a character to bend the "one item to slot" rule in their favor. A Container has a number of slots as indicated in it's description. Items 
