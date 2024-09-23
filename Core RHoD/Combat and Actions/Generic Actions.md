@@ -65,7 +65,7 @@ You manipulate an object.
 > 	- CLOSE: You close a door, container, or similar object.
 > 	- PREP: You prepare the item for further use.
 > 	- FORCE: You attempt to force a non-willing creature to become willing.
-> 	- APPLY: You apply the item to yourself, another willing adjacent creature you can see, or an object.
+> 	- APPLY: You apply the item to yourself, another willing adjacent creature you can see, or an adjacent object.
 > 	- INJEST: You ingest the item.
 > 	- FEED: You feed the item to another willing adjacent creature you can see.
 > 	- WRAP: You wrap the item around something.

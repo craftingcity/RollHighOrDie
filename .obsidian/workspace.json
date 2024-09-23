@@ -19,8 +19,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3870be49431d76d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e08f55b56d6a7985",
@@ -168,10 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "b834dcc0734c1ae2",
   "lastOpenFiles": [
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
+    "gen.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
@@ -180,7 +195,6 @@
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Core RHoD/Character Rules/Defenses.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
@@ -204,7 +218,6 @@
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Experience.md",
     "README.md",
-    "Referee Hanbook/Specific or Generalized Items.md",
-    "Referee Hanbook/Creating Settings.md"
+    "Referee Hanbook/Specific or Generalized Items.md"
   ]
 }
