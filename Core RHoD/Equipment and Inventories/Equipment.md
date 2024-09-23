@@ -214,6 +214,11 @@ Small, 1 Action Cost (UNPACK / PACK)
 
 > A Pouch has three Slots that may be used to store Small or Tiny Items.
 
+#### Quiver
+Medium, 1 Action Cost (UNPACK / PACK)
+
+> A Quiver has three Slots that may be used to Store Small or Tiny Ammunition Items
+
 #### Small Organizer
 Medium, 1 Action Cost (UNPACK / PACK)
 
@@ -242,7 +247,7 @@ Large, 1 Action Cost (UNPACK / PACK)
 #### Chest
 Large, 1 Action Cost (UNPACK / PACK)
 
-> A Chest has two Slots that may be used for Large Itemssix Slots that may be used for Medium Items, and twelve Slots that may be used to store Small or Tiny Items.
+> A Chest has two Slots that may be used for Large Items, six Slots that may be used for Medium Items, and twelve Slots that may be used to store Small or Tiny Items.
 
 ### Lights
 #### Candle
