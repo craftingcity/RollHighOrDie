@@ -214,8 +214,31 @@ Medium, 1 Action Cost (UNPACK / PACK)
 
 > A Pouch has three Slots that may be used to store Small or Tiny Items.
 
+#### Small Organizer
+Medium, 1 Action Cost (UNPACK / PACK)
+
+> A Small Organizer has six Slots that may be used to store Small or Tiny Items.
+
+#### Large Organizer
+Large, 1 Action Cost (UNPACK / PACK)
+
+> A Large Organizer has twenty-four Slots that may be used to store Small or Tiny Items.
+
 #### Small Bag
-#### 
+Medium, 1 Action Cost (UNPACK / PACK)
+
+> A Small Bag has five Slots that may be used to store Small or Tiny Items.
+
+#### Large Bag
+Large, 1 Action Cost (UNPACK / PACK)
+
+> A Large Bag has three Slots that may be used to store Small or Tiny Items.
+
+#### Huge Bag
+Large, 1 Action Cost (UNPACK / PACK)
+
+> A Pouch has three Slots that may be used to store Small or Tiny Items.
+
 
 ### Lights
 #### Candle
