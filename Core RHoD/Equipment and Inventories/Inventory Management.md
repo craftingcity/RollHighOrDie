@@ -1,10 +1,10 @@
 # Preamble
 In the world of RHoD, finding a way to take home your newfound wealth may be just as much of a problem as fighting off it's previous owners. Any and all items, especially your [[Equipment]], must be stored with you if you wish to access them later.
 
-``` 
 ## Slot Management
-Items are always stored or held in Inventory Slots. Items and Inventory Slots separated into four descending size categories based on weight; Large (>75lb), Medium (~10-5lb), Small (~5-1lbs), and Tiny (>1lb). Only one item or stack of items may be stored in a single Inventory Slot at a time. 
+Items are always stored or held in Inventory Slots. Items are separated into four descending size categories based on weight; Large (>75lb), Medium (~10-5lb), Small (~5-1lbs), and Tiny (>1lb). Only one item or stack of items may be stored in a single Inventory Slot at a time.
 
+```
 Inventory Slots may be used to store Items of smaller size categories:
 - One Large Slot can be used as three Medium Slots. 
 - One Medium can be used as four Small Slots. 
@@ -34,5 +34,5 @@ The slots given are as follows;
 
 
 #### Containers
-Containers are a particularly useful type of Equipment for an Adventurer, as they allow one to carry more items on their person than otherwise.
+Containers are a particularly useful type of Equipment for an Adventurer. Mechanically, they allow a character to bend the "one item to slot" ratio in their favor. Containers a
 
