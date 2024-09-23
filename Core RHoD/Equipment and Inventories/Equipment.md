@@ -209,7 +209,9 @@ Creation:
 #### Harness
 Medium, x Action Cost (UNPACK > PREP > APPLY)
 
-#### S
+#### Pouch
+#### Small Bag
+#### 
 
 ### Lights
 #### Candle
