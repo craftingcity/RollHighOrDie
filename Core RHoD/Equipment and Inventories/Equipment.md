@@ -209,6 +209,8 @@ Creation:
 #### Harness
 Medium, x Action Cost (UNPACK > PREP > APPLY)
 
+#### S
+
 ### Lights
 #### Candle
 Small, 2 Action Cost (UNPACK > LIGHT)
