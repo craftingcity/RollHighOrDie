@@ -210,7 +210,10 @@ Creation:
 Medium, x Action Cost (UNPACK > PREP > APPLY)
 
 #### Pouch
-Small, 1 Action C
+Small, 1 Action Cost (UNPACK / PACK)
+
+> A Pouch has three Slots
+
 #### Small Bag
 #### 
 
