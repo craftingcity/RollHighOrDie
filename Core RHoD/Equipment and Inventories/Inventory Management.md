@@ -34,4 +34,4 @@ The slots given are as follows;
 
 
 #### Containers
-Containers are a particularly useful type of Equipment for an Adventurer, in that they store. Containers are considered Equipment and must be stored in a character's Inventory Slots while it is on their person, but nonetheless allow a character to bend the "one item to slot" rule in their favor. 
+Containers are considered Equipment and must be stored in a character's Inventory Slots while it is on their person, but allow a character to bend the "one item to slot" rule in their favor. 
