@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "8f440bdaf60830a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73550cef47d1fcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "e08f55b56d6a7985",
         "type": "tabs",
         "children": [
@@ -14,18 +32,6 @@
               "type": "markdown",
               "state": {
                 "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "73550cef47d1fcad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "mode": "source",
                 "source": true
               }

@@ -35,3 +35,4 @@ The slots given are as follows;
 
 #### Containers
 Containers are a particularly useful type of Equipment for an Adventurer, as they allow one to carry more items on their person than otherwise.
+
