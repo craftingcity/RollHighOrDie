@@ -212,12 +212,22 @@ Creation:
 #### Harness
 Medium, x Action Cost (UNPACK > PREP > APPLY)
 
+APPLY:
 
+Creation:
+	- 3 Watches spent at 14+ Leatherworking
+	- Tools with *TAILOR*
+	- 2x "Leather Sheet" -> 1x Harness
 
 #### Pouch
 Small, 1 Action Cost (UNPACK / PACK)
 
 > A Pouch has three Slots that may be used to store Small or Tiny Items.
+
+Creation:
+	- 1 Watch spent at 8+ Leatherworking
+	- 
+	- *OR*
 
 #### Quiver
 Medium, 1 Action Cost (UNPACK / PACK)

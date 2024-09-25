@@ -75,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,9 +207,9 @@
   },
   "active": "73550cef47d1fcad",
   "lastOpenFiles": [
-    "Core RHoD/Equipment and Inventories/Armors.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "armor.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
