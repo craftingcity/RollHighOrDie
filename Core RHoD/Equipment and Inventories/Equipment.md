@@ -205,9 +205,14 @@ FORCE:
 APPLY:
 
 Creation:
+	- 1 Watch spent at 14+ Smithing
+	- Tools with *FORGE*
+	- 1x "Steel Plate" -> 1x Manacles
 
 #### Harness
 Medium, x Action Cost (UNPACK > PREP > APPLY)
+
+
 
 #### Pouch
 Small, 1 Action Cost (UNPACK / PACK)
