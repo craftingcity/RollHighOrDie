@@ -39,7 +39,7 @@ This is the style of Armor, reflecting the Armor's 'Areas of Coverage', and is u
 
 'Areas of Coverage' are the areas of the Armor that are actually being defended by the 'Material' of this 'Style' of Armor. 
 
-The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, Feet have 1CV, Front has 2CV, and Suit has 3CV). The following table describes the 'Areas of Coverage' an Armor may have, and their respective Coverage Value.
+The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, Feet have 1CV, Arms has 2CV, and Suit has 3CV). The following table describes the 'Areas of Coverage' an Armor may have, and their respective Coverage Value.
 
 | Area of Coverage     | Coverage Value | Description                             |
 | -------------------- | -------------- | --------------------------------------- |
@@ -47,15 +47,15 @@ The Style's Total Coverage Value is the total of all Coverage Values of the Styl
 | Head - Back          | 2              | Covering the back and neck of your head |
 | Head - Sides         | 2              | Covering both sides of your head        |
 | Head - Front         | 2              | Covering your face and forehead         |
-| Head - Eyes          | 1              |                                         |
-| Upper & Lower - Suit | 3              |                                         |
-| Upper - Front        | 2              |                                         |
-| Upper - Back         | 2              |                                         |
-| Upper - Arms         | 2              |                                         |
-| Upper - Hands        | 1              |                                         |
-| Lower - Thighs       | 2              |                                         |
-| Lower - Shins        | 2              |                                         |
-| Lower - Feet         | 1              |                                         |
+| Head - Eyes          | 1              | Covering your eyes                      |
+| Upper & Lower - Suit | 3              | Covering your joints                    |
+| Upper - Front        | 3              | Covering your chest                     |
+| Upper - Back         | 3              | Covering your back                      |
+| Upper - Arms         | 2              | Covering your upper and fore arms       |
+| Upper - Hands        | 1              | Covering your hands and fingers         |
+| Lower - Thighs       | 2              | Covering your thighs                    |
+| Lower - Shins        | 2              | Covering your shins                     |
+| Lower - Feet         | 1              | Covering your feet and toes             |
 
 ##### Example Styles
 | Style           | Coverage Value | Areas of Coverage                                                     |
@@ -65,9 +65,9 @@ The Style's Total Coverage Value is the total of all Coverage Values of the Styl
 | Full Helm       | 8              | (head - top, back, sides, front)                                      |
 | Eyewear         | 1              | (head - eyes)                                                         |
 | Facemask        | 2              | (head - front)                                                        |
-| Combat Vest     | 2              | (upper - front)                                                       |
-| Chestplate      | 4              | (upper - front, back)                                                 |
-| Combat Jacket   | 6              | (upper - front, back, arms)                                           |
+| Combat Vest     | 3              | (upper - front)                                                       |
+| Chestplate      | 6              | (upper - front, back)                                                 |
+| Combat Jacket   | 8              | (upper - front, back, arms)                                           |
 | Bracers         | 2              | (upper - arms)                                                        |
 | Gauntlets       | 3              | (upper - arms, hands)                                                 |
 | Gloves          | 1              | (upper - hands)                                                       |
@@ -77,7 +77,7 @@ The Style's Total Coverage Value is the total of all Coverage Values of the Styl
 | Boots           | 1              | (lower - feet)                                                        |
 | Combat Pants    | 4              | (lower - thighs, shins)                                               |
 | Combat Suit     | 3              | (upper & lower - suit)                                                | 
-| Full-suit Armor | 15             | (upper & lower - suit, front, back, arms, hands, thighs, shins, feet) |
+| Full-suit Armor | 17             | (upper & lower - suit, front, back, arms, hands, thighs, shins, feet) |
 | Buckler         | 3              | (upper - arms)                                                        |
 | Round Shield    | 6              | (upper - front, arms)                                                 |
 | Kite Shield     | 5              | (upper - front, arms)                                                 |
