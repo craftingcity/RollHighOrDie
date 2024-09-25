@@ -76,12 +76,11 @@ The Style's Total Coverage Value is the total of all Coverage Values of the Styl
 | Greaves         | 3              | (lower - shins, feet)                                                 |
 | Boots           | 1              | (lower - feet)                                                        |
 | Combat Pants    | 4              | (lower - thighs, shins)                                               |
-| Combat Suit     | 3              | (upper & lower - suit)                                                | 
+| Combat Suit     | 3              | (upper & lower - suit)                                                |
 | Full-suit Armor | 17             | (upper & lower - suit, front, back, arms, hands, thighs, shins, feet) |
 | Buckler         | 3              | (upper - arms)                                                        |
-| Round Shield    | 6              | (upper - front, arms)                                                 |
 | Kite Shield     | 5              | (upper - front, arms)                                                 |
-| Tower Shield    | 8              | (upper & lower - front, arms, thighs, shins)                          |
+| Tower Shield    | 9              | (upper & lower - front, arms, thighs, shins)                          |
 
 #### Armoring Value
 This is the total value of Armoring this Armor provides. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 
