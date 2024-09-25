@@ -37,9 +37,9 @@ This is the material the Armor is mostly composed of. It is used in addition to 
 #### Style
 This is the style of Armor, reflecting the Armor's 'Areas of Coverage', and is used in addition to the Armor's 'Material' and 'Size' to determine the total Armoring Value of the Armor.
 
-'Areas of Coverage' are the 
+'Areas of Coverage' are the areas of the Armor that are actually being defended by the 'Material' of the Armor. 
 
-The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, Feet have 1CV, Front has 2CV, and Suit has 3CV). 
+The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, Feet have 1CV, Front has 2CV, and Suit has 3CV). The following table describes 
 
 
 
