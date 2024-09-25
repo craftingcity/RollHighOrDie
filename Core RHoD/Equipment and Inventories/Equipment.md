@@ -225,9 +225,7 @@ Small, 1 Action Cost (UNPACK / PACK)
 > A Pouch has three Slots that may be used to store Small or Tiny Items.
 
 Creation:
-	- 1 Watch spent at 8+ Leatherworking
-	- 
-	- *OR*
+	- 1 Watch spent at 8+ Leatherworking *OR* 2 Watches spent at 12+ Weaving
 
 #### Quiver
 Medium, 1 Action Cost (UNPACK / PACK)
