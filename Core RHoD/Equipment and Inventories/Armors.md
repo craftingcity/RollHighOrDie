@@ -90,10 +90,10 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 ` current example numbers give ~700 as MaxArmoring `
 
 > For example, let's examine a Steel Plate Full-suit Armor as made for a traditional human - Medium sized.
-> Medium Armors have a SM of 2. Steel Plate has a MV of 8. Full-suit Armor has a CV of 15.
-> Material Value (8) + Coverage Value (15) = 23
-> 23 * Size Multiplier (2) = 46
-> Medium Size Steel Plate Full-suit Armor has a total Armoring Value of 46.
+> Medium Armors have a SM of 2. Steel Plate has a MV of 8. Full-suit Armor has a CV of 17.
+> Material Value (8) + Coverage Value (15) = 25
+> 23 * Size Multiplier (2) = 50
+> Medium Size Steel Plate Full-suit Armor has a total Armoring Value of 50.
 
 ### Mundane Tags
 #### Padded (x)
@@ -113,7 +113,3 @@ While you are wearing this Armor, you gain the indicated number and size (x) of 
 While you are Resting, you may Fuel your Armor by expending the indicated number and type (x) of items. If you do, your Armor is Fueled for one Day.
 
 If your Armor is not Fueled, you treat this Armor as if it had no other Mundane or Specialized Tags.
-
-# Example Armors (OLD?)
-| Title                     | Base    | Size   | Material | Style  | A.V.  | Other                                                     |     |
-| ------------------------- | ------- | ------ | -------- | ------ | ----- | --------------------------------------------------------- | --- |
