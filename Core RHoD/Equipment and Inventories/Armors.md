@@ -41,22 +41,21 @@ This is the style of Armor, reflecting the Armor's 'Areas of Coverage', and is u
 
 The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, Feet have 1CV, Front has 2CV, and Suit has 3CV). The following table describes the 'Areas of Coverage' an Armor may have, and their respective Coverage Value.
 
-| Area of Coverage | Coverage Value | Description |
-| ---------------- | -------------- | ----------- |
-| Head - Top       |                |             |
-| Head - Back      |                |             |
-| Head - Sides     |                |             |
-| Head - Front     |                |             |
-| Head - Eyes      |                |             |
-| Upper - Front    |                |             |
-| Upper - Back     |                |             |
-| Upper - Arms     |                |             |
-| Upper - Hands    |                |             |
-| Lower - Thighs   |                |             |
-| Lower - Shins    |                |             |
-| Lower - Feet                 |                |             |
-
-
+| Area of Coverage     | Coverage Value | Description                             |
+| -------------------- | -------------- | --------------------------------------- |
+| Head - Top           | 2              | Covering the top of your head           |
+| Head - Back          | 2              | Covering the back and neck of your head |
+| Head - Sides         | 2              | Covering both sides of your head        |
+| Head - Front         | 2              | Covering your face and forehead         |
+| Head - Eyes          | 1              |                                         |
+| Upper & Lower - Suit | 3              |                                         |
+| Upper - Front        | 2              |                                         |
+| Upper - Back         | 2              |                                         |
+| Upper - Arms         | 2              |                                         |
+| Upper - Hands        | 1              |                                         |
+| Lower - Thighs       | 2              |                                         |
+| Lower - Shins        | 2              |                                         |
+| Lower - Feet         | 1              |                                         |
 
 ##### Example Styles
 | Style           | Coverage Value | Areas of Coverage                                                     |
