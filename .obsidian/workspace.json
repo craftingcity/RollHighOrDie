@@ -11,8 +11,12 @@
             "id": "87e5b54d23cd5482",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
+              }
             }
           }
         ]
@@ -142,6 +150,7 @@
   },
   "active": "87e5b54d23cd5482",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
@@ -161,7 +170,6 @@
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
-    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "RHoD Glossary (Magic).odt",
