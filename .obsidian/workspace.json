@@ -13,50 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "eaddb277b4d5d5b3",
+            "id": "28625d76b38fb941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "130ba48f8417f937",
+            "id": "cb5a40d6e67687bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Traits.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1d703b57253a0472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+                "file": "Core RHoD/Selections Glossary/Ailment.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "c7b3fb76a7f80715",
@@ -141,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+                "file": "Core RHoD/Selections Glossary/Ailment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+                "file": "Core RHoD/Selections Glossary/Ailment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md"
+                "file": "Core RHoD/Selections Glossary/Ailment.md"
               }
             }
           }
@@ -203,12 +191,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d703b57253a0472",
+  "active": "cb5a40d6e67687bf",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Traits.md",
+    "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Core RHoD/Selections Glossary/Condition.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Character Rules/Traits.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
@@ -220,7 +214,6 @@
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
@@ -235,11 +228,6 @@
     "Roll High or Die (COREvA01).pdf",
     "Stable Releases/Roll High or Die (COREvA01).odt",
     "Stable Releases",
-    "Core RHoD/Selections Glossary/Condition.md",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Environment Definitions.md",
-    "Core RHoD/Character Rules/Surviving.md",
-    "Core RHoD/Character Rules/Experience.md"
+    "Core RHoD/Environment Definitions.md"
   ]
 }
