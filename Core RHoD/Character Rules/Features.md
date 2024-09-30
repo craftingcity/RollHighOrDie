@@ -14,7 +14,7 @@ MAGIC EXPANSION
 - [[Features - Divine]]
 
 #### Inherit and Replace
-When one ability "inherits and replaces" another, the first ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the first ability.
+When one ability "inherits and replaces" another, the selected ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the selected ability.
 
 #### Ineligible to Gain
 Unless otherwise stated, you may only ever gain a given Feature once.
