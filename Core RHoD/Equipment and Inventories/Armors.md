@@ -15,7 +15,9 @@ Medium Armors have a Size Multiplier of 2.
 Large Armors have a Size Multiplier of 3.
 
 #### Material
-This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor. Additionally, M
+This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor.
+
+Materials are considered either 'Light' or 'Heavy'
 
 ##### Example Materials
 | Material          | Value |
