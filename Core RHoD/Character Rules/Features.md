@@ -29,10 +29,9 @@ Feature Specializations
 	- Ranged
 	- Either / Both
 	- Defense
-	- Hyper / Self Utility
+	- Hyper / Self Utility / Stances
 	- Group Utility
-	- Engineer?
-	- Skilluse
+	- Engineer? / SkillUse
 
 ```
 

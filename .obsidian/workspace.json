@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b0397cca5092bf84",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b7d2d39a1e387eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "28625d76b38fb941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c7b3fb76a7f80715",
         "type": "tabs",
         "children": [
-          {
-            "id": "5be4baed9467298c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
           {
             "id": "6e4d8824e00707e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Communal.md",
+                "file": "Core RHoD/Character Rules/Features.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Character Rules/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Character Rules/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md"
+                "file": "Core RHoD/Character Rules/Features.md"
               }
             }
           }
@@ -191,15 +147,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b7d2d39a1e387eb",
+  "active": "6e4d8824e00707e2",
   "lastOpenFiles": [
     "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Core RHoD/Selections Glossary/Condition.md",
+    "Core RHoD/Character Rules/Features.md",
+    "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Core RHoD/Selections Glossary/Features/Features - Communal.md",
-    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
