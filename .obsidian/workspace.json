@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "c7b3fb76a7f80715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5be4baed9467298c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
