@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5550131ce88bca6c",
+        "id": "b0397cca5092bf84",
         "type": "tabs",
         "children": [
           {
-            "id": "87e5b54d23cd5482",
+            "id": "9b7d2d39a1e387eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Core RHoD/Character Rules/Features.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "indicated",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Core RHoD/Character Rules/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Core RHoD/Character Rules/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
+                "file": "Core RHoD/Character Rules/Features.md"
               }
             }
           }
@@ -148,8 +148,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87e5b54d23cd5482",
+  "active": "9b7d2d39a1e387eb",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
@@ -164,7 +165,6 @@
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",

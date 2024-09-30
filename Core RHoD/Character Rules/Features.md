@@ -19,3 +19,14 @@ When one ability "inherits and replaces" another, the first ability gains all te
 Unless otherwise stated, you may only ever gain a given Feature once.
 
 Some Features are exclusive with other Features. A given Feature will list Features that, if you have gained, make you ineligible to gain that Feature.
+
+```
+
+Feature Specializations
+
+	- Melee
+	- Ranged
+	- Either / Both
+	- Defense
+
+```
