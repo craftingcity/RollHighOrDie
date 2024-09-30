@@ -247,7 +247,7 @@ Make an Endurance Skill Check. If the result is fewer than 16, you may not use t
 ## Fleet Foot
 ###### REQ: 3EXP
 ###### 2 AP
-###### USE: Armor - Light or None
+###### USE: Armor - Light or No Armor
 'You have a need for speed.'
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may crawl up to 10' instead of 5'.
