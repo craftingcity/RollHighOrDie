@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Character Rules/Features.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a8fcac2d034c4d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -148,12 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e4d8824e00707e2",
+  "active": "a8fcac2d034c4d2e",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Condition.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
+    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
