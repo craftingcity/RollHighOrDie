@@ -62,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resolve",
+                "query": "Caught",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Selections Glossary/Ailment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Selections Glossary/Ailment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
+                "file": "Core RHoD/Selections Glossary/Ailment.md"
               }
             }
           }
@@ -192,8 +191,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd170885ee9c807c",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
@@ -208,7 +208,6 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
     "armor.md",
