@@ -10,6 +10,7 @@ After a Condition has Resolved, you are no longer under it's effects.
 
 ## Survival Conditions
 #### Exhausted
+#### Unconscious
 #### Well Rested
 #### Hungry
 #### Starving
