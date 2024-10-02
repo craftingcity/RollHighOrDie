@@ -6,7 +6,7 @@ While [[Ailment]] and [[Emboldenment]] are imparted by one character onto anothe
 ## Resolving Conditions
 Some Conditions will Naturally Resolve over time, while others will persist, and require action to Manually Resolve.
 
-After a Condition has Resolved, you are no longer under it's effects.
+After a Condition, Ailment, or Emboldenment has Resolved, you are no longer under it's effects.
 
 ## Survival Conditions
 #### Exhausted

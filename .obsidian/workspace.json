@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md"
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md"
               }
             }
           }
@@ -194,10 +194,10 @@
   },
   "active": "bd170885ee9c807c",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
