@@ -49,8 +49,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bd170885ee9c807c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "condition",
+                "query": "resolve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Ailment.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Ailment.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Ailment.md"
+                "file": "Core RHoD/Selections Glossary/Condition.md"
               }
             }
           }
@@ -179,10 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b79ff01c6580368",
+  "active": "bd170885ee9c807c",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Ailment.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",

@@ -11,8 +11,7 @@ When you make a Maneuver, if you are within Weapon Range and Line of Sight of th
 When you make a Maneuver, the distance you travel is halved.
 
 #### Bleeding
-At the beginning of your turn, you take one True Necrotic Damage for every stack of 'Bleeding' you have.
-
+At the beginning of your turn, you take one True Necrotic Damage for every stack of 'Bleeding' you have. Then, make an Endurance Skill Check. If the result is equal to or greater than 14, resolve one stack of the 'Bleeding' Ailment.
 #### Flammable
 #### Caught
 #### Frightened

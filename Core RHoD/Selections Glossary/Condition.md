@@ -4,7 +4,7 @@ Conditions in RHoD are the temporary afflictions or effects that characters may 
 While [[Ailment]] and [[Emboldenment]] are imparted by one character onto another, Conditions reflect the current status of a given character.
 
 ## Resolving Conditions
-Some Conditions will Naturally Resolve over time, while others will persist, and require action to Magically Resolve or Chemically Resolve.
+Some Conditions will Naturally Resolve over time, while others will persist, and require action to Manually Resolve.
 
 After a Condition has Resolved, you are no longer under it's effects.
 
