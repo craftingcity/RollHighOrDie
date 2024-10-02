@@ -202,7 +202,7 @@ Expend a Hit Die and make an Endurance Skill Check. If the result of the Enduran
 
 This feature inherits and replaces the 'Engage' Martial Feature.
 
-When you make an Attack against a target you have 'Engaged', if you deal damage, that target cannot make Maneuvers until they are no longer 'Engaged'.
+When you make an Attack against a target you have 'Engaged', if you deal damage, you impose the 'Grappled' [[Ailment]] until they are no longer 'Engaged'.
 
 ## Splitshot
 ###### REQ: 3EXP

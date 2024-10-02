@@ -8,6 +8,8 @@ You have Disadvantage on Attacks targeting creatures other than the creature tha
 When you make a Maneuver, if you are within Weapon Range and Line of Sight of the creature that imposed this Ailment on you, they make an Attack against your Reflex.
 
 #### Hobbled
+When you make a Maneuver, the distance you travel is halved
+
 #### Bleeding
 #### Flammable
 #### Caught
