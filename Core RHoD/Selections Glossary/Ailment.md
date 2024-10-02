@@ -9,6 +9,11 @@ When you make a Maneuver, if you are within Weapon Range and Line of Sight of th
 
 #### Hobbled
 #### Bleeding
+#### Flammable
+#### Caught
+#### Frightened
+#### Grappled
+#### Surprised
 #### Burning
 #### Blinded
 #### Dazed
