@@ -12,9 +12,11 @@ While you are 'Hobbled', when you make a Maneuver, the distance you travel is ha
 While you are 'Bleeding', at the beginning of your turn, you take one True Necrotic Damage for every stack of 'Bleeding' you have.
 
 #### Flammable
-While you are 'Flammable', when you take Fire Damage or end your turn in or adjacent to an 'Enflamed' space, you gain a stack of the 'Burning' Ailment for every stack of 'Flammable' you have, then you 
+While you are 'Flammable', when you take Fire Damage or end your turn in or adjacent to an 'Enflamed' space, you convert any stacks of 'Flammable' you have into stacks of 'Burning'.
 
 #### Caught
+While you are 'Caught', you cannot make Maneuvers.
+
 #### Frightened
 #### Grappled
 #### Surprised
