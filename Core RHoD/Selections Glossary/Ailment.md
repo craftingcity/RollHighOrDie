@@ -23,8 +23,12 @@ While you are 'Frightened', you cannot voluntarily move closer to the creature o
 #### Grappled
 While you are 'Grappled', you cannot make Maneuvers.
 
+On your turn, you may spend 
+
 #### Surprised
-While you are 'Surprised', you
+While you are 'Surprised', you have -10 to Initiative Rolls.
+
+At the end of your turn, resolve any stacks of 'Surprised' that you have.
 
 #### Burning
 #### Blinded
