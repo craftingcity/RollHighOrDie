@@ -23,7 +23,7 @@ While you are 'Frightened', you cannot voluntarily move closer to the creature o
 #### Grappled
 While you are 'Grappled', you cannot make Maneuvers.
 
-On your turn, you may spend 
+On your turn, you may spend 2 AP to make 
 
 #### Surprised
 While you are 'Surprised', you have -10 to Initiative Rolls.
