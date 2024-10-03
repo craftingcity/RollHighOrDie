@@ -33,12 +33,19 @@ While you are 'Surprised', you have -10 to Initiative Rolls.
 At the end of your turn, Naturally Resolve any stacks of 'Surprised' that you have.
 
 #### Burning
-While you are Burning, at the beginning of your turn, you take 1d4 Fire Damage for each stack of 'Burning' you have.
+While you are 'Burning', at the beginning of your turn, you take 1d4 Fire Damage for each stack of 'Burning' you have.
 
 #### Blinded
+While you are 'Blinded', you cannot establish Line of Sight.
+
 #### Dazed
+While you are 'Dazed'
+
 #### Infected
+While you are 'Infected'
+
 #### Poisoned
+While you are 'Poisoned'
 
 ## Arcane Ailments
 ## Divine Ailments
