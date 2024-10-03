@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Grappled",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

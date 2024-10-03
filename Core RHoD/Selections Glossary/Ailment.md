@@ -17,18 +17,20 @@ While you are 'Flammable', when you take Fire Damage or end your turn in or adja
 #### Caught
 While you are 'Caught', you cannot make Maneuvers.
 
+On your turn, you may spend 2 AP to attempt to Manually Resolve this Ailment. Make a Manipulation Skill Check. If the result is greater than the final DC of setting the trap, you succeed.
+
 #### Frightened
 While you are 'Frightened', you cannot voluntarily move closer to the creature or object that imposed this Ailment upon you, and you make Attacks against that creature or object with Disadvantage.
 
 #### Grappled
 While you are 'Grappled', you cannot make Maneuvers.
 
-On your turn, you may spend 2 AP to attempt to Manually Resolve this 
+On your turn, you may spend 2 AP to attempt to Manually Resolve this Ailment. Make an Athletics Skill Check, and your imposer will do the same. Compare your Athletics Roll to your imposer's Athletics Roll. If your Total is 
 
 #### Surprised
 While you are 'Surprised', you have -10 to Initiative Rolls.
 
-At the end of your turn, resolve any stacks of 'Surprised' that you have.
+At the end of your turn, Naturally Resolve any stacks of 'Surprised' that you have.
 
 #### Burning
 #### Blinded
