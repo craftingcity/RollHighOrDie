@@ -9,7 +9,7 @@ While you are 'Engaged, you have Disadvantage on Attacks targeting creatures oth
 While you are 'Hobbled', when you make a Maneuver, the distance you travel is halved.
 
 #### Bleeding
-While you are 'Bleeding', at the beginning of your turn, you take one True Necrotic Damage for every stack of 'Bleeding' you have.
+While you are 'Bleeding', at the beginning of your turn, you take one True Necrotic Damage for each stack of 'Bleeding' you have.
 
 #### Flammable
 While you are 'Flammable', when you take Fire Damage or end your turn in or adjacent to an 'Enflamed' space, you convert any stacks of 'Flammable' you have into stacks of 'Burning'.
@@ -25,7 +25,7 @@ While you are 'Frightened', you cannot voluntarily move closer to the creature o
 #### Grappled
 While you are 'Grappled', you cannot make Maneuvers.
 
-On your turn, you may spend 2 AP to attempt to Manually Resolve this Ailment. Make an Athletics Skill Check, and your imposer will do the same. Compare your Athletics Roll to your imposer's Athletics Roll. If your Total is 
+On your turn, you may spend 2 AP to attempt to Manually Resolve this Ailment. Make an Athletics Skill Check, and your imposer will do the same. Compare your Athletics Roll to your imposer's Athletics Roll. If your Total is greater than your imposer's, you succeed.
 
 #### Surprised
 While you are 'Surprised', you have -10 to Initiative Rolls.
@@ -33,6 +33,8 @@ While you are 'Surprised', you have -10 to Initiative Rolls.
 At the end of your turn, Naturally Resolve any stacks of 'Surprised' that you have.
 
 #### Burning
+While you are Burning, at the beginning of your turn, you take 1d4 Fire Damage for each stack of 'Burning' you have.
+
 #### Blinded
 #### Dazed
 #### Infected
