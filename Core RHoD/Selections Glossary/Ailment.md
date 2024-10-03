@@ -18,6 +18,8 @@ While you are 'Flammable', when you take Fire Damage or end your turn in or adja
 While you are 'Caught', you cannot make Maneuvers.
 
 #### Frightened
+While you are 'Frightened', you cannot voluntarily move closer to the object that imposed this Ailment upon you.
+
 #### Grappled
 #### Surprised
 #### Burning
