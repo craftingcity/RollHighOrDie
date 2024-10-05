@@ -14,6 +14,8 @@ While you are 'Well Rested', when you make an Ability Check, you may grant yours
 #### Unconscious
 While you are 'Unconscious', you cannot take Actions. At the beginning of your turn, if you are not in the Prone Stance, you enter the Prone Stance.
 
+At the beginning of your turn, make a Wisdom Check. If the result is equal to or greater than 14
+
 #### Low-light Vision
 While you have 'Low-light Vision', you treat spaces lit by Darkness as if they were lit by Low Light, spaces lit by Low Light as if they were lit by High Light, and spaces lit by High Light as if they were lit by Blinding Light.
 
@@ -30,7 +32,7 @@ While you are 'Hungry', your Ability Scores are reduced by one for each stack of
 While you are 'Starving', you have Disadvantage on all Checks, and your Reflex, Fortitude, and Will are halved.
 
 #### Dehydrated
-While you are 'Dehydrated', 
+While you are 'Dehydrated', your Ability Scores are reduced by one for each stack of 'Dehydrated' you have.
 
 
 ## Arcane Conditions
