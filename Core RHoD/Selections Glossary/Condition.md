@@ -21,7 +21,7 @@ While you have 'Low-light Vision', you treat spaces lit by Darkness as if they w
 While you are 'Hidden', you cannot be the target of an Attack or Ability.
 
 #### Exhausted
-While you have a stack of Exhausted, when you gain 
+While you are 'Exhausted', your Reflex, Fortitude, and Will are each reduced by one for each stack of 'Exhausted' when you gain Action Points at the beginning of your turn, you gain two fewer for each stack of 'Exhaustion' you have. 
 
 #### Hungry
 #### Starving
