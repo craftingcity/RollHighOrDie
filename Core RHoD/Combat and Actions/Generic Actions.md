@@ -48,7 +48,7 @@ Any creatures in the area under the 'Hidden' [[Condition]] must make a Stealth S
 ###### 2 AP
 'You provide assistance to an ally, increasing their chances of success.'
 
-Target a willing creature within 5ft of you. You provide them with the 'Aided' [[Emboldenment]] as you move to assist them on their next action.
+Target a willing creature within 5ft of you. You provide them with the 'Aided' [[Emboldenment]] as you assist them on their next action. 
 
 ## Interact
 ###### 1 AP
