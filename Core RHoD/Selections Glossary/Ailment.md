@@ -39,13 +39,13 @@ While you are 'Burning', at the beginning of your turn, you take 1d4 Fire Damage
 While you are 'Blinded', you cannot establish Line of Sight.
 
 #### Dazed
-While you are 'Dazed'
+While you are 'Dazed', when you gain Action Points at the beginning of your turn, 
 
 #### Infected
 While you are 'Infected'
 
 #### Poisoned
-While you are 'Poisoned'
+While you are 'Poisoned', at the beginning of your turn, you take 1d4 Poison Damage for each stack of 'Poisoned' you have.
 
 ## Arcane Ailments
 ## Divine Ailments
