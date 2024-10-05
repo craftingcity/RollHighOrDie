@@ -12,7 +12,7 @@ After a Condition, Ailment, or Emboldenment has Resolved, you are no longer unde
 While you are 'Well Rested', when you make an Ability Check, you may grant yourself Advantage if you do not already have it. When you do so, you Naturally Resolve this Condition.
 
 #### Unconscious
-While you are 'Unconscious', you cannot 
+While you are 'Unconscious', 
 
 #### Low-light Vision
 #### Hidden
