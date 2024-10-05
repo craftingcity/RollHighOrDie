@@ -9,14 +9,14 @@ Some Conditions will Naturally Resolve over time, while others will persist, and
 After a Condition, Ailment, or Emboldenment has Resolved, you are no longer under it's effects.
 
 ## Survival Conditions
-#### Exhausted
-#### Unconscious
 #### Well Rested
+#### Unconscious
+#### Low-light Vision
+#### Hidden
+#### Exhausted
 #### Hungry
 #### Starving
 #### Dehydrated
-#### Low-light Vision
-#### Hidden
 
 ## Arcane Conditions
 #### Flux Overpressure
