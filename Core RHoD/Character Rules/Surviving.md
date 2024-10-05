@@ -19,7 +19,7 @@ When you are Travelling or Resting you may fulfill your character's need for Foo
 When a day passes, you will gain or lose conditions based on the amount of Food you've eaten;
 
 - If you eat a Full Ration, you Chemically Resolve any number of stacks of 'Hungry' or 'Starving' [[Condition]] you have.
-- If you eat a Half Ration, you gain a stack of the 'Hungry' [[Condition]], and you Chemically Resolve any number of stacks of the 'Starving' [[Condition]] you have.
+- If you eat a Half Ration, you gain a stack of the 'Hungry' [[Condition]], and you Naturally Resolve any number of stacks of the 'Starving' [[Condition]] you have.
 - If you eat no Ration, you gain a stack of the 'Starving' [[Condition]].
 
 ## Water
@@ -29,7 +29,7 @@ When you are Travelling or Resting you may fulfill your character's need for Wat
 
 When a day passes, you will gain or lose conditions based on the amount of Water you've drank.
 
-- If you drink a Full Ration, you Chemically Resolve any number of stacks of the 'Dehydrated' [[Condition]] you have.
+- If you drink a Full Ration, you Naturally Resolve any number of stacks of the 'Dehydrated' [[Condition]] you have.
 - If you drink a Half Ration, you gain a stack of the 'Dehydrated' [[Condition]].
 - If you drink no Ration, you gain three stacks of the 'Dehydrated' [[Condition]]. 
 

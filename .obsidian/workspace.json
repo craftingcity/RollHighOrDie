@@ -18,21 +18,26 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3fb0b1880a194d65",
+        "type": "tabs",
+        "children": [
           {
-            "id": "a528419691d1d0b4",
+            "id": "84e2d58b374b98e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
+                "file": "Core RHoD/Selections Glossary/Condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Combat and Actions/Combat Definitions.md"
+                "file": "Core RHoD/Selections Glossary/Condition.md"
               }
             }
           }
@@ -161,8 +166,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a528419691d1d0b4",
+  "active": "84e2d58b374b98e0",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Character Rules/Surviving.md",
+    "Core RHoD/Selections Glossary/Condition.md",
+    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Character Rules/Skills.md",
@@ -170,7 +179,6 @@
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
-    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
@@ -184,14 +192,11 @@
     "armor.md",
     "gen.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Core RHoD/Character Rules/Ability Scores.md",
-    "Core RHoD/Character Rules/Creating A Character.md",
     "RHoD Glossary (Magic).odt",
     "RHoD Glossary (Low Fantasy).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE).odt",

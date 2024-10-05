@@ -110,10 +110,10 @@ When you make an Attack with this Weapon, if the number you roll on your d20 is 
 
 ### Specialized Tags
 #### Barbed / Serrated
-When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Condition]].
+When you deal Damage with this Weapon, you apply one stack of the 'Bleeding' [[Ailment]].
 
 #### Dense
-When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Condition]].
+When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Ailment]].
 
 # Example Weapons
 | Title          | Base        | Size   | Range       | Ability   | Defense | D. Dice | D. Type     | Other                  |

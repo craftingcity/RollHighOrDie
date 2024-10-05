@@ -15,8 +15,8 @@ After a Condition, Ailment, or Emboldenment has Resolved, you are no longer unde
 #### Hungry
 #### Starving
 #### Dehydrated
-## Environment Conditions
 #### Low-light Vision
 #### Hidden
+
 ## Arcane Conditions
 #### Flux Overpressure
