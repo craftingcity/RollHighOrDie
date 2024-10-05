@@ -18,9 +18,11 @@ While you are 'Unconscious', you cannot take Actions. At the beginning of your t
 While you have 'Low-light Vision', you treat spaces lit by Darkness as if they were lit by Low Light, spaces lit by Low Light as if they were lit by High Light, and spaces lit by High Light as if they were lit by Blinding Light.
 
 #### Hidden
-While you are 'Hidden', you cannot be the target of an Attack or Ability
+While you are 'Hidden', you cannot be the target of an Attack or Ability.
 
 #### Exhausted
+While you have a stack of Exhausted, when you gain 
+
 #### Hungry
 #### Starving
 #### Dehydrated
