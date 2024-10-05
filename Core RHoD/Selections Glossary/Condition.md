@@ -21,11 +21,17 @@ While you have 'Low-light Vision', you treat spaces lit by Darkness as if they w
 While you are 'Hidden', you cannot be the target of an Attack or Ability.
 
 #### Exhausted
-While you are 'Exhausted', your Reflex, Fortitude, and Will are each reduced by one for each stack of 'Exhausted' when you gain Action Points at the beginning of your turn, you gain two fewer for each stack of 'Exhaustion' you have. 
+While you are 'Exhausted', your Reflex, Fortitude, and Will are each reduced by one for each stack of 'Exhausted' you have. When you gain Action Points at the beginning of your turn, you gain two fewer for each stack of 'Exhaustion' you have. 
 
 #### Hungry
+While you are 'Hungry', your Ability Scores are reduced by one for each stack of 'Hungry' you have.
+
 #### Starving
+While you are 'Starving', you have Disadvantage on all Checks, and your Reflex, Fortitude, and Will are halved.
+
 #### Dehydrated
+While you are 'Dehydrated', 
+
 
 ## Arcane Conditions
 #### Flux Overpressure
