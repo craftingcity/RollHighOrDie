@@ -42,7 +42,9 @@ While you are 'Blinded', you cannot establish Line of Sight.
 While you are 'Dazed', when you gain Action Points at the beginning of your turn, you gain one fewer for each stack of 'Dazed' you have.
 
 #### Infected
-While you are 'Infected', 
+While you are 'Infected', your Ability Scores are reduced by one for each stack of 'Infected' you have.
+
+At the end of a Day, make a Constitution Check. If the result is equal to or 
 
 #### Poisoned
 While you are 'Poisoned', at the beginning of your turn, you take 1d4 Poison Damage for each stack of 'Poisoned' you have.
