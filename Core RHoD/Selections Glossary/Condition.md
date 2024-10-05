@@ -15,7 +15,7 @@ While you are 'Well Rested', when you make an Ability Check, you may grant yours
 While you are 'Unconscious', you cannot take Actions. At the beginning of your turn, if you are not in the Prone Stance, you enter the Prone Stance.
 
 #### Low-light Vision
-While you have 'Low-light Vision', you treat 
+While you have 'Low-light Vision', you treat spaces lit by Darkness as if they were lit by Low Light, spaces lit by Low Light as if they were lit by High Light, and spaces lit by 
 
 #### Hidden
 #### Exhausted
