@@ -11,9 +11,10 @@ If you are ever more than 5' away from the creature that granted you this Embold
 While you are 'Pain Dulled', when you take damage, you may reduce the amount of damage you take by one for each stack of 'Pain Dulled' you have. You cannot reduce the amount of damage you take to a value less than one.
 
 #### Regeneration
-While you have 'Regeneration', at the beginning of your turn, roll a Hit Die, but do not expend it. 
+While you have 'Regeneration', at the beginning of your turn, roll a Hit Die, even if you have none, and do not expend it. You regain the number rolled as Vitality. Then, you Naturally Resolve a stack of 'Regeneration'.
 
 #### Rallied
+While you are 'Rallied', 
 
 ## Arcane Emboldenments
 ## Divine Emboldenments
