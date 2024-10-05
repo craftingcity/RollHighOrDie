@@ -8,8 +8,9 @@ Some Conditions will Naturally Resolve over time, while others will persist, and
 
 After a Condition, Ailment, or Emboldenment has Resolved, you are no longer under it's effects.
 
-## Survival Conditions
 #### Well Rested
+While you are 'Well Rested', 
+
 #### Unconscious
 #### Low-light Vision
 #### Hidden
