@@ -9,9 +9,11 @@ Some Conditions will Naturally Resolve over time, while others will persist, and
 After a Condition, Ailment, or Emboldenment has Resolved, you are no longer under it's effects.
 
 #### Well Rested
-While you are 'Well Rested', 
+While you are 'Well Rested', when you make an Ability Check, you may grant yourself Advantage if you do not already have it. When you do so, you Naturally Resolve this Condition.
 
 #### Unconscious
+
+
 #### Low-light Vision
 #### Hidden
 #### Exhausted
