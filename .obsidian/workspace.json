@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3fb0b1880a194d65",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
                 "mode": "source",
                 "source": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md",
+                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Condition.md"
+                "file": "Core RHoD/Selections Glossary/Emboldenment.md"
               }
             }
           }
@@ -193,10 +193,10 @@
   },
   "active": "84e2d58b374b98e0",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Condition.md",
-    "ail.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
+    "ail.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Surviving.md",

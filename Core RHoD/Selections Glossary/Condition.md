@@ -14,7 +14,7 @@ While you are 'Well Rested', when you make an Ability Check, you may grant yours
 #### Unconscious
 While you are 'Unconscious', you cannot take Actions. At the beginning of your turn, if you are not in the Prone Stance, you enter the Prone Stance.
 
-At the beginning of your turn, make a Wisdom Check. If the result is equal to or greater than 14
+At the beginning of your turn, make a Wisdom Check. If the result is equal to or greater than 14, you Manually Resolve this Condition.
 
 #### Low-light Vision
 While you have 'Low-light Vision', you treat spaces lit by Darkness as if they were lit by Low Light, spaces lit by Low Light as if they were lit by High Light, and spaces lit by High Light as if they were lit by Blinding Light.
