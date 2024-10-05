@@ -15,6 +15,8 @@ While you are 'Well Rested', when you make an Ability Check, you may grant yours
 While you are 'Unconscious', you cannot take Actions. At the beginning of your turn, if you are not in the Prone Stance, you enter the Prone Stance.
 
 #### Low-light Vision
+While you are
+
 #### Hidden
 #### Exhausted
 #### Hungry
