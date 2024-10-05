@@ -35,7 +35,7 @@ At the end of your turn, Naturally Resolve any stacks of 'Surprised' that you ha
 #### Burning
 While you are 'Burning', at the beginning of your turn, you take 1d4 Fire Damage for each stack of 'Burning' you have.
 
-On your turn, while you are in the Prone Stance, you may spend 3 AP to Manually Resolve a stack of 'Burning'
+On your turn, while you are in the Prone Stance, you may spend 3 AP to Manually Resolve a stack of 'Burning'.
 
 #### Blinded
 While you are 'Blinded', you cannot establish Line of Sight, and you cannot take the Detect Action.
