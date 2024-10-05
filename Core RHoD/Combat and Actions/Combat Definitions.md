@@ -115,7 +115,7 @@ If a space would be lit by multiple sources, it is considered lit by the brighte
 ###### Blinding Light
 Blinding Light is too much light, even through squinted eyes. Typically, Blinding Light is emitted by militaristic sources or intense natural sources.
 
-While you are in a space lit by Blinging Light, gain the 'Blinded' [[Condition]] until you are no longer in a space lit by Blinging Light.
+While you are in a space lit by Blinging Light, gain the 'Blinded' [[Ailment]] until you are no longer in a space lit by Blinging Light.
 
 ###### High Light
 High Light is bright, but not blinding. High Light is emitted by sources like the sun, a campfire, or an electric or arcane lamp.

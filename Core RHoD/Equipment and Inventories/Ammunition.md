@@ -40,7 +40,7 @@ If the Total of your Check is 20 or greater, you may recover all of your expende
 
 ### Specialized Tags
 #### Barbed / Hollow Point
-When you deal Damage using this Ammunition, you apply one stack of the 'Bleeding' [[Condition]].
+When you deal Damage using this Ammunition, you apply one stack of the 'Bleeding' [[Ailment]].
 
 #### Coring / Armor Piercing
 When you deal Damage using this Ammunition, you may deal half that damage as True Damage.
@@ -59,7 +59,7 @@ When you make an Attack using this Ammunition, the space your target occupies is
 #### Incendiary (x)
 When you make an Attack using this Ammunition, if the space your target occupies is 'Flammable', it becomes 'Enflamed'.
 
-If you hit with an Attack using this Ammunition, your target gains a number of stacks of the 'Burning' [[Condition]] equal to the value indicated (x).
+If you hit with an Attack using this Ammunition, your target gains a number of stacks of the 'Burning' [[Ailment]] equal to the value indicated (x).
 
 # Example Ammunition
 ### Projectile Ammunition
