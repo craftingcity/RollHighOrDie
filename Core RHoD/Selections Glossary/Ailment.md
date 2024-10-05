@@ -35,8 +35,10 @@ At the end of your turn, Naturally Resolve any stacks of 'Surprised' that you ha
 #### Burning
 While you are 'Burning', at the beginning of your turn, you take 1d4 Fire Damage for each stack of 'Burning' you have.
 
+On your turn, you may spend 2 AP to attempt to Manually Resolve a stack of this Ailment. 
+
 #### Blinded
-While you are 'Blinded', you cannot establish Line of Sight, and you cannot take the .
+While you are 'Blinded', you cannot establish Line of Sight, and you cannot take the Detect Action.
 
 #### Dazed
 While you are 'Dazed', when you gain Action Points at the beginning of your turn, you gain one fewer for each stack of 'Dazed' you have.
