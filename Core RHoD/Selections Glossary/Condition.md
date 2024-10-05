@@ -15,9 +15,11 @@ While you are 'Well Rested', when you make an Ability Check, you may grant yours
 While you are 'Unconscious', you cannot take Actions. At the beginning of your turn, if you are not in the Prone Stance, you enter the Prone Stance.
 
 #### Low-light Vision
-While you have 'Low-light Vision', you treat spaces lit by Darkness as if they were lit by Low Light, spaces lit by Low Light as if they were lit by High Light, and spaces lit by 
+While you have 'Low-light Vision', you treat spaces lit by Darkness as if they were lit by Low Light, spaces lit by Low Light as if they were lit by High Light, and spaces lit by High Light as if they were lit by Blinding Light.
 
 #### Hidden
+While you are 'Hidden', you gain +2 to Attack Rolls and +2 to your 
+
 #### Exhausted
 #### Hungry
 #### Starving
