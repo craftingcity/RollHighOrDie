@@ -36,10 +36,15 @@ Feature Specializations
 
 ```
 
-| Melee            | Ranged | Either       | Defense     | Stance |
-| ---------------- | ------ | ------------ | ----------- | ------ |
-| Engage > Enforce |        | Sneak Attack | Second Wind |        |
-| Riposte          |        |              | Up and Gone |        |
-| Cleave           |        |              |             |        |
-| Defensive Strike |        |              |             |        |
-|                  |        |              |             |        |
+| Melee                      | Ranged    | Either         | Defense             | Stance / Utility  |
+| -------------------------- | --------- | -------------- | ------------------- | ----------------- |
+| Engage > Enforce / Halting | Splitshot | Sneak Attack   | Second Wind         | Protective Stance |
+| Riposte                    |           | Careful Strike | Up and Gone         | Exert             |
+| Cleave                     |           | Sly Flourish   | Disengage           |                   |
+| Defensive Strike           |           | Break A Leg    | Bloody Regeneration |                   |
+| Iron Tide                  |           | Trickshot      |                     |                   |
+| Forceful Strike            |           |                |                     |                   |
+| Passing Strike             |           |                |                     |                   |
+| Bash                       |           |                |                     |                   |
+| Opportune Pushback         |           |                |                     |                   |
+|                            |           |                |                     |                   |
