@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7b3fb76a7f80715",
+        "id": "42fa4dd95ccad49a",
         "type": "tabs",
         "children": [
           {
-            "id": "0f579a719c0b2500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6e4d8824e00707e2",
+            "id": "ae9043351870f3ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,6 +26,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0f579a719c0b2500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "70852b457f38e00f"
+          },
+          {
             "id": "b7752ef97f78e952",
             "type": "leaf",
             "state": {
@@ -47,7 +48,8 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "4b5221f38a6062d2"
           },
           {
             "id": "d402ba3b415ca2a2",
@@ -59,7 +61,47 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "fefb0b74cde92285"
+          }
+        ]
+      },
+      {
+        "id": "31df42dfaba27c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be3caa8311de47f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
+              }
+            },
+            "group": "70852b457f38e00f"
+          },
+          {
+            "id": "37fe5af166f56c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Communal.md"
+              }
+            },
+            "group": "4b5221f38a6062d2"
+          },
+          {
+            "id": "e9752824ddb7fbaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Features - Specialization.md"
+              }
+            },
+            "group": "fefb0b74cde92285"
           }
         ]
       }
@@ -128,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Communal.md",
+                "file": "Core RHoD/Character Rules/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Communal.md",
+                "file": "Core RHoD/Character Rules/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Communal.md"
+                "file": "Core RHoD/Character Rules/Features.md"
               }
             }
           }
@@ -190,12 +232,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7752ef97f78e952",
+  "active": "ae9043351870f3ab",
   "lastOpenFiles": [
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Features - Specialization.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Character Rules/Features.md",
-    "Features - Specialization.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Selections Glossary/Condition.md",

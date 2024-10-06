@@ -179,13 +179,6 @@ Until the beginning of your next turn, you impose Advantage on Melee Attacks aga
 
 Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
 
-## Painrush
-###### REQ: 2EXP
-###### 2 AP
-'When something hurts, you move. Getting out, getting in, the pain moves your body anyways.'
-
-Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
-
 ## Disengage
 ###### REQ: 2EXP
 ###### 2 AP
@@ -267,3 +260,10 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 'Your opponent's attacks falter and fail as you defend the few weak spots in your armoring.'
 
 Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Slashing Damage Resistance.
+
+## Painrush
+###### REQ: 2EXP
+###### 2 AP
+'When something hurts, you move. Getting out, getting in, the pain moves your body anyways.'
+
+Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
