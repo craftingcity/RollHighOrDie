@@ -171,6 +171,14 @@ You may only use this Feature once per turn.
 
 Until the beginning of your next turn, you impose Advantage on Melee Attacks against you, and when you hit a target with a Melee Weapon, you deal an additional Weapon Damage Die.
 
+## Protective Stance
+###### REQ: 2EXP
+###### 2 AP
+###### Use: Shield
+'You hold your shield over an ally, taking the burden of combat from them for a moment.'
+
+Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
+
 ## Painrush
 ###### REQ: 2EXP
 ###### 2 AP

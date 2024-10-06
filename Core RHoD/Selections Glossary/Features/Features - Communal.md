@@ -16,14 +16,6 @@ Allies within 30 feet of you who also have this Trait may expend a Hit Die and r
 
 Target an ally who can hear you. Until the beginning of your next turn, that ally gains the 'Rallied' [[Emboldenment]].
 
-## Protective Stance
-###### REQ: 2EXP
-###### 2 AP
-###### Use: Shield
-'You hold your shield over an ally, taking the burden of combat from them for a moment.'
-
-Target an adjacent ally. Until the beginning of your next turn, if they are the target of an attack and they are still adjacent to you, you are the target of that attack instead.
-
 # EXP - 3
 ## Cover Fire
 ###### REQ: 3EXP

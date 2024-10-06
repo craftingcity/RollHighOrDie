@@ -8,6 +8,7 @@ For ease of presentation, Features are categorized by their "source of power" an
 CORE
 - [[Features - Martial]]
 - [[Features - Communal]]
+- [[Features - Specialization]]
 
 MAGIC EXPANSION
 - [[Features - Arcane]]
