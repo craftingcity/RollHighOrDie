@@ -36,15 +36,15 @@ Feature Specializations
 
 ```
 
-| Melee                      | Ranged    | Either         | Defense             | Stance / Utility  |
-| -------------------------- | --------- | -------------- | ------------------- | ----------------- |
-| Engage > Enforce / Halting | Splitshot | Sneak Attack   | Second Wind         | Protective Stance |
-| Riposte                    |           | Careful Strike | Up and Gone         | Exert             |
-| Cleave                     |           | Sly Flourish   | Disengage           |                   |
-| Defensive Strike           |           | Break A Leg    | Bloody Regeneration |                   |
-| Iron Tide                  |           | Trickshot      |                     |                   |
-| Forceful Strike            |           |                |                     |                   |
-| Passing Strike             |           |                |                     |                   |
-| Bash                       |           |                |                     |                   |
-| Opportune Pushback         |           |                |                     |                   |
-|                            |           |                |                     |                   |
+| Melee                      | Ranged     | Either         | Defense             | Stance / Utility  |
+| -------------------------- | ---------- | -------------- | ------------------- | ----------------- |
+| Engage > Enforce / Halting | Splitshot  | Sneak Attack   | Second Wind         | Protective Stance |
+| Riposte                    | Cover Fire | Careful Strike | Up and Gone         | Exert             |
+| Cleave                     |            | Sly Flourish   | Disengage           | Fleet Foot        |
+| Defensive Strike           |            | Break A Leg    | Bloody Regeneration | Battle Cry        |
+| Iron Tide                  |            | Trickshot      |                     | Rally             |
+| Forceful Strike            |            |                | Tank Up             |                   |
+| Passing Strike             |            |                |                     |                   |
+| Bash                       |            |                |                     |                   |
+| Opportune Pushback         |            |                |                     |                   |
+
