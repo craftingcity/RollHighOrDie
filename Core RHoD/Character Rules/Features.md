@@ -36,3 +36,10 @@ Feature Specializations
 
 ```
 
+| Melee            | Ranged | Either       | Defense     | Stance |
+| ---------------- | ------ | ------------ | ----------- | ------ |
+| Engage > Enforce |        | Sneak Attack | Second Wind |        |
+| Riposte          |        |              | Up and Gone |        |
+| Cleave           |        |              |             |        |
+| Defensive Strike |        |              |             |        |
+|                  |        |              |             |        |
