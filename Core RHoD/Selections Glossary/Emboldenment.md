@@ -14,7 +14,7 @@ While you are 'Pain Dulled', when you take damage, you may reduce the amount of 
 While you have 'Regeneration', at the beginning of your turn, roll a Hit Die, even if you have none, and do not expend it. You regain the number rolled as Vitality. Then, you Naturally Resolve a stack of 'Regeneration'.
 
 #### Rallied
-While you are 'Rallied', 
+While you are 'Rallied', when you make an Attack Roll, 
 
 ## Arcane Emboldenments
 ## Divine Emboldenments
