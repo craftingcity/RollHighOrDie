@@ -68,18 +68,6 @@
                 "group": "70852b457f38e00f"
               },
               {
-                "id": "774ab7953c77d63a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Character Rules/Features.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "37fe5af166f56c26",
                 "type": "leaf",
                 "state": {
@@ -101,8 +89,7 @@
                 },
                 "group": "fefb0b74cde92285"
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -172,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -234,10 +221,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "774ab7953c77d63a",
+  "active": "1be3caa8311de47f",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Character Rules/Features.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Features - Specialization.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
