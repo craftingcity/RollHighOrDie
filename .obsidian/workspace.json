@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Features - Offense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Features - Offense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
+                "file": "Features - Offense.md"
               }
             }
           }
@@ -186,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6bf6f33b29ca22a",
+  "active": "8897c04850d0e115",
   "lastOpenFiles": [
-    "Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Features - Offense.md",
     "Core RHoD/Character Rules/Features.md",
     "Features - Specialization.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
