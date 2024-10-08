@@ -46,7 +46,7 @@ If you hit, you deal your Weapon Damage as normal, and you gain +2 to your Refle
 
 #### *3 EXP*
 ## Enforce
-###### REQ: 2EXP
+###### REQ: 3EXP
 ###### W+1 AP
 ###### USE: Melee Weapon
 'You push forward so your allies can pull back for positional advantage or recovery.'
@@ -58,7 +58,7 @@ If you hit your target, you deal your Weapon Damage as normal.
 Then, an Ally within 10' of your target makes a Maneuver.
 
 ## Iron Tide
-###### REQ: 2EXP 
+###### REQ: 3EXP 
 ###### W AP
 ###### USE: Melee Weapon
 'With intention and confidence, you strike out and push forward, allowing you to take the positional advantage.'
@@ -68,7 +68,7 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 If you hit your target, you deal your Weapon Damage as normal and push your target 5' away from you. You may immediately move into the space they just occupied.
 
 ## Forceful Strike
-###### REQ: 2EXP
+###### REQ: 3EXP
 ###### W AP
 ###### USE: Melee Weapon
 'With skill and force, you force your opponent onto the floor, taking what could be their final breaths.'
@@ -78,7 +78,7 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 If you hit your target, you deal your Weapon Damage as normal and you force your target Prone.
 
 ## Passing Swipe
-###### REQ: 2EXP
+###### REQ: 3EXP
 ###### W+1 AP
 ###### USE: Melee Weapon - Light or Quick
 'The concept of fire and maneuver applies more commonly to ranged combats, but you find the strategy quite enticing.'
@@ -92,7 +92,7 @@ If you hit your target, you deal your Weapon Damage as normal.
 You may only use this feature once per turn.
 
 ## Bash
-###### REQ: 2EXP
+###### REQ: 3EXP
 ###### 2W AP
 ###### USE: Melee Weapon - Bludgeoning
 'And whoever said everything *wasn't* a nail?'
@@ -103,8 +103,50 @@ If you hit your target, you deal thrice your Weapon Damage.
 
 You may only use this Feature once per turn.
 
+## Reckless Stance
+###### REQ: 2EXP
+###### 1 AP
+###### Use: Melee Weapon
+'Let them come and die trying.'
+
+Until the beginning of your next turn, you impose Advantage on Melee Attacks against you, and when you hit a target with a Melee Weapon, you deal an additional Weapon Damage Die.
+
+#### *5 EXP*
+## Halting Engagement
+###### REQ: 5EXP, Engage
+'It won't be easy to run while you're still kicking.'
+
+This feature inherits and replaces the 'Engage' Martial Feature.
+
+When you make an Attack against a target you have 'Engaged', if you deal damage, you impose the 'Grappled' [[Ailment]] until they are no longer 'Engaged'.
 
 ### Ranged
+#### *1 EXP*
+#### *3 EXP*
+#### *5 EXP*
+## Splitshot
+###### REQ: 5EXP
+###### W+1 AP
+###### USE: Ranged Weapon
+'Physics can be a fickle law, but when bent just right, one shot can kill two people while looking like a complete and total miss.'
+
+Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make an Attack Roll against each targets' Reflex.
+
+If you hit either target, you deal your Weapon Damage as normal to both targets.
+
+You may only use this feature once between Long Rests.
+
+## Cover Fire
+###### REQ: 5EXP
+###### 2W AP
+###### USE: Ranged Weapon
+'You evaluate the battlefield, and find an ally in need. Changing your aim, you prepare to provide offensive protection.'
+
+Target an ally you can see. Until the beginning of your turn, when they are the target of an attack, if you have Line of Sight on the attacking creature, make an Attack against that creature's Reflex.
+
+If you hit that creature, deal your Weapon Damage as normal. You impose -3 to that creature's Attack Roll against your target ally.
+
+
 ### Either
 
 #### *1 EXP*

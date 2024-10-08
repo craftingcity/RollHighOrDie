@@ -24,6 +24,18 @@
                 }
               },
               {
+                "id": "9ec6df7ee0f44b24",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Features/Features - Communal.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
                 "id": "e6bf6f33b29ca22a",
                 "type": "leaf",
                 "state": {
@@ -188,11 +200,11 @@
   },
   "active": "8897c04850d0e115",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Features - Offense.md",
-    "Core RHoD/Character Rules/Features.md",
-    "Features - Specialization.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
+    "Core RHoD/Character Rules/Features.md",
+    "Features - Offense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Features - Specialization.md",
     "features.ods",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",

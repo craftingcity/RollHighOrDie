@@ -17,15 +17,6 @@ Allies within 30 feet of you who also have this Trait may expend a Hit Die and r
 Target an ally who can hear you. Until the beginning of your next turn, that ally gains the 'Rallied' [[Emboldenment]].
 
 # EXP - 3
-## Cover Fire
-###### REQ: 3EXP
-###### 2W AP
-###### USE: Ranged Weapon
-'You evaluate the battlefield, and find an ally in need. Changing your aim, you prepare to provide offensive protection.'
-
-Target an ally you can see. Until the beginning of your turn, when they are the target of an attack, if you have Line of Sight on the attacking creature, make an Attack against that creature's Reflex.
-
-If you hit that creature, deal your Weapon Damage as normal. You impose -3 to that creature's Attack Roll against your target ally.
 
 
 

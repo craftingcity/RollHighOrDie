@@ -22,13 +22,7 @@ You may only use this Feature once per turn.
 # EXP - 2
 
 
-## Reckless Stance
-###### REQ: 2EXP
-###### 1 AP
-###### Use: Melee Weapon
-'Let them come and die trying.'
 
-Until the beginning of your next turn, you impose Advantage on Melee Attacks against you, and when you hit a target with a Melee Weapon, you deal an additional Weapon Damage Die.
 
 ## Protective Stance
 ###### REQ: 2EXP
@@ -56,25 +50,9 @@ Make a Maneuver.
 Expend a Hit Die and make an Endurance Skill Check. If the result of the Endurance Check is equal to or greater than 12, gain half the number rolled on your Hit Die as Action Points.
 
 # EXP - 3
-## Halting Engagement
-###### REQ: 3EXP, Engage
-'It won't be easy to run while you're still kicking.'
 
-This feature inherits and replaces the 'Engage' Martial Feature.
 
-When you make an Attack against a target you have 'Engaged', if you deal damage, you impose the 'Grappled' [[Ailment]] until they are no longer 'Engaged'.
 
-## Splitshot
-###### REQ: 3EXP
-###### W+1 AP
-###### USE: Ranged Weapon
-'Physics can be a fickle law, but when bent just right, one shot can kill two people while looking like a complete and total miss.'
-
-Target two creatures within your Weapon Range that are within 15' of each other and establish Line of Sight on both. Make an Attack Roll against each targets' Reflex.
-
-If you hit either target, you deal your Weapon Damage as normal to both targets.
-
-You may only use this feature once between Long Rests.
 
 
 
