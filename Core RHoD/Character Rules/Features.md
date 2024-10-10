@@ -10,10 +10,6 @@ CORE
 - [[Features - Defense]]
 - [[Features - Utility]]
 
-- [[Features - Martial]]
-- [[Features - Communal]]
-- [[Features - Specialization]]
-
 MAGIC EXPANSION
 - [[Features - Arcane]]
 - [[Features - Divine]]
