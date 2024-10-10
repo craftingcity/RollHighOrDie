@@ -4,54 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "96742ffb5932d64e",
+        "id": "0661dd6220dfca1e",
         "type": "split",
         "children": [
           {
-            "id": "0a498414d10117b4",
-            "type": "tabs",
+            "id": "f69172ffb15a753a",
+            "type": "split",
             "children": [
               {
-                "id": "d20cbd81abd741f5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Character Rules/Features.md",
-                    "mode": "source",
-                    "source": true
+                "id": "0a498414d10117b4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d20cbd81abd741f5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Character Rules/Features.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
                   }
-                }
+                ]
               },
               {
-                "id": "9ec6df7ee0f44b24",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Features/Features - Communal.md",
-                    "mode": "source",
-                    "source": true
+                "id": "5167a1c91142efaa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e6bf6f33b29ca22a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "9ec6df7ee0f44b24",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Selections Glossary/Features/Features - Communal.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
                   }
-                }
-              },
-              {
-                "id": "e6bf6f33b29ca22a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+                ]
               }
             ],
-            "currentTab": 1
+            "direction": "vertical"
           },
           {
-            "id": "c56b07a70574c5d9",
+            "id": "9b0c9e56a4250c85",
             "type": "tabs",
             "children": [
               {
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features - Offense.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features - Offense.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features - Offense.md"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
               }
             }
           }
@@ -198,12 +210,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8897c04850d0e115",
+  "active": "e6bf6f33b29ca22a",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Character Rules/Features.md",
-    "Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+    "Features - Offense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Features - Specialization.md",
     "features.ods",
     "Core RHoD/Selections Glossary/Emboldenment.md",
