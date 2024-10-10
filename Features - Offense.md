@@ -148,7 +148,6 @@ If you hit that creature, deal your Weapon Damage as normal. You impose -3 to th
 
 
 ### Either
-
 #### *1 EXP*
 ## Sneak Attack
 ###### REQ: 1EXP 
