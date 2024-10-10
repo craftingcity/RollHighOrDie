@@ -8,7 +8,24 @@
 Expend two Hit Die. You gain the number rolled plus twice your Constitution Modifier as Vitality.
 
 #### *3 EXP*
+## Tank Up
+###### REQ: 3EXP
+###### 3 AP
+###### USE: Armor - Heavy
+'Your opponent's attacks falter and fail as you defend the few weak spots in your armoring.'
+
+Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Slashing Damage Resistance.
+
 #### *5 EXP*
+## Bloody Regeneration
+###### REQ: 5EXP
+###### 1 AP
+###### USE: One or more Wounds
+'It hurts. The hurt feels good. Let's keep going.'
+
+You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
+
+Make an Endurance Skill Check. If the result is fewer than 16, you may not use this Feature again until you complete a Long Rest.
 
 ### Mobility
 #### *1 EXP*
@@ -31,6 +48,14 @@ You may only use this Feature once per turn.
 You are no longer under the 'Engaged' [[Ailment]].
 
 Make a Maneuver.
+
+## Fleet Foot
+###### REQ: 3EXP
+###### 2 AP
+###### USE: Armor - Light or No Armor
+'You have a need for speed.'
+
+Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may crawl up to 10' instead of 5'.
 
 #### *5 EXP*
 ## Exert
