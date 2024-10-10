@@ -90,7 +90,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features - Defense.md",
+                "file": "Features - Offense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features - Defense.md",
+                "file": "Features - Offense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features - Defense.md"
+                "file": "Features - Offense.md"
               }
             }
           }
@@ -222,11 +223,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9db924580fe66205",
+  "active": "8897c04850d0e115",
   "lastOpenFiles": [
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Features - Defense.md",
     "Features - Offense.md",
+    "Features - Defense.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Features - Specialization.md",

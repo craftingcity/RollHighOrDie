@@ -25,13 +25,7 @@
 
 
 
-## Opportune Pushback
-###### REQ: 3EXP
-###### 2 AP
-###### Use: Melee Weapon
-'You parry, deflect, and push off the opposition - you could hold a horde like this.'
 
-Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker 5' into a space within 10' of you.
 
 ## Bloody Regeneration
 ###### REQ: 3EXP

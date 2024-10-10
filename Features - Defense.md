@@ -33,6 +33,12 @@ You are no longer under the 'Engaged' [[Ailment]].
 Make a Maneuver.
 
 #### *5 EXP*
+## Exert
+###### REQ: 5EXP
+###### 0 AP
+'At physical cost, you take no moment to pause.'
+
+Expend a Hit Die and make an Endurance Skill Check. If the result of the Endurance Check is equal to or greater than 12, gain half the number rolled on your Hit Die as Action Points.
 
 ### Community
 #### *1 EXP*
