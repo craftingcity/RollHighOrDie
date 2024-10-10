@@ -2,14 +2,7 @@
 
 
 
-## Up and Gone
-###### REQ: 1EXP
-###### 2 AP
-'Now you see me...'
 
-Make a Maneuver, then Hide.
-
-You may only use this Feature once per turn.
 
 
 
@@ -19,30 +12,11 @@ You may only use this Feature once per turn.
 
 
 
-## Protective Stance
-###### REQ: 2EXP
-###### 2 AP
-###### Use: Shield
-'You hold your shield over an ally, taking the burden of combat from them for a moment.'
 
-Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
 
-## Disengage
-###### REQ: 2EXP
-###### 2 AP
-###### USE: You are Engaged
-'You protect yourself from a particular combatant's threats, and you move away - they'll have you no longer.'
 
-You are no longer under the 'Engaged' [[Ailment]].
 
-Make a Maneuver.
 
-## Exert
-###### REQ: 2EXP
-###### 0 AP
-'At physical cost, you take no moment to pause.'
-
-Expend a Hit Die and make an Endurance Skill Check. If the result of the Endurance Check is equal to or greater than 12, gain half the number rolled on your Hit Die as Action Points.
 
 # EXP - 3
 
