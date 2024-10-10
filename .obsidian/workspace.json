@@ -22,8 +22,21 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "bc7f9f40c123c7d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Character Rules/Traits.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "9b0c9e56a4250c85",
@@ -65,7 +78,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -134,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Character Rules/Features.md"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md"
               }
             }
           }
@@ -196,14 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81be0ec429f61494",
+  "active": "6e8e6cb310bfd98d",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Character Rules/Traits.md",
+    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
-    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Specialization.md",
     "features.ods",
     "Core RHoD/Selections Glossary/Emboldenment.md",
@@ -218,7 +233,6 @@
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
-    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
