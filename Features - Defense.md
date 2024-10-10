@@ -58,12 +58,12 @@ Make a Maneuver.
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may crawl up to 10' instead of 5'.
 
 #### *5 EXP*
-## Exert
+## Painrush
 ###### REQ: 5EXP
-###### 0 AP
-'At physical cost, you take no moment to pause.'
+###### 2 AP
+'When something hurts, you move. Getting out, getting in, the pain moves your body anyways.'
 
-Expend a Hit Die and make an Endurance Skill Check. If the result of the Endurance Check is equal to or greater than 12, gain half the number rolled on your Hit Die as Action Points.
+Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
 
 ### Community
 #### *1 EXP*
@@ -74,6 +74,15 @@ Expend a Hit Die and make an Endurance Skill Check. If the result of the Enduran
 'You hold your shield over an ally, taking the burden of combat from them for a moment.'
 
 Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
+
+## Battle Cry
+###### REQ: 1EXP
+###### 2 AP
+'You scream with the pride and rage of battle, emboldening your like-minded allies, and intimidating the others.'
+
+Make an Intimidation Skill Check. If the result is equal to or greater than the Will Defense of any creatures within 30 feet of you who do not also have this Trait, you impose the 'Frightened' [[Ailment]] on that creature.
+
+Allies within 30 feet of you who also have this Trait may expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality.
 
 #### *3 EXP*
 #### *5 EXP*

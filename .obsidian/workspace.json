@@ -57,7 +57,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -85,6 +86,18 @@
                   "type": "markdown",
                   "state": {
                     "file": "Features - Offense.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "6e8e6cb310bfd98d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Features - Utility.md",
                     "mode": "source",
                     "source": true
                   }
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Features - Defense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md",
+                "file": "Features - Defense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Martial.md"
+                "file": "Features - Defense.md"
               }
             }
           }
@@ -222,13 +235,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6bf6f33b29ca22a",
+  "active": "9db924580fe66205",
   "lastOpenFiles": [
-    "Features - Defense.md",
-    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Features - Offense.md",
+    "Features - Utility.md",
+    "Features - Defense.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
+    "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Features - Specialization.md",
     "features.ods",
     "Core RHoD/Selections Glossary/Emboldenment.md",
@@ -252,7 +266,6 @@
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
     "armor.md",
     "gen.md",
-    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "RHoD Glossary (Magic).odt",
     "RHoD Glossary (Low Fantasy).odt",
