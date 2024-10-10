@@ -21,30 +21,3 @@ When one ability "inherits and replaces" another, the selected ability gains all
 Unless otherwise stated, you may only ever gain a given Feature once.
 
 Some Features are exclusive with other Features. A given Feature will list Features that, if you have gained, make you ineligible to gain that Feature.
-
-```
-
-Feature Specializations
-
-	- Melee
-	- Ranged
-	- Either / Both
-	- Defense
-	- Hyper / Self Utility / Stances
-	- Group Utility
-	- Engineer? / SkillUse
-
-```
-
-| Melee                      | Ranged     | Either         | Defense             | Stance / Utility  |
-| -------------------------- | ---------- | -------------- | ------------------- | ----------------- |
-| Engage > Enforce / Halting | Splitshot  | Sneak Attack   | Second Wind         | Protective Stance |
-| Riposte                    | Cover Fire | Careful Strike | Up and Gone         | Exert             |
-| Cleave                     |            | Sly Flourish   | Disengage           | Fleet Foot        |
-| Defensive Strike           |            | Break A Leg    | Bloody Regeneration | Battle Cry        |
-| Iron Tide                  |            | Trickshot      |                     | Rally             |
-| Forceful Strike            |            |                | Tank Up             |                   |
-| Passing Strike             |            |                |                     |                   |
-| Bash                       |            |                |                     |                   |
-| Opportune Pushback         |            |                |                     |                   |
-

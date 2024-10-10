@@ -35,7 +35,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Features - Defense.md",
+                    "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
                     "mode": "source",
                     "source": true
                   }
@@ -47,7 +47,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Features - Offense.md",
+                    "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
                     "mode": "source",
                     "source": true
                   }
@@ -59,7 +59,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Features - Utility.md",
+                    "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
                     "mode": "source",
                     "source": true
                   }
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,15 +196,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d20cbd81abd741f5",
+  "active": "81be0ec429f61494",
   "lastOpenFiles": [
-    "Features - Defense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
-    "Features - Offense.md",
-    "Features - Utility.md",
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Character Rules/Features.md",
-    "Features - Specialization.md",
+    "Core RHoD/Selections Glossary/Features/Features - Specialization.md",
     "features.ods",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
