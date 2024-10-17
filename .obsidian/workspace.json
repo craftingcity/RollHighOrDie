@@ -78,8 +78,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md"
               }
             }
           }
@@ -210,11 +209,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e8e6cb310bfd98d",
+  "active": "9db924580fe66205",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+    "featuresNtraits.ods",
+    "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
@@ -240,13 +241,10 @@
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
     "armor.md",
-    "gen.md",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "RHoD Glossary (Magic).odt",
     "RHoD Glossary (Low Fantasy).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE).odt",
-    "New OpenDocument Text.odt",
-    "Roll High or Die (COREvA01).pdf",
-    "Stable Releases/Roll High or Die (COREvA01).odt"
+    "New OpenDocument Text.odt"
   ]
 }
