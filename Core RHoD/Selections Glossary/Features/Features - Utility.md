@@ -1,5 +1,4 @@
 ### Community
-### 
 ## Battle Cry
 ###### REQ: 1EXP
 ###### 2 AP
@@ -16,6 +15,9 @@ Allies within 30 feet of you who also have this Trait may expend a Hit Die and r
 'You speak to an ally's heart, emboldening them momentarily.'
 
 Target an ally who can hear you. Until the beginning of your next turn, that ally gains the 'Rallied' [[Emboldenment]].
+
+### Singularity
+### Interactivity
 
 ## Exert
 ###### REQ: 5EXP
