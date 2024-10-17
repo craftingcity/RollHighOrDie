@@ -77,8 +77,45 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "a612b590c9242109",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "067b1bdae1eaa99d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "cb02403720d08227",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -147,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md"
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md"
               }
             }
           }
@@ -209,14 +246,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9db924580fe66205",
+  "active": "cb02403720d08227",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Traits.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "featuresNtraits.ods",
-    "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Core RHoD/Character Rules/Traits.md",
+    "featuresNtraits.ods",
+    "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
@@ -234,9 +273,7 @@
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
