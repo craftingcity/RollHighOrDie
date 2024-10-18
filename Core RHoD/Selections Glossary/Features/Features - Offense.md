@@ -104,7 +104,7 @@ If you hit your target, you deal thrice your Weapon Damage.
 You may only use this Feature once per turn.
 
 ## Reckless Stance
-###### REQ: 2EXP
+###### REQ: 3EXP
 ###### 1 AP
 ###### Use: Melee Weapon
 'Let them come and die trying.'
