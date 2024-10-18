@@ -114,7 +114,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md"
+                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md"
               }
             }
           }
@@ -245,15 +246,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9db924580fe66205",
+  "active": "8897c04850d0e115",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Character Rules/Features.md",
