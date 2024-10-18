@@ -25,7 +25,7 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
 
-Make an Endurance Skill Check. If the result is fewer than 16, you may not use this Feature again until you complete a Long Rest.
+Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
 
 ### Mobility
 #### *1 EXP*
