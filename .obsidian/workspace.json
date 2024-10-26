@@ -20,7 +20,9 @@
                     "file": "Core RHoD/Character Rules/Features.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features"
                 }
               },
               {
@@ -32,11 +34,12 @@
                     "file": "Core RHoD/Character Rules/Traits.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Traits"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "9b0c9e56a4250c85",
@@ -51,7 +54,9 @@
                     "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Defense"
                 }
               },
               {
@@ -63,7 +68,9 @@
                     "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Offense"
                 }
               },
               {
@@ -75,43 +82,9 @@
                     "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
                     "mode": "source",
                     "source": true
-                  }
-                }
-              },
-              {
-                "id": "a612b590c9242109",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "067b1bdae1eaa99d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "cb02403720d08227",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-                    "mode": "source",
-                    "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Utility"
                 }
               }
             ],
@@ -138,7 +111,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -153,7 +128,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -161,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -192,7 +171,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Features - Offense"
             }
           },
           {
@@ -204,7 +185,9 @@
                 "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Features - Offense"
             }
           },
           {
@@ -215,7 +198,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -225,7 +210,9 @@
               "type": "outline",
               "state": {
                 "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Features - Offense"
             }
           }
         ]
@@ -248,16 +235,12 @@
   },
   "active": "8897c04850d0e115",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-    "featuresNtraits.ods",
-    "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Character Rules/Features.md",
+    "Core RHoD/Character Rules/Traits.md",
+    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+    "featuresNtraits.ods",
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Selections Glossary/Features/Features - Specialization.md",
@@ -274,6 +257,9 @@
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
@@ -282,6 +268,7 @@
     "RHoD Glossary (Magic).odt",
     "RHoD Glossary (Low Fantasy).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE).odt",
-    "New OpenDocument Text.odt"
+    "New OpenDocument Text.odt",
+    "Roll High or Die (COREvA01).pdf"
   ]
 }
