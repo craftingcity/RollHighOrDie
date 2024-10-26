@@ -18,7 +18,7 @@ You may not use this feature again until your target is no longer 'Engaged'.
 ###### USE: Melee Weapon - Light or Quick
 'You see the fighting style of your opponent, and know you can use it to your advantage to gain a strike.'
 
-Target a creature you have attacked this turn that is currently within your Weapon Range. Until the beginning of your next turn, the first time your target attacks you while they are within your Weapon Range, make an Attack Roll against that target's Reflex.
+Target a creature you have attacked this turn that is currently within your Weapon Range. Until the beginning of your next turn, the first time your target attack while they are within your Weapon Range, make an Attack Roll against that target's Reflex.
 
 If you hit, you impose -3 to your target's Attack Roll, and you deal your Weapon Damage as normal.
 
@@ -104,7 +104,7 @@ If you hit your target, you deal thrice your Weapon Damage.
 You may only use this Feature once per turn.
 
 ## Reckless Stance
-###### REQ: 2EXP
+###### REQ: 3EXP
 ###### 1 AP
 ###### Use: Melee Weapon
 'Let them come and die trying.'

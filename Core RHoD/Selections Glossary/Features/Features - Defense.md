@@ -25,7 +25,7 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
 
-Make an Endurance Skill Check. If the result is fewer than 16, you may not use this Feature again until you complete a Long Rest.
+Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
 
 ### Mobility
 #### *1 EXP*
@@ -65,7 +65,7 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
 
-### Community
+### Alliance
 #### *1 EXP*
 ## Protective Stance
 ###### REQ: 1EXP
@@ -75,14 +75,6 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 
 Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
 
-## Battle Cry
-###### REQ: 1EXP
-###### 2 AP
-'You scream with the pride and rage of battle, emboldening your like-minded allies, and intimidating the others.'
-
-Make an Intimidation Skill Check. If the result is equal to or greater than the Will Defense of any creatures within 30 feet of you who do not also have this Trait, you impose the 'Frightened' [[Ailment]] on that creature.
-
-Allies within 30 feet of you who also have this Trait may expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality.
 
 #### *3 EXP*
 #### *5 EXP*
