@@ -20,7 +20,9 @@
                     "file": "Core RHoD/Character Rules/Features.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features"
                 }
               },
               {
@@ -32,7 +34,9 @@
                     "file": "Core RHoD/Character Rules/Traits.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Traits"
                 }
               }
             ],
@@ -51,7 +55,9 @@
                     "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Defense"
                 }
               },
               {
@@ -63,7 +69,9 @@
                     "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Offense"
                 }
               },
               {
@@ -75,7 +83,9 @@
                     "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Utility"
                 }
               },
               {
@@ -87,7 +97,9 @@
                     "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Traits - Physicality"
                 }
               },
               {
@@ -99,7 +111,9 @@
                     "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Traits - Mentality"
                 }
               },
               {
@@ -111,7 +125,9 @@
                     "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Traits - Training"
                 }
               }
             ],
@@ -138,7 +154,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -153,7 +171,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -161,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -192,7 +214,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Features - Offense"
             }
           },
           {
@@ -204,7 +228,9 @@
                 "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Features - Offense"
             }
           },
           {
@@ -215,7 +241,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -225,7 +253,9 @@
               "type": "outline",
               "state": {
                 "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Features - Offense"
             }
           }
         ]
