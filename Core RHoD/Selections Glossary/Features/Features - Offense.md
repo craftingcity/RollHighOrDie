@@ -129,6 +129,7 @@ When you make an Attack against a target you have 'Engaged', if you deal damage,
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker 5' into a space within 10' of you.
 
 ### Ranged
+`think of ranged archetypes - frontline legolas esqe, battlefield controller support, high damage sniper`
 #### *1 EXP*
 #### *3 EXP*
 #### *5 EXP*
