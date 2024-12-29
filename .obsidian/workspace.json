@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+                "file": "Core RHoD/Character Rules/Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Features - Offense"
+              "title": "Backlinks for Traits"
             }
           },
           {
@@ -225,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+                "file": "Core RHoD/Character Rules/Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Features - Offense"
+              "title": "Outgoing links from Traits"
             }
           },
           {
@@ -252,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md"
+                "file": "Core RHoD/Character Rules/Traits.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Features - Offense"
+              "title": "Outline of Traits"
             }
           }
         ]
@@ -276,10 +276,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8897c04850d0e115",
+  "active": "bc7f9f40c123c7d6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Traits.md",
