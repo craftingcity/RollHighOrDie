@@ -1,9 +1,9 @@
-### xxx
+### Combat
 #### *3EXP*
 #### *5EXP*
 #### *7EXP*
 
-### xxx
+### Culture
 #### *3EXP*
 #### *5EXP*
 #### *7EXP*
