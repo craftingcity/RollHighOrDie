@@ -1,14 +1,14 @@
-### 
+### Power
 #### *3EXP*
 #### *5EXP*
 #### *7EXP*
 
-### Externals
+### Agility
 #### *3EXP*
 #### *5EXP*
 #### *7EXP*
 
-### xxx
+### Vigor
 #### *3EXP*
 #### *5EXP*
 #### *7EXP*
