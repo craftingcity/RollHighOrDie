@@ -1,17 +1,17 @@
 ### Intellect
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 ### Sapience
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 ### Magnetism
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 # EXP - 3
 ## Courageous

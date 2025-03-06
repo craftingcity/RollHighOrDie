@@ -1,17 +1,17 @@
 ### Power
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 ### Agility
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 ### Vigor
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 
 # EXP - 3

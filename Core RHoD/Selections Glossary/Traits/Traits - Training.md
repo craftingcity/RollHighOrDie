@@ -1,17 +1,17 @@
 ### Combat
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 ### Culture
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 ### Competency
-#### *3EXP*
-#### *5EXP*
-#### *7EXP*
+#### *2EXP*
+#### *4EXP*
+#### *6EXP*
 
 # EXP - 3
 ## Accurate

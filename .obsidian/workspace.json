@@ -81,7 +81,8 @@
                   "title": "Traits"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "9b0c9e56a4250c85",
@@ -278,10 +279,10 @@
   },
   "active": "cb02403720d08227",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
