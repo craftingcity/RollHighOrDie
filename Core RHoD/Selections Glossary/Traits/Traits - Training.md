@@ -3,7 +3,7 @@
 #### *5EXP*
 #### *7EXP*
 
-### Culture
+### Community
 #### *3EXP*
 #### *5EXP*
 #### *7EXP*
