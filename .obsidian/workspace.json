@@ -130,7 +130,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -276,8 +276,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e8e6cb310bfd98d",
+  "active": "067b1bdae1eaa99d",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
@@ -285,8 +287,6 @@
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
