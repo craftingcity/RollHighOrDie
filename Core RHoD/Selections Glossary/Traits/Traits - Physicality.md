@@ -10,6 +10,8 @@
 
 ### Vigor
 #### *2EXP*
+## Tough
+
 #### *4EXP*
 #### *6EXP*
 
