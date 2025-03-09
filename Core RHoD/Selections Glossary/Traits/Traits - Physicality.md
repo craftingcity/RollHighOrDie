@@ -16,16 +16,21 @@
 - Your Hit Dice are d8.
 
 #### *4EXP*
-## Hard
+## Durable
+###### REQ: 2EXP
+'You can take a hit. More than one, usually.'
+- Your Hit Dice are d10.
+
+## 
 ###### REQ: 2EXP
 'You can take a hit. More than one, usually.'
 - Your Hit Dice are d8.
 
 #### *6EXP*
-## Tough
+## Hardened
 ###### REQ: 2EXP
 'You can take a hit. More than one, usually.'
-- Your Hit Dice are d8.
+- Your Hit Dice are d12.
 
 
 # EXP - 3
