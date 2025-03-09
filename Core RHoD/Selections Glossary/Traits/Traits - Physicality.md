@@ -15,6 +15,11 @@
 'You can take a hit. More than one, usually.'
 - Your Hit Dice are d8.
 
+## Boiling Blood
+###### REQ: 2EXP
+'You can take a hit. More than one, usually.'
+- When you take your first Wound during an Encounter, until the end of the Encounter, you gain +2 to your Reflex and Fortitude Defenses and +2 to the Damage you deal.
+
 #### *4EXP*
 ## Durable
 ###### REQ: 4EXP
@@ -23,7 +28,7 @@
 
 ## Retroreflectivity
 ###### REQ: 4EXP
-'You can see better than most under minimal light. You often find carrying a light unnecessa'
+'You can see better than most under minimal light. You often find carrying a light unnecessary.'
 - You are under the 'Low Light Visibility' [[Condition]].
 
 #### *6EXP*
@@ -32,6 +37,10 @@
 'You can take a hit. More than one, usually.'
 - Your Hit Dice are d12.
 
+## Hardened
+###### REQ: 6EXP
+'You can take a hit. More than one, usually.'
+- Your Hit Dice are d12.
 
 # EXP - 3
 ## Tough
