@@ -12,11 +12,20 @@
 #### *2EXP*
 ## Tough
 ###### REQ: 2EXP
-'You can take a hit. More '
+'You can take a hit. More than one, usually.'
 - Your Hit Dice are d8.
 
 #### *4EXP*
+## Hard
+###### REQ: 2EXP
+'You can take a hit. More than one, usually.'
+- Your Hit Dice are d8.
+
 #### *6EXP*
+## Tough
+###### REQ: 2EXP
+'You can take a hit. More than one, usually.'
+- Your Hit Dice are d8.
 
 
 # EXP - 3
