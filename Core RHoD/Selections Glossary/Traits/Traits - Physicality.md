@@ -17,18 +17,18 @@
 
 #### *4EXP*
 ## Durable
-###### REQ: 2EXP
+###### REQ: 4EXP
 'You can take a hit. More than one, usually.'
 - Your Hit Dice are d10.
 
-## 
+## Retroreflectivity
 ###### REQ: 2EXP
 'You can take a hit. More than one, usually.'
 - Your Hit Dice are d8.
 
 #### *6EXP*
 ## Hardened
-###### REQ: 2EXP
+###### REQ: 6EXP
 'You can take a hit. More than one, usually.'
 - Your Hit Dice are d12.
 
