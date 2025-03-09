@@ -11,6 +11,9 @@
 ### Vigor
 #### *2EXP*
 ## Tough
+###### REQ: 2EXP
+'You can take a hit. More '
+- Your Hit Dice are d8.
 
 #### *4EXP*
 #### *6EXP*
