@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"armor ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,7 +235,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e27622f3d849d849",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
