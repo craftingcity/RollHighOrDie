@@ -32,7 +32,9 @@ If you take damage that would reduce your Armoring to less than 0, instead, it r
 Your character's Armoring will depend on your currently worn Equipment.
 
 #### Vitality
-When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, times your TMK.
+When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, multiplied by your TMK.
+
+When you take damage, if that damage would
 
 If you would take damage that reduces your Vitality to less than 0 and that damage would reduce your Vitality beyond 0 by a value equal to half your Maximum Vitality, you die. 
 
