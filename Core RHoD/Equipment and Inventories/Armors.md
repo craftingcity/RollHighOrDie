@@ -93,8 +93,8 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 
 > For example, let's examine a Steel Plate Full-suit Armor as made for a traditional human - Medium sized.
 > Medium Armors have a SM of 2. Steel Plate has a MV of 8. Full-suit Armor has a CV of 17.
-> Material Value (8) + Coverage Value (15) = 25
-> 23 * Size Multiplier (2) = 50
+> Material Value (8) + Coverage Value (17) = 25
+> 25 * Size Multiplier (2) = 50
 > Medium Size Steel Plate Full-suit Armor has a total Armoring Value of 50.
 
 ### Mundane Tags
