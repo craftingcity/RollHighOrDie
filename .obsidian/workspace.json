@@ -105,8 +105,7 @@
               "title": "Generic Actions"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,10 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb02403720d08227",
+  "active": "e27622f3d849d849",
   "lastOpenFiles": [
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
