@@ -90,8 +90,23 @@
               "icon": "lucide-file",
               "title": "Traits - Training"
             }
+          },
+          {
+            "id": "4c0dee64bcabf219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Generic Actions"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -234,10 +249,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81be0ec429f61494",
+  "active": "4c0dee64bcabf219",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Defenses.md",
+    "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
@@ -264,7 +280,6 @@
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
