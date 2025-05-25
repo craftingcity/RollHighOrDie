@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -249,16 +249,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c0dee64bcabf219",
+  "active": "cb02403720d08227",
   "lastOpenFiles": [
-    "Core RHoD/Combat and Actions/Actions During Encounters.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
@@ -278,7 +279,6 @@
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
