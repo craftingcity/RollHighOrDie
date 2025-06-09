@@ -6,7 +6,7 @@ For ease of access and presentation, [[Armors]], [[Ammunition]], [[Melee Weapons
 ## Using Equipment
 To use Equipment, a character will take a number of Interact Actions to manipulate the Equipment into activating it's mechanical effect. The Interact Actions required are totaled and listed as the Equipment's Action Cost. 
 
-While you manipulate your equipment by using the Interact Actions, you will progress through the Equipment's Action Cost. You do not need to take all of the Interact Actions on one turn, and your progress through the Action Cost is saved. When you take one of the Interact Actions that has a listed effect, perform and resolve it immediately.
+While you manipulate your equipment by using the Interact Actions, you will progress through the Equipment's Action Cost. You do not need to take all of the Interact Actions on one turn, and your progress through the Action Cost is 'saved'. When you take one of the Interact Actions that has a listed effect, perform and resolve it immediately.
 
 #### Equipment Charges
 Some pieces of Equipment can only be used so many times before they are empty or useless. This is mechanically represented by that Equipment having number of charges that are expended as the Equipment is used. Equipment without Charges can be reused indefinitely.
@@ -19,6 +19,7 @@ Creating Equipment requires time, skill, tools, and materials. When combined, a 
 	- Creation Skill are the Skills related to the Creation process of this equipment and the Difficulty Class of succeeding in Creation.
 	- Creation Tools are the total Tool Actions required to work on this equipment's Creation.
 	- Creation Materials are the items assembled as a part of the Creation process.
+
 ##### Tool Actions
 Tool Actions are the specific uses that a Tool or Toolkit have. Any combination of equipment with relevant Tool Actions will fulfill Tool Action requirements. Providing more Tools with relevant Tool Actions does not benefit the Creation process.
 
