@@ -1,7 +1,7 @@
 # Preamble
 Within the fiction of the story you tell, your characters may use any number of Armors. For the purpose of mechanical potential, RHoD's Armors are a collection of Tags.
 
-A character's [[Defenses#Armoring]] is directly related to the Armor they are wearing in one of their 'Equipment' Slots.
+A character's [[Defenses#Armoring]] is directly related to the Armor they are wearing in one of their 'Equipment' Slots. 
 
 # Armor Tags
 ### Required Tags

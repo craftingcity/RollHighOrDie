@@ -25,7 +25,7 @@ Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Ch
 Your two Ablative Defenses are the final line of defense against harmful effects, and when your Armoring and Vitality are reduced to zero and then below, you will quickly become welcomed to your final rest.
 
 #### Armoring
-When you take damage you will take the damage to your Armoring before your Vitality. Before you begin to reduce your Vitality, you must completely reduce your Armoring to 0.
+When you take damage, you will take the damage to your Armoring before your Vitality. Before you begin to reduce your Vitality, you must completely reduce your Armoring to 0.
 
 If you take damage that would reduce your Armoring to less than 0, instead, it reduces it to 0 and you reduce your Vitality by the remaining amount.
 
