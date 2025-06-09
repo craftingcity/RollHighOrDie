@@ -31,7 +31,7 @@ Some Equipment does not have a Creation clause. These Equipment are created by m
 ## Example Equipment
 ### Consumables
 #### Vial of Antitoxin
-Tiny, 2 Action Cost (UNPACK > INJEST or FEED)
+Tiny, 2 Action Cost (UNPACK > INJEST / FEED)
 Vial of Antitoxin has 1 Charge
 
 INJEST: You consume the contents of the vial. Expend a charge. You resolve all stacks of the 'Poisoned' [[Ailment]].
@@ -44,7 +44,7 @@ Creation:
 	- 1x "Chemicals" -> 1x Vial of Antitoxin 
 
 #### Bottle of Antibiotic
-Tiny, 2 Action Cost (UNPACK > INJEST or FEED)
+Tiny, 2 Action Cost (UNPACK > INJEST / FEED)
 Bottle of Antibiotic has 3 Charges
 
 INJEST: You consume a portion of the contents of the bottle. Expend a charge. You resolve all stacks of the 'Infected' [[Ailment]].
@@ -85,7 +85,7 @@ Bloodbag has 3 Charges
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
-APPLY: You insert the needle into another willing adjacent creature you can see. That creature gains 2d4 + 3 stacks of the 'Regeneration' [[Emboldenment]].
+APPLY: You insert the needle into another willing adjacent creature you can see. That creature gains 2d4 + 1 stacks of the 'Regeneration' [[Emboldenment]].
 
 Creation: 
 	- 1 Watch spent at 18+ Alchemy, Herbalism, or Medical
@@ -116,7 +116,7 @@ Creation:
 	- 1x "Fiber Sheet" -> 2x Tourniquet
 
 #### Splint
-Small, 4 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
+Small, 5 Action Cost (UNPACK > PREP > LOCATE > APPLY I > APPLY II)
 
 APPLY II: You finish applying the splint to a wound. The creature you applied the splint to resolves a stack of the 'Hobbled' [[Ailment]].
 
