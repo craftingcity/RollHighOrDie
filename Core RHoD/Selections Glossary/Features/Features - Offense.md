@@ -97,18 +97,6 @@ If you hit your target, you deal your Weapon Damage as normal.
 
 You may only use this feature once per turn.
 
-## Bash
-###### REQ: 3EXP
-###### 2W AP
-###### USE: Melee Weapon - Bludgeoning
-'And whoever said everything *wasn't* a nail?'
-
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
-
-If you hit your target, you deal thrice your Weapon Damage.
-
-You may only use this Feature once per turn.
-
 ## Reckless Stance
 ###### REQ: 3EXP
 ###### 1 AP
@@ -118,6 +106,30 @@ You may only use this Feature once per turn.
 Until the beginning of your next turn, you impose Advantage on Melee Attacks against you, and when you hit a target with a Melee Weapon, you deal an additional Weapon Damage Die.
 
 #### *5 EXP*
+## Smash
+###### REQ: 5EXP
+###### 2W AP
+###### USE: Melee Weapon - Heavy
+'And whoever said everything *wasn't* a nail?'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Fortitude.
+
+If you hit your target, you deal thrice your Weapon Damage.
+
+You may only use this Feature once per turn.
+
+## Spinning Sweep
+###### REQ: 5EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Flurry of Blows
+###### REQ: 5EXP
+###### 2W AP
+###### USE: Melee Weapon - Light
+'xxx.'
+
 ## Halting Engagement
 ###### REQ: 5EXP, Engage
 'It won't be easy to run while you're still kicking.'
@@ -137,6 +149,18 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 ### Ranged
 `think of ranged archetypes - frontline legolas esqe, battlefield controller support, high damage sniper`
 #### *1 EXP*
+## Take Aim
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Quicksh
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 #### *3 EXP*
 #### *5 EXP*
 ## Splitshot
