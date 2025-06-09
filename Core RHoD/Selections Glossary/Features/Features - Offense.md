@@ -155,14 +155,68 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 ###### USE: Melee Weapon
 'xxx.'
 
-## Quicksh
+## Quickshot
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Smooth Reset
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Running Shot
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Suppress
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
 #### *3 EXP*
+## Fire-At-Will
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Gutshot
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Squadsight
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 #### *5 EXP*
+## Aiming for the Head
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 ## Splitshot
 ###### REQ: 5EXP
 ###### W+1 AP
@@ -199,6 +253,12 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 If you hit your target, you deal your Weapon Damage, and if you had Advantage on this Attack, you deal an additional 1d6 damage of your Weapon's Damage Type.
 
 You may only use this Feature to deal additional damage once per turn.
+
+## Castling Att
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
 
 #### *3 EXP*
 ## Careful Strike
