@@ -4,7 +4,7 @@ In the world of RHoD, finding a way to take home your newfound wealth may be jus
 ## Slot Management
 Items are always stored or held in Inventory Slots. Items are separated into four descending size categories based on weight; Large (>75lb), Medium (~15-5lb), Small (~5-1lbs), and Tiny (>1lb). Only one item or stack of items may be stored in a single Inventory Slot at a time.
 
-```
+``` depreciated
 Inventory Slots may be used to store Items of smaller size categories:
 - One Large Slot can be used as three Medium Slots. 
 - One Medium can be used as four Small Slots. 
@@ -20,7 +20,7 @@ Every character in RHoD is given four 'Equipment' Slots under the assumption tha
 Characters who are considered Large gain an effective +3 to their Strength Modifier and characters who are considered Small incur an effective -3 to their Strength Modifier for calculating the number of 'Strength Based' Inventory Slots a character receives.
 
 
-```
+``` depreciated
 The slots given are as follows;
 	- Armor Worn (Large)
 	- Headgear (Medium)
