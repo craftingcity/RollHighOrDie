@@ -48,7 +48,7 @@ While you are in the 'Low Ready' Stance, you have +2 on Stealth Rolls and a +1 t
 While you are in the 'Crouched' Stance, you cannot run, you gain a +3 bonus to Ranged Attacks, and you treat Low Cover as High Cover.
 
 ###### Prone
-'Prone' is a fully lowered position, where your character has their chest or back upon the ground. This stance is rarely favorable for any combatant, and likely should be reserved for taking "deep" cover.
+'Prone' is a fully lowered position, where your character has their chest or back upon the ground. This stance is rarely favorable for any combatant, and should be reserved for taking "deep" cover.
 
 While you are in the 'Prone' Stance, you cannot run, you treat Low Cover as High Cover, and No Cover as Low Cover. Attacks against you that originate within 10' have Advantage.
 

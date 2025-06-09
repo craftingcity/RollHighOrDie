@@ -127,7 +127,7 @@ Creation:
 	- 2x "Plank" -> 1x Splint
 
 #### Bottle of Painkiller
-Tiny, 2 Action Cost (UNPACK > INJEST or FEED)
+Tiny, 2 Action Cost (UNPACK > INJEST / FEED)
 Bottle of Painkiller has 5 Charges
 
 INJEST: You consume a portion of the contents of the bottle. Expend a Charge. You gain a stack of the 'Pain Dulled' [[Emboldenment]].
@@ -140,7 +140,7 @@ Creation:
 	- 1x "Chemicals" -> 1x Bottle of Painkiller
 
 #### Vial of Poison
-Tiny, 2 Action Cost (UNPACK > APPLY or FEED)
+Tiny, 2 Action Cost (UNPACK > APPLY / FEED)
 Vial of Poison has 5 Charges
 
 APPLY: You apply a portion of the contents of the vial to a Blade Weapon or an Ammunition. Expend a Charge. When you deal damage with an Attack using that Weapon or Ammunition, make another Attack against that creature's Fortitude. If you hit, you impose a stack of the 'Poisoned' [[Ailment]].

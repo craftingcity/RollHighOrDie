@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,8 +285,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fac596e2d86e630b",
+  "active": "1c46139a3afb5d9d",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
@@ -294,7 +296,6 @@
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Defenses.md",
@@ -315,7 +316,6 @@
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
-    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
