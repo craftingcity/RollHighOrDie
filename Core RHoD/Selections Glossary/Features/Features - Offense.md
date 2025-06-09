@@ -254,7 +254,25 @@ If you hit your target, you deal your Weapon Damage, and if you had Advantage on
 
 You may only use this Feature to deal additional damage once per turn.
 
-## Castling Att
+## Castling Attack
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Make Space
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Declare Target
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Quickdraw
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -293,6 +311,18 @@ If you hit your target, you deal your Weapon Damage as normal, and you apply a s
 
 You may only use this Feature once per turn.
 
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 #### *5 EXP*
 ## Trickshot
 ###### REQ: 3EXP
@@ -303,3 +333,27 @@ You may only use this Feature once per turn.
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. 
 
 If you hit, you deal your Weapon Damage as normal, and until the end of your next turn, you have Advantage on your next Attack Roll against that target.
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
