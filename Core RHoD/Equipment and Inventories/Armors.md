@@ -41,7 +41,7 @@ This is the style of Armor, reflecting the Armor's 'Areas of Coverage', and is u
 
 'Areas of Coverage' are the areas of the Armor that are actually being defended by the 'Material' of this 'Style' of Armor. 
 
-The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, Feet have 1CV, Arms has 2CV, and Suit has 3CV). The following table describes the 'Areas of Coverage' an Armor may have, and their respective Coverage Value.
+The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, 'Feet' has 1CV, 'Arms' has 2CV, and 'Suit' has 3CV). The following table describes the 'Areas of Coverage' an Armor may have, and their respective Coverage Value.
 
 | Area of Coverage     | Coverage Value | Description                             |
 | -------------------- | -------------- | --------------------------------------- |
