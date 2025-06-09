@@ -44,6 +44,12 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 
 If you hit, you deal your Weapon Damage as normal, and you gain +2 to your Reflex, Fortitude, and Will Defenses until the beginning of your next turn.
 
+## Disarming Strike
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 #### *3 EXP*
 ## Enforce
 ###### REQ: 3EXP
