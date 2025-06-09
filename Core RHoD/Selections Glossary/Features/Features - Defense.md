@@ -7,6 +7,31 @@
 
 Expend two Hit Die. You gain the number rolled plus twice your Constitution Modifier as Vitality.
 
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+
 #### *3 EXP*
 ## Tank Up
 ###### REQ: 3EXP
@@ -15,6 +40,30 @@ Expend two Hit Die. You gain the number rolled plus twice your Constitution Modi
 'Your opponent's attacks falter and fail as you defend the few weak spots in your armoring.'
 
 Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Slashing Damage Resistance.
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
 
 #### *5 EXP*
 ## Bloody Regeneration
@@ -27,6 +76,30 @@ You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your
 
 Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
 
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 ### Mobility
 #### *1 EXP*
 ## Up and Gone
@@ -37,6 +110,30 @@ Make an Endurance Skill Check. If the result is fewer than 20, you may not use t
 Make a Maneuver, then Hide.
 
 You may only use this Feature once per turn.
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
 
 #### *3 EXP*
 ## Disengage
@@ -57,6 +154,24 @@ Make a Maneuver.
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may crawl up to 10' instead of 5'.
 
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 #### *5 EXP*
 ## Painrush
 ###### REQ: 5EXP
@@ -64,6 +179,30 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 'When something hurts, you move. Getting out, getting in, the pain moves your body anyways.'
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
 
 ### Alliance
 #### *1 EXP*
@@ -75,6 +214,88 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 
 Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
 
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
 
 #### *3 EXP*
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 #### *5 EXP*
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
