@@ -23,11 +23,10 @@ Character Features:
 		## Ablative Defenses
 		[[Defenses#Armoring]]:
 		[[Defenses#Vitality]]:
-	
 	[[Condition]]:
 		[[Emboldenment]]:
 		[[Ailment]]:
-	
+		Stance:
 	[[Equipment]]:
 		Worn/Wielded:
 		Carried:

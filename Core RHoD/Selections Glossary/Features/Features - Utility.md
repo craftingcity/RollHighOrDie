@@ -9,7 +9,7 @@ Make an Intimidation Skill Check. If the result is equal to or greater than the 
 
 Allies within 30 feet of you who also have this Trait may expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality.
 
-## XXX
+## Stay In Formation
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
