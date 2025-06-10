@@ -5,7 +5,7 @@
 ###### 3AP
 'You hurt, bad. It's not enough to kill you, so it won't be enough to stop you.'
 
-Expend two Hit Die. You regain the number rolled plus twice your Constitution Modifier as Vitality.
+Expend up to two Hit Die. You regain the number rolled plus twice your Constitution Modifier as Vitality.
 
 ## XXX
 ###### REQ: 1EXP

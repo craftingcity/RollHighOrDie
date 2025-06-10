@@ -22,7 +22,7 @@ This is the material the Armor is mostly composed of. Each Material has a Toughn
 
 The Material's Toughness is used in addition to an Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of that Armor. The Material's Tool Action is used in the process of repairing an Armor.
 
-Materials are considered either 'Light' or 'Heavy', which will determine an Armor's eligibility for use with some Features or Traits and some other Armor Tags.
+Materials are considered either 'Light' or 'Heavy', which will determine an Armor's eligibility for use with some Features, Traits, or other Armor Tags.
 
 ##### Example Materials
 | Material          | Toughness | L/H   | Tool Action |
