@@ -4,7 +4,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 ### Repairing Armors
 When a Character takes damage while they have Armor equipped, they take that damage to their Armoring before their Vitality. That Armor remains damaged until it is Repaired.
 
-A character can spend a number of Materials and an equal number of Watches using relevant Tool Actions to Repair damaged Armor. For each Material spent, the Armor is repaired by a number equal to that Material's Toughness, up to the Armor's Maximum Armoring.
+A character can spend a number of the Armor's Materials and an equal number of Watches using relevant Tool Actions to Repair damaged Armor. For each Material spent, the Armor is repaired by a number equal to that Material's Toughness, up to the Armor's Maximum Armoring. 
 
 # Armor Tags
 ### Required Tags
@@ -27,18 +27,18 @@ Materials are considered either 'Light' or 'Heavy', which will determine an Armo
 ##### Example Materials
 | Material          | Toughness | L/H   | Tool Action |
 | ----------------- | --------- | ----- | ----------- |
-| Padded Cloth      | 1         | Light | *TAILOR*            |
-| Beast Hide        | 2         | Light | *TAILOR*            |
-| Tanned Leather    | 3         | Light | *TAILOR*            |
-| Kevlar            | 4         | Light | *TAILOR*            |
-| Bronze Chainmail  | 5         | Heavy | *FORGE*            |
-| Bronze Plate      | 6         | Heavy | *FORGE*            |
-| Steel Chainmail   | 6         | Heavy | *FORGE*            |
-| Steel Plate       | 8         | Heavy | *FORGE*            |
-| Ceramic Composite | 9         | Heavy |             |
-| Darksteel Plate   | 10        | Heavy |             |
-| Mythril Plate     | 12        | Heavy |             |
-| Adamantine Plate  | 16        | Heavy |             |
+| Padded Cloth      | 1         | Light | *TAILOR*    |
+| Beast Hide        | 2         | Light | *TAILOR*    |
+| Tanned Leather    | 3         | Light | *TAILOR*    |
+| Kevlar            | 4         | Light | *TAILOR*    |
+| Bronze Chainmail  | 5         | Heavy | *FORGE*     |
+| Bronze Plate      | 6         | Heavy | *FORGE*     |
+| Steel Chainmail   | 6         | Heavy | *FORGE*     |
+| Steel Plate       | 8         | Heavy | *FORGE*     |
+| Ceramic Composite | 9         | Heavy | *CHEMISTRY* |
+| Darksteel Plate   | 10        | Heavy | *FORGE*     |
+| Mythril Plate     | 12        | Heavy | *FORGE*     |
+| Adamantine Plate  | 16        | Heavy | *FORGE*     |
 
 #### Style
 This is the style of Armor, reflecting an Armor's 'Areas of Coverage', and is used in addition to an Armor's 'Material' and 'Size' to determine the Maximum Armoring Value of that Armor.
