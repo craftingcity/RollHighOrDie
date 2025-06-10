@@ -18,26 +18,28 @@ Medium Armors have a Size Multiplier of 2.
 Large Armors have a Size Multiplier of 3.
 
 #### Material
-This is the material the Armor is mostly composed of. Each Material has a Toughness and a relevant. This is used in addition to the Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of the Armor. 
+This is the material the Armor is mostly composed of. Each Material has a Toughness and a relevant Tool Action. 
 
-Materials are considered either 'Light' or 'Heavy', which will determine the Armor's eligibility for use with some Features or Traits and some other Armor Tags.
+The Material's Toughness is used in addition to the Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of the Armor. The Material's Tool Action 
+
+Materials are considered either 'Light' or 'Heavy', which will determine an Armor's eligibility for use with some Features or Traits and some other Armor Tags.
 
 ##### Example Materials
-| Material          | Value | L/H   |
-| ----------------- | ----- | ----- |
-| Padded Cloth      | 1     | Light |
-| Beast Hide        | 2     | Light |
-| Tanned Leather    | 3     | Light |
-| Kevlar            | 4     | Light |
-| Bronze Chainmail  | 5     | Heavy |
-| Bronze Plate      | 6     | Heavy |
-| Steel Chainmail   | 6     | Heavy |
-| Steel Plate       | 8     | Heavy |
-| Ceramic Composite | 9     | Heavy |
-| Elvenfiber        | 7     | Light |
-| Darksteel Plate   | 10    | Heavy |
-| Mythril Plate     | 12    | Heavy |
-| Adamantine Plate  | 16    | Heavy |
+| Material          | Toughness | L/H   |
+| ----------------- | --------- | ----- |
+| Padded Cloth      | 1         | Light |
+| Beast Hide        | 2         | Light |
+| Tanned Leather    | 3         | Light |
+| Kevlar            | 4         | Light |
+| Bronze Chainmail  | 5         | Heavy |
+| Bronze Plate      | 6         | Heavy |
+| Steel Chainmail   | 6         | Heavy |
+| Steel Plate       | 8         | Heavy |
+| Ceramic Composite | 9         | Heavy |
+| Elvenfiber        | 7         | Light |
+| Darksteel Plate   | 10        | Heavy |
+| Mythril Plate     | 12        | Heavy |
+| Adamantine Plate  | 16        | Heavy |
 
 #### Style
 This is the style of Armor, reflecting the Armor's 'Areas of Coverage', and is used in addition to the Armor's 'Material' and 'Size' to determine the Maximum Armoring Value of the Armor.
