@@ -1,7 +1,8 @@
 # Preamble
 Within the fiction of the story you tell, your characters may use any number of Armors. For the purpose of mechanical potential, RHoD's Armors are a collection of Tags.
 
-While an Armor's Current Armoring is less than it's Total Armoring Value, it can be repaired
+### Repairing Armors
+When a Character takes damage while they are wearing or wielding an A
 
 # Armor Tags
 ### Required Tags
