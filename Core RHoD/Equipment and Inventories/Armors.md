@@ -4,7 +4,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 ### Repairing Armors
 When a Character takes damage while they have Armor equipped, they take that damage to their Armoring before their Vitality. That Armor remains damaged until it is Repaired.
 
-A character can spend a number of Materials and an equal number of Watches using relevant Tool Actions to Repair damaged Armor. 
+A character can spend a number of Materials and an equal number of Watches using relevant Tool Actions to Repair damaged Armor. For each Material spent, the Armor is repaired by a number equal to it's 'Material Value'.
 
 # Armor Tags
 ### Required Tags
@@ -18,7 +18,7 @@ Medium Armors have a Size Multiplier of 2.
 Large Armors have a Size Multiplier of 3.
 
 #### Material
-This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of the Armor.
+This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of the Armor. Each Material is 
 
 Materials are considered either 'Light' or 'Heavy', which will determine the Armor's eligibility for use with some Features or Traits and some other Armor Tags.
 
