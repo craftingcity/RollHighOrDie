@@ -25,21 +25,20 @@ The Material's Toughness is used in addition to an Armor's 'Size' and 'Style' to
 Materials are considered either 'Light' or 'Heavy', which will determine an Armor's eligibility for use with some Features or Traits and some other Armor Tags.
 
 ##### Example Materials
-| Material          | Toughness | L/H   |
-| ----------------- | --------- | ----- |
-| Padded Cloth      | 1         | Light |
-| Beast Hide        | 2         | Light |
-| Tanned Leather    | 3         | Light |
-| Kevlar            | 4         | Light |
-| Bronze Chainmail  | 5         | Heavy |
-| Bronze Plate      | 6         | Heavy |
-| Steel Chainmail   | 6         | Heavy |
-| Steel Plate       | 8         | Heavy |
-| Ceramic Composite | 9         | Heavy |
-| Elvenfiber        | 7         | Light |
-| Darksteel Plate   | 10        | Heavy |
-| Mythril Plate     | 12        | Heavy |
-| Adamantine Plate  | 16        | Heavy |
+| Material          | Toughness | L/H   | Tool Action |
+| ----------------- | --------- | ----- | ----------- |
+| Padded Cloth      | 1         | Light | *TAILOR*            |
+| Beast Hide        | 2         | Light | *TAILOR*            |
+| Tanned Leather    | 3         | Light | *TAILOR*            |
+| Kevlar            | 4         | Light | *TAILOR*            |
+| Bronze Chainmail  | 5         | Heavy | *FORGE*            |
+| Bronze Plate      | 6         | Heavy | *FORGE*            |
+| Steel Chainmail   | 6         | Heavy | *FORGE*            |
+| Steel Plate       | 8         | Heavy | *FORGE*            |
+| Ceramic Composite | 9         | Heavy |             |
+| Darksteel Plate   | 10        | Heavy |             |
+| Mythril Plate     | 12        | Heavy |             |
+| Adamantine Plate  | 16        | Heavy |             |
 
 #### Style
 This is the style of Armor, reflecting an Armor's 'Areas of Coverage', and is used in addition to an Armor's 'Material' and 'Size' to determine the Maximum Armoring Value of that Armor.
