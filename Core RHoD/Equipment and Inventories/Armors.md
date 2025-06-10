@@ -4,7 +4,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 ### Repairing Armors
 When a Character takes damage while they have Armor equipped, they take that damage to their Armoring before their Vitality. That Armor remains damaged until it is Repaired.
 
-A character can spend a number of Materials and an equal number of Watches using relevant Tool Actions to Repair damaged Armor. For each Material spent, the Armor is repaired by a number equal to it's 'Material Value'.
+A character can spend a number of Materials and an equal number of Watches using relevant Tool Actions to Repair damaged Armor. For each Material spent, the Armor is repaired by a number equal to that Material's Toughness, up to the Armor's Maximum Armoring.
 
 # Armor Tags
 ### Required Tags
@@ -18,7 +18,7 @@ Medium Armors have a Size Multiplier of 2.
 Large Armors have a Size Multiplier of 3.
 
 #### Material
-This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of the Armor. Each Material is 
+This is the material the Armor is mostly composed of. Each Material has a Toughness and a relevant. This is used in addition to the Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of the Armor. 
 
 Materials are considered either 'Light' or 'Heavy', which will determine the Armor's eligibility for use with some Features or Traits and some other Armor Tags.
 
@@ -90,13 +90,13 @@ The Style's Total Coverage Value is the total of all Coverage Values of the Styl
 #### Maximum Armoring
 This is the maximum value of Armoring this Armor can provide in perfect condition. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 
 
-Maximum Armoring = (Material Value + Coverage Value) * Size Multiplier
+Maximum Armoring = (Material Toughness + Coverage Value) * Size Multiplier
 
 ` current example numbers give ~700 as MaxArmoring `
 
 > For example, let's examine a Steel Plate Full-suit Armor as made for a traditional human - Medium sized.
-> Medium Armors have a SM of 2. Steel Plate has a MV of 8. Full-suit Armor has a CV of 17.
-> Material Value (8) + Coverage Value (17) = 25
+> Medium Armors have a SM of 2. Steel Plate has a MT of 8. Full-suit Armor has a CV of 17.
+> Material Toughness (8) + Coverage Value (17) = 25
 > 25 * Size Multiplier (2) = 50
 > Medium Size Steel Plate Full-suit Armor has a Maximum Armoring Value of 50.
 
