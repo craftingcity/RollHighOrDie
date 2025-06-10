@@ -136,7 +136,7 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Ailm
 | Rapier         | Long Blade  | Medium | Melee - 5'  | Dexterity | Reflex  | 1d8     | Piercing    |                        |
 | Scimitar       | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d8     | Slashing    | Light                  |
 | Greatsword     | Long Blade  | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Heavy, Two-Handed      |
-| Hooksword      | Long Blade  | Large  | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Heavy, Two-Handed      |
+| Hooksword      | Long Blade  | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Heavy, Two-Handed      |
 | Hatchet        | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    |                        |
 | Work Axe       | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Two-Handed             |
 | Broadaxe       | Axe         | Large  | Melee - 5'  | Strength  | Reflex  | 1d10    | Slashing    | Heavy, Two-Handed      |
@@ -147,4 +147,4 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Ailm
 | Glaive         | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Two-Handed             |
 | Halberd        | Polearm     | Large  | Melee - 10' | Strength  | Reflex  | 2d8     | Slashing    | Heavy, Two-Handed      |
 | Bullwhip       | Flexible    | Small  | Melee - 10' | Dexterity | Reflex  | 1d4     | Bludgeoning |                        |
-| Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        | 
+| Flail          | Flexible    | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Piercing    | Versatile (2d8)        |
