@@ -2,7 +2,9 @@
 Within the fiction of the story you tell, your characters may use any number of Armors. For the purpose of mechanical potential, RHoD's Armors are a collection of Tags.
 
 ### Repairing Armors
-When a Character takes damage while they are wearing or wielding an Armor, they take that damage to their 
+When a Character takes damage while they have Armor equipped, they take that damage to their Armoring before their Vitality. That Armor remains damaged until it is Repaired.
+
+
 
 # Armor Tags
 ### Required Tags
