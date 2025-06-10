@@ -1,7 +1,7 @@
 # Preamble
 Within the fiction of the story you tell, your characters may use any number of Armors. For the purpose of mechanical potential, RHoD's Armors are a collection of Tags.
 
-A character's Total [[Defenses#Armoring]] is directly related to the Armor they are wearing in their 'Equipment' Slots.
+While an Armor's Current Armoring is less than it's Total Armoring Value, it can be repaired
 
 # Armor Tags
 ### Required Tags
@@ -108,7 +108,7 @@ While your Armoring is greater than 0, you have Slashing Damage Resistance and P
 While you are wearing this Armor, your Dexterity Ability Score is reduced by the indicated value (x).
 
 #### Pockets (x)
-While you are wearing this Armor, you gain the indicated number and size (x) of Inventory Slots. While using Equipment stored in these Inventory Slots, you may ignore the 'UNPACK' Interaction Cost of that Equipment.
+While you are wearing this Armor, you gain the indicated number (x) of Item Slots. While using Equipment stored in these Inventory Slots, you may ignore the 'UNPACK' Interaction Cost of that Equipment.
 
 ### Specialized Tags
 #### Powered (x)
