@@ -2,12 +2,12 @@
 Within the fiction of the story you tell, your characters may use any number of Armors. For the purpose of mechanical potential, RHoD's Armors are a collection of Tags.
 
 ### Repairing Armors
-When a Character takes damage while they are wearing or wielding an A
+When a Character takes damage while they are wearing or wielding an Armor, they take that damage to their 
 
 # Armor Tags
 ### Required Tags
 #### Size
-This is the mechanical Size of the Armor - Small, Medium, or Large - and is used in addition to the Armor's 'Material' and 'Style' to determine the total Armoring Value of the Armor.
+This is the mechanical Size of the Armor - Small, Medium, or Large - and is used in addition to the Armor's 'Material' and 'Style' to determine the Maximum Armoring Value of the Armor.
 
 Small Armors have a Size Multiplier of 1.
 
@@ -16,7 +16,7 @@ Medium Armors have a Size Multiplier of 2.
 Large Armors have a Size Multiplier of 3.
 
 #### Material
-This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the total Armoring Value of the Armor.
+This is the material the Armor is mostly composed of. It is used in addition to the Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of the Armor.
 
 Materials are considered either 'Light' or 'Heavy', which will determine the Armor's eligibility for use with some Features or Traits and some other Armor Tags.
 
@@ -38,7 +38,7 @@ Materials are considered either 'Light' or 'Heavy', which will determine the Arm
 | Adamantine Plate  | 16    | Heavy |
 
 #### Style
-This is the style of Armor, reflecting the Armor's 'Areas of Coverage', and is used in addition to the Armor's 'Material' and 'Size' to determine the total Armoring Value of the Armor.
+This is the style of Armor, reflecting the Armor's 'Areas of Coverage', and is used in addition to the Armor's 'Material' and 'Size' to determine the Maximum Armoring Value of the Armor.
 
 'Areas of Coverage' are the areas of the Armor that are actually being defended by the 'Material' of this 'Style' of Armor. 
 
@@ -85,10 +85,10 @@ The Style's Total Coverage Value is the total of all Coverage Values of the Styl
 | Kite Shield     | 5              | (upper - front, arms)                                                 |
 | Tower Shield    | 9              | (upper & lower - front, arms, thighs, shins)                          |
 
-#### Armoring Value
-This is the total value of Armoring this Armor provides. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 
+#### Maximum Armoring
+This is the maximum value of Armoring this Armor can provide in perfect condition. This value is equal to the Material Value plus the Coverage Value, multiplied by the Size Multiplier. 
 
-Armoring = (Material Value + Coverage Value) * Size Multiplier
+Maximum Armoring = (Material Value + Coverage Value) * Size Multiplier
 
 ` current example numbers give ~700 as MaxArmoring `
 
@@ -96,7 +96,7 @@ Armoring = (Material Value + Coverage Value) * Size Multiplier
 > Medium Armors have a SM of 2. Steel Plate has a MV of 8. Full-suit Armor has a CV of 17.
 > Material Value (8) + Coverage Value (17) = 25
 > 25 * Size Multiplier (2) = 50
-> Medium Size Steel Plate Full-suit Armor has a total Armoring Value of 50.
+> Medium Size Steel Plate Full-suit Armor has a Maximum Armoring Value of 50.
 
 ### Mundane Tags
 #### Padded (x)
