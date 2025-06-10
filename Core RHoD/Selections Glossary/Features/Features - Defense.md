@@ -1,4 +1,4 @@
-### Vitality
+### Vigor
 #### *1 EXP*
 ## Second Wind
 ###### REQ: 1EXP
