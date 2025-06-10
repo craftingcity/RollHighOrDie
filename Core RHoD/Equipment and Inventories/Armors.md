@@ -4,7 +4,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 ### Repairing Armors
 When a Character takes damage while they have Armor equipped, they take that damage to their Armoring before their Vitality. That Armor remains damaged until it is Repaired.
 
-To Repair damaged Armor, a character can spend a number of Watches using relevant Tool Actions
+To Repair damaged Armor, a character can spend a number of Materials and an equal number of Watches 
 
 # Armor Tags
 ### Required Tags
