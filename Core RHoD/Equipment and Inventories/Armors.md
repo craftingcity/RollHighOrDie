@@ -9,7 +9,7 @@ A character can spend a number of Materials and an equal number of Watches using
 # Armor Tags
 ### Required Tags
 #### Size
-This is the mechanical Size of the Armor - Small, Medium, or Large - and is used in addition to the Armor's 'Material' and 'Style' to determine the Maximum Armoring Value of the Armor.
+This is the mechanical Size of the Armor - Small, Medium, or Large - and is used in addition to an Armor's 'Material' and 'Style' to determine the Maximum Armoring Value of that Armor.
 
 Small Armors have a Size Multiplier of 1.
 
@@ -20,7 +20,7 @@ Large Armors have a Size Multiplier of 3.
 #### Material
 This is the material the Armor is mostly composed of. Each Material has a Toughness and a relevant Tool Action. 
 
-The Material's Toughness is used in addition to the Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of the Armor. The Material's Tool Action 
+The Material's Toughness is used in addition to an Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of that Armor. The Material's Tool Action is used in the process of repairing an Armor.
 
 Materials are considered either 'Light' or 'Heavy', which will determine an Armor's eligibility for use with some Features or Traits and some other Armor Tags.
 
@@ -42,9 +42,9 @@ Materials are considered either 'Light' or 'Heavy', which will determine an Armo
 | Adamantine Plate  | 16        | Heavy |
 
 #### Style
-This is the style of Armor, reflecting the Armor's 'Areas of Coverage', and is used in addition to the Armor's 'Material' and 'Size' to determine the Maximum Armoring Value of the Armor.
+This is the style of Armor, reflecting an Armor's 'Areas of Coverage', and is used in addition to an Armor's 'Material' and 'Size' to determine the Maximum Armoring Value of that Armor.
 
-'Areas of Coverage' are the areas of the Armor that are actually being defended by the 'Material' of this 'Style' of Armor. 
+'Areas of Coverage' are the areas of a creature that are actually being defended by the 'Material' of this Style of Armor. 
 
 The Style's Total Coverage Value is the total of all Coverage Values of the Style's Areas of Coverage. Areas of Coverage have a Coverage Value ranging from 1 to 3 (for example, 'Feet' has 1CV, 'Arms' has 2CV, and 'Suit' has 3CV). The following table describes the 'Areas of Coverage' an Armor may have, and their respective Coverage Value.
 
