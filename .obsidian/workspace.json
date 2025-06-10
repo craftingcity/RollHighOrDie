@@ -211,8 +211,7 @@
               "title": "Equipment"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -355,12 +354,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46b1ba2d06957aec",
+  "active": "6dd4dd2d6f5af8ee",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
@@ -372,6 +369,7 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Traits.md",
@@ -386,6 +384,7 @@
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Ailment.md",
+    "ail.md",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
