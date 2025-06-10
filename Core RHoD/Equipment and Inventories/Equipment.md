@@ -372,7 +372,7 @@ Small, X Action Cost (UNPACK > LOCATE)
 Medium, X Action Cost (UNPACK > APPLY)
 
 #### Piton
-Small, X Action Cost (UNPACK > APPLY)
+Small, X Action Cost (UNPACK > LOCATE > APPLY)
 
 #### Pole, Collapsible (10ft)
 Small, X Action Cost (UNPACK > PREP > APPLY)
