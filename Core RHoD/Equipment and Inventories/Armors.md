@@ -3,6 +3,8 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 A character's [[Defenses#Armoring]] is directly related to the Armor they are wearing in their 'Equipment' Slots. 
 
+When an Armor 
+
 # Armor Tags
 ### Required Tags
 #### Size

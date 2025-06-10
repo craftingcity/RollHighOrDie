@@ -211,7 +211,8 @@
               "title": "Equipment"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -357,6 +358,7 @@
   "active": "46b1ba2d06957aec",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Defenses.md",
+    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
@@ -369,7 +371,6 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Traits.md",

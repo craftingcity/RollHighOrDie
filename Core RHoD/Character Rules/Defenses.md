@@ -29,7 +29,7 @@ When you take damage, you will take the damage to your Armoring before your Vita
 
 If you take damage that would reduce your Armoring to less than 0, instead, it reduces it to 0 and you reduce your Vitality by the remaining amount.
 
-Your character's Armoring will depend on your currently worn Equipment.
+Your character's Armoring will depend on your currently worn Equipment. 
 
 #### Vitality & Wounds
 When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, multiplied by your TMK.
