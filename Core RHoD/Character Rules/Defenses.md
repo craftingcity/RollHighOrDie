@@ -14,7 +14,7 @@ Your Reflex is equal to 8, plus your Degree of Proficiency, plus your Dexterity 
 #### Fortitude
 Your character's Fortitude is their ability to ignore and combat internal effects and changes.
 
-Your Fortitude is equal to 8, plus your Degree of Proficiency, Plus your Strength or Constitution Modifier, whichever of the two is higher.
+Your Fortitude is equal to 8, plus your Degree of Proficiency, plus your Strength or Constitution Modifier, whichever of the two is higher.
 
 #### Will
 Your character's Will is their ability to withstand harmful mental effects, natural, magical, or otherwise. 
