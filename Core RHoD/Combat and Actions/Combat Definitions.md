@@ -123,7 +123,7 @@ High Light is bright, but not blinding. High Light is emitted by sources like th
 High Light has no mechanical benefits or deficits.
 
 ###### Low Light
-Low Light enough Light to see generalities, but not details. Typically, Low Light is emitted by small sources, such as candles, or at the edge of High Light.
+Low Light enough Light to see generalities, but not details. Typically, Low Light is emitted by small sources, such as candles, or present at the edge of High Light.
 
 While you are in a space lit by Low Light, you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks.
 
