@@ -41,7 +41,7 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 
 Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Slashing Damage Resistance.
 
-## XXX
+## Strong Parry
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -111,7 +111,7 @@ Make a Maneuver, then Hide.
 
 You may only use this Feature once per turn.
 
-## XXX
+## Dodge R
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
