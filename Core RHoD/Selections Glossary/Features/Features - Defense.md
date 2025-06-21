@@ -7,7 +7,13 @@
 
 Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus your Constitution Modifier as Vitality.
 
-## 
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## Get Evasive
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -20,12 +26,6 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 'xxx.'
 
 ## Stay Calm 
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
-'xxx.'
-
-## XXX
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
