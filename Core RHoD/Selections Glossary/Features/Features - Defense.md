@@ -7,7 +7,7 @@
 
 Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus your Constitution Modifier as Vitality.
 
-## XXX
+## Stay Calm
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -33,7 +33,7 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 
 
 #### *3 EXP*
-## Tank Up
+## Hard Stance
 ###### REQ: 3EXP
 ###### 3 AP
 ###### USE: Armor - Heavy
