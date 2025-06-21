@@ -94,7 +94,7 @@ Make an Endurance Skill Check. If the result is fewer than 20, you may not use t
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## 
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
