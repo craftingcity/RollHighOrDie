@@ -22,7 +22,7 @@ Your character's Will is their ability to withstand harmful mental effects, natu
 Your Will is equal to 8, plus your Degree of Proficiency, plus your Wisdom or Charisma Modifier, whichever of the two is higher.
 
 ## Ablative Defenses
-Your two Ablative Defenses are the final line of defense against harmful effects, and when your Armoring and Vitality are reduced to zero and then below, you will quickly become welcomed to your final rest.
+Your two Ablative Defenses are the final line of defense against harmful effects. When your Armoring and Vitality are reduced to zero, you will quickly become welcomed to your final rest.
 
 #### Armoring
 When you take damage, you will take the damage to your Armoring before your Vitality. Before you begin to reduce your Vitality, you must completely reduce your Armoring to 0.
