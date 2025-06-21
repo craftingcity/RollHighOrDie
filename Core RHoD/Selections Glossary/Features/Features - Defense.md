@@ -13,13 +13,13 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 ###### USE: Shield
 'xxx.'
 
-## Get Evasive
+## Get Loose
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## Solid Stance
+## Grounded Stance
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -47,7 +47,7 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Solidify Cover
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
