@@ -239,6 +239,17 @@ Target an ally you can see. Until the beginning of your turn, when they are the 
 
 If you hit that creature, deal your Weapon Damage as normal. You impose -3 to that creature's Attack Roll against your target ally.
 
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
 
 ### Either
 #### *1 EXP*
