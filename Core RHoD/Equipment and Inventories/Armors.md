@@ -107,7 +107,8 @@ While your Armoring is greater than 0, you have Bludgeoning Damage Resistance an
 
 #### Metallic (x)
 While your Armoring is greater than 0, you have Slashing Damage Resistance and Piercing Damage Resistance equal to the value indicated (x) and you have Electric Damage Vulnerability and Fire Damage Vulnerability equal to the value indicated (x).
-
+.
+0
 #### Restricting (x)
 While you are wearing this Armor, your Dexterity Ability Score is reduced by the indicated value (x).
 
