@@ -33,9 +33,9 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 
 
 #### *3 EXP*
-## Hard Stance
+## Hardened Stance
 ###### REQ: 3EXP
-###### 3 AP
+###### 2 AP
 ###### USE: Armor - Heavy
 'Your opponent's attacks falter and fail as you defend the few weak spots in your armoring.'
 
