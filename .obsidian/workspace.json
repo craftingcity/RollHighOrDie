@@ -211,8 +211,7 @@
               "title": "Equipment"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -355,12 +354,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fac596e2d86e630b",
+  "active": "6dd4dd2d6f5af8ee",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
