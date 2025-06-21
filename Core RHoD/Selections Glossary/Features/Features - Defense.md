@@ -7,10 +7,10 @@
 
 Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus your Constitution Modifier as Vitality.
 
-## XXX
+## Ready Shield
 ###### REQ: 1EXP
 ###### W AP
-###### USE: Melee Weapon
+###### USE: Shield
 'xxx.'
 
 ## Get Evasive
