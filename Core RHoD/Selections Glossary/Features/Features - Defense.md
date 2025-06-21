@@ -7,19 +7,19 @@
 
 Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus your Constitution Modifier as Vitality.
 
-## Stay Calm
+## 
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Brace For Impact
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Stay Calm 
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
