@@ -76,7 +76,7 @@ You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your
 
 Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
 
-## Mental Absorption
+## Tank Those
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
