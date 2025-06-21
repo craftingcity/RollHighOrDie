@@ -13,13 +13,13 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 ###### USE: Shield
 'xxx.'
 
-## Get Loose
+## Stay Loose
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## Grounded Stance
+## Brace
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -33,9 +33,9 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 
 
 #### *3 EXP*
-## Hard Stance
+## Hardened Stance
 ###### REQ: 3EXP
-###### 3 AP
+###### 2 AP
 ###### USE: Armor - Heavy
 'Your opponent's attacks falter and fail as you defend the few weak spots in your armoring.'
 
@@ -53,7 +53,7 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Hold Ground
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -76,7 +76,7 @@ You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your
 
 Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
 
-## Mental Absorption
+## Tank Those
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon

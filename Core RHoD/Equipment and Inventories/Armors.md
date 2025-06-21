@@ -20,7 +20,7 @@ Large Armors have a Size Multiplier of 3.
 #### Material
 This is the material the Armor is mostly composed of. Each Material has a Toughness and a relevant Tool Action. 
 
-The Material's Toughness is used in addition to an Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of that Armor. The Material's Tool Action is used in the process of repairing an Armor.
+The Material's Toughness is used in addition to an Armor's 'Size' and 'Style' to determine the Maximum Armoring Value of that Armor. The Material's Tool Action is used in the process of repairing an Armor of that Material.
 
 Materials are considered either 'Light' or 'Heavy', which will determine an Armor's eligibility for use with some Features, Traits, or other Armor Tags.
 
