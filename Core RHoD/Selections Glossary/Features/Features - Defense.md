@@ -82,7 +82,7 @@ Make an Endurance Skill Check. If the result is fewer than 20, you may not use t
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Stand Strong
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -117,7 +117,7 @@ You may only use this Feature once per turn.
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Kickup
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
