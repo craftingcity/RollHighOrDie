@@ -13,13 +13,13 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 ###### USE: Shield
 'xxx.'
 
-## Get Loose
+## Stay 
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## Grounded Stance
+## Brace
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
