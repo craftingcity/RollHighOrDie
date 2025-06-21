@@ -59,7 +59,7 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Grab Down
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
