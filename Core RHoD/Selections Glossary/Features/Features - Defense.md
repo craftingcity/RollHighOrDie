@@ -111,7 +111,7 @@ Make a Maneuver, then Hide.
 
 You may only use this Feature once per turn.
 
-## Dodge R
+## Dodge Roll
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
