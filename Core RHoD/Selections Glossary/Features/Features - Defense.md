@@ -19,7 +19,7 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 ###### USE: Melee Weapon
 'xxx.'
 
-## Brace For Impact
+## Solid Stance
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
