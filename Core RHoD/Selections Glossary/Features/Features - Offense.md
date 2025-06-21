@@ -144,7 +144,7 @@ When you make an Attack against a target you have 'Engaged', if you deal damage,
 ###### Use: Melee Weapon
 'You parry, deflect, and push off the opposition - you could hold a horde like this.'
 
-Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker 5' into a space within 10' of you.
+Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker 5' into an unoccupied space within 10' of you.
 
 ### Ranged
 `think of ranged archetypes - frontline legolas esqe, battlefield controller support, high damage sniper`
