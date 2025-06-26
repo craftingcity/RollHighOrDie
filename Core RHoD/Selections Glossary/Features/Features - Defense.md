@@ -152,7 +152,7 @@ Make a Maneuver.
 ###### USE: Melee Weapon
 'xxx.'
 
-## Sprint
+## 
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
