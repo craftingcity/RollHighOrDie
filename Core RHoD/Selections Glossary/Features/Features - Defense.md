@@ -43,27 +43,28 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 
 ## Parry
 ###### REQ: 1EXP
-###### W AP
+###### 2 AP
 ###### USE: Melee Weapon
 'xxx.'
 
 ## Solidify Cover
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
+###### USE: Adjacent to Half or Full Cover
 'xxx.'
 
+Until the beginning of your next turn, Attacks against you have Disadvantage.
+
 ## Hold Ground
-###### REQ: 1EXP
-###### 2AP
-###### USE: Melee Weapon
+###### REQ: 3EXP
+###### 2 AP
 'xxx.'
 
 Until the beginning of your next turn, you cannot be pushed.
 
 ## Grab Down
-###### REQ: 1EXP
-###### W AP
+###### REQ: 3EXP
+###### 2 AP
 ###### USE: Melee Weapon
 'xxx.'
 
