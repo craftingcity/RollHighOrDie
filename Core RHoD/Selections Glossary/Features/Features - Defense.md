@@ -15,6 +15,8 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 
 Until the beginning of your next turn, you gain +2 to your Reflex and Will Defenses.
 
+You may only use this
+
 ## Stay Loose
 ###### REQ: 1EXP
 ###### 2 AP
@@ -104,13 +106,15 @@ Make an Endurance Skill Check. If the result is fewer than 20, you may not use t
 
 This feature inherits and replaces the 'Hardened Stance' Defense Feature.
 
-You gain 10 Damage Resistance
+When you use this feature, you gain 10 Damage Resistance instead of 3.
 
 ## Stand Strong
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
+
+
 
 ## Perfect Parry
 ###### REQ: 5EXP, Parry
