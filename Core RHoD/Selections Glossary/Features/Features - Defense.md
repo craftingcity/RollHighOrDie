@@ -129,7 +129,7 @@ You may only use this Feature once per turn.
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## 
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
