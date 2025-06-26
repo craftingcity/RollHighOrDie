@@ -99,12 +99,12 @@ You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your
 Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
 
 ## Tank Those
-###### REQ: 5EXP, 
+###### REQ: 5EXP, Hardened Stance
 'xxx.'
 
-Until the beginning of your next turn, you gain 10 Bludgeoning, Piercing, and Slashing Damage Resistance.
+This feature inherits and replaces the 'Hardened Stance' Defense Feature.
 
-You may only use this Feature once per turn.
+You gain 10 Damage Resistance instead of 3.
 
 ## Stand Strong
 ###### REQ: 1EXP
