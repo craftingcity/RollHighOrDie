@@ -9,7 +9,7 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 
 ## Ready Shield
 ###### REQ: 1EXP
-###### W AP
+###### 1 AP
 ###### USE: Shield
 'xxx.'
 
@@ -17,23 +17,27 @@ Until the beginning of your next turn, you gain +2 to your Reflex and Will Defen
 
 ## Stay Loose
 ###### REQ: 1EXP
-###### W AP
+###### 2 AP
 ###### USE: Armor - Light
 'xxx.'
 
 Until the beginning of your next turn, you gain +4 to your Reflex Defense.
 
+You may only use this Feature once per turn.
+
 ## Brace
 ###### REQ: 1EXP
-###### W AP
+###### 2 AP
 ###### USE: Melee Weapon
 'xxx.'
 
 Until the beginning of your next turn, you gain +4 to your Fortitude Defense.
 
+You may only use this Feature once per turn.
+
 ## Stay Calm 
 ###### REQ: 1EXP
-###### W AP
+###### 2 AP
 ###### USE: Melee Weapon
 'xxx.'
 
@@ -47,6 +51,8 @@ Until the beginning of your next turn, you gain +4 to your Will Defense.
 'Your opponent's attacks falter and fail as you defend the few weak spots in your armoring.'
 
 Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Slashing Damage Resistance.
+
+
 
 ## Parry
 ###### REQ: 1EXP
@@ -91,12 +97,12 @@ You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your
 Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
 
 ## Tank Those
-###### REQ: 1EXP
-###### W AP
+###### REQ: 5EXP
+###### 3 AP
 ###### USE: Armor - Heavy
 'xxx.'
 
-Until the beginning of your next turn, you gain 10 S
+Until the beginning of your next turn, you gain 10 Bludgeoning, Piercing, and Slashing Damage Resistance.
 
 ## Stand Strong
 ###### REQ: 1EXP
