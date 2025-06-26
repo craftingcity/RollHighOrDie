@@ -125,14 +125,12 @@ This feature inherits and replaces the 'Parry' Defense Feature.
 Until the beginning of your next turn, Attacks made against you cost an additional Action Point.
 
 ## Mental Rally
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### REQ: 5EXP, Stay Calm
 'xxx.'
 
 This feature inherits and replaces the 'Stay Calm' Defense Feature.
 
-When you use this feature, 
+When you use this feature, you may
 
 ### Mobility
 #### *1 EXP*
