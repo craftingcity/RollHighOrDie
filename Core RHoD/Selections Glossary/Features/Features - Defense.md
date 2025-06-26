@@ -47,7 +47,7 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 ###### USE: Melee Weapon
 'xxx.'
 
-Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, that Attack 
+Until the beginning of your next turn, Melee Attacks against you have Disadvantage.
 
 ## Solidify Cover
 ###### REQ: 1EXP
@@ -55,14 +55,14 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 ###### USE: Adjacent to Half or Full Cover
 'xxx.'
 
-Until the beginning of your next turn, Attacks against you have Disadvantage.
+Until the beginning of your next turn, Ranged Attacks against you have Disadvantage.
 
 ## Hold Ground
 ###### REQ: 3EXP
 ###### 2 AP
 'xxx.'
 
-Until the beginning of your next turn, you cannot be pushed.
+Until the beginning of your next turn, you cannot be pushed out of the space you are currently occupying.
 
 ## Grab Down
 ###### REQ: 3EXP
