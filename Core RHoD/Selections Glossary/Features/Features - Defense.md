@@ -130,7 +130,7 @@ Until the beginning of your next turn, Attacks made against you cost an addition
 
 This feature inherits and replaces the 'Stay Calm' Defense Feature.
 
-When you use this feature, make a Wisdom Check. If the result is 14 or greater, you may Manually Resolve a stack of 
+When you use this feature, make a Wisdom Check. If the result is 14 or greater, you may Manually Resolve a stack of your choice of either the 'Frightened' or 'Dazed' Ailments.
 
 ### Mobility
 #### *1 EXP*
