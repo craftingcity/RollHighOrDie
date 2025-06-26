@@ -188,13 +188,17 @@ Make a Maneuver.
 ###### USE: Armor - Light
 'xxx.'
 
-You may use this feature 
+You may use this feature instead of making a Maneuver. 
+
+You run 15'.
 
 ## Slide Dash
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
+###### USE: You have made a Maneuver this turn
 'xxx.'
+
+
 
 ## Tuck-n-Roll
 ###### REQ: 1EXP
