@@ -29,7 +29,7 @@ Until the beginning of your next turn, you gain +4 to your Reflex Defense.
 ###### USE: Melee Weapon
 'xxx.'
 
-Until the beginning of your next turn, you gain +4 to your Reflex Defense.
+Until the beginning of your next turn, you gain +4 to your Fortitude Defense.
 
 ## Stay Calm 
 ###### REQ: 1EXP
@@ -37,6 +37,7 @@ Until the beginning of your next turn, you gain +4 to your Reflex Defense.
 ###### USE: Melee Weapon
 'xxx.'
 
+Until the beginning of your next turn, you gain +4 to your Will Defense.
 
 #### *3 EXP*
 ## Hardened Stance
