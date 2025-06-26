@@ -111,25 +111,25 @@ Make a Maneuver, then Hide.
 
 You may only use this Feature once per turn.
 
-## Tuck and Roll
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
-'xxx.'
-
 ## Kick-up
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## Slide Dash
+## Hit the Deck
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## Hit the Deck
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -152,19 +152,19 @@ Make a Maneuver.
 ###### USE: Melee Weapon
 'xxx.'
 
-## 
+## Slide Dash
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Tuck-n-Roll
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-## XXX
+## Slide Dash
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
