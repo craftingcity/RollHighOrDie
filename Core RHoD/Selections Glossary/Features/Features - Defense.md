@@ -145,9 +145,11 @@ You may only use this Feature once per turn.
 
 ## Kick-up
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
+###### USE: Armor - Light, Stance - Prone
 'xxx.'
+
+Change your Stance 
 
 ## Hit the Deck
 ###### REQ: 1EXP

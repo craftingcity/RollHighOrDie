@@ -279,7 +279,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"once per",
+                "query": "\"USE:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -402,7 +402,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6dd4dd2d6f5af8ee",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Ailment.md",
