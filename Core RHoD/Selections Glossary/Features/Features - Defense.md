@@ -104,7 +104,7 @@ Make an Endurance Skill Check. If the result is fewer than 20, you may not use t
 
 This feature inherits and replaces the 'Hardened Stance' Defense Feature.
 
-You gain 10 Damage Resistance instead of 3.
+You gain 10 Damage Resistance
 
 ## Stand Strong
 ###### REQ: 1EXP
