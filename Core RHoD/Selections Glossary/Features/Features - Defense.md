@@ -13,7 +13,7 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 ###### USE: Shield
 'xxx.'
 
-Until the beginning of your next turn, you gain +2 to your Reflex 
+Until the beginning of your next turn, you gain +2 to your Reflex and Will Defenses.
 
 ## Stay Loose
 ###### REQ: 1EXP
