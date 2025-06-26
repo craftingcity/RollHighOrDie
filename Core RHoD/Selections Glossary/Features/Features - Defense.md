@@ -129,7 +129,7 @@ You may only use this Feature once per turn.
 ###### USE: Melee Weapon
 'xxx.'
 
-## 
+## Hit the Deck
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
