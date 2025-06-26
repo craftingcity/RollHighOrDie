@@ -239,11 +239,17 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 'xxx.'
 
 #### *3 EXP*
-## XXX
-###### REQ: 1EXP
-###### W AP
+## Enforce
+###### REQ: 3EXP
+###### W+1 AP
 ###### USE: Melee Weapon
-'xxx.'
+'You push forward so your allies can pull back for positional advantage or recovery.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit your target, you deal your Weapon Damage as normal.
+
+Then, an Ally within 10' of your target makes a Maneuver.
 
 ## XXX
 ###### REQ: 1EXP

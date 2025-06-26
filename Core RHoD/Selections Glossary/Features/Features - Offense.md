@@ -51,17 +51,7 @@ If you hit, you deal your Weapon Damage as normal, and you gain +2 to your Refle
 'xxx.'
 
 #### *3 EXP*
-## Enforce
-###### REQ: 3EXP
-###### W+1 AP
-###### USE: Melee Weapon
-'You push forward so your allies can pull back for positional advantage or recovery.'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
-
-If you hit your target, you deal your Weapon Damage as normal.
-
-Then, an Ally within 10' of your target makes a Maneuver.
 
 ## Iron Tide
 ###### REQ: 3EXP 
