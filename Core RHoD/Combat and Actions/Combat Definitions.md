@@ -50,7 +50,7 @@ While you are in the 'Crouched' Stance, you cannot run, you gain a +3 bonus to R
 ###### Prone
 'Prone' is a fully lowered position, where your character has their chest or back upon the ground. This stance is rarely favorable for any combatant, and should be reserved for taking "deep" cover.
 
-While you are in the 'Prone' Stance, you cannot run, you treat Low Cover as High Cover, and No Cover as Low Cover. Attacks against you that originate within 10' have Advantage.
+While you are in the 'Prone' Stance, you cannot run, you treat Low Cover as High Cover, and No Cover as Low Cover. Attacks against you that originate within 10' have Advantage. 
 
 ## Cover
 Cover is any protective barrier between you and your opposition. Taking effective Cover during combat is a life-saving strategy.

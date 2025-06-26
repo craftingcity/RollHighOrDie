@@ -50,6 +50,11 @@ If you hit, you deal your Weapon Damage as normal, and you gain +1 to your Refle
 ###### USE: Melee Weapon
 'xxx.'
 
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit, you deal your Weapon Damage as normal, 
+
 #### *3 EXP*
 
 
