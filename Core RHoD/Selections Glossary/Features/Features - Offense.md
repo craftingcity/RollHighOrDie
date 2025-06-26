@@ -42,7 +42,7 @@ If you are wielding a Weapon that additionally has the Two-Handed or Heavy Tags,
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
 
-If you hit, you deal your Weapon Damage as normal, and you gain +2 to your Reflex, Fortitude, and Will Defenses until the beginning of your next turn.
+If you hit, you deal your Weapon Damage as normal, and you gain +1 to your Reflex, Fortitude, and Will Defenses until the beginning of your next turn.
 
 ## Disarming Strike
 ###### REQ: 1EXP

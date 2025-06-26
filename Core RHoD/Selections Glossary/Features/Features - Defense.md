@@ -21,11 +21,15 @@ Until the beginning of your next turn, you gain +2 to your Reflex and Will Defen
 ###### USE: Armor - Light
 'xxx.'
 
+Until the beginning of your next turn, you gain +4 to your Reflex Defense.
+
 ## Brace
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
+
+Until the beginning of your next turn, you gain +4 to your Reflex Defense.
 
 ## Stay Calm 
 ###### REQ: 1EXP
