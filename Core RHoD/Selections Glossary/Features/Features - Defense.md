@@ -154,7 +154,7 @@ Make a Maneuver.
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may crawl up to 10' instead of 5'.
 
-## XXX
+## S
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
