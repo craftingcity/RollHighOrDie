@@ -172,12 +172,6 @@ Make a Maneuver.
 ###### USE: Melee Weapon
 'xxx.'
 
-## Slide Dash
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
-'xxx.'
-
 #### *5 EXP*
 ## Painrush
 ###### REQ: 5EXP
