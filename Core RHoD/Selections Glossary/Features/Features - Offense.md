@@ -56,8 +56,6 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 If you hit, the target of your Attack drops an item it is holding in it's hand.
 
 #### *3 EXP*
-
-
 ## Iron Tide
 ###### REQ: 3EXP 
 ###### W AP

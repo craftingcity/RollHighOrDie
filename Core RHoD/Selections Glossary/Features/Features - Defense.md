@@ -93,8 +93,10 @@ Make an Endurance Skill Check. If the result is fewer than 20, you may not use t
 ## Tank Those
 ###### REQ: 1EXP
 ###### W AP
-###### USE: Melee Weapon
+###### USE: Armor - Heavy
 'xxx.'
+
+Until the beginning of your next turn, you gain 10 S
 
 ## Stand Strong
 ###### REQ: 1EXP
