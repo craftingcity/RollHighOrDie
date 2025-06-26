@@ -279,7 +279,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"USE:",
+                "query": "maneuver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -402,8 +402,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a33e4725bd7212f",
+  "active": "6dd4dd2d6f5af8ee",
   "lastOpenFiles": [
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Ailment.md",
@@ -419,7 +420,6 @@
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Sheet.md",
     "Core RHoD/Environment Definitions.md",

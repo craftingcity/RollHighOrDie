@@ -28,7 +28,7 @@ You must have at least one free hand to use this Action.
 Target an adjacent creature and establish Line of Sight. Make an Athletics Skill Check, and your target will do the same. Compare your Athletics Roll to your target's Athletics Roll. If your Total is greater or equal to your target's Roll, you may push your target 5' into an unoccupied space within 10' of you or you may push your target into Prone Stance.
 
 ## Maneuver
-###### 1 AP
+###### 2 AP
 'You move, positioning yourself in the most favorable position you can yet reach.'
 
 Choose one:
