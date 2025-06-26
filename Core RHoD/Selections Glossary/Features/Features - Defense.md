@@ -43,6 +43,8 @@ You may only use this Feature once per turn.
 
 Until the beginning of your next turn, you gain +4 to your Will Defense.
 
+You may only use this Feature once per turn.
+
 #### *3 EXP*
 ## Hardened Stance
 ###### REQ: 3EXP
@@ -52,7 +54,7 @@ Until the beginning of your next turn, you gain +4 to your Will Defense.
 
 Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Slashing Damage Resistance.
 
-
+You may only use this Feature once per turn.
 
 ## Parry
 ###### REQ: 1EXP
@@ -104,6 +106,8 @@ Make an Endurance Skill Check. If the result is fewer than 20, you may not use t
 
 Until the beginning of your next turn, you gain 10 Bludgeoning, Piercing, and Slashing Damage Resistance.
 
+You may only use this Feature once per turn.
+
 ## Stand Strong
 ###### REQ: 1EXP
 ###### W AP
@@ -116,11 +120,15 @@ Until the beginning of your next turn, you gain 10 Bludgeoning, Piercing, and Sl
 ###### USE: Melee Weapon
 'xxx.'
 
+This feature inherits and replaces the 'Parry' Defense Feature.
+
 ## Mental Rally
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
+
+This feature inherits and replaces the 'Stay Calm' Defense Feature.
 
 ### Mobility
 #### *1 EXP*

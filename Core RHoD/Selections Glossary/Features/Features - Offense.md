@@ -127,7 +127,7 @@ You may only use this Feature once per turn.
 ###### REQ: 5EXP, Engage
 'It won't be easy to run while you're still kicking.'
 
-This feature inherits and replaces the 'Engage' Martial Feature.
+This feature inherits and replaces the 'Engage' Offense Feature.
 
 When you make an Attack against a target you have 'Engaged', if you deal damage, you impose the 'Grappled' [[Ailment]] until they are no longer 'Engaged'.
 
