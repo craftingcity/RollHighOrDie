@@ -218,7 +218,8 @@
               "title": "Equipment"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -362,10 +363,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "1c46139a3afb5d9d",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
