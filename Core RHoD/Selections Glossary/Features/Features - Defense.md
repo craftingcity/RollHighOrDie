@@ -65,6 +65,8 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 ###### USE: Melee Weapon
 'xxx.'
 
+Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker into Prone Stance.
+
 #### *5 EXP*
 ## Bloody Regeneration
 ###### REQ: 5EXP
