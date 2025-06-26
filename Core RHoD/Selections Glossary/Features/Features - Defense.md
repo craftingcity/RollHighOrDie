@@ -60,6 +60,7 @@ Until the beginning of your next turn, Ranged Attacks against you have Disadvant
 ## Hold Ground
 ###### REQ: 3EXP
 ###### 2 AP
+###### USE: Armor - Heavy
 'xxx.'
 
 Until the beginning of your next turn, you cannot be pushed out of the space you are currently occupying.
