@@ -195,7 +195,7 @@ You run 15'.
 ## Slide Dash
 ###### REQ: 1EXP
 ###### 1 AP
-###### USE: You have made a Maneuver this turn
+###### USE: Armor - Light
 'xxx.'
 
 You may use this feature instead of making a Maneuver.
@@ -205,7 +205,7 @@ You run 5', then change your Stance to Prone.
 ## Tuck-n-Roll
 ###### REQ: 1EXP
 ###### 1 AP
-###### USE: Melee Weapon
+###### USE: Armor - Light
 'xxx.'
 
 You may use this feature instead of making a Maneuver.
