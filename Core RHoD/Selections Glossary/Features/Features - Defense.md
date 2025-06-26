@@ -122,7 +122,7 @@ Until the beginning of your next turn, you cannot be made to change your Stance.
 
 This feature inherits and replaces the 'Parry' Defense Feature.
 
-Until the beginning of your next turn, 
+Until the beginning of your next turn, Attacks made against you cost an additional Action Point.
 
 ## Mental Rally
 ###### REQ: 1EXP
@@ -131,6 +131,8 @@ Until the beginning of your next turn,
 'xxx.'
 
 This feature inherits and replaces the 'Stay Calm' Defense Feature.
+
+When you use this feature, 
 
 ### Mobility
 #### *1 EXP*
