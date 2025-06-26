@@ -146,15 +146,9 @@ You are no longer under the 'Engaged' [[Ailment]].
 
 Make a Maneuver.
 
-## Fleet Foot
-###### REQ: 3EXP
-###### 2 AP
-###### USE: Armor - Light or No Armor
-'You have a need for speed.'
 
-Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may crawl up to 10' instead of 5'.
 
-## S
+## Sprint
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -179,6 +173,14 @@ Until the beginning of your next turn, when you make a Maneuver, you may run up 
 'When something hurts, you move. Getting out, getting in, the pain moves your body anyways.'
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
+
+## Fleet Foot
+###### REQ: 3EXP
+###### 2 AP
+###### USE: Armor - Light or No Armor
+'You have a need for speed.'
+
+Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may crawl up to 10' instead of 5'.
 
 ## XXX
 ###### REQ: 1EXP
