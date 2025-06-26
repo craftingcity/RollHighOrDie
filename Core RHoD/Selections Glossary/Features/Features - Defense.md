@@ -13,10 +13,12 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 ###### USE: Shield
 'xxx.'
 
+Until the beginning of your next turn, 
+
 ## Stay Loose
 ###### REQ: 1EXP
 ###### W AP
-###### USE: Melee Weapon
+###### USE: Armor - Light
 'xxx.'
 
 ## Brace
@@ -63,7 +65,7 @@ Until the beginning of your next turn, Ranged Attacks against you have Disadvant
 ###### USE: Armor - Heavy
 'xxx.'
 
-Until the beginning of your next turn, you cannot be pushed out of the space you are currently occupying.
+You Until the beginning of your next turn, you cannot be pushed out of the space you are currently occupying.
 
 ## Grab Down
 ###### REQ: 3EXP

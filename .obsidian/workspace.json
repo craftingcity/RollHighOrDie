@@ -250,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"disadvantage",
+                "query": "stance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
