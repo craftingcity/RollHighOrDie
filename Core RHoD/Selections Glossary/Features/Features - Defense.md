@@ -198,13 +198,19 @@ You run 15'.
 ###### USE: You have made a Maneuver this turn
 'xxx.'
 
+You may use this feature instead of making a Maneuver.
 
+You run 5', then change your Stance to Prone.
 
 ## Tuck-n-Roll
 ###### REQ: 1EXP
-###### W AP
+###### 1 AP
 ###### USE: Melee Weapon
 'xxx.'
+
+You may use this feature instead of making a Maneuver.
+
+You run 5', then change your Stance to Crouched.
 
 #### *5 EXP*
 ## Painrush
