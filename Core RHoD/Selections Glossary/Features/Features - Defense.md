@@ -149,13 +149,15 @@ You may only use this Feature once per turn.
 ###### USE: Armor - Light, Stance - Prone
 'xxx.'
 
-Change your Stance 
+Change your Stance to your choice of Crouched or Low Ready.
 
 ## Hit the Deck
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
+###### USE: Stance - High Ready or Low Ready
 'xxx.'
+
+Change your Stance to Prone.
 
 ## XXX
 ###### REQ: 1EXP
@@ -181,10 +183,12 @@ You are no longer under the 'Engaged' [[Ailment]].
 Make a Maneuver.
 
 ## Sprint
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### REQ: 3EXP
+###### 2 AP
+###### USE: Armor - Light
 'xxx.'
+
+
 
 ## Slide Dash
 ###### REQ: 1EXP
