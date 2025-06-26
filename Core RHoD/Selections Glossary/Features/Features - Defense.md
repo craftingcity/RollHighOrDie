@@ -55,11 +55,11 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 
 ## Hold Ground
 ###### REQ: 1EXP
-###### W AP
+###### 2AP
 ###### USE: Melee Weapon
 'xxx.'
 
-Until the beginning of your next turn, 
+Until the beginning of your next turn, you cannot be pushed.
 
 ## Grab Down
 ###### REQ: 1EXP
