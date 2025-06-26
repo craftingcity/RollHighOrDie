@@ -99,9 +99,7 @@ You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your
 Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
 
 ## Tank Those
-###### REQ: 5EXP
-###### 3 AP
-###### USE: Armor - Heavy
+###### REQ: 5EXP, 
 'xxx.'
 
 Until the beginning of your next turn, you gain 10 Bludgeoning, Piercing, and Slashing Damage Resistance.
@@ -115,12 +113,12 @@ You may only use this Feature once per turn.
 'xxx.'
 
 ## Perfect Parry
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### REQ: 5EXP, Parry
 'xxx.'
 
 This feature inherits and replaces the 'Parry' Defense Feature.
+
+
 
 ## Mental Rally
 ###### REQ: 1EXP
