@@ -146,7 +146,11 @@ You are no longer under the 'Engaged' [[Ailment]].
 
 Make a Maneuver.
 
-
+## Sprint
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
 
 ## Sprint
 ###### REQ: 1EXP
@@ -181,12 +185,6 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 'You have a need for speed.'
 
 Until the beginning of your next turn, when you make a Maneuver, you may run up to 15' instead of 10' and you may crawl up to 10' instead of 5'.
-
-## XXX
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
-'xxx.'
 
 ## XXX
 ###### REQ: 1EXP
