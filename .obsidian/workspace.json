@@ -250,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prone",
+                "query": "\"disadvantage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

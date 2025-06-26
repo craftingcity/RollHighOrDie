@@ -47,7 +47,7 @@ Until the beginning of your next turn, you gain 3 Bludgeoning, Piercing, and Sla
 ###### USE: Melee Weapon
 'xxx.'
 
-Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, 
+Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, that Attack 
 
 ## Solidify Cover
 ###### REQ: 1EXP
