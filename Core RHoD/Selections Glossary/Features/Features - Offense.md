@@ -53,7 +53,7 @@ If you hit, you deal your Weapon Damage as normal, and you gain +1 to your Refle
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
 
-If you hit, you deal your Weapon Damage as normal, 
+If you hit, the target of your Attack drops an item it is holding in it's hand.
 
 #### *3 EXP*
 
