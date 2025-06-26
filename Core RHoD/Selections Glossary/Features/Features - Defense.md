@@ -109,12 +109,12 @@ This feature inherits and replaces the 'Hardened Stance' Defense Feature.
 When you use this feature, you gain 10 Damage Resistance instead of 3.
 
 ## Stand Strong
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### REQ: 5EXP, Hold Ground
 'xxx.'
 
+This feature inherits and replaces the 'Hold Ground' Defense Feature.
 
+Until the beginning of your next turn, you cannot be made to change your Stance.
 
 ## Perfect Parry
 ###### REQ: 5EXP, Parry
@@ -122,7 +122,7 @@ When you use this feature, you gain 10 Damage Resistance instead of 3.
 
 This feature inherits and replaces the 'Parry' Defense Feature.
 
-
+Until the beginning of your next turn, 
 
 ## Mental Rally
 ###### REQ: 1EXP
