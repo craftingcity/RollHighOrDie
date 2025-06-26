@@ -130,7 +130,7 @@ Until the beginning of your next turn, Attacks made against you cost an addition
 
 This feature inherits and replaces the 'Stay Calm' Defense Feature.
 
-When you use this feature, you may
+When you use this feature, make a Wisdom Check
 
 ### Mobility
 #### *1 EXP*
