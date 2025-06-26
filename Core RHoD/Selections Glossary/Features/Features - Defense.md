@@ -1,4 +1,4 @@
-### Recovery
+### Preparation
 #### *1 EXP*
 ## Second Wind
 ###### REQ: 1EXP
@@ -15,7 +15,7 @@ Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus yo
 
 Until the beginning of your next turn, you gain +2 to your Reflex and Will Defenses.
 
-You may only use this
+You may only use this Feature once per turn.
 
 ## Stay Loose
 ###### REQ: 1EXP
@@ -72,7 +72,7 @@ Until the beginning of your next turn, Melee Attacks against you have Disadvanta
 ###### USE: Adjacent to Half or Full Cover
 'xxx.'
 
-Until the beginning of your next turn, Ranged Attacks against you have Disadvantage.
+Until the beginning of your next turn, while you remain in the space you currently occupy, Ranged Attacks against you have Disadvantage.
 
 ## Hold Ground
 ###### REQ: 3EXP
