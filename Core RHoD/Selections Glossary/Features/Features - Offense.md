@@ -108,21 +108,25 @@ Target a creature within your Weapon Range and establish Line of Sight. Make an 
 
 If you hit your target, you deal thrice your Weapon Damage.
 
-You may only use this Feature once per turn.
-
 ## Spinning Sweep
 ###### REQ: 5EXP
 ###### 2W AP
 ###### USE: Melee Weapon
 'xxx.'
 
-Target up to three creatures with your Weapon Range and establish Line of Sight. Make an Attack Roll against each target's Reflex
+Target up to three creatures with your Weapon Range and establish Line of Sight. Make an Attack Roll against each target's Reflex. 
+
+For each target you hit, you deal your Weapon Damage as normal to them.
 
 ## Flurry of Blows
 ###### REQ: 5EXP
 ###### 2W AP
 ###### USE: Melee Weapon - Light
 'xxx.'
+
+Target a creature with your Weapon Range and establish Line of Sight. Make three Attack Rolls against that target's Reflex.
+
+If you hit your target, you deal your Weapon Damage as normal.
 
 ## Halting Engagement
 ###### REQ: 5EXP, Engage
@@ -145,9 +149,11 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 #### *1 EXP*
 ## Take Aim
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
+###### USE: Ranged Weapon
 'xxx.'
+
+Until the end of your turn, you gain +2 to Atta
 
 ## Quickshot
 ###### REQ: 1EXP
