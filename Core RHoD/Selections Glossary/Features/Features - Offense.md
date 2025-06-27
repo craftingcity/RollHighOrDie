@@ -168,10 +168,14 @@ If you hit your target, you deal your Weapon Damage as normal.
 ## Smooth Reset
 ###### REQ: 1EXP
 ###### 1 AP
-###### USE: Ranged Weapon - Capacity, 0 Loaded Amm
-'xxx.'
+###### USE: Ranged Weapon - Capacity, 1 Loaded Ammunition
+'Slow is smooth, smooth is fast.'
 
-You 
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit your target, you deal your Weapon Damage as normal.
+
+Then, Reload.
 
 ## Running Shot
 ###### REQ: 1EXP
@@ -189,9 +193,11 @@ You may only use this feature once per turn.
 
 ## Suppress
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### W+1 AP
+###### USE: Ranged Weapon
 'xxx.'
+
+Target a creature that was or currently is within your Weapon Range and establish Line of Sight. 
 
 #### *3 EXP*
 ## Fire-At-Will
