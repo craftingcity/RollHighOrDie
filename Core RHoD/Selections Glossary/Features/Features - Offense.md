@@ -171,6 +171,8 @@ If you hit your target, you deal your Weapon Damage as normal.
 ###### USE: Ranged Weapon
 'xxx.'
 
+
+
 ## Running Shot
 ###### REQ: 1EXP
 ###### W+1 AP
@@ -179,7 +181,11 @@ If you hit your target, you deal your Weapon Damage as normal.
 
 Make a Maneuver.
 
-Then, 
+Then, Target a creature that was or currently is within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit your target, you deal your Weapon Damage as normal.
+
+You may only use this feature once per turn.
 
 ## Suppress
 ###### REQ: 1EXP

@@ -85,7 +85,7 @@ You may increase that Weapon's Loaded Ammunition for as much Ammunition as you a
 ###### 2 AP
 'You manipulate your Weapon to resolve a malfunction.'
 
-You attempt to unjam a Jammed Weapon in your hand. Make a Manipulation Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you unjam your weapon.
+You attempt to unjam a Jammed Weapon in your hand. Make a Manipulation Skill Check. If the result is equal to or greater than your Weapon's Unjam DC, you your Weapon is no longer Jammed.
 
 ## Hide
 ###### 2 AP
