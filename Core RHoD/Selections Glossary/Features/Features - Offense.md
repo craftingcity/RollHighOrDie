@@ -126,7 +126,7 @@ For each target you hit, you deal your Weapon Damage as normal to them.
 
 Target a creature with your Weapon Range and establish Line of Sight. Make three Attack Rolls against that target's Reflex.
 
-If you hit your target, you deal your Weapon Damage as normal.
+For each time you hit your target, you deal your Weapon Damage as normal.
 
 ## Halting Engagement
 ###### REQ: 5EXP, Engage
@@ -161,19 +161,25 @@ Until the end of your turn, you gain +2 to Attack Rolls made with a Ranged Weapo
 ###### USE: Ranged Weapon
 'xxx.'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll with Disadvantage
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You have -3 on this Attack.
+
+If you hit your target, you deal your Weapon Damage as normal.
 
 ## Smooth Reset
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
+###### USE: Ranged Weapon
 'xxx.'
 
 ## Running Shot
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### W+1 AP
+###### USE: Ranged Weapon
 'xxx.'
+
+Make a Maneuver.
+
+Then, 
 
 ## Suppress
 ###### REQ: 1EXP
