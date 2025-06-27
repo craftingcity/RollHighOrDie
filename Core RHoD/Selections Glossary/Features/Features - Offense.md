@@ -247,9 +247,14 @@ If you hit your target, you deal your Weapon Damage as normal.
 #### *5 EXP*
 ## Aiming for the Head
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 2W AP
+###### USE: Ranged Weapon
 'xxx.'
+
+Then, Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You gain +3 to hit with this Attack.
+
+If you hit your target, you deal your twice Weapon Damage.
+
 
 ## Splitshot
 ###### REQ: 5EXP
@@ -304,6 +309,10 @@ You may only use this Feature to deal additional damage once per turn.
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+I
 
 ## Make Space
 ###### REQ: 1EXP
