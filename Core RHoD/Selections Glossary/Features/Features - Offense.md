@@ -330,13 +330,15 @@ If you hit your target, you deal your Weapon Damage as normal. Then, you push yo
 ###### USE: Melee Weapon or Ranged Weapon
 'xxx.'
 
-Target a creature you can see. Until the beginning of your next turn, when you make an Attack Roll against that creature, you gain 
+Target a creature you can see. Until the beginning of your next turn, when you make an Attack Roll against that creature, you gain +1 to hit, and when you deal damage to that creature, you deal 1 additional psychic damage.
 
 ## Quickdraw
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### W+1 AP
+###### USE: Free Hand
 'xxx.'
+
+
 
 #### *3 EXP*
 ## Careful Strike
@@ -345,7 +347,7 @@ Target a creature you can see. Until the beginning of your next turn, when you m
 ###### USE: Melee or Ranged Weapon
 'With baited breath, you find the weakest point in your opponent's armor, and release.'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You gain +4 to that Attack Roll.
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You gain +4 to hit.
 
 If you hit your target, you deal your Weapon Damage as normal.
 
