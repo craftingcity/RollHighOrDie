@@ -25,7 +25,7 @@ While you are 'Frightened', you cannot voluntarily move closer to the creature o
 #### Grappled
 While you are 'Grappled', you cannot make Maneuvers.
 
-On your turn, you may spend 2 AP to attempt to Manually Resolve this Ailment. Make an Athletics Skill Check, and your imposer will do the same. Compare your Athletics Roll to your imposer's Athletics Roll. If your Total is greater than your imposer's, you succeed.
+On your turn, you may spend 2 AP to attempt to Manually Resolve this Ailment. Make an Athletics Skill Check, and your imposer will do the same. Compare your Athletics Roll to your imposer's Athletics Roll. If your Total is greater than your imposer's, you Manually Resolve this Condition.
 
 #### Surprised
 While you are 'Surprised', you have -10 to Initiative Rolls.

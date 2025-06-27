@@ -199,6 +199,8 @@ You may only use this feature once per turn.
 
 Target a creature that was or currently is within your Weapon Range and establish Line of Sight. 
 
+If you hit your target, you deal your Weapon Damage as normal, and you impose 2 stacks of the 'Dazed' [[Condition]].
+
 #### *3 EXP*
 ## Fire-At-Will
 ###### REQ: 1EXP
