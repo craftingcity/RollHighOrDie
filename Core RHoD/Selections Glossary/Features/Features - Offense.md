@@ -228,7 +228,9 @@ If you hit your target, you deal you Weapon Damage as normal, and you impose the
 ###### USE: Melee Weapon
 'xxx.'
 
-Choose an Ally. Target a creature within your Weapon Range and establish line
+Choose an ally you can see. Target a creature within your Weapon Range and establish Line of Sight from that ally's space instead of your own. 
+
+If you hit your target, you deal your Weapon Damage as normal.
 
 ## XXX
 ###### REQ: 1EXP
