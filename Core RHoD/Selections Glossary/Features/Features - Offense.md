@@ -225,7 +225,7 @@ If you hit your target, you deal you Weapon Damage as normal, and you impose the
 ## Squadsight
 ###### REQ: 1EXP
 ###### W AP
-###### USE: Melee Weapon
+###### USE: Ranged Weapon
 'xxx.'
 
 Choose an ally you can see. Target a creature within your Weapon Range and establish Line of Sight from that ally's space instead of your own. 
@@ -295,7 +295,7 @@ If you hit that creature, deal your Weapon Damage as normal. You impose -3 to th
 ## Sneak Attack
 ###### REQ: 1EXP 
 ###### W AP
-###### USE: Melee Weapon - Light, Quick, or Ranged Weapon
+###### USE: Melee Weapon - Light or Quick, or Ranged Weapon
 'When the opportunity presents itself, it would be frankly rude to refuse a good poke!'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. If your Target is under the 'Engaged' [[Ailment]], and you did not impose that [[Ailment]], you have Advantage on this Attack.
@@ -307,12 +307,12 @@ You may only use this Feature to deal additional damage once per turn.
 ## Castling Attack
 ###### REQ: 1EXP
 ###### W AP
-###### USE: Melee Weapon
+###### USE: Melee Weapon or Ranged Weapon
 'xxx.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
 
-I
+If you hit your target, you deal your Weapon Damage as normal. Then, you swap places with a willing adjacent creature.
 
 ## Make Space
 ###### REQ: 1EXP
