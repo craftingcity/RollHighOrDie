@@ -168,10 +168,10 @@ If you hit your target, you deal your Weapon Damage as normal.
 ## Smooth Reset
 ###### REQ: 1EXP
 ###### 1 AP
-###### USE: Ranged Weapon
+###### USE: Ranged Weapon - Capacity, 0 Loaded Amm
 'xxx.'
 
-
+You 
 
 ## Running Shot
 ###### REQ: 1EXP
