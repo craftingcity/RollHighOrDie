@@ -185,7 +185,7 @@ Then, Reload.
 
 Make a Maneuver.
 
-Then, Target a creature that was or currently is within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+Then, Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
 
 If you hit your target, you deal your Weapon Damage as normal.
 
@@ -197,22 +197,30 @@ You may only use this feature once per turn.
 ###### USE: Ranged Weapon
 'xxx.'
 
-Target a creature that was or currently is within your Weapon Range and establish Line of Sight. 
+Target a creature within your Weapon Range and establish Line of Sight. 
 
 If you hit your target, you deal your Weapon Damage as normal, and you impose 2 stacks of the 'Dazed' [[Condition]].
 
 #### *3 EXP*
 ## Fire-At-Will
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 2W AP
+###### USE: Ranged Weapon
 'xxx.'
+
+Target up to three creatures with your Weapon Range and establish Line of Sight. Make an Attack Roll against each target's Reflex. 
+
+For each target you hit, you deal your Weapon Damage as normal to them.
 
 ## Gutshot
 ###### REQ: 1EXP
 ###### W AP
-###### USE: Melee Weapon
+###### USE: Ranged Weapon
 'xxx.'
+
+Target a creature within your Weapon Range and establish Line of Sight. 
+
+If you hit your target, you deal you Weapon Damage as normal, and you impose 
 
 ## Squadsight
 ###### REQ: 1EXP
