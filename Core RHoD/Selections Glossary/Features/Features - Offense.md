@@ -153,13 +153,15 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 ###### USE: Ranged Weapon
 'xxx.'
 
-Until the end of your turn, you gain +2 to Atta
+Until the end of your turn, you gain +2 to Attack Rolls made with a Ranged Weapon.
 
 ## Quickshot
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### W-1 AP
+###### USE: Ranged Weapon
 'xxx.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll with Disadvantage
 
 ## Smooth Reset
 ###### REQ: 1EXP
