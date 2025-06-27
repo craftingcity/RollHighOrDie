@@ -50,10 +50,9 @@ If you hit, you deal your Weapon Damage as normal, and you gain +1 to your Refle
 ###### USE: Melee Weapon
 'xxx.'
 
-
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
 
-If you hit, the target of your Attack drops an item it is holding in it's hand.
+If you hit, the target of your Attack drops an item its holding in its hand.
 
 #### *3 EXP*
 ## Iron Tide
@@ -113,9 +112,11 @@ You may only use this Feature once per turn.
 
 ## Spinning Sweep
 ###### REQ: 5EXP
-###### W AP
+###### 2W AP
 ###### USE: Melee Weapon
 'xxx.'
+
+Target up to three creatures with your Weapon Range and establish Line of Sight. Make an Attack Roll against each target's Reflex
 
 ## Flurry of Blows
 ###### REQ: 5EXP
