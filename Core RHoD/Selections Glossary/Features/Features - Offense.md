@@ -316,15 +316,21 @@ If you hit your target, you deal your Weapon Damage as normal. Then, you swap pl
 
 ## Make Space
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### W+1 AP
+###### USE: Melee Weapon or Ranged Weapon
 'xxx.'
+
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
+
+If you hit your target, you deal your Weapon Damage as normal. Then, you push your target 5'.
 
 ## Declare Target
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
+###### USE: Melee Weapon or Ranged Weapon
 'xxx.'
+
+Target a creature you can see. Until the beginning of your next turn, when you make an Attack Roll against that creature, you gain 
 
 ## Quickdraw
 ###### REQ: 1EXP
