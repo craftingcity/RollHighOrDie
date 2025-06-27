@@ -203,7 +203,7 @@ If you hit your target, you deal your Weapon Damage as normal, and you impose 2 
 
 #### *3 EXP*
 ## Fire-At-Will
-###### REQ: 1EXP
+###### REQ: 3EXP
 ###### 2W AP
 ###### USE: Ranged Weapon
 'xxx.'
@@ -213,20 +213,22 @@ Target up to three creatures with your Weapon Range and establish Line of Sight.
 For each target you hit, you deal your Weapon Damage as normal to them.
 
 ## Gutshot
-###### REQ: 1EXP
-###### W AP
+###### REQ: 3EXP
+###### W+1 AP
 ###### USE: Ranged Weapon
 'xxx.'
 
 Target a creature within your Weapon Range and establish Line of Sight. 
 
-If you hit your target, you deal you Weapon Damage as normal, and you impose 
+If you hit your target, you deal you Weapon Damage as normal, and you impose the 'Hobbled' [[Condition]].
 
 ## Squadsight
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
+
+Target a creature within your Weapon Range and establish Line of Sight. When you establish Line of Sight this way, you choose an ally
 
 ## XXX
 ###### REQ: 1EXP
