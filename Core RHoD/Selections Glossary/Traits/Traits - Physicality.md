@@ -129,9 +129,11 @@
 
 ### Vigor
 #### *2EXP*
-## XXX
+## Tough
 ###### REQ: 2EXP
 'xxx.'
+
+- Your Hit Dice are d8.
 
 ## XXX
 ###### REQ: 2EXP
@@ -150,8 +152,8 @@
 'xxx.'
 
 #### *4EXP*
-## XXX
-###### REQ: 2EXP
+## Durable
+###### REQ: 4EXP, Tough
 'xxx.'
 
 ## XXX
@@ -171,8 +173,8 @@
 'xxx.'
 
 #### *6EXP*
-## XXX
-###### REQ: 2EXP
+## Hardened
+###### REQ: 6EXP, Durable
 'xxx.'
 
 ## XXX
