@@ -266,9 +266,10 @@ Until the beginning of your next turn, when you make a Maneuver, you may run or 
 
 Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
 
-## XXX
+## Shield Wall
 ###### REQ: 1EXP
 ###### 1 AP
+###### Use: Shield
 'xxx.'
 
 ## XXX
