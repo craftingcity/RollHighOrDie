@@ -1,5 +1,11 @@
 ### Combat
 #### *2EXP*
+## Parkour
+###### REQ: 2EXP
+'xxx.'
+
+- When you take Force Damage as a result of falling, reduce the Damage you take by a number equal to your Dexterity Modifier.
+
 #### *4EXP*
 #### *6EXP*
 
