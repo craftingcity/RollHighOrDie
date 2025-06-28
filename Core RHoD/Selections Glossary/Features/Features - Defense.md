@@ -212,7 +212,7 @@ You may use this feature instead of making a Maneuver.
 
 You run 5', then change your Stance to Crouched.
 
-## XXX
+## Stay In Formation
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -262,14 +262,12 @@ Until the beginning of your next turn, when you make a Maneuver, you may run or 
 
 Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
 
-## Goad
+## xxx
 ###### REQ: 1EXP
 ###### 1 AP
 'xxx.'
 
-Target a creature you can see that is adjacent to an ally, and is not Engaged. Make an Intimidation Check against that creature's Will.
 
-If you succeed, you impose the Engaged [[Ailment]] until the beginning of your next turn.
 
 ## XXX
 ###### REQ: 1EXP

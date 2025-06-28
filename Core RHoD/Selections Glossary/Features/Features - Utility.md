@@ -9,7 +9,7 @@ Make an Intimidation Skill Check against the Will Defense of any creatures withi
 
 Allies within 30 feet of you may expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality.
 
-## Stay In Formation
+## XXX
 ###### REQ: 1EXP
 ###### W AP
 ###### USE: Melee Weapon
@@ -74,6 +74,10 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 ###### W AP
 ###### USE: Melee Weapon
 'xxx.'
+
+Target a creature you can see that is not Engaged. Make an Intimidation Check against that creature's Will.
+
+If you succeed, you impose the Engaged [[Ailment]] on that creature until the beginning of your next turn.
 
 ## XXX
 ###### REQ: 1EXP
