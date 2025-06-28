@@ -1,6 +1,6 @@
 ### Power
 #### *2EXP*
-## XXX
+## 
 ###### REQ: 2EXP
 'xxx.'
 
