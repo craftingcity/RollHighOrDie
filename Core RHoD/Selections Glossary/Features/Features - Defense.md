@@ -214,9 +214,13 @@ You run 5', then change your Stance to Crouched.
 
 ## Stay In Formation
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
+###### USE: Not adjacent to an ally
 'xxx.'
+
+You run 10' towards your nearest ally.
+
+You may use this feature only once per turn.
 
 #### *5 EXP*
 ## Painrush

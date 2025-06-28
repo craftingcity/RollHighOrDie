@@ -178,20 +178,6 @@
         "dimension": 41.920731707317074,
         "children": [
           {
-            "id": "1c46139a3afb5d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Utility"
-            }
-          },
-          {
             "id": "e27622f3d849d849",
             "type": "leaf",
             "state": {
@@ -203,6 +189,20 @@
               },
               "icon": "lucide-file",
               "title": "Features - Offense"
+            }
+          },
+          {
+            "id": "1c46139a3afb5d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Utility"
             }
           },
           {
@@ -294,7 +294,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Line of sight",
+                "query": "\"ally",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -417,11 +417,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e27622f3d849d849",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Condition.md",
