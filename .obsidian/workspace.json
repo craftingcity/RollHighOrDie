@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d606f599599b599b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2a7a05011b7e86af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Features.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features"
-            }
-          },
-          {
-            "id": "319c164f593244ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Traits.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "6fff03f2b73e6b87",
         "type": "tabs",
         "children": [
