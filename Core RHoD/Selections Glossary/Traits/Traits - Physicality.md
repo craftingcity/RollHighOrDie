@@ -1,17 +1,196 @@
 ### Power
 #### *2EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *4EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *6EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
 
 ### Agility
 #### *2EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *4EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *6EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 
 ### Vigor
 #### *2EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *4EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *6EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 
 ==/==
 
