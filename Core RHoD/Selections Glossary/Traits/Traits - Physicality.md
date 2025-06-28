@@ -69,11 +69,9 @@
 
 ### Agility
 #### *2EXP*
-## Fast
+## XXX
 ###### REQ: 2EXP
 'xxx.'
-
-- While you are not wearing Heavy Armor, when you make a Maneuver, you may run or crawl an additional 5'.
 
 ## XXX
 ###### REQ: 2EXP
@@ -92,9 +90,12 @@
 'xxx.'
 
 #### *4EXP*
-## XXX
-###### REQ: 2EXP
+## Fast
+###### REQ: 4EXP
 'xxx.'
+
+- While you are not wearing Heavy Armor, when you make a Maneuver, you may run or crawl an additional 5'.
+- When you gain Action Points at the beginning of your turn, the number of Action Points you gain is increased by 1.
 
 ## XXX
 ###### REQ: 2EXP
