@@ -104,7 +104,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -415,10 +415,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6dd4dd2d6f5af8ee",
+  "active": "7cd5b8484ca39139",
   "lastOpenFiles": [
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Condition.md",

@@ -277,7 +277,7 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 ###### 2 AP
 'xxx.'
 
-Target a creature you can see. Make a Deduction Skill Check against that target's Will. 
+Target a creature you can see. Make a Deduction Skill Check against that target's Will. If you succeed, you impose 
 
 ## XXX
 ###### REQ: 1EXP
