@@ -139,7 +139,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you take your first Wound during an Encounter, you gain +2 to your Reflex and Fortitude Defenses and you deal an additional 3
+- When you take your first Wound during an Encounter, you gain +2 to your Reflex and Fortitude Defenses, and when you deal damage with a Melee Weapon, you deal an additional 2 bludgeoning damage.
 
 ## XXX
 ###### REQ: 2EXP
