@@ -53,28 +53,42 @@
                   "icon": "lucide-file",
                   "title": "Defenses"
                 }
-              },
-              {
-                "id": "e27622f3d849d849",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Features - Offense"
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "b9baa15034409a3a",
             "type": "tabs",
             "children": [
+              {
+                "id": "88fc151af5f7205f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Inventory Management"
+                }
+              },
+              {
+                "id": "fac596e2d86e630b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Equipment"
+                }
+              },
               {
                 "id": "46b1ba2d06957aec",
                 "type": "leaf",
@@ -87,6 +101,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Armors"
+                }
+              },
+              {
+                "id": "d19a5c6546961bcb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ranged Weapons"
                 }
               },
               {
@@ -116,23 +144,9 @@
                   "icon": "lucide-file",
                   "title": "Emboldenment"
                 }
-              },
-              {
-                "id": "d19a5c6546961bcb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ranged Weapons"
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -175,6 +189,20 @@
               },
               "icon": "lucide-file",
               "title": "Features - Utility"
+            }
+          },
+          {
+            "id": "e27622f3d849d849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Offense"
             }
           },
           {
@@ -232,50 +260,9 @@
               "icon": "lucide-file",
               "title": "Character Sheet"
             }
-          },
-          {
-            "id": "4c0dee64bcabf219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Generic Actions"
-            }
-          },
-          {
-            "id": "fac596e2d86e630b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Equipment"
-            }
-          },
-          {
-            "id": "88fc151af5f7205f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Inventory Management"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -430,10 +417,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c46139a3afb5d9d",
+  "active": "e27622f3d849d849",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",

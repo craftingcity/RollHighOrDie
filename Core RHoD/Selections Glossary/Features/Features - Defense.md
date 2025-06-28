@@ -267,8 +267,6 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 ###### 1 AP
 'xxx.'
 
-
-
 ## XXX
 ###### REQ: 1EXP
 ###### W AP

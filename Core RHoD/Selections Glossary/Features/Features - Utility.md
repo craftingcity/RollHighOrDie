@@ -69,10 +69,9 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 
 ### Singularity
 #### *1 EXP*
-## XXX
+## Goad
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
 'xxx.'
 
 Target a creature you can see that is not Engaged. Make an Intimidation Check against that creature's Will.
