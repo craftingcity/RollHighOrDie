@@ -176,14 +176,14 @@
 ###### REQ: 4EXP
 'xxx.'
 
-- When you gain this trait, increase your Constitution Score by 1.
+- When you gain this trait, if your Constitution Score is less than 20, increase your Constitution Score by 1.
 - When you would take your first Wound during an encounter, you may choose to expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality. If you do, you do not take the Wound that triggered this trait. You may only use this trait once between Long Rests.
 
 ## Immune Resilience
 ###### REQ: 4EXP
 'xxx.'
 
-- When you gain this trait, increase your Constitution Score by 1.
+- When you gain this trait, if your Constitution Score is less than 20, increase your Constitution Score by 1.
 - When you gain this trait, you gain 2 Necrotic Damage Resistance.
 
 ## XXX

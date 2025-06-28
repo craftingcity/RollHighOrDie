@@ -3,7 +3,7 @@ Traits are the inherent abilities, detriments, and lived experience of a charact
 
 For ease of presentation, Traits are categorized by their "source of power" and their requirements.
 
-- [[Traits - Physicality]] (9 / '45')
+- [[Traits - Physicality]] (13 / '45')
 - [[Traits - Mentality]] (0 / '45')
 - [[Traits - Training]] (0 / '45')
 
