@@ -6,18 +6,195 @@
 
 - When you take Force Damage as a result of falling, reduce the Damage you take by a number equal to your Dexterity Modifier.
 
+## Close Combatant
+###### REQ: 2EXP
+'xxx.'
+
+- When you make an Attack Roll against a creature that you are adjacent to, 
+
+## Distant Combatant
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *4EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *6EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
 
 ### Culture
 #### *2EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *4EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *6EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
 
 ### Competency
 #### *2EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *4EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
 #### *6EXP*
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
+
+==/==
 
 # EXP - 3
 ## Accurate
