@@ -41,7 +41,7 @@ On your turn, while you are in the Prone Stance, you may spend 3 AP to Manually 
 While you are 'Blinded', you cannot establish Line of Sight, and you cannot take the Detect Action.
 
 #### Dazed
-While you are 'Dazed', when you gain Action Points at the beginning of your turn, you gain one fewer for each stack of 'Dazed' you have.
+While you are 'Dazed', when you gain Action Points at the beginning of your turn, you gain one fewer for each stack of 'Dazed' you have. Then you Naturally Resolve a stack of Dazed.
 
 #### Infected
 While you are 'Infected', your Ability Scores are reduced by one for each stack of 'Infected' you have.

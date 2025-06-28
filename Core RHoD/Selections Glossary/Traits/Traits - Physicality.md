@@ -178,7 +178,7 @@
 ###### REQ: 4EXP
 'xxx.'
 
-- You have Advantage on Constitution Checks
+- 
 
 ## XXX
 ###### REQ: 2EXP
