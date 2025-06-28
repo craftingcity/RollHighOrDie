@@ -6,9 +6,9 @@ Some Features have Prerequisites that you must meet or surpass before you are el
 For ease of presentation, Features are categorized by their "source of power" and requirements.
 
 CORE
-- [[Features - Offense]] (33 / )
-- [[Features - Defense]]
-- [[Features - Utility]]
+- [[Features - Offense]] (33 / '45')
+- [[Features - Defense]] (30 / '45')
+- [[Features - Utility]] (4 / '45')
 
 MAGIC EXPANSION
 - [[Features - Arcane]]
