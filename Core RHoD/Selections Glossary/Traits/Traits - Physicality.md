@@ -73,7 +73,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are not wearing Heavy Armor, when you make a Maneuver, the distance you may run or crawl is increased by 5'.
+- While you are not wearing Heavy Armor, when you make a Maneuver, you may run or crawl an additional 5'.
 
 ## XXX
 ###### REQ: 2EXP
