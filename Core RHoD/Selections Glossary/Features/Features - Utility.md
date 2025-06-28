@@ -66,6 +66,35 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 'xxx.'
 
 #### *5 EXP*
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
 
 ### Singularity
 #### *1 EXP*
