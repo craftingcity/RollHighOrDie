@@ -54,7 +54,8 @@
                   "title": "Defenses"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "b9baa15034409a3a",
@@ -403,12 +404,12 @@
   },
   "active": "e27622f3d849d849",
   "lastOpenFiles": [
-    "Core RHoD/Combat and Actions/Combat Definitions.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Character Rules/Skills.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
