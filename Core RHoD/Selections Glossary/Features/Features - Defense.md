@@ -272,7 +272,7 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 ###### Use: Shield
 'xxx.'
 
-Target an adjacent ally who is holding a Shield. Until the beginning of your next turn, while you are adjacent, both you and your target gain +1 to yo
+Target an adjacent ally who is holding a Shield. Until the beginning of your next turn, while you are adjacent, both you and your target gain +1 to your Reflex and Fortitude Defenses.
 
 ## Callout
 ###### REQ: 1EXP
@@ -298,7 +298,7 @@ Target a creature you can see. Make a Deduction Skill Check against that target'
 ###### REQ: 3EXP
 ###### W+1 AP
 ###### USE: Melee Weapon
-'You push forward so your allies can pull back for positional advantage or recovery.'
+'You push forward such that your allies gain a positional recovery.'
 
 Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex.
 
