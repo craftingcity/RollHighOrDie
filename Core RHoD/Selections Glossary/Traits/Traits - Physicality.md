@@ -174,9 +174,11 @@
 - When you gain this trait, increase your Constitution Score by 1.
 - When you would take your first Wound during an encounter, you may choose to expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality. If you do, you do not take the Wound that triggered this trait. You may only use this trait once between Long Rests.
 
-## XXX
+## Fast Antibodies
 ###### REQ: 2EXP
 'xxx.'
+
+- When you would 
 
 ## XXX
 ###### REQ: 2EXP
