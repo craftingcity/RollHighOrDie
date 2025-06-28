@@ -10,11 +10,13 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make an Attack Roll against a creature that you are adjacent to, 
+- When you make an Attack Roll against a creature that you are adjacent to, you gain +2 to that Attack.
 
 ## Distant Combatant
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make an Attack Roll against a creature that you are not adjacent to, you gain +2 to that Attack.
 
 ## XXX
 ###### REQ: 2EXP
