@@ -178,7 +178,8 @@
 ###### REQ: 4EXP
 'xxx.'
 
-- When you gain this trait, you gain 1 Poi
+- When you gain this trait, increase your Constitution Score by 1.
+- When you gain this trait, you gain 2 Necrotic Damage Resistance.
 
 ## XXX
 ###### REQ: 2EXP

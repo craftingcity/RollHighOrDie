@@ -49,7 +49,7 @@ While you are 'Infected', your Ability Scores are reduced by one for each stack 
 At the end of a Day, make a Constitution Check. If the result is equal to or less than 8, you gain a stack of 'Infected'. If the result is equal to or greater than 14, you Naturally Resolve a stack of 'Infected'.
 
 #### Poisoned
-While you are 'Poisoned', at the beginning of your turn, you take 1d4 Poison Damage for each stack of 'Poisoned' you have.
+While you are 'Poisoned', at the beginning of your turn, you take 1d4 Necrotic Damage for each stack of 'Poisoned' you have.
 
 #### Spotted
 While you are 'Spotted', you grant Attack Rolls against you +2.
