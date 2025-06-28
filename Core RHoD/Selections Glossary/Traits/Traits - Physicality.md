@@ -69,11 +69,11 @@
 
 ### Agility
 #### *2EXP*
-## XXX
+## Rusher
 ###### REQ: 2EXP
 'xxx.'
 
-- During an Encounter, the first Manu
+- When you make a Maneuver for the first time during an Encounter, that Maneuver costs no Action Points.
 
 ## XXX
 ###### REQ: 2EXP
