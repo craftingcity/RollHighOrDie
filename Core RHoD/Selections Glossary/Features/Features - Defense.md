@@ -258,9 +258,10 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 
 ## Goad
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
 'xxx.'
+
+Target a creature you can see that is adjacent to an ally. Make an Intimidation Check against that creature's Will. If you
 
 ## XXX
 ###### REQ: 1EXP
