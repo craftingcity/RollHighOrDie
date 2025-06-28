@@ -10,6 +10,11 @@
 
 ### Vigor
 #### *2EXP*
+#### *4EXP*
+#### *6EXP*
+
+==/==
+
 ## Tough
 ###### REQ: 2EXP
 'You can take a hit. More than one, usually.'
@@ -20,7 +25,6 @@
 'You can take a hit. More than one, usually.'
 - When you take your first Wound during an Encounter, until the end of the Encounter, you gain +2 to your Reflex and Fortitude Defenses and +2 to the Damage you deal.
 
-#### *4EXP*
 ## Durable
 ###### REQ: 4EXP
 'You can take a hit. More than one, usually.'
@@ -31,7 +35,6 @@
 'You can see better than most under minimal light. You often find carrying a light unnecessary.'
 - You are under the 'Low Light Visibility' [[Condition]].
 
-#### *6EXP*
 ## Hardened
 ###### REQ: 6EXP
 'You can take a hit. More than one, usually.'
