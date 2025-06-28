@@ -272,12 +272,14 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 ###### Use: Shield
 'xxx.'
 
+Target an adjacent ally who is holding a
+
 ## Callout
 ###### REQ: 1EXP
 ###### 2 AP
 'xxx.'
 
-Target a creature you can see. Make a Deduction Skill Check against that target's Will. If you succeed, you impose 
+Target a creature you can see. Make a Deduction Skill Check against that target's Will. If you succeed, you impose the 'Spotted' [[Ailment]] until the beginning of your next turn.
 
 ## XXX
 ###### REQ: 1EXP

@@ -52,7 +52,7 @@ At the end of a Day, make a Constitution Check. If the result is equal to or les
 While you are 'Poisoned', at the beginning of your turn, you take 1d4 Poison Damage for each stack of 'Poisoned' you have.
 
 #### Spotted
-While you are '', you grant Attack Rolls against you +2.
+While you are 'Spotted', you grant Attack Rolls against you +2.
 
 ## Arcane Ailments
 ## Divine Ailments
