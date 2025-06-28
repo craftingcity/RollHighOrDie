@@ -327,11 +327,15 @@ Then, an Ally within 10' of your target makes a Maneuver.
 'xxx.'
 
 #### *5 EXP*
-## XXX
-###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
-'xxx.'
+## Cover Fire
+###### REQ: 5EXP
+###### 2W AP
+###### USE: Ranged Weapon
+'You evaluate the battlefield, and find an ally in need. Changing your aim, you prepare to provide offensive protection.'
+
+Target an ally you can see. Until the beginning of your turn, when they are the target of an attack, if you have Line of Sight on the attacking creature, make an Attack against that creature's Reflex.
+
+If you hit that creature, deal your Weapon Damage as normal. You impose -3 to that creature's Attack Roll against your target ally.
 
 ## XXX
 ###### REQ: 1EXP

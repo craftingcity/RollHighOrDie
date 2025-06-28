@@ -206,6 +206,20 @@
             }
           },
           {
+            "id": "30479f62b105817c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Offense"
+            }
+          },
+          {
             "id": "a612b590c9242109",
             "type": "leaf",
             "state": {
@@ -262,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -417,11 +431,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "6dd4dd2d6f5af8ee",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Condition.md",
