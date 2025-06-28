@@ -90,6 +90,20 @@
                 }
               },
               {
+                "id": "9fbf42081895eb1e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Emboldenment.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Emboldenment"
+                }
+              },
+              {
                 "id": "d19a5c6546961bcb",
                 "type": "leaf",
                 "state": {
@@ -104,7 +118,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -415,8 +429,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "6dd4dd2d6f5af8ee",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
@@ -445,7 +460,6 @@
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "Core RHoD/Selections Glossary/Features/Features - Specialization.md",
     "features.ods",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
     "Stable Releases/Roll High or Die (COREvA01).pdf",

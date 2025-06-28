@@ -272,7 +272,7 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 ###### Use: Shield
 'xxx.'
 
-Target an adjacent ally who is holding a
+Target an adjacent ally who is holding a Shield. Until the beginning of your next turn, while you are adjacent, both you and your target gain +1 to yo
 
 ## Callout
 ###### REQ: 1EXP
