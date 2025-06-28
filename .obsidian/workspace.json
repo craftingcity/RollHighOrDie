@@ -6,7 +6,7 @@
       {
         "id": "61090bc8dba3ae90",
         "type": "split",
-        "dimension": 60.17915309446254,
+        "dimension": 38.273615635179155,
         "children": [
           {
             "id": "8b74b2c5d8f65f9f",
@@ -69,7 +69,7 @@
       {
         "id": "6fff03f2b73e6b87",
         "type": "tabs",
-        "dimension": 39.82084690553746,
+        "dimension": 61.72638436482085,
         "children": [
           {
             "id": "568dae12a78279de",
@@ -86,6 +86,20 @@
             }
           },
           {
+            "id": "21d9465b1a99a97e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Traits - Mentality"
+            }
+          },
+          {
             "id": "5c4379ec9bc1399d",
             "type": "leaf",
             "state": {
@@ -99,7 +113,8 @@
               "title": "Traits - Training"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,14 +269,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62b2d09090e0c0e2",
+  "active": "5c4379ec9bc1399d",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
@@ -272,7 +288,6 @@
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Sheet.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
