@@ -135,9 +135,11 @@
 
 - Your Hit Dice are d8.
 
-## XXX
+## Boiling Blood
 ###### REQ: 2EXP
 'xxx.'
+
+- When you take a Wound
 
 ## XXX
 ###### REQ: 2EXP
@@ -159,11 +161,11 @@
 - Your Hit Dice are d10.
 
 ## Enduring
-###### REQ: 2EXP
+###### REQ: 4EXP
 'xxx.'
 
 - When you gain this trait, increase your Constitution Score by 1.
-- When you would take your first Wound during an encounter, you may choose to expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality. If you do, you do not take the Wound that triggered this trait.
+- When you would take your first Wound during an encounter, you may choose to expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality. If you do, you do not take the Wound that triggered this trait. You may only use this trait once between Long Rests.
 
 ## XXX
 ###### REQ: 2EXP
