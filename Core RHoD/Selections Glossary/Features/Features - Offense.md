@@ -266,7 +266,7 @@ Target two creatures within your Weapon Range that are within 15' of each other 
 
 If you hit either target, you deal your Weapon Damage as normal to both targets.
 
-You may only use this feature once between Long Rests.
+You may only use this feature once per turn.
 
 ## XXX
 ###### REQ: 1EXP
