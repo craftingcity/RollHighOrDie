@@ -127,127 +127,140 @@
               "icon": "lucide-file",
               "title": "Features - Defense"
             }
-          },
-          {
-            "id": "e27622f3d849d849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Offense"
-            }
           }
         ]
       },
       {
-        "id": "9b0c9e56a4250c85",
-        "type": "tabs",
+        "id": "e726df72669e7582",
+        "type": "split",
         "dimension": 41.920731707317074,
         "children": [
           {
-            "id": "1c46139a3afb5d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-                "mode": "source",
-                "source": true
+            "id": "9b0c9e56a4250c85",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1c46139a3afb5d9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Utility"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Features - Utility"
-            }
+              {
+                "id": "a612b590c9242109",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Traits - Physicality"
+                }
+              },
+              {
+                "id": "067b1bdae1eaa99d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Traits - Mentality"
+                }
+              },
+              {
+                "id": "cb02403720d08227",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Traits - Training"
+                }
+              },
+              {
+                "id": "0f5500f6915787f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Character Sheet.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Character Sheet"
+                }
+              },
+              {
+                "id": "4c0dee64bcabf219",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Generic Actions"
+                }
+              },
+              {
+                "id": "fac596e2d86e630b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Equipment"
+                }
+              }
+            ]
           },
           {
-            "id": "a612b590c9242109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits - Physicality"
-            }
-          },
-          {
-            "id": "067b1bdae1eaa99d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits - Mentality"
-            }
-          },
-          {
-            "id": "cb02403720d08227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits - Training"
-            }
-          },
-          {
-            "id": "0f5500f6915787f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Sheet.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Character Sheet"
-            }
-          },
-          {
-            "id": "4c0dee64bcabf219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Generic Actions"
-            }
-          },
-          {
-            "id": "fac596e2d86e630b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Equipment"
-            }
+            "id": "be2fa5f0b359a8a6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e27622f3d849d849",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Offense"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"

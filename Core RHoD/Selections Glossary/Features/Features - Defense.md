@@ -274,10 +274,10 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 
 ## Callout
 ###### REQ: 1EXP
-###### 1 AP
+###### 2 AP
 'xxx.'
 
-Target a creature you can see
+Target a creature you can see. Make a 
 
 ## XXX
 ###### REQ: 1EXP
