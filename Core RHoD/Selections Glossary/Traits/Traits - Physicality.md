@@ -5,7 +5,7 @@
 'xxx.'
 
 - When you gain this trait, choose one of Bludgeoning, Piercing, or Slashing.
-- 
+- When you deal damage of the type of your choice, you deal an additional damage of that type.
 
 ## XXX
 ###### REQ: 2EXP
