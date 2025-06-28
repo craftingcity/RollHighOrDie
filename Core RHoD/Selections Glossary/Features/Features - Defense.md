@@ -98,7 +98,7 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
 
-Make an Endurance Skill Check. If the result is fewer than 20, you may not use this Feature again until you complete a Long Rest.
+You may not use this Feature again until you complete a Long Rest.
 
 ## Tank Those
 ###### REQ: 5EXP, Hardened Stance

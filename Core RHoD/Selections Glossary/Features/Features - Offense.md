@@ -161,7 +161,7 @@ Until the end of your turn, you gain +2 to Attack Rolls made with a Ranged Weapo
 ###### USE: Ranged Weapon
 'xxx.'
 
-Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You have -3 on that Attack.
+Target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You have -3 on this Attack.
 
 If you hit your target, you deal your Weapon Damage as normal.
 
