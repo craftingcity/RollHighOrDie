@@ -156,9 +156,14 @@
 ###### REQ: 4EXP, Tough
 'xxx.'
 
-## XXX
+- Your Hit Dice are d10.
+
+## Enduring
 ###### REQ: 2EXP
 'xxx.'
+
+- When you gain this trait, increase your Constitution Score by 1.
+- When you would take your first Wound during an encounter, 
 
 ## XXX
 ###### REQ: 2EXP
@@ -176,6 +181,8 @@
 ## Hardened
 ###### REQ: 6EXP, Durable
 'xxx.'
+
+- Your Hit Dice are d12.
 
 ## XXX
 ###### REQ: 2EXP
