@@ -11,12 +11,14 @@
 'xxx.'
 
 - When you make an Attack Roll against a creature that you are adjacent to, you gain +2 to that Attack.
+- This Trait is exclusive with the 'Distant Combatant' Trait.
 
 ## Distant Combatant
 ###### REQ: 2EXP
 'xxx.'
 
 - When you make an Attack Roll against a creature that you are not adjacent to, you gain +2 to that Attack.
+- This Trait is exclusive with the 'Close Combatant' Trait.
 
 ## XXX
 ###### REQ: 2EXP

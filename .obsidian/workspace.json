@@ -60,6 +60,20 @@
                   "icon": "lucide-file",
                   "title": "Traits"
                 }
+              },
+              {
+                "id": "da5ba95509b14ad1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Character Rules/Features.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features"
+                }
               }
             ]
           }
@@ -269,16 +283,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c4379ec9bc1399d",
+  "active": "62b2d09090e0c0e2",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Features.md",
+    "Core RHoD/Character Rules/Traits.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
