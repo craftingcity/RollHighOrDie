@@ -111,9 +111,11 @@
 'xxx.'
 
 #### *6EXP*
-## XXX
-###### REQ: 2EXP
+## Lithe
+###### REQ: 6EXP
 'xxx.'
+
+- When you make a Dexterity Check or a Dexterity-based Skill Check, if the result is less than your Dexterity Score, you may that score as the result of that roll.
 
 ## XXX
 ###### REQ: 2EXP
@@ -191,9 +193,11 @@
 
 - Your Hit Dice are d12.
 
-## XXX
-###### REQ: 2EXP
+## Indomitable
+###### REQ: 6EXP
 'xxx.'
+
+- When you make a Constitution Check or a Strength-based Skill Check, if the result is less than your Strength Score, you may that score as the result of that roll.
 
 ## XXX
 ###### REQ: 2EXP
