@@ -251,7 +251,7 @@ Until the beginning of your next turn, when you make a Maneuver, you may run or 
 ## Protective Stance
 ###### REQ: 1EXP
 ###### 2 AP
-###### Use: Shield
+###### Use: Shield or Armor - Heavy
 'You hold your shield over an ally, taking the burden of combat from them for a moment.'
 
 Target an adjacent ally. Until the beginning of your next turn, if they are the target of an Attack and they are still adjacent to you, you are the target of that Attack instead.
