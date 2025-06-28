@@ -261,7 +261,7 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 ###### 1 AP
 'xxx.'
 
-Target a creature you can see that is adjacent to an ally, and is not Eng. Make an Intimidation Check against that creature's Will.
+Target a creature you can see that is adjacent to an ally, and is not Engaged. Make an Intimidation Check against that creature's Will.
 
 If you succeed, you impose the Engaged [[Ailment]] until the beginning of your next turn.
 
