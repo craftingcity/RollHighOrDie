@@ -338,7 +338,7 @@ Target a creature you can see. Until the beginning of your next turn, when you m
 ###### USE: Free Hand
 'xxx.'
 
-You Unpack and Hold a Weapon from your Inventory. Then, target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You have -3 on this Attack.
+You *Unpack* a Weapon from your Inventory into a Free Hand. Then, target a creature within your Weapon Range and establish Line of Sight. Make an Attack Roll against that target's Reflex. You have -3 on this Attack.
 
 If you hit your target, you deal your Weapon Damage as normal.
 
