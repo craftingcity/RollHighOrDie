@@ -139,7 +139,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you take a Wound
+- When you take your first Wound during an Encounter, you gain +2 to your Reflex and Fortitude Defenses and you deal an additional 3
 
 ## XXX
 ###### REQ: 2EXP
