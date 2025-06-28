@@ -45,9 +45,11 @@
 'xxx.'
 
 #### *6EXP*
-## XXX
-###### REQ: 2EXP
+## Mighty
+###### REQ: 6EXP
 'xxx.'
+
+- When you make a Strength Check or a Strength-based Skill Check, if the result is less than your Strength Score, you may that score as the result of that roll.
 
 ## XXX
 ###### REQ: 2EXP
