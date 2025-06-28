@@ -212,6 +212,12 @@ You may use this feature instead of making a Maneuver.
 
 You run 5', then change your Stance to Crouched.
 
+## XXX
+###### REQ: 1EXP
+###### W AP
+###### USE: Melee Weapon
+'xxx.'
+
 #### *5 EXP*
 ## Painrush
 ###### REQ: 5EXP
