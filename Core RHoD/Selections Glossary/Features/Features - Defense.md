@@ -272,11 +272,12 @@ Target an adjacent ally. Until the beginning of your next turn, if they are the 
 ###### Use: Shield
 'xxx.'
 
-## XXX
+## Callout
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
 'xxx.'
+
+Target a creature you can see
 
 ## XXX
 ###### REQ: 1EXP
