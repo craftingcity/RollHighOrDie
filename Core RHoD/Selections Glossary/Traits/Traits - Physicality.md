@@ -69,9 +69,11 @@
 
 ### Agility
 #### *2EXP*
-## 
+## XXX
 ###### REQ: 2EXP
 'xxx.'
+
+- During an Encounter, the first Manu
 
 ## XXX
 ###### REQ: 2EXP
