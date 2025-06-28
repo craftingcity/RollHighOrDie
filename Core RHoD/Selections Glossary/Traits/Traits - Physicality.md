@@ -1,6 +1,6 @@
 ### Power
 #### *2EXP*
-## Fighting Style
+## Harsh Fighting
 ###### REQ: 2EXP
 'xxx.'
 
