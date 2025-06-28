@@ -1,8 +1,11 @@
 ### Power
 #### *2EXP*
-## 
+## Fighting Style
 ###### REQ: 2EXP
 'xxx.'
+
+- When you gain this trait, choose one of Bludgeoning, Piercing, or Slashing.
+- 
 
 ## XXX
 ###### REQ: 2EXP

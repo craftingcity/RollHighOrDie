@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "holding",
+                "query": "blud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "568dae12a78279de",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
