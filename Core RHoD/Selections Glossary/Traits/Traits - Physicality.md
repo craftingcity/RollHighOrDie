@@ -69,9 +69,11 @@
 
 ### Agility
 #### *2EXP*
-## XXX
+## Soft Landing
 ###### REQ: 2EXP
 'xxx.'
+
+- When you take Force Damage by falling
 
 ## XXX
 ###### REQ: 2EXP
