@@ -88,9 +88,11 @@
 
 - When you make a Disguise Skill Check while presenting as a fictional person, you have Advantage on that Check.
 
-## XXX
+## Chef
 ###### REQ: 2EXP
 'xxx.'
+
+- While you are Resting, you may prepare a meal. If you do, you and your allies consume 
 
 ## XXX
 ###### REQ: 2EXP

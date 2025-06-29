@@ -170,7 +170,8 @@
               "title": "Features - Utility"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rusher",
+                "query": "food",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,8 +328,8 @@
   },
   "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
