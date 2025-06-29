@@ -75,9 +75,11 @@
 
 - When you make a Maneuver for the first time during an Encounter, that Maneuver costs no Action Points.
 
-## XXX
+## Quick to Capitalize
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make an Attack Roll against a creature who has not taken a turn 
 
 ## XXX
 ###### REQ: 2EXP

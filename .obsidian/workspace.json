@@ -141,8 +141,7 @@
               "title": "Traits - Training"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,8 +296,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "348e771646637a2d",
+  "active": "568dae12a78279de",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Traits.md",
@@ -317,7 +317,6 @@
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Sheet.md",
     "Core RHoD/Selections Glossary/Condition.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Environment Definitions.md",
