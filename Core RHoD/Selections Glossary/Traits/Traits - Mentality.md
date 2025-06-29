@@ -77,11 +77,11 @@
 
 - When you make a Deduction Skill Check to determine whether a creature is lying, you treat a roll of 7 or less as an 8.
 
-## Tactical Paranoia
+## Eye for Secrets
 ###### REQ: 2EXP
 'xxx.'
 
-- When you take the Detect 
+- When you take the Detect action for the first time on your turn, it costs no Action Points.
 
 ## XXX
 ###### REQ: 2EXP
