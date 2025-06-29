@@ -13,9 +13,12 @@
 
 - During an Encounter, you gain +2 to Attack Rolls against creatures that have one or more Wounds.
 
-## Athletic
+## Athletic Form
 ###### REQ: 2EXP
 'xxx.'
+
+- When you gain this Trait, if your Strength Score is less than 20, increase it by 1.
+- 
 
 ## XXX
 ###### REQ: 2EXP
