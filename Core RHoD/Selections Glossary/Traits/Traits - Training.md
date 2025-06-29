@@ -24,7 +24,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you gain this Trait, choose a Weapon Base. 
+- When you gain this Trait, choose a Weapon Base. When you deal damage with a Weapon of that Base, you deal an additional 1d6 damage of that Weapon's Damage Type.
 
 ## XXX
 ###### REQ: 2EXP
