@@ -55,6 +55,20 @@
                 }
               },
               {
+                "id": "c7027f1d6a1e0066",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Character Rules/Surviving.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Surviving"
+                }
+              },
+              {
                 "id": "1d875dd97f9279ef",
                 "type": "leaf",
                 "state": {
@@ -69,7 +83,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "6058dda39abafb74",
@@ -203,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "food",
+                "query": "chemicall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -326,11 +340,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "5c4379ec9bc1399d",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Surviving.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
@@ -355,7 +370,6 @@
     "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
     "Core RHoD/Selections Glossary/Features/Features - Communal.md",
-    "Core RHoD/Selections Glossary/Features/Features - Specialization.md",
     "features.ods",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",

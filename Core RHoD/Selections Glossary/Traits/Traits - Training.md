@@ -92,7 +92,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are Resting, you may prepare a meal. If you do, you and your allies consume 
+- While you are Travelling or Resting, a, you may prepare a meal. If you do, you and your allies consume Food as normal, and 
 
 ## XXX
 ###### REQ: 2EXP
