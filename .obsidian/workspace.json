@@ -117,7 +117,8 @@
                   "title": "Features"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -167,6 +168,20 @@
               },
               "icon": "lucide-file",
               "title": "Traits - Training"
+            }
+          },
+          {
+            "id": "fcc83d8454df0581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Defense"
             }
           },
           {
@@ -339,14 +354,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ad04a90083a162f",
+  "active": "fcc83d8454df0581",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Features.md",
+    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Skills.md",
