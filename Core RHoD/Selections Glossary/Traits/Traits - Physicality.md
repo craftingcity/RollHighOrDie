@@ -69,17 +69,17 @@
 
 ### Agility
 #### *2EXP*
-## Rusher
+## Nimble
 ###### REQ: 2EXP
 'xxx.'
 
 - When you make a Maneuver for the first time during an Encounter, that Maneuver costs no Action Points.
 
-## Quick to Capitalize
+## Striker
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make an Attack Roll against a creature who has not taken a turn 
+- When you make an Attack Roll against a creature who has not yet taken a turn during Encounter, you have Advantage on that Attack.
 
 ## XXX
 ###### REQ: 2EXP
