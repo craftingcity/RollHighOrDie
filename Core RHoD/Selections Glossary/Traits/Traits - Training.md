@@ -94,9 +94,11 @@
 
 - While you are Travelling or Resting, you may prepare a shared meal. If you do, you and those who eat with you consume Food as normal, and then regain a Hit Die.
 
-## XXX
+## Delver
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make a Investigation Skill Check to 
 
 ## XXX
 ###### REQ: 2EXP
