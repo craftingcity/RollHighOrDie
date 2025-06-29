@@ -55,6 +55,20 @@
                 }
               },
               {
+                "id": "2e4706dc01a4cf50",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Character Rules/Defenses.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Defenses"
+                }
+              },
+              {
                 "id": "1d875dd97f9279ef",
                 "type": "leaf",
                 "state": {
@@ -202,7 +216,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chemicall",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,10 +341,11 @@
   },
   "active": "c7027f1d6a1e0066",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Defenses.md",
+    "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
-    "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
@@ -341,7 +356,6 @@
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
