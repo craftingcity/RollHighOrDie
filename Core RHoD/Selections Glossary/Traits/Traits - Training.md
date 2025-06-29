@@ -92,7 +92,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are Travelling or Resting, you may prepare a shared meal. If you do, you and those who eat with you consume Food as normal, and then regain a Hit Die.
+- While you are Travelling or Resting, you may prepare a shared meal. If you do, when you and  consume Food as normal, and then regain a Hit Die.
 
 ## Delver
 ###### REQ: 2EXP

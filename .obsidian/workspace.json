@@ -184,7 +184,8 @@
               "title": "Features - Utility"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -339,10 +340,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7027f1d6a1e0066",
+  "active": "5c4379ec9bc1399d",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Character Rules/Surviving.md",
+    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
