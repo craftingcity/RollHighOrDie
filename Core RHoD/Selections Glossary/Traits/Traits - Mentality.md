@@ -81,7 +81,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- During an Encounter, at the beginning of your turn
+- When you take the Detect 
 
 ## XXX
 ###### REQ: 2EXP
