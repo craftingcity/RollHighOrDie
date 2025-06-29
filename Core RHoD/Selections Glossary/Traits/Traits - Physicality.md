@@ -1,15 +1,17 @@
 ### Power
 #### *2EXP*
-## Harsh Fighting
+## Harsh
 ###### REQ: 2EXP
 'xxx.'
 
 - When you gain this trait, choose one of Bludgeoning, Piercing, or Slashing.
-- When you deal damage of the type of your choice, you deal an additional damage of that type.
+- When you deal damage of the type of your choice, you deal 2 additional damage of that type.
 
-## XXX
+## Finisher
 ###### REQ: 2EXP
 'xxx.'
+
+- During an Encounter, you gain +2 to Attack Rolls against creatures that have one or more Wounds.
 
 ## XXX
 ###### REQ: 2EXP
@@ -221,11 +223,3 @@
 ###### REQ: 2EXP
 'xxx.'
 
-
-==/==
-
-
-## Retroreflectivity
-###### REQ: 4EXP
-'You can see better than most under minimal light. You often find carrying a light unnecessary.'
-- You are under the 'Low Light Visibility' [[Condition]].

@@ -1,8 +1,10 @@
 ### Intellect
 #### *2EXP*
-## XXX
+## Healer
 ###### REQ: 2EXP
 'xxx.'
+
+- While it is your turn, when you cause a creature to gain any number of Vitality, they gain that number plus 4 instead.
 
 ## XXX
 ###### REQ: 2EXP
@@ -65,9 +67,11 @@
 
 ### Sapience
 #### *2EXP*
-## XXX
+## Alert
 ###### REQ: 2EXP
 'xxx.'
+
+- While you are not under the 'Unconscious' [[Condition]], you cannot gain the 'Surprised' [[Ailment]].
 
 ## XXX
 ###### REQ: 2EXP

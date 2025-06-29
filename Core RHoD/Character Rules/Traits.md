@@ -24,20 +24,6 @@ Some Traits are exclusive with other Traits. A given Trait will list Traits that
 ''
 - While you are wielding a Weapon you are Proficient in, you gain +2 to Attack Rolls made with that Weapon.
 
-## Alert
-###### REQ: 3EXP
-''
-- While you are not under the 'Unconscious' [[Condition]], you cannot gain the 'Surprised' [[Ailment]].
-
-## Finisher
-###### REQ: 3EXP
-''
-- During an Encounter, you gain +2 to Attack Rolls against creatures that have one or more Wounds.
-
-## Healer
-###### REQ: 3EXP
-''
-- While it is your turn, if you cause a creature to gain any number of Vitality, they may gain that number plus 4 instead.
 ==/==
 
 # EXP - 3
@@ -67,3 +53,9 @@ This trait inherits and replaces the 'Unbreakable' Mentality Trait.
 This trait inherits and replaces the 'Courageous' Mentality Trait.
 
 - While you do not have a Wound, you impose -2 to Attack Rolls against you.
+==/==
+
+## Retroreflectivity
+###### REQ: 4EXP
+'You can see better than most under minimal light. You often find carrying a light unnecessary.'
+- You are under the 'Low Light Visibility' [[Condition]].
