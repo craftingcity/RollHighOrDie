@@ -82,9 +82,11 @@
 
 - When you take the Aid Action on your turn, it costs you 1 less Action Point.
 
-## XXX
+## Actor
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make a P
 
 ## XXX
 ###### REQ: 2EXP
