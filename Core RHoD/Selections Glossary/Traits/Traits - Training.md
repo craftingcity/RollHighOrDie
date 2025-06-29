@@ -98,7 +98,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make an Investigation Skill Check to locate
+- When you make an Investigation Skill Check to locate a trap or hidden door, you have Advantage on that Check.
 
 ## XXX
 ###### REQ: 2EXP
