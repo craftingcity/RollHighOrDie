@@ -188,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"8",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -311,7 +311,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21d9465b1a99a97e",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",

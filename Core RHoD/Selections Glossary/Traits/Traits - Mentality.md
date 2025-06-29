@@ -75,7 +75,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a Deduction Skill Check to determine whether a creature is 
+- When you make a Deduction Skill Check to determine whether a creature is lying, you treat a roll of 7 or less as an 8.
 
 ## XXX
 ###### REQ: 2EXP
