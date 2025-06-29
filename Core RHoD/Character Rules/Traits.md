@@ -3,9 +3,9 @@ Traits are the inherent abilities, detriments, and lived experience of a charact
 
 For ease of presentation, Traits are categorized by their "source of power" and their requirements.
 
-- [[Traits - Physicality]] (13 / '45')
-- [[Traits - Mentality]] (0 / '45')
-- [[Traits - Training]] (0 / '45')
+- [[Traits - Physicality]] (15 / '45')
+- [[Traits - Mentality]] (3 / '45')
+- [[Traits - Training]] (5 / '45')
 
 #### Inherit and Replace
 When one ability "inherits and replaces" another, the first ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the first ability.
@@ -45,10 +45,3 @@ Some Traits are exclusive with other Traits. A given Trait will list Traits that
 This trait inherits and replaces the 'Unbreakable' Mentality Trait.
 
 - While you do not have a Wound, you gain gain 1 Bludgeoning, Piercing, and Slashing Damage Resistance.
-
-==/==
-
-## Retroreflectivity
-###### REQ: 4EXP
-'You can see better than most under minimal light. You often find carrying a light unnecessary.'
-- You are under the 'Low Light Visibility' [[Condition]].

@@ -138,9 +138,11 @@
 
 ### Competency
 #### *2EXP*
-## Night Sight
+## Dark Sight
 ###### REQ: 2EXP
 'xxx.'
+
+- While you are not under the 'Unconscious' [[Condition]], you gain the 'Low-Light Vision' [[Condition]].
 
 ## XXX
 ###### REQ: 2EXP
