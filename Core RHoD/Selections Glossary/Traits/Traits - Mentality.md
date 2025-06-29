@@ -71,9 +71,11 @@
 
 - While you are not under the 'Unconscious' [[Condition]], you cannot gain the 'Surprised' [[Ailment]].
 
-## XXX
+## Ear for Deceit
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make a Deduction Skill Check to determine whether a creature is 
 
 ## XXX
 ###### REQ: 2EXP
