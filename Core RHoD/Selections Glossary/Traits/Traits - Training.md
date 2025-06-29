@@ -53,10 +53,10 @@
 
 #### *6EXP*
 ## Cold Blooded Killer
-###### REQ: 2EXP
+###### REQ: 6EXP
 'xxx.'
 
-- When you kill a creature, 
+- When you kill a creature, you gain the 'Rallied' [[Emboldenment]].
 
 ## XXX
 ###### REQ: 2EXP
