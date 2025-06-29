@@ -183,7 +183,8 @@
               "title": "Features - Utility"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -338,13 +339,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "568dae12a78279de",
+  "active": "3ad04a90083a162f",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",

@@ -14,34 +14,3 @@ When one ability "inherits and replaces" another, the first ability gains all te
 Unless otherwise stated, you may only ever gain a given Trait once.
 
 Some Traits are exclusive with other Traits. A given Trait will list Traits that, if you have gained, make you ineligible to gain that Trait.
-
-###### WIP WIP WIP
-==/==
-
-# EXP - 3
-## Accurate
-###### REQ: 3EXP
-''
-- While you are wielding a Weapon you are Proficient in, you gain +2 to Attack Rolls made with that Weapon.
-
-==/==
-
-# EXP - 3
-## Courageous
-###### REQ: 3EXP
-''
-- Your gain +3 to your Will Defense.
-
-## Unbreakable
-###### REQ: 3EXP
-''
-- You gain +3 to your Fortitude Defense.
-
-# EXP - 5
-## Built Different
-###### REQ: 5EXP, Unbreakable
-''
-
-This trait inherits and replaces the 'Unbreakable' Mentality Trait.
-
-- While you do not have a Wound, you gain gain 1 Bludgeoning, Piercing, and Slashing Damage Resistance.
