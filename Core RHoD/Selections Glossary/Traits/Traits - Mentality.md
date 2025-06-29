@@ -77,9 +77,11 @@
 
 - When you make a Deduction Skill Check to determine whether a creature is lying, you treat a roll of 7 or less as an 8.
 
-## XXX
+## Tactical Paranoia
 ###### REQ: 2EXP
 'xxx.'
+
+- During an Encounter, at the beginning of your turn
 
 ## XXX
 ###### REQ: 2EXP
