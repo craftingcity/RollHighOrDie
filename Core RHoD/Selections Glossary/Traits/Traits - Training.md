@@ -138,7 +138,7 @@
 
 ### Competency
 #### *2EXP*
-## XXX
+## Night Sight
 ###### REQ: 2EXP
 'xxx.'
 

@@ -211,9 +211,11 @@
 
 - When you make a Constitution Check or a Constitution-based Skill Check, if the result is less than your Constitution Score, you may that score as the result of that roll.
 
-## XXX
-###### REQ: 2EXP
+## Threatening
+###### REQ: 6EXP
 'xxx.'
+
+- While you do not have a Wound, you impose -2 to Attack Rolls against you.
 
 ## XXX
 ###### REQ: 2EXP
