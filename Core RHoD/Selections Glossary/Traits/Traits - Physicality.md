@@ -24,7 +24,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- W
+- When you run 15' or more in one direction during a turn, you gain a stack of the 'Rallied' [[Emboldenment]].
 
 ## XXX
 ###### REQ: 2EXP
