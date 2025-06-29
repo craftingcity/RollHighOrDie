@@ -56,7 +56,7 @@
 ###### REQ: 6EXP
 'xxx.'
 
-- When you kill a creature, you gain the 'Rallied' [[Emboldenment]].
+- When you kill a creature, you gain a Stack of the 'Rallied' [[Emboldenment]].
 
 ## XXX
 ###### REQ: 2EXP
@@ -76,9 +76,11 @@
 
 ### Culture
 #### *2EXP*
-## XXX
+## Helpful
 ###### REQ: 2EXP
 'xxx.'
+
+- When you take the Aid Action on your turn, it costs you 1 less Action Point.
 
 ## XXX
 ###### REQ: 2EXP
