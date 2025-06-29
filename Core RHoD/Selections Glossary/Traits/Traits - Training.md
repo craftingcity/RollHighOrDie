@@ -76,7 +76,7 @@
 
 ### Culture
 #### *2EXP*
-## Helpful
+## Assistant
 ###### REQ: 2EXP
 'xxx.'
 
@@ -92,13 +92,13 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are Travelling or Resting, you may prepare a shared meal. If you do, make a Cooking Skill Check. If the result is 12 or greater, when you 
+- While you are Travelling or Resting, you may prepare a shared meal. If you do, make a Cooking Skill Check. If the result is 12 or greater, when you and your allies eat Food, you each regain an additional Hit Die. If the result is 20 or greater, you each regain 2 additional Hit Dice instead.
 
 ## Delver
 ###### REQ: 2EXP
 'xxx.'
 
-- ==When you make a Investigation Skill Check to ==
+- When you make an Investigation Skill Check to locate
 
 ## XXX
 ###### REQ: 2EXP
