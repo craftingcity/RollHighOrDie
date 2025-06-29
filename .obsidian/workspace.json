@@ -217,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Cooking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -340,7 +340,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c4379ec9bc1399d",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Defenses.md",
