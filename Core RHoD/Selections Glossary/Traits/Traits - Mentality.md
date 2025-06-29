@@ -90,9 +90,11 @@
 'xxx.'
 
 #### *4EXP*
-## XXX
+## Courageous
 ###### REQ: 2EXP
 'xxx.'
+
+- While you are not under the 'Unconscious' [[Condition]], you cannot gain the 'Frightened' [[Ailment]].
 
 ## XXX
 ###### REQ: 2EXP
