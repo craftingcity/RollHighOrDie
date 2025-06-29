@@ -52,9 +52,11 @@
 'xxx.'
 
 #### *6EXP*
-## XXX
+## Cold Blooded Killer
 ###### REQ: 2EXP
 'xxx.'
+
+- When you kill a creature, 
 
 ## XXX
 ###### REQ: 2EXP
