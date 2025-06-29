@@ -144,9 +144,11 @@
 
 - While you are not under the 'Unconscious' [[Condition]], you gain the 'Low-Light Vision' [[Condition]].
 
-## XXX
+## Healer
 ###### REQ: 2EXP
 'xxx.'
+
+- While it is your turn, when you cause a creature to gain any number of Vitality, they gain that number plus 4 instead.
 
 ## XXX
 ###### REQ: 2EXP

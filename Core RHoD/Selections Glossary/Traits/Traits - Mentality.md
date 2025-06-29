@@ -1,10 +1,8 @@
 ### Intellect
 #### *2EXP*
-## Healer
+## XXX
 ###### REQ: 2EXP
 'xxx.'
-
-- While it is your turn, when you cause a creature to gain any number of Vitality, they gain that number plus 4 instead.
 
 ## XXX
 ###### REQ: 2EXP
@@ -90,11 +88,9 @@
 'xxx.'
 
 #### *4EXP*
-## Courageous
+## XXX
 ###### REQ: 2EXP
 'xxx.'
-
-- While you are not under the 'Unconscious' [[Condition]], you cannot gain the 'Frightened' [[Ailment]].
 
 ## XXX
 ###### REQ: 2EXP
@@ -157,9 +153,11 @@
 'xxx.'
 
 #### *4EXP*
-## XXX
+## Courageous
 ###### REQ: 2EXP
 'xxx.'
+
+- While you are not under the 'Unconscious' [[Condition]], you cannot gain the 'Frightened' [[Ailment]].
 
 ## XXX
 ###### REQ: 2EXP

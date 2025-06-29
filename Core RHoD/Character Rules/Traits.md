@@ -4,8 +4,8 @@ Traits are the inherent abilities, detriments, and lived experience of a charact
 For ease of presentation, Traits are categorized by their "source of power" and their requirements.
 
 - [[Traits - Physicality]] (15 / '45')
-- [[Traits - Mentality]] (3 / '45')
-- [[Traits - Training]] (5 / '45')
+- [[Traits - Mentality]] (2 / '45')
+- [[Traits - Training]] (6 / '45')
 
 #### Inherit and Replace
 When one ability "inherits and replaces" another, the first ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the first ability.
