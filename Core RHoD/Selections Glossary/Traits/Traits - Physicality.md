@@ -147,7 +147,6 @@
 ###### REQ: 2EXP
 'xxx.'
 
-
 ### Vigor
 #### *2EXP*
 ## Tough

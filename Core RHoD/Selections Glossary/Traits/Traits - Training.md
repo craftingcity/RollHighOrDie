@@ -98,7 +98,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a Investigation Skill Check to 
+- ==When you make a Investigation Skill Check to ==
 
 ## XXX
 ###### REQ: 2EXP
