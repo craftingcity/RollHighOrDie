@@ -20,9 +20,11 @@
 - When you make an Attack Roll against a creature that you are not adjacent to, you gain +2 to that Attack.
 - This Trait is exclusive with the 'Close Combatant' Trait.
 
-## XXX
+## Weapon Specialty
 ###### REQ: 2EXP
 'xxx.'
+
+- When you gain this Trait, choose a Weapon Base. 
 
 ## XXX
 ###### REQ: 2EXP
