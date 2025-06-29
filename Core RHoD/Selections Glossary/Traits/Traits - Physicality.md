@@ -13,7 +13,7 @@
 
 - During an Encounter, you gain +2 to Attack Rolls against creatures that have one or more Wounds.
 
-## XXX
+## Athletic
 ###### REQ: 2EXP
 'xxx.'
 

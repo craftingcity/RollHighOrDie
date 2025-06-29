@@ -86,7 +86,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a P
+- When you make a Disguise Skill Check while presenting as a fictional person, you have Advantage on that Check.
 
 ## XXX
 ###### REQ: 2EXP

@@ -69,7 +69,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "6058dda39abafb74",
@@ -170,8 +170,7 @@
               "title": "Features - Utility"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -326,15 +325,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c4379ec9bc1399d",
+  "active": "568dae12a78279de",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
