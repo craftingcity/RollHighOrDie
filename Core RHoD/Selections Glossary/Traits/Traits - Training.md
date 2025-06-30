@@ -30,7 +30,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When 
+- When you take the Reload Action on your turn, it costs you 1 less Action Point.
 
 #### *4EXP*
 ## XXX
