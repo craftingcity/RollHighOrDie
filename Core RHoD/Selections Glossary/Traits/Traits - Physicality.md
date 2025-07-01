@@ -221,7 +221,7 @@
 
 - While you do not have a Wound, you impose -2 to Attack Rolls against you.
 
-## XXX
+## Indefagable
 ###### REQ: 2EXP
 'xxx.'
 
