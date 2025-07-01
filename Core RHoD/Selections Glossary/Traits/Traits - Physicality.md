@@ -221,9 +221,11 @@
 
 - While you do not have a Wound, you impose -2 to Attack Rolls against you.
 
-## Indefagable
+## Indefatigable
 ###### REQ: 2EXP
 'xxx.'
+
+- When you are told to expend a Hit Die, and you have none, you gain a Hit Dice to spend.
 
 ## XXX
 ###### REQ: 2EXP
