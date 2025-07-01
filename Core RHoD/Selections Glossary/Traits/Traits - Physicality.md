@@ -194,9 +194,11 @@
 - When you gain this trait, if your Constitution Score is less than 20, increase your Constitution Score by 1.
 - When you gain this trait, you gain 2 Necrotic Damage Resistance.
 
-## XXX
-###### REQ: 2EXP
+## Threatening
+###### REQ: 4EXP
 'xxx.'
+
+- While you do not have a Wound, you impose -2 to Attack Rolls against you.
 
 ## XXX
 ###### REQ: 2EXP
@@ -215,17 +217,15 @@
 
 - When you make a Constitution Check or a Constitution-based Skill Check, if the result is less than your Constitution Score, you may that score as the result of that roll.
 
-## Threatening
-###### REQ: 6EXP
-'xxx.'
-
-- While you do not have a Wound, you impose -2 to Attack Rolls against you.
-
 ## Indefatigable
 ###### REQ: 2EXP
 'xxx.'
 
-- When you are told to expend a Hit Die, and you have none, you gain a Hit Dice to spend.
+- When you would spend your last Hit Die, you gain a Hit Die.
+
+## XXX
+###### REQ: 2EXP
+'xxx.'
 
 ## XXX
 ###### REQ: 2EXP
