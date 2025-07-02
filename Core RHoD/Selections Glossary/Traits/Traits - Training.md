@@ -44,9 +44,13 @@
 ###### REQ: 2EXP
 'xxx.'
 
+- While you are inside city limits, 
+
 ## Wilderness Combatant
 ###### REQ: 2EXP
 'xxx.'
+
+- While you are in wilderness
 
 ## XXX
 ###### REQ: 2EXP
