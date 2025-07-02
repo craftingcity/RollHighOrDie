@@ -13,7 +13,7 @@
 
 - During an Encounter, you gain +2 to Attack Rolls against creatures that have one or more Wounds.
 
-## Bulked
+## Wrestler
 ###### REQ: 2EXP
 'xxx.'
 
@@ -159,7 +159,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you take your first Wound during an Encounter, you gain +2 to your Reflex and Fortitude Defenses, and when you deal damage with a Melee Weapon, you deal an additional 2 bludgeoning damage.
+- When you take your first Wound during an Encounter, you gain +2 to your Reflex and Fortitude Defenses, and when you deal damage with a Melee Weapon, you deal an additional amount of psychic damage equal to the number of Wounds you have.
 
 ## XXX
 ###### REQ: 2EXP
