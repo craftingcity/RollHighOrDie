@@ -115,9 +115,11 @@
 - You may use your Acrobatics Skill instead of your Athletics Skill while imposing or resolving the 'Grappled' [[Ailment]].
 - When you resolve the 'Grappled' [[Ailment]], you impose the 'Spotted' [[Ailment]] on the creature that imposed the 'Grappled' [[Ailment]] on you.
 
-## XXX
-###### REQ: 2EXP
+## Reflexive
+###### REQ: 4EXP
 'xxx.'
+
+- When you are hit by an Attack that targets at least one other creature, 
 
 ## XXX
 ###### REQ: 2EXP
