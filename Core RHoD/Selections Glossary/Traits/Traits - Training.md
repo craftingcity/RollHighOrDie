@@ -44,7 +44,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are inside city limits, when you make an Athletics or Stealth Skill Check, you may make a 
+- While you are inside city limits, when you make an Athletics or Stealth Skill Check, you may make a Streetwise Skill Check instead.
 
 ## Wilderness Native
 ###### REQ: 2EXP
@@ -67,9 +67,12 @@
 
 - When you kill a creature, you gain a Stack of the 'Rallied' [[Emboldenment]].
 
-## XXX
+## Combat Veteran
 ###### REQ: 2EXP
 'xxx.'
+
+- You gain +2 to your Reflex, Fortitude, and Will Defenses.
+- You gain +2 to
 
 ## XXX
 ###### REQ: 2EXP
