@@ -112,7 +112,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- 
+- You may use your Acrobatics 
 
 ## XXX
 ###### REQ: 2EXP
