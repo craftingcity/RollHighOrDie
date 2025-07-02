@@ -144,7 +144,7 @@
 
 - When you make a Deception Skill Check, you may add your Intelligence or Wisdom Modifier to the result, whichever is greater.
 
-## Confident Voice
+## Friendly
 ###### REQ: 2EXP
 'xxx.'
 
