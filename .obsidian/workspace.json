@@ -184,7 +184,8 @@
               "title": "Features - Utility"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -339,15 +340,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "568dae12a78279de",
+  "active": "21d9465b1a99a97e",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
