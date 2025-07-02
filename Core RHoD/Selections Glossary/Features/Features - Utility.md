@@ -199,16 +199,16 @@ Expend a Hit Die and make an Endurance Skill Check. If the result of the Enduran
 ## Quick Fingers
 ###### REQ: 1EXP
 ###### 1 AP
-###### USE: Melee Weapon
 'xxx.'
 
-You may *HOLD* and then *PACK* an object, or you may .
+You may *HOLD* and then *PACK* a loose object, or you may *UNPACK* and *PREP* an object from your inventory.
 
-## XXX
+## Chug
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
 'xxx.'
+
+You may 
 
 ## XXX
 ###### REQ: 1EXP
