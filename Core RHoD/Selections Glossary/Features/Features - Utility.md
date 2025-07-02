@@ -196,9 +196,9 @@ Expend a Hit Die and make an Endurance Skill Check. If the result of the Enduran
 
 ### Interactivity
 #### *1 EXP*
-## XXX
+## Quick Fingers
 ###### REQ: 1EXP
-###### W AP
+###### 1 AP
 ###### USE: Melee Weapon
 'xxx.'
 
