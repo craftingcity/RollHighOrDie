@@ -208,7 +208,7 @@ You may *HOLD* and then *PACK* a loose object, or you may *UNPACK* and *PREP* an
 ###### 1 AP
 'xxx.'
 
-You may 
+You may *PREP* and then *INGEST* an object
 
 ## XXX
 ###### REQ: 1EXP
