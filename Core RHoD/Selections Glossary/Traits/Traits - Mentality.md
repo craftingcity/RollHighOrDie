@@ -23,11 +23,11 @@
 'xxx.'
 
 #### *4EXP*
-## Survivalist
+## Biologist
 ###### REQ: 2EXP
 'xxx.'
 
-## XXX
+## Theologist
 ###### REQ: 2EXP
 'xxx.'
 
