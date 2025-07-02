@@ -33,9 +33,12 @@
 - When you take the Reload Action on your turn, it costs you 1 less Action Point.
 
 #### *4EXP*
-## XXX
+## Hostile Shield
 ###### REQ: 2EXP
+###### USE: Grappling another creature
 'xxx.'
+
+- While you are 
 
 ## XXX
 ###### REQ: 2EXP
