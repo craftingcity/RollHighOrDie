@@ -31,9 +31,11 @@
 'xxx.'
 
 #### *4EXP*
-## XXX
-###### REQ: 2EXP
+## Bloody Rage
+###### REQ: 4EXP
 'xxx.'
+
+- While you have fewer than half of y
 
 ## XXX
 ###### REQ: 2EXP

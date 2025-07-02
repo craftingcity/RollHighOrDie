@@ -68,11 +68,11 @@
 - When you kill a creature, you gain a Stack of the 'Rallied' [[Emboldenment]].
 
 ## Combat Veteran
-###### REQ: 2EXP
+###### REQ: 6EXP
 'xxx.'
 
 - You gain +2 to your Reflex, Fortitude, and Will Defenses.
-- You gain +2 to
+- You gain +2 to Attack Rolls you make.
 
 ## XXX
 ###### REQ: 2EXP
