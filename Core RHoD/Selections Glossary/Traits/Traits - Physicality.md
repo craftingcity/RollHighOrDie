@@ -35,7 +35,7 @@
 ###### REQ: 4EXP
 'xxx.'
 
-- While you have fewer than half of y
+- While your Current Vitality is equal to or less than half of your Maximum Vitality, you deal an amount of additional damage equal to your Strength Modifier.
 
 ## XXX
 ###### REQ: 2EXP
