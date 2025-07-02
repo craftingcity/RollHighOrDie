@@ -1,8 +1,10 @@
 ### Intellect
 #### *2EXP*
-## XXX
+## Shrewd
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make an Appraise Skill Check, 
 
 ## XXX
 ###### REQ: 2EXP
