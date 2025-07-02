@@ -208,13 +208,14 @@ You may *HOLD* and then *PACK* a loose object, or you may *UNPACK* and *PREP* an
 ###### 1 AP
 'xxx.'
 
-You may *PREP* and then *INGEST* an object
+You may *PREP* and then *INGEST* an object you are holding.
 
-## XXX
+## Peek
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 1 AP
 'xxx.'
+
+You may *OPEN* and then *CLOSE* an adjacent object.
 
 ## XXX
 ###### REQ: 1EXP
