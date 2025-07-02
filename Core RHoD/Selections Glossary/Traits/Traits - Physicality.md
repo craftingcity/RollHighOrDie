@@ -119,7 +119,7 @@
 ###### REQ: 4EXP
 'xxx.'
 
-- When you are hit by an Attack that targets at least one other creature, 
+- When you are hit by an Attack that targets at least one other creature, make an Acrobatics Skill Check and reduce the damage you take by half the result of your Skill Check.
 
 ## XXX
 ###### REQ: 2EXP
