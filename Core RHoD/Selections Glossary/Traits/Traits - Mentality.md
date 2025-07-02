@@ -4,7 +4,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make an Appraise Skill Check, 
+- When you make an Appraise Skill Check while you are shopping, you treat a roll of 7 or less as an 8.
 
 ## XXX
 ###### REQ: 2EXP
