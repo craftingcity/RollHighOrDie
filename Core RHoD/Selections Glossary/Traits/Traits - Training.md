@@ -38,7 +38,7 @@
 ###### USE: Grappling another creature
 'xxx.'
 
-- While you are 
+- While you are Grappling a creature, when you are the target of an Attack, make a 
 
 ## XXX
 ###### REQ: 2EXP
