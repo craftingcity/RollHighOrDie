@@ -202,6 +202,8 @@ Expend a Hit Die and make an Endurance Skill Check. If the result of the Enduran
 ###### USE: Melee Weapon
 'xxx.'
 
+You may *HOLD* and then *PACK* an object, or you may .
+
 ## XXX
 ###### REQ: 1EXP
 ###### W AP
