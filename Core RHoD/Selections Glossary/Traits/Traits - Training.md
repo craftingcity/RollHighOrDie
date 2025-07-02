@@ -40,17 +40,17 @@
 
 - While you are imposing the 'Grappled' [[Ailment]] on another creature, when you are the target of an Attack, make an Athletics Check. If the result is 14 or greater, the 'Grappled' creature is the target of the Attack instead.
 
-## Urban Combatant
+## Urban Native
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are inside city limits, 
+- While you are inside city limits, when you make an Athletics or Stealth Skill Check, you may make a 
 
-## Wilderness Combatant
+## Wilderness Native
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are in wilderness, when you make an Athletics, Stealth 
+- While you are in wilderness, when you make an Athletics or Stealth Skill Check, you may make a Bushcraft Profession Check instead.
 
 ## XXX
 ###### REQ: 2EXP
