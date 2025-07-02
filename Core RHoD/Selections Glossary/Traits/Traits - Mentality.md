@@ -6,11 +6,11 @@
 
 - When you make an Appraise Skill Check while you are shopping, you treat a roll of 7 or less as an 8.
 
-## XXX
+## Historian
 ###### REQ: 2EXP
 'xxx.'
 
-## XXX
+## Tactician
 ###### REQ: 2EXP
 'xxx.'
 
@@ -23,7 +23,7 @@
 'xxx.'
 
 #### *4EXP*
-## XXX
+## Survivalist
 ###### REQ: 2EXP
 'xxx.'
 
