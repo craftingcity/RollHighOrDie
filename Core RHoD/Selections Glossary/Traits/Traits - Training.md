@@ -50,7 +50,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are in wilderness
+- While you are in wilderness, when you make an Athletics, Stealth 
 
 ## XXX
 ###### REQ: 2EXP
