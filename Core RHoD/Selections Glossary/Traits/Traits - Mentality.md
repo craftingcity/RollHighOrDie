@@ -85,7 +85,7 @@
 
 - When you take the Detect action for the first time on your turn, it costs no Action Points.
 
-## Nose for Trouble
+## Sense for Trouble
 ###### REQ: 2EXP
 'xxx.'
 

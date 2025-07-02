@@ -40,11 +40,11 @@
 
 - While you are imposing the 'Grappled' [[Ailment]] on another creature, when you are the target of an Attack, make an Athletics Check. If the result is 14 or greater, the 'Grappled' creature is the target of the Attack instead.
 
-## XXX
+## Urban Combatant
 ###### REQ: 2EXP
 'xxx.'
 
-## XXX
+## Wilderness Combatant
 ###### REQ: 2EXP
 'xxx.'
 
