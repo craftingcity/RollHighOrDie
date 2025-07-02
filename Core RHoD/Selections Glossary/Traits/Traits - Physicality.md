@@ -112,7 +112,8 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- You may use your Acrobatics 
+- You may use your Acrobatics Skill instead of your Athletics Skill while imposing or resolving the 'Grappled' [[Ailment]].
+- When you resolve the 'Grappled' [[Ailment]], you
 
 ## XXX
 ###### REQ: 2EXP
