@@ -136,9 +136,11 @@
 
 ### Magnetism
 #### *2EXP*
-## XXX
+## Quick Witted
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make a Deception Skill Check, you may add your Intelligence or Wisdom Modifier to the result, whichever is greater.
 
 ## XXX
 ###### REQ: 2EXP
