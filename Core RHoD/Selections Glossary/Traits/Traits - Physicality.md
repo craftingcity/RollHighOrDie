@@ -109,11 +109,11 @@
 - When you gain Action Points at the beginning of your turn, the number of Action Points you gain is increased by 1.
 
 ## Escapist
-###### REQ: 2EXP
+###### REQ: 4EXP
 'xxx.'
 
 - You may use your Acrobatics Skill instead of your Athletics Skill while imposing or resolving the 'Grappled' [[Ailment]].
-- When you resolve the 'Grappled' [[Ailment]], you impose the 'Spotted' [[Ailment]] on the creature imposed 'Grappled' you.
+- When you resolve the 'Grappled' [[Ailment]], you impose the 'Spotted' [[Ailment]] on the creature that imposed the 'Grappled' [[Ailment]] on you.
 
 ## XXX
 ###### REQ: 2EXP
