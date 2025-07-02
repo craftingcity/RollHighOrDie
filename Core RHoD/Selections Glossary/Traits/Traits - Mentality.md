@@ -144,11 +144,11 @@
 
 - When you make a Deception Skill Check, you may add your Intelligence or Wisdom Modifier to the result, whichever is greater.
 
-## Friendly
+## Trustworthy
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a Diplomacy Skill Check
+- When you make a Diplomacy Skill Check, you treat a roll of 7 or less as an 8.
 
 ## XXX
 ###### REQ: 2EXP
