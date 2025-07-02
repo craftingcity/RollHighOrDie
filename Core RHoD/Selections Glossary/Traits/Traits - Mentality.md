@@ -85,9 +85,11 @@
 
 - When you take the Detect action for the first time on your turn, it costs no Action Points.
 
-## XXX
+## Nose for Trouble
 ###### REQ: 2EXP
 'xxx.'
+
+- When you Roll for Initiative, you may add your Intelligence or Wisdom Modifier to the result, whichever is greater.
 
 ## XXX
 ###### REQ: 2EXP
