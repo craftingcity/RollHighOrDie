@@ -144,9 +144,11 @@
 
 - When you make a Deception Skill Check, you may add your Intelligence or Wisdom Modifier to the result, whichever is greater.
 
-## XXX
+## Confident Voice
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make a Diplomacy Skill Check
 
 ## XXX
 ###### REQ: 2EXP
