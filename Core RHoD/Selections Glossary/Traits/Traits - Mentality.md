@@ -10,7 +10,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a History Skill Check while you are recalling world-level knowledge, you treat a roll of 7 or less as an 8.
+- When you make a History Knowledge Check while you are recalling world-level knowledge, you treat a roll of 7 or less as an 8.
 
 ## XXX
 ###### REQ: 2EXP
@@ -29,9 +29,13 @@
 ###### REQ: 2EXP
 'xxx.'
 
+- When you make a Natural Knowledge Check while you are identifying an organism, you treat a roll of 7 or less as an 8.
+
 ## Theologist
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make a 
 
 ## XXX
 ###### REQ: 2EXP
