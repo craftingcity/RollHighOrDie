@@ -80,7 +80,7 @@
 ###### REQ: 6EXP
 'xxx.'
 
-- When you finish Resting
+- You have 
 
 ## XXX
 ###### REQ: 2EXP
