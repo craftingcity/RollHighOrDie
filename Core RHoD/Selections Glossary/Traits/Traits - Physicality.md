@@ -35,7 +35,7 @@
 ###### REQ: 4EXP
 'xxx.'
 
-- While your Current Vitality is equal to or less than half of your Maximum Vitality, you deal an amount of additional damage equal to your Strength Modifier.
+- While your Current Vitality is equal to or less than half of your Maximum Vitality, when you deal damage to another creature, you deal an amount of additional damage equal to your Strength Modifier.
 
 ## XXX
 ###### REQ: 2EXP
