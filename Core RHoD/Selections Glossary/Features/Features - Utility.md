@@ -103,7 +103,7 @@ You may only use this feature a number of times between Rests equal to your Char
 #### *1 EXP*
 ## Goad
 ###### REQ: 1EXP
-###### 1 AP
+###### 2 AP
 'xxx.'
 
 Target a creature you can see that is not 'Engaged'. Make an Intimidation Check against that creature's Will.
