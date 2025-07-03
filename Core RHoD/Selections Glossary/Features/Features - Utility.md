@@ -66,11 +66,12 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 'xxx.'
 
 #### *5 EXP*
-## 
+## Comradery
 ###### REQ: 1EXP
-###### W AP
-###### USE: Melee Weapon
+###### 0 AP
 'xxx.'
+
+
 
 ## XXX
 ###### REQ: 1EXP
