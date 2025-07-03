@@ -76,9 +76,11 @@
 - You gain +2 to your Reflex, Fortitude, and Will Defenses.
 - You gain +2 to Attack Rolls you make.
 
-## True 
-###### REQ: 2EXP
+## Talented Tactician
+###### REQ: 6EXP
 'xxx.'
+
+- When you finish Resting
 
 ## XXX
 ###### REQ: 2EXP
