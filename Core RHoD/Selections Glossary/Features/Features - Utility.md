@@ -71,7 +71,7 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 ###### 0 AP
 'xxx.'
 
-Whe
+When you finish Resting, the number of Comrade Tokens you have becomes equal to your Charisma Modifier.
 
 ## XXX
 ###### REQ: 1EXP
