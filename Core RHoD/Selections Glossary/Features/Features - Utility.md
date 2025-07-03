@@ -71,7 +71,7 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 ###### 0 AP
 'xxx.'
 
-
+Whe
 
 ## XXX
 ###### REQ: 1EXP
