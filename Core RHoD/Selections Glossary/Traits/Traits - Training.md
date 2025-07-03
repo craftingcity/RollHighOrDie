@@ -81,7 +81,7 @@
 'xxx.'
 
 - When you finish Resting, the number of Tactical Tokens you have becomes 0, and then you gain a number of Tactical Tokens equal to your Intelligence Modifier.
-- On your turn, you may spend a Tactical Token. When you do, choose an ally you can see. That ally 
+- On your turn, you may spend a Tactical Token. When you do, choose an ally you can see. When that ally next gains Action Points on their turn, they gain 1 additional Action Point.
 
 ## XXX
 ###### REQ: 2EXP
