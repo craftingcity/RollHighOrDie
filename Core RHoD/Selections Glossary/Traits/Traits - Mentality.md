@@ -10,7 +10,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a History Skill Check while you are 
+- When you make a History Skill Check while you are recalling 
 
 ## Tactician
 ###### REQ: 2EXP
