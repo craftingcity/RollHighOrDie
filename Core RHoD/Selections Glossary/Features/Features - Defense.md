@@ -98,7 +98,7 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
 
-You may only use this feature 
+You may only use this feature once between Rests.
 
 ## Tank Those
 ###### REQ: 5EXP, Hardened Stance
