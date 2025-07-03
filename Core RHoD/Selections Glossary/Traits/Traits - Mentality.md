@@ -10,7 +10,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a History Skill Check while you are recalling 
+- When you make a History Skill Check while you are recalling world-level knowledge, you treat a roll of 7 or less as an 8.
 
 ## Tactician
 ###### REQ: 2EXP
