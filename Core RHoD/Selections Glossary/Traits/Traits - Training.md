@@ -80,7 +80,8 @@
 ###### REQ: 6EXP
 'xxx.'
 
-- When you finish Resting, you gain a number of Tactical Tokens equal to your Intelligence Modifier. You cannot gain more Tokens than
+- When you finish Resting, the number of Tactical Tokens you have becomes 0, and then you gain a number of Tactical Tokens equal to your Intelligence Modifier.
+- On your turn, you may spend a Tactical Token. When you do, choose an ally you can see. That ally 
 
 ## XXX
 ###### REQ: 2EXP
