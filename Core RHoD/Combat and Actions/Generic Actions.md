@@ -64,14 +64,14 @@ You manipulate an object.
 > 	- OPEN: You open a door, container, or similar object.
 > 	- CLOSE: You close a door, container, or similar object.
 > 	- PREP: You prepare the item for further use.
-> 	- FORCE: You attempt to force a non-willing creature to become willing.
+> 	- FORCE: You attempt to force a non-willing creature to become willing. (Intimidation)
 > 	- APPLY: You apply the item to yourself, another willing adjacent creature you can see, or an adjacent object.
 > 	- INJEST: You ingest the item.
 > 	- FEED: You feed the item to another willing adjacent creature you can see.
 > 	- WRAP: You wrap the item around something.
-> 	- LOCATE: You spend time feeling or visually searching for a fine detail.
+> 	- LOCATE: You spend time feeling or visually searching for a fine detail. (Investigation)
 > 	- LIGHT: You light an object aflame.
-> 	- TIE: You tie a knot.
+> 	- TIE: You tie a knot. (Sleight of Hand)
 
 ## Reload
 ###### 2 AP

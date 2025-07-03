@@ -98,7 +98,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "6058dda39abafb74",
@@ -201,6 +201,20 @@
             }
           },
           {
+            "id": "47b3b96a559729e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Defense"
+            }
+          },
+          {
             "id": "3ad04a90083a162f",
             "type": "leaf",
             "state": {
@@ -247,7 +261,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"once ",
+                "query": "\"between",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -370,17 +384,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89f131935d1f6b26",
+  "active": "47b3b96a559729e9",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Defenses.md",
