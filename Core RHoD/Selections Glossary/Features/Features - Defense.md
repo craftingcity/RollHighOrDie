@@ -7,7 +7,7 @@
 
 Expend up to two Hit Die. For each Hit Die, you regain the number rolled plus your Constitution Modifier as Vitality.
 
-## Ready Shield
+## Raise Shield
 ###### REQ: 1EXP
 ###### 1 AP
 ###### USE: Shield
@@ -17,10 +17,9 @@ Until the beginning of your next turn, you gain +2 to your Reflex and Will Defen
 
 You may only use this Feature once per turn.
 
-## Stay Loose
+## Stay Ready
 ###### REQ: 1EXP
 ###### 2 AP
-###### USE: Armor - Light
 'xxx.'
 
 Until the beginning of your next turn, you gain +4 to your Reflex Defense.
@@ -30,7 +29,6 @@ You may only use this Feature once per turn.
 ## Brace
 ###### REQ: 1EXP
 ###### 2 AP
-###### USE: Melee Weapon
 'xxx.'
 
 Until the beginning of your next turn, you gain +4 to your Fortitude Defense.
@@ -40,7 +38,6 @@ You may only use this Feature once per turn.
 ## Stay Calm 
 ###### REQ: 1EXP
 ###### 2 AP
-###### USE: Melee Weapon
 'xxx.'
 
 Until the beginning of your next turn, you gain +4 to your Will Defense.
@@ -98,7 +95,7 @@ Until the beginning of your next turn, when you are the target of a Melee Weapon
 
 You gain a number of stacks of the 'Regeneration' [[Emboldenment]] equal to your Constitution Modifier or 1, whichever is greater.
 
-You may only use this feature once between Rests.
+You may only use this feature a number of times between Rests equal to your Constitution Modifier.
 
 ## Tank Those
 ###### REQ: 5EXP, Hardened Stance
@@ -188,9 +185,9 @@ Make a Maneuver.
 ###### USE: Armor - Light
 'xxx.'
 
-You may use this feature instead of making a Maneuver. 
-
 You run 15'.
+
+
 
 ## Slide Dash
 ###### REQ: 1EXP
