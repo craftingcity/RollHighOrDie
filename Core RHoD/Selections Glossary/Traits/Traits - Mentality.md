@@ -10,6 +10,8 @@
 ###### REQ: 2EXP
 'xxx.'
 
+- When you make a History Skill Check 
+
 ## Tactician
 ###### REQ: 2EXP
 'xxx.'
