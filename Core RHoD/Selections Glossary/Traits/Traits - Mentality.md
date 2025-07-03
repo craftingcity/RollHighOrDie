@@ -50,7 +50,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you 
+- 
 
 ## XXX
 ###### REQ: 2EXP
