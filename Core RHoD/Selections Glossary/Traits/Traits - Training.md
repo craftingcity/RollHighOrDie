@@ -33,21 +33,21 @@
 - When you take the Reload Action on your turn, it costs you 1 less Action Point.
 
 #### *4EXP*
-## Hostile Shield
-###### REQ: 2EXP
+## Living Shield
+###### REQ: 4EXP
 ###### USE: Grappling another creature
 'xxx.'
 
 - While you are imposing the 'Grappled' [[Ailment]] on another creature, when you are the target of an Attack, make an Athletics Check. If the result is 14 or greater, the 'Grappled' creature is the target of the Attack instead.
 
 ## Urban Native
-###### REQ: 2EXP
+###### REQ: 4EXP
 'xxx.'
 
 - While you are inside city limits, when you make an Athletics or Stealth Skill Check, you may make a Streetwise Skill Check instead.
 
 ## Wilderness Native
-###### REQ: 2EXP
+###### REQ: 4EXP
 'xxx.'
 
 - While you are in wilderness, when you make an Athletics or Stealth Skill Check, you may make a Bushcraft Profession Check instead.
