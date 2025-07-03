@@ -187,7 +187,7 @@ Make a Maneuver.
 
 You run 15'.
 
-
+This feature is a Maneuver.
 
 ## Slide Dash
 ###### REQ: 1EXP
@@ -195,9 +195,9 @@ You run 15'.
 ###### USE: Armor - Light
 'xxx.'
 
-You may use this feature instead of making a Maneuver.
-
 You run 5', then change your Stance to Prone.
+
+This feature is a Maneuver.
 
 ## Tuck-n-Roll
 ###### REQ: 1EXP
@@ -205,9 +205,9 @@ You run 5', then change your Stance to Prone.
 ###### USE: Armor - Light
 'xxx.'
 
-You may use this feature instead of making a Maneuver.
-
 You run 5', then change your Stance to Crouched.
+
+This feature is a Maneuver.
 
 ## Stay In Formation
 ###### REQ: 1EXP
@@ -223,7 +223,7 @@ You may use this feature only once per turn.
 ## Painrush
 ###### REQ: 5EXP
 ###### 2 AP
-'When something hurts, you move. Getting out, getting in, the pain moves your body anyways.'
+'When something hurts, you move. Getting out, getting in, the pain moves your body just how you need it to.'
 
 Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it hits you, you may immediately make a Maneuver.
 
