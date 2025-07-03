@@ -76,7 +76,7 @@
 - You gain +2 to your Reflex, Fortitude, and Will Defenses.
 - You gain +2 to Attack Rolls you make.
 
-## XXX
+## True 
 ###### REQ: 2EXP
 'xxx.'
 
