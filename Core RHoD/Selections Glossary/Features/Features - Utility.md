@@ -71,9 +71,9 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 ###### 0 AP
 'xxx.'
 
-When you finish Resting, the number of Comrade Tokens you have becomes equal to your Charisma Modifier.
+Choose an ally you can see. You impose three stacks of the 'Encouraged' [[Emboldenment]] on that ally.
 
-Target an ally you can see, and spend a Comrade Token. When you do, you impose a stack of the 'Encouraged' [[Emboldenment]] .
+You may only use this feature a number of times between Rests equal to your Charisma Modifier.
 
 ## XXX
 ###### REQ: 1EXP
@@ -106,9 +106,9 @@ Target an ally you can see, and spend a Comrade Token. When you do, you impose a
 ###### 1 AP
 'xxx.'
 
-Target a creature you can see that is not Engaged. Make an Intimidation Check against that creature's Will.
+Target a creature you can see that is not 'Engaged'. Make an Intimidation Check against that creature's Will.
 
-If you succeed, you impose the Engaged [[Ailment]] on that creature until the beginning of your next turn.
+If you succeed, you impose the 'Engaged' [[Ailment]] on that creature until the beginning of your next turn.
 
 ## XXX
 ###### REQ: 1EXP
