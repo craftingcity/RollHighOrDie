@@ -17,7 +17,7 @@ While you have 'Regeneration', at the beginning of your turn, roll a Hit Die, ev
 While you are 'Rallied', when you next make an Attack Roll, you have advantage on that Attack. Then, you Naturally Resolve a stack of 'Rallied'.
 
 #### Encouraged
-While you are 'Encouraged', when you gain Action Points at the beginning of your turn, you gain an additional Action Point for each stack of 'Encouraged' you have. Then, you Naturally Resolve 
+While you are 'Encouraged', when you gain Action Points at the beginning of your turn, you gain an additional Action Point for each stack of 'Encouraged' you have. Then, you Naturally Resolve any stacks of 'Encouraged' you have.
 
 ## Arcane Emboldenments
 ## Divine Emboldenments

@@ -73,6 +73,8 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 
 When you finish Resting, the number of Comrade Tokens you have becomes equal to your Charisma Modifier.
 
+Target an ally you can see, and spend a Comrade Token. When you do, you impose a stack of the 'Encouraged' [[Emboldenment]] .
+
 ## XXX
 ###### REQ: 1EXP
 ###### W AP
