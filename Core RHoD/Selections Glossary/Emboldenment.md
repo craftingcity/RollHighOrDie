@@ -14,9 +14,10 @@ While you are 'Pain Dulled', when you take damage, you may reduce the amount of 
 While you have 'Regeneration', at the beginning of your turn, roll a Hit Die, even if you have none, and do not expend it. You regain the number rolled as Vitality. Then, you Naturally Resolve a stack of 'Regeneration'.
 
 #### Rallied
-While you are 'Rallied', when you next make an Attack Roll, you have advantage on that Attack. Then, you Naturally Resolve this Emboldentment.
+While you are 'Rallied', when you next make an Attack Roll, you have advantage on that Attack. Then, you Naturally Resolve a stack of 'Rallied'.
 
 #### Encouraged
+While you are 'Encouraged', when you gain Action Points at the beginning of your turn, you gain an additional Action Point for each stack of 'Encouraged' you have. Then, you Naturally Resolve 
 
 ## Arcane Emboldenments
 ## Divine Emboldenments
