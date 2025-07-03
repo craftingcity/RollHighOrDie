@@ -16,5 +16,7 @@ While you have 'Regeneration', at the beginning of your turn, roll a Hit Die, ev
 #### Rallied
 While you are 'Rallied', when you next make an Attack Roll, you have advantage on that Attack. Then, you Naturally Resolve this Emboldentment.
 
+#### 
+
 ## Arcane Emboldenments
 ## Divine Emboldenments
