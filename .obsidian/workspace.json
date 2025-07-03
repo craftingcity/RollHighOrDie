@@ -159,6 +159,20 @@
             }
           },
           {
+            "id": "90b0489455f010ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Defense"
+            }
+          },
+          {
             "id": "5c4379ec9bc1399d",
             "type": "leaf",
             "state": {
@@ -187,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,7 +233,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cooking",
+                "query": "\"long rest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -342,15 +356,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21d9465b1a99a97e",
+  "active": "90b0489455f010ad",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Surviving.md",
