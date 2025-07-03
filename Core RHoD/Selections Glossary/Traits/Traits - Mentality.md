@@ -35,7 +35,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a 
+- When you make a Culture Knowledge Check while you are discussing religion, you treat a 7 or less as an 8.
 
 ## XXX
 ###### REQ: 2EXP
