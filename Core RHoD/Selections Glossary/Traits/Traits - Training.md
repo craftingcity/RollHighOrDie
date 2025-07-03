@@ -80,7 +80,7 @@
 ###### REQ: 6EXP
 'xxx.'
 
-- You have 
+- When you finish Resting, you gain a number of Tactical Tokens equal to your Intelligence Modifier. You cannot gain more Tokens than
 
 ## XXX
 ###### REQ: 2EXP
