@@ -45,12 +45,14 @@
 'xxx.'
 
 - While you are inside city limits, when you make an Athletics or Stealth Skill Check, you may make a Streetwise Skill Check instead.
+- This Trait is exclusive with the 'Wilderness Native' Trait.
 
 ## Wilderness Native
 ###### REQ: 4EXP
 'xxx.'
 
 - While you are in wilderness, when you make an Athletics or Stealth Skill Check, you may make a Bushcraft Profession Check instead.
+- This Trait is exclusive with the 'Urban Native' Trait.
 
 ## XXX
 ###### REQ: 2EXP
