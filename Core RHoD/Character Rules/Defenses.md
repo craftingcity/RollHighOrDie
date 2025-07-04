@@ -48,7 +48,7 @@ You have a number of Hit Die equal to half your TMK. Unless otherwise stated, th
 While you are not in an Encounter, you may expend any number of Hit Die you have to regain missing Vitality. When you expend a Hit Die this way, gain the number rolled plus your Constitution Modifier as Vitality.
 
 ###### Healing Wounds
-
+While you are 
 
 ###### Death Call
 When you make a Death Call, you are as far from control as you can be, and you will grow farther from it as your character continues to die.

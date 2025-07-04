@@ -85,7 +85,7 @@ Bloodbag has 3 Charges
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
 
-APPLY: You insert the needle into another willing adjacent creature you can see. That creature gains 2d4 + 1 stacks of the 'Regeneration' [[Emboldenment]].
+APPLY: You insert the needle into another willing adjacent creature you can see. That creature gains 1d4 + 1 stacks of the 'Regeneration' [[Emboldenment]].
 
 Creation: 
 	- 1 Watch spent at 18+ Alchemy, Herbalism, or Medical

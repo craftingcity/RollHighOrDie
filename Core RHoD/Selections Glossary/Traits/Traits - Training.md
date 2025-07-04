@@ -196,7 +196,7 @@
 ###### REQ: 4EXP
 'xxx.'
 
-- When you make a Medical Knowledge Check to stabilize
+- When you make a Medical Knowledge Check to resolve a Wound, you treat a roll of 7 or less as an 8.
 - This Trait inherits and replaces the 'Healer' Training Trait.
 
 ## XXX
