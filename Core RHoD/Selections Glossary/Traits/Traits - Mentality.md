@@ -54,6 +54,8 @@
 ###### REQ: 2EXP
 'xxx.'
 
+- The number of Watches you must spend using a Professional Skill to become eligible to gain a Degree of Proficiency in that Skill is hal
+
 ## XXX
 ###### REQ: 2EXP
 'xxx.'
