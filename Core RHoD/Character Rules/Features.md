@@ -8,7 +8,7 @@ For ease of presentation, Features are categorized by their "source of power" an
 CORE
 - [[Features - Offense]] (33 / '45')
 - [[Features - Defense]] (30 / '45')
-- [[Features - Utility]] (7 / '45')
+- [[Features - Utility]] (8 / '45')
 
 MAGIC EXPANSION
 - [[Features - Arcane]]
