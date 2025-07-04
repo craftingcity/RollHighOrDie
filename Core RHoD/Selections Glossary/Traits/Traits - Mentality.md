@@ -54,7 +54,8 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- The number of Watches you must spend using a Professional Skill to become eligible to gain a Degree of Proficiency in that Skill is hal
+- The number of Watches you must spend using a Professional Skill to become eligible to gain a Degree of Proficiency in that Skill is halved.
+- The Experience cost of improving your Degree of Proficiency in a Knowledge or Professional Skill is
 
 ## XXX
 ###### REQ: 2EXP
