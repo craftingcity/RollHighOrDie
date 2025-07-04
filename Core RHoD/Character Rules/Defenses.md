@@ -48,7 +48,7 @@ You have a number of Hit Die equal to half your TMK. Unless otherwise stated, th
 While you are not in an Encounter, you may expend any number of Hit Die you have to regain missing Vitality. When you expend a Hit Die this way, gain the number rolled plus your Constitution Modifier as Vitality.
 
 ###### Resolving Wounds
-Wounds are representative of significant 
+Wounds are representative of significant injury that, when left untreated, will. 
 
 While you are not in an Encounter, if you would gain any number of Hit Dice, you resolve that many Wounds instead.
 
