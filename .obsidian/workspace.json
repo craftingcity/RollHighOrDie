@@ -144,6 +144,20 @@
         "dimension": 61.72638436482085,
         "children": [
           {
+            "id": "dfe53c467f88bc44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Experience.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Experience"
+            }
+          },
+          {
             "id": "568dae12a78279de",
             "type": "leaf",
             "state": {
@@ -227,8 +241,7 @@
               "title": "Features - Utility"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -383,12 +396,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21d9465b1a99a97e",
+  "active": "1d875dd97f9279ef",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Character Rules/Surviving.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Character Rules/Defenses.md",
@@ -412,7 +426,6 @@
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "features.ods",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",

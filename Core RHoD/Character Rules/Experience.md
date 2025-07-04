@@ -22,7 +22,7 @@ Some Features are only useable under certain conditions, such as holding a certa
 While Resting, you may gain Traits by expending Experience.
 
 ### Improving Skills
-While Resting, you may gain or improve your Degree of Proficiency in a Skill by expending Experience.
+While Resting, you may gain or improve your Degree of Proficiency in a Skill by spending Experience.
 
 #### Combat Skills
 Increasing your Degree of Proficiency in any Combat Skill costs 2 Experience.
