@@ -5,7 +5,7 @@
 ###### 2 AP
 'You scream with the pride and rage of battle, emboldening your like-minded allies, and intimidating the others.'
 
-Make an Intimidation Skill Check against the Will Defense of any creatures within 30 feet of you who do not also have this Trait. If you succeed, you impose the 'Frightened' [[Ailment]] on those creatures.
+Make an Intimidation Skill Check against the Will Defense of any creatures within 30 feet of you who do not also have this Feature. If you succeed, you impose the 'Frightened' [[Ailment]] on those creatures.
 
 Allies within 30 feet of you may expend a Hit Die and regain the number rolled plus your Constitution Modifier as Vitality.
 
