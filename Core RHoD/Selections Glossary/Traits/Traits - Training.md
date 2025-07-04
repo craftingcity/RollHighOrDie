@@ -117,7 +117,7 @@
 
 - When you make an Investigation Skill Check to locate a trap or hidden door, you have Advantage on that Check.
 
-## XXX
+## Thief
 ###### REQ: 2EXP
 'xxx.'
 
