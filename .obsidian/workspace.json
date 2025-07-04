@@ -260,7 +260,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"inherits",
+                "query": "Wound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -383,7 +383,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e4706dc01a4cf50",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Character Rules/Defenses.md",
