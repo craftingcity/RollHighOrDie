@@ -48,7 +48,7 @@ You have a number of Hit Die equal to half your TMK. Unless otherwise stated, th
 While you are not in an Encounter, you may expend any number of Hit Die you have to regain missing Vitality. When you expend a Hit Die this way, gain the number rolled plus your Constitution Modifier as Vitality.
 
 ###### Resolving Wounds
-At the beginning of your turn during an Encounter, you may choose to make an Endurance Skill Check. If you do, you do not gain Action Points this turn. Instead, if the result is 14 or greater, you resolve a Wound, and if the result is 24 or greater, you resolve two Wounds.
+At the beginning of your turn during an Encounter, you may choose to make an Endurance Skill Check. If you do, you do not gain Action Points this turn. Then, if the result is 14 or greater, you resolve a Wound, and if the result is 24 or greater, you resolve two Wounds.
 
 While you are not in an Encounter, when you would regain any number of Hit Dice, for each Hit Die you would regain, you may choose to resolve a Wounds instead. If you do, you do not regain that Hit Die.
 
