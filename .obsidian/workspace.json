@@ -56,6 +56,20 @@
                 }
               },
               {
+                "id": "1d875dd97f9279ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Character Rules/Skills.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Skills"
+                }
+              },
+              {
                 "id": "2e4706dc01a4cf50",
                 "type": "leaf",
                 "state": {
@@ -371,18 +385,18 @@
   },
   "active": "21d9465b1a99a97e",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Core RHoD/Character Rules/Surviving.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Character Rules/Defenses.md",
-    "Core RHoD/Character Rules/Skills.md",
-    "Core RHoD/Character Rules/Surviving.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
