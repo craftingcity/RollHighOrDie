@@ -121,6 +121,8 @@
 ###### REQ: 2EXP
 'xxx.'
 
+- When you make a Sleight of Hand Skill Check to take an object from another person's inventory, you treat a roll of 7 or less as an 8.
+
 #### *4EXP*
 ## XXX
 ###### REQ: 2EXP
