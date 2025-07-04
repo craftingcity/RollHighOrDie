@@ -177,7 +177,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While it is your turn, when you cause a creature to gain any number of Vitality, they gain that number plus 4 instead.
+- While it is your turn, when you cause a creature to gain any number of Vitality, they gain that number plus twice your Wisdom Modifier instead.
 
 ## XXX
 ###### REQ: 2EXP
@@ -196,9 +196,8 @@
 ###### REQ: 4EXP
 'xxx.'
 
-
-
-This Trait inherits and replaces the 'Healer' Trait.
+- When you make a Medical Knowledge Check to stabilize
+- This Trait inherits and replaces the 'Healer' Training Trait.
 
 ## XXX
 ###### REQ: 2EXP
