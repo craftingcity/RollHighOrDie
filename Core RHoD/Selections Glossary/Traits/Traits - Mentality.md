@@ -50,7 +50,7 @@
 'xxx.'
 
 #### *6EXP*
-## Fast Reader
+## Fast Learner
 ###### REQ: 2EXP
 'xxx.'
 

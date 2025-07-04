@@ -7,19 +7,16 @@ At the conclusion of an Encounter, each participating character will gain a numb
 While Resting, a character may spend the Experience they have gained in exchange for a number of improvements.
 
 #### Total Mechanics Known
-The total number of [[Features]] and [[Traits]] a character has is often a eligibility requirement and is known as their Total Mechanics Known (TMK).
+The total number of [[Features]] and [[Traits]] a character has is known as their Total Mechanics Known (TMK).
 
-### Gaining Features
-While Resting, you may gain Features by expending Experience.
+### Gaining Features & Traits
+While Resting, you may gain Features and/or Traits by expending Experience.
 
-Each Feature has an indicated Experience cost. When you gain a Feature, reduce your current Experience by it's Experience cost.
+Each Feature and Trait has an indicated Experience cost. When you gain a Feature or Trait, reduce your current Experience by it's Experience cost.
 
-Some Features have Requirements that you must fulfill before you are eligible to gain that Feature.
+Some Features and Traits have Requirements that you must fulfill before you are eligible to gain that Feature or Trait.
 
 Some Features are only useable under certain conditions, such as holding a certain kind of Weapon or item, wearing a certain kind of Armor, or having a certain Condition or Character Status. If these conditions are not met, you cannot use that Feature at that time.
-
-### Gaining Traits
-While Resting, you may gain Traits by expending Experience.
 
 ### Improving Skills
 While Resting, you may gain or improve your Degree of Proficiency in a Skill by spending Experience.
