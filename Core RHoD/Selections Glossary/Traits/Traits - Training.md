@@ -196,7 +196,7 @@
 ###### REQ: 4EXP
 'xxx.'
 
-- When you make a Medical Knowledge Check to resolve a Wound, you treat a roll of 7 or less as an 8.
+- While it is your turn, when you cause a creature to gain any number of Vitality, they additionally regain a Hit Die.
 - This Trait inherits and replaces the 'Healer' Training Trait.
 
 ## XXX
