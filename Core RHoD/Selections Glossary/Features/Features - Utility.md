@@ -71,7 +71,7 @@ Target an ally who can hear you. Until the beginning of your next turn, that all
 ###### 0 AP
 'xxx.'
 
-Choose an ally you can see. You impose three stacks of the 'Encouraged' [[Emboldenment]] on that ally.
+Choose an ally you can see. You impose a number stacks of the 'Encouraged' [[Emboldenment]] on that ally equal to your Charisma Modifier.
 
 You may only use this feature a number of times between Rests equal to your Charisma Modifier.
 
