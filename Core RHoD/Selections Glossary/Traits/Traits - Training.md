@@ -192,9 +192,13 @@
 'xxx.'
 
 #### *4EXP*
-## XXX
-###### REQ: 2EXP
+## Doctor
+###### REQ: 4EXP
 'xxx.'
+
+
+
+This Trait inherits and replaces the 'Healer' Trait.
 
 ## XXX
 ###### REQ: 2EXP
