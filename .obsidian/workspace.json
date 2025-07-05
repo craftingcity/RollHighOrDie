@@ -69,8 +69,23 @@
               "icon": "lucide-file",
               "title": "Features - Offense"
             }
+          },
+          {
+            "id": "eb12d9972f3803ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Ability Scores.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ability Scores"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"req",
+                "query": "\"ability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,8 +240,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92adbd6762288398",
+  "active": "eb12d9972f3803ee",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
@@ -244,7 +261,6 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Sheet.md",
@@ -254,7 +270,6 @@
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "Core RHoD/Selections Glossary/Features/Features - Martial.md",
-    "Core RHoD/Selections Glossary/Features/Features - Communal.md",
     "features.ods",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
