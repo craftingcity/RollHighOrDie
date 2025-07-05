@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Ability Scores.md",
+                "file": "Core RHoD/Character Rules/Experience.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ability Scores"
+              "title": "Experience"
             }
           }
         ],
@@ -242,8 +242,8 @@
   },
   "active": "eb12d9972f3803ee",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Character Rules/Ability Scores.md",
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",

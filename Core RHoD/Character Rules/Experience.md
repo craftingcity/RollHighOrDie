@@ -1,7 +1,7 @@
 # Preamble
 Experience is the numerical representation of a character's accumulative knowledge and application of their abilities under pressure. Experience is awarded to characters as they face challenges, and is consumed as the character expands their abilities.
 
-At the conclusion of an Encounter, each participating character will gain a number of experience based on the relative difficulty of that Encounter.
+At the conclusion of an Encounter, each participating character will gain a number of Experience based on the relative difficulty of that Encounter.
 
 ## Spending Experience
 While Resting, a character may spend the Experience they have gained in exchange for a number of improvements.
@@ -17,6 +17,9 @@ Each Feature and Trait has an indicated Experience cost. When you gain a Feature
 Some Features and Traits have Requirements that you must fulfill before you are eligible to gain that Feature or Trait.
 
 Some Features are only useable under certain conditions, such as holding a certain kind of Weapon or item, wearing a certain kind of Armor, or having a certain Condition or Character Status. If these conditions are not met, you cannot use that Feature at that time.
+
+### Improving Ability Scores
+While Resting, you may improve your Ability Scores by spending 
 
 ### Improving Skills
 While Resting, you may gain or improve your Degree of Proficiency in a Skill by spending Experience.
