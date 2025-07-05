@@ -10,7 +10,7 @@ While Resting, a character may spend the Experience they have gained in exchange
 The total number of [[Features]] and [[Traits]] a character has is known as their Total Mechanics Known (TMK).
 
 ### Gaining Features & Traits
-While Resting, you may gain Features and/or Traits by expending Experience.
+While Resting, you may gain Features and/or Traits by spending Experience.
 
 Each Feature and Trait has an indicated Experience cost. When you gain a Feature or Trait, reduce your current Experience by it's Experience cost.
 
@@ -19,7 +19,9 @@ Some Features and Traits have Requirements that you must fulfill before you are 
 Some Features are only useable under certain conditions, such as holding a certain kind of Weapon or item, wearing a certain kind of Armor, or having a certain Condition or Character Status. If these conditions are not met, you cannot use that Feature at that time.
 
 ### Improving Ability Scores
-While Resting, you may improve your Ability Scores by spending 
+While Resting, you may improve your Ability Scores by spending Experience. 
+
+Increasing an Ability Score by 1 costs 3 Experience.
 
 ### Improving Skills
 While Resting, you may gain or improve your Degree of Proficiency in a Skill by spending Experience.
