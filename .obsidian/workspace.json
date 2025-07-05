@@ -111,23 +111,9 @@
               "icon": "lucide-file",
               "title": "Ability Scores"
             }
-          },
-          {
-            "id": "336540a89ae32fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Creating A Character.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Creating A Character"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -282,8 +268,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "336540a89ae32fb8",
+  "active": "4f0a8f13fc743aa4",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Defenses.md",
@@ -309,7 +296,6 @@
     "Core RHoD/Character Sheet.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
-    "Core RHoD/Environment Definitions.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
