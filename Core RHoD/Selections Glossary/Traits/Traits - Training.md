@@ -81,7 +81,7 @@
 'xxx.'
 
 - When you finish Resting, the number of Tactical Tokens you have becomes 0, and then you gain a number of Tactical Tokens equal to your Intelligence Modifier.
-- On your turn, you may spend a Tactical Token. When you do, choose an ally you can see. When that ally next gains Action Points on their turn, they gain 1 additional Action Point.
+- On your turn, you may spend a Tactical Token. When you do, choose an ally you can see. That ally gains a stack of the 'Encouraged' [[Emboldenment]].
 
 ## XXX
 ###### REQ: 2EXP
@@ -117,9 +117,11 @@
 
 - When you make an Investigation Skill Check to locate a trap or hidden door, you have Advantage on that Check.
 
-## XXX
+## Thief
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make a Sleight of Hand Skill Check to take an object from another person's inventory, you treat a roll of 7 or less as an 8.
 
 #### *4EXP*
 ## XXX
@@ -175,7 +177,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While it is your turn, when you cause a creature to gain any number of Vitality, they gain that number plus 4 instead.
+- While it is your turn, when you cause a creature to gain any number of Vitality, they gain that number plus twice your Wisdom Modifier instead.
 
 ## XXX
 ###### REQ: 2EXP
@@ -190,9 +192,12 @@
 'xxx.'
 
 #### *4EXP*
-## XXX
-###### REQ: 2EXP
+## Doctor
+###### REQ: 4EXP
 'xxx.'
+
+- While it is your turn, when you cause a creature to gain any number of Vitality, they additionally regain a Hit Die.
+- This Trait inherits and replaces the 'Healer' Training Trait.
 
 ## XXX
 ###### REQ: 2EXP

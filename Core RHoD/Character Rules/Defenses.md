@@ -32,7 +32,7 @@ If you take damage that would reduce your Armoring to less than 0, instead, it r
 Your character's Armoring will depend on your currently worn Equipment. 
 
 #### Vitality & Wounds
-When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, multiplied by your TMK.
+When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, multiplied by your Total Mechanics Known (TMK).
 
 When you take damage, if that damage would reduce your Vitality to a number less than 0, you take a Wound instead. When you take a Wound this way, expend a Hit Die and gain the number rolled plus your Constitution Modifier as Vitality.
 
@@ -47,16 +47,21 @@ You have a number of Hit Die equal to half your TMK. Unless otherwise stated, th
 
 While you are not in an Encounter, you may expend any number of Hit Die you have to regain missing Vitality. When you expend a Hit Die this way, gain the number rolled plus your Constitution Modifier as Vitality.
 
+###### Resolving Wounds
+At the beginning of your turn during an Encounter, you may choose to make an Endurance Skill Check. If you do, you do not gain Action Points this turn. Then, if the result is 14 or greater, you resolve a Wound, and if the result is 24 or greater, you resolve two Wounds.
+
+While you are not in an Encounter, when you would regain any number of Hit Dice, for each Hit Die you would regain, you may choose to resolve a Wounds instead. If you do, you do not regain that Hit Die.
+
 ###### Death Call
 When you make a Death Call, you are as far from control as you can be, and you will grow farther from it as your character continues to die.
 
-To make a Death call, roll a d20. Do not add any modifiers or values.
+To make a Death Call, roll a d20. Do not add any modifiers or values.
 
-If the result is 10 or greater, you succeed, and live for a moment longer.
+If the die roll is 10 or greater, you succeed, and live for a moment longer.
 
-If the result is 9 or fewer, you fail, and you gain a stack of the 'Exhausted' [[Condition]].
+If the die roll is 9 or fewer, you fail, and you gain a stack of the 'Exhausted' [[Condition]].
 
-If the result is 1, you die.
+If the die roll is 1, you die.
 
 ###### Damage Resistance (DR)
 Typed Damage Resistance is your resistance to harm caused by that Damage Type. True Damage Resistance is your resistance to any and all harm.

@@ -10,7 +10,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- When you make a History Skill Check while you are recalling world-level knowledge, you treat a roll of 7 or less as an 8.
+- When you make a History Knowledge Check while you are recalling world-level knowledge, you treat a roll of 7 or less as an 8.
 
 ## XXX
 ###### REQ: 2EXP
@@ -29,9 +29,13 @@
 ###### REQ: 2EXP
 'xxx.'
 
+- When you make a Natural Knowledge Check while you are identifying an organism, you treat a roll of 7 or less as an 8.
+
 ## Theologist
 ###### REQ: 2EXP
 'xxx.'
+
+- When you make a Culture Knowledge Check while you are discussing religion, you treat a 7 or less as an 8.
 
 ## XXX
 ###### REQ: 2EXP
@@ -46,9 +50,12 @@
 'xxx.'
 
 #### *6EXP*
-## XXX
+## Fast Learner
 ###### REQ: 2EXP
 'xxx.'
+
+- The number of Watches you must spend using a Professional Skill to become eligible to gain a Degree of Proficiency in that Skill is halved.
+- The Experience cost of improving your Degree of Proficiency in a Knowledge or Professional Skill is halved.
 
 ## XXX
 ###### REQ: 2EXP

@@ -4,6 +4,8 @@ Skills are the separate and specific areas of theoretical, practical, or applied
 ## Proficiency
 Proficiency has five Degrees, each of which represents a point in a range from 0 to 8. The Degrees of Proficiency are as follows; Untrained grants +0, Learning grants +2, Competent grants +4, Expert grants +6, and Master grants +8.
 
+> While Resting, you may gain or improve your Degree of Proficiency in a Skill by spending Experience. (see [[Experience]])
+
 When you make a Skill Check, make an Ability Check using the Skill's Core Ability, and add your Degree of Proficiency in that Skill.
 
 ## Combat Skills
@@ -103,7 +105,7 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Constitution
 #### Endurance
 > Endurance is the application of sustained effort over time.
-> Endurance is used in conjunction with other skills.
+> Endurance is used for resolving Wounds and in conjunction with other skills.
 
 ## Personal Skills
 ### Intelligence
