@@ -5,8 +5,9 @@ As a Player in the game of RHoD, you will act as a Character that you will work 
 1. Roll & Assign Ability Scores
 	1. Roll 4d6 and add three of the four dice.
 	2. Perform the above 6 times, noting the individual totals.
-	3. Assign the rolled totals as your Ability Scores.
-	4. Your Ability Score Modifier for a given Score is the value of that Ability Score divided by 2, and subtracted by 5.
+	- If the total of 
+	1. Assign the rolled totals as your Ability Scores.
+	2. Your Ability Score Modifier for a given Score is the value of that Ability Score divided by 2, and subtracted by 5.
 		- *Modifier = (Score / 2) - 5*
 2. Introduce your Character Concept to your Referee
 	1. Who is your character in the setting?

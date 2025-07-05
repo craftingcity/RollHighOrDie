@@ -18,7 +18,7 @@ Some Features are only useable under certain conditions, such as holding a certa
 ### Improving Ability Scores
 While Resting, you may improve your Ability Scores by spending Experience. 
 
-Increasing an Ability Score by 1 costs 3 Experience.
+Increasing an Ability Score by 1 costs 3 Experience. You cannot increase any Ability Score beyond 20.
 
 ### Improving Skills
 While Resting, you may gain or improve your Degree of Proficiency in a Skill by spending Experience.
