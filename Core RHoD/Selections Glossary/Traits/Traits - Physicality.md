@@ -90,9 +90,11 @@
 
 - When you make an Attack Roll against a creature who has not yet taken a turn during Encounter, you have Advantage on that Attack.
 
-## XXX
+## Jumper
 ###### REQ: 2EXP
 'xxx.'
+
+- While you are running, 
 
 ## XXX
 ###### REQ: 2EXP

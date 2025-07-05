@@ -4,69 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b761947ba884f07f",
+        "id": "71b1e691fb0b3464",
         "type": "tabs",
         "children": [
           {
-            "id": "f0bbbd7d9823538a",
+            "id": "c8996cb1d7c65a1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Generic Actions"
+              "title": "Traits - Physicality"
             }
           }
         ]
-      },
-      {
-        "id": "34c11dbf84e31b4d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc6a91500851b333",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "44133c2cd2427cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combat Definitions"
-            }
-          },
-          {
-            "id": "57008c490cd3fe4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Actions During Encounters"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,12 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57008c490cd3fe4a",
+  "active": "c8996cb1d7c65a1d",
   "lastOpenFiles": [
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "conflict-files-obsidian-git.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
+    "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Defenses.md",

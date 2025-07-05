@@ -141,5 +141,6 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 #### Liquid
 #### Freezable
 #### Frozen
+#### Open Air
 
 ## Weather
