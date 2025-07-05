@@ -8,7 +8,7 @@ For ease of presentation, Traits are categorized by their "source of power" and 
 - [[Traits - Training]] (18 / '45')
 
 #### Inherit and Replace
-When one ability "inherits and replaces" another, the first ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the new text of the first ability.
+When one ability "inherits and replaces" another, the new ability gains all text, properties, and effects of the requirement ability, effectively acting as the requirement ability plus the text of the new ability.
 
 #### Ineligible to Gain
 Unless otherwise stated, you may only ever gain a given Trait once.
