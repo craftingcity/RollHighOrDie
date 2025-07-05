@@ -83,9 +83,23 @@
               "icon": "lucide-file",
               "title": "Experience"
             }
+          },
+          {
+            "id": "60137d7616e3cb9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Defenses"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,10 +254,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "60137d7616e3cb9b",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Experience.md",
+    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Character Rules/Features.md",

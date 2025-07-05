@@ -32,7 +32,7 @@ If you take damage that would reduce your Armoring to less than 0, instead, it r
 Your character's Armoring will depend on your currently worn Equipment. 
 
 #### Vitality & Wounds
-When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, multiplied by your Total Mechanics Known (TMK).
+When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, multiplied by your ==XXX==.
 
 When you take damage, if that damage would reduce your Vitality to a number less than 0, you take a Wound instead. When you take a Wound this way, expend a Hit Die and gain the number rolled plus your Constitution Modifier as Vitality.
 
@@ -43,7 +43,7 @@ When you have more Wounds than the value of your Constitution Modifier, at the b
 If you ever have a number of Wounds equal to your Constitution Score, you die.
 
 ###### Hit Die & Recovering Vitality
-You have a number of Hit Die equal to half your TMK. Unless otherwise stated, these Hit Die are d6's. 
+You have a number of Hit Die equal to ==XXX==. Unless otherwise stated, these Hit Die are d6's. 
 
 While you are not in an Encounter, you may expend any number of Hit Die you have to regain missing Vitality. When you expend a Hit Die this way, gain the number rolled plus your Constitution Modifier as Vitality.
 

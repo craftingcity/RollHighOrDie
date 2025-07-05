@@ -6,9 +6,6 @@ At the conclusion of an Encounter, each participating character will gain a numb
 ## Spending Experience
 While Resting, a character may spend the Experience they have gained in exchange for a number of improvements.
 
-#### Total Mechanics Known
-The total number of [[Features]] and [[Traits]] a character has is known as their Total Mechanics Known (TMK).
-
 ### Gaining Features & Traits
 While Resting, you may gain Features and/or Traits by spending Experience.
 
