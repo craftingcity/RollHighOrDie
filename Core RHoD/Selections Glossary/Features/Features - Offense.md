@@ -1,7 +1,7 @@
 ### Martial
 #### *1 EXP*
 ## Engage
-###### REQ: 1EXP
+###### REQ: 1EXP, STR 13
 ###### W AP
 ###### USE: Melee Weapon
 'You will be their biggest threat, and they need to know it.'
@@ -13,7 +13,7 @@ Make an Attack Roll against that target's Will. If you hit, you deal your Weapon
 You may not use this feature again until your target is no longer 'Engaged'.
 
 ## Riposte
-###### REQ: 1EXP
+###### REQ: 1EXP, STR 13+
 ###### W AP
 ###### USE: Melee Weapon - Light or Quick
 'You see the fighting style of your opponent, and know you can use it to your advantage to gain a strike.'
