@@ -34,7 +34,7 @@ Your character's Armoring will depend on your currently worn Equipment.
 #### Vitality & Wounds
 When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, multiplied by your Constitution Score.
 
-`this looks weird, but the math `
+`this looks weird, but the math works out? never negative, but the jumps are weird. 1 through 13 are MOD as HP, 14/15 is 28/30, 16/17 is 32/34, and so on. having at least +2 co`
 
 When you take damage, if that damage would reduce your Vitality to a number less than 0, you take a Wound instead. When you take a Wound this way, expend a Hit Die and gain the number rolled plus your Constitution Modifier as Vitality.
 
