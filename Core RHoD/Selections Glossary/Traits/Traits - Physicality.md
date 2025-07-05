@@ -94,7 +94,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are running, if you are not wearing Heavy Armor, you do not stop 
+- While you are running, if you are not wearing Heavy Armor, you may pass over a number of spaces designated as 'Open Air' Terrain equal to your Dexterity Modifier.
 
 ## XXX
 ###### REQ: 2EXP

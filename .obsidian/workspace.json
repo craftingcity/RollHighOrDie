@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71b1e691fb0b3464",
+        "id": "f510f7daef8f4b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "c8996cb1d7c65a1d",
+            "id": "dd7a4b40afcd32f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Traits - Physicality"
+              "title": "New tab"
             }
           }
         ]
@@ -176,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8996cb1d7c65a1d",
+  "active": "dd7a4b40afcd32f6",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
@@ -187,7 +184,6 @@
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
