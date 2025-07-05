@@ -21,3 +21,6 @@ Actions, mechanically, are the [[Features]], [[Traits]], or [[Generic Actions]] 
 During *Initiative*, at the beginning of a character's turn, they gain a number of Action Points equal to half their Dexterity Score. A character may take as many [[#Actions]] as they can pay for on their turn.
 
 At the End of a character's turn, any remaining Action Points are lost. A character may not spend Action Points during another character's turn.
+
+## Situational Actions
+When the Action you want to take is not described in mechanical text, talk with your Referee. Together, you can 
