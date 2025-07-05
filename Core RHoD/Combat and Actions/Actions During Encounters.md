@@ -22,8 +22,5 @@ During *Initiative*, at the beginning of a character's turn, they gain a number 
 
 At the End of a character's turn, any remaining Action Points are lost. A character may not spend Action Points during another character's turn.
 
-### Jumping
-
-
 ## Improvised Actions
 When the Action you want to take is not described in mechanical text, talk with your Referee. Together, you can decide on the cost and consequence of your Improvised Action.
