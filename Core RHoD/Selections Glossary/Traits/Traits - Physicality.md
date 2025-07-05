@@ -94,7 +94,7 @@
 ###### REQ: 2EXP
 'xxx.'
 
-- While you are running, 
+- While you are running, if you are not wearing Heavy Armor, you do not stop 
 
 ## XXX
 ###### REQ: 2EXP
