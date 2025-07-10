@@ -160,11 +160,21 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 
 ## Professional Skills
 ### Strength
+#### Masonry
+> Masonry is the skillset applied while working with stone and creating items with it.
+#### Smithing
+> Smithing is the skillset applied while working with metal and creating items with it.
+#### Woodworking
+> Woodworking is the skillset applied while working with wood and creating items with it.
 ### Dexterity
 #### Crafting
 > Crafting is the skillset applied while creating simple physical objects through the use of tools.
 #### Jeweling
 > Jeweling is the skillset applied while creating fine jewelry.
+#### Riding
+> Riding is the skillset applied while working with trained animals to transport yourself or others.
+#### Weaving
+> Weaving is the skillset applied while working with fabric and creating items with it.
 ### Constitution
 #### Leatherworking
 > Leatherworking is the skillset applied while working with leather and creating items with it.
@@ -181,23 +191,5 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Charisma
 #### Artistry
 > Artistry is the skillset applied while creating physical static art, such as a painting.
-
-
-
-
-
-
-
-
-#### Masonry
-> Masonry is the skillset applied while working with stone and creating items with it.
-#### Smithing
-> Smithing is the skillset applied while working with metal and creating items with it.
 #### Performance
 > Performance is the skillset applied while creating fluid inter-personal art, such as a play.
-#### Riding
-> Riding is the skillset applied while working with trained animals to transport yourself.
-#### Woodworking
-> Woodworking is the skillset applied while working with wood and creating items with it.
-#### Weaving
-> Weaving is the skillset applied while working with fabric and creating items with it.
