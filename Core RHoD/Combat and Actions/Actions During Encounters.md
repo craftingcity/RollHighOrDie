@@ -1,7 +1,7 @@
 # Preamble
 When you find yourself in a situation that you recognize as dangerous, your body begins to pump adrenaline through your veins. As you begin to consciously analyze your surroundings, your body will prepare itself for immediate action and reaction.
 
-In our game of RHoD, your character will find themselves in dangerous situations commonly. During a time when your character's mortal life could be threatened, or you are entering a hazardous space, your Referee may [[#Call for Initiative]], and begin to section time into [[#Round]]s. This portion of our game is known as an *Encounter*.
+In our game of RHoD, your character will find themselves in dangerous situations commonly. During a time when your character's mortal life could be threatened, or you are entering a hazardous environment, your Referee may [[#Call for Initiative]], and begin to section time into [[#Round]]s. This portion of our game is known as an *Encounter*.
 
 During each [[#Round]], you will take [[#Actions]] as your character in an attempt to complete your goal or otherwise resolve the *Encounter*.
 
