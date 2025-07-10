@@ -1,5 +1,5 @@
 # Preamble
-All things are effected by their environment, your Characters especially so. 
+All things are effected by their environment, your Characters especially so. The following sections discuss the specific rules that apply in a given space within an environment.
 
 ### Rules for Environments
 ## Lighting
@@ -28,6 +28,7 @@ Darkness is little to no light, where you cannot reasonably be certain of what y
 While you are in a space lit by Darkness, you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks. In addition, you impose Disadvantage on Attacks against you.
 
 ## Terrain
+Terrain is the ground we walk and build upon. 
 #### Solid Terrain
 #### Shifting Terrain
 #### Difficult Terrain
