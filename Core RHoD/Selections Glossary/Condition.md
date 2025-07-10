@@ -12,7 +12,7 @@ After a Condition, Ailment, or Emboldenment has Resolved, you are no longer unde
 While you are 'Well Rested', when you make an Ability Check, you may grant yourself Advantage if you do not already have it. When you do so, you Naturally Resolve this Condition.
 
 #### Unconscious
-While you are 'Unconscious', you cannot take Actions. At the beginning of your turn, if you are not in the Prone Stance, you enter the Prone Stance.
+While you are 'Unconscious', you cannot take Actions. At the beginning of your turn, if you are not Prone, you are forced Prone.
 
 At the beginning of your turn, make a Wisdom Check. If the result is equal to or greater than 14, you Manually Resolve this Condition.
 

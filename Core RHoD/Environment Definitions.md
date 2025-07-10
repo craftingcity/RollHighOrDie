@@ -38,10 +38,10 @@ Solid Terrain has no mechanical benefits or deficits.
 #### Shifting Terrain
 Shifting Terrain can be walked upon at great difficulty at the risk of falling Prone. Shifting Terrain is typically a natural phenomenon, or as a simply constructed trap. Examples of Shifting Terrain include loose rocks, wet soil and sand, or slippery stone or metal.
 
-When you move into Shifting Terrain, make an Acrobatics Skill Check. If the result is less than 12, you 
+When you run into Shifting Terrain, make an Acrobatics Skill Check. If the result is less than 12, you are forced Prone.
 
 #### Difficult Terrain
-
+Difficult Terrain can be walked upon at great effort. Difficult Terrain is a typically natural phenomenon. Examples of Difficult Terrain include thick bushes
 
 #### Open Air
 #### Flammable

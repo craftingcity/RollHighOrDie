@@ -55,37 +55,8 @@
               "icon": "lucide-file",
               "title": "Environment Definitions"
             }
-          },
-          {
-            "id": "e3821435a5605245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Generic Actions"
-            }
-          },
-          {
-            "id": "f826e70005091bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Defense"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,15 +211,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f826e70005091bda",
+  "active": "42e93ac44e6ef21d",
   "lastOpenFiles": [
     "Core RHoD/Combat and Actions/Generic Actions.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Character Rules/Defenses.md",
@@ -262,7 +234,6 @@
     "conflict-files-obsidian-git.md",
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Armors.md",

@@ -84,7 +84,7 @@ Until the beginning of your next turn, you cannot be pushed out of the space you
 ###### 2 AP
 'xxx.'
 
-Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you may push your Attacker into Prone Stance.
+Until the beginning of your next turn, when you are the target of a Melee Weapon Attack, if it does not hit you, you force your Attacker Prone.
 
 #### *5 EXP*
 ## Bloody Regeneration
