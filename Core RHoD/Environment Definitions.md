@@ -1,5 +1,5 @@
 # Preamble
-For 
+All things are effected by their environment, your Characters especially so. 
 
 ### Rules for Environments
 ## Lighting
