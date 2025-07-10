@@ -111,9 +111,23 @@
               "icon": "lucide-file",
               "title": "Ability Scores"
             }
+          },
+          {
+            "id": "7db8417573a219a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combat Definitions"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"gain +",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,10 +282,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f0a8f13fc743aa4",
+  "active": "0247e8944cc1bc7b",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Ability Scores.md",
+    "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Character Rules/Traits.md",
