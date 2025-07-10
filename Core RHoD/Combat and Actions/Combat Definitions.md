@@ -20,7 +20,7 @@ When you make an Attack, you must first establish Line of Sight with your target
 When you make an attack, if the space you occupy is above the space your target occupies, you have Advantage on attack.
 
 ###### Environmental Damage
-When a character is pushed, if they are pushed into an object or wall they cannot pass through, they take 1d6 True Force Damage for every 5ft they cannot be pushed.
+When a character is pushed, if they are pushed into an object or barrier they cannot pass through, they take 1d6 True Force Damage for every 5ft they cannot be pushed.
 
 While falling, at the beginning of their turn, gravity pushes a character 15' downward for every round they have been falling.
 
