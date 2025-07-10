@@ -11,10 +11,14 @@
             "id": "6147a5e50c13b5bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Skills.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Skills"
             }
           }
         ]
