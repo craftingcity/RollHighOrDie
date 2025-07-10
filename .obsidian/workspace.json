@@ -111,23 +111,9 @@
               "icon": "lucide-file",
               "title": "Ability Scores"
             }
-          },
-          {
-            "id": "7db8417573a219a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combat Definitions"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,19 +268,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0247e8944cc1bc7b",
+  "active": "60137d7616e3cb9b",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Ability Scores.md",
+    "Core RHoD/Combat and Actions/Combat Definitions.md",
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Character Rules/Skills.md",
