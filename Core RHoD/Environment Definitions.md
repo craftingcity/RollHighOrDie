@@ -31,7 +31,7 @@ While you are in a space lit by Darkness, you have Advantage on Stealth, Thiever
 Terrain is the ground we walk through and upon. Mechanically, each space of an environment is defined as one of the following types of Terrain.
 
 #### Solid Terrain
-Solid Terrain can be walked upon, but not throug
+Solid Terrain can be walked upon, and not through. Solid Terrain is used as the floors and walls of constructed buildings, common areas, and most . Examples of Solid Terrain include grass, concrete, stone, or metal. 
 
 #### Shifting Terrain
 #### Difficult Terrain
