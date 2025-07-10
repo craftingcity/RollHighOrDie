@@ -143,9 +143,10 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 > Intimidation is used in communications where the subjective truth is less relevant than your desires.
 
 ## Knowledge Skills
-+x hours with source
+### Intelligence
 #### Arcane
 > Arcane is the understanding of extra-natural phenomenon, such as the mystical or occult.
+### Wisd
 #### Bureaucracy
 > Bureaucracy is the understanding of organizational operation.
 #### Culture
