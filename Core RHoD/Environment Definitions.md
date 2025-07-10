@@ -41,7 +41,7 @@ Shifting Terrain can be walked upon at great difficulty at the risk of falling P
 When you run into Shifting Terrain, make an Acrobatics Skill Check. If the result is less than 12, you are forced Prone.
 
 #### Difficult Terrain
-Difficult Terrain can be walked upon at great effort. Difficult Terrain is a typically natural phenomenon. Examples of Difficult Terrain include thick bushes
+Difficult Terrain can be walked upon or through at great effort. Difficult Terrain is a typically natural phenomenon. Examples of Difficult Terrain include thick bushes or 
 
 #### Open Air
 #### Flammable
