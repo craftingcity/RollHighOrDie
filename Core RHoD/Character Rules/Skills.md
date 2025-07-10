@@ -146,13 +146,15 @@ Invocation Casting is a character's skill in the recreation and use of Defined S
 ### Intelligence
 #### Arcane
 > Arcane is the understanding of extra-natural phenomenon, such as the mystical or occult.
-### Wisd
+
+#### Engineering
+> Engineering is the understanding of physical mechanics.
+### Wisdom
 #### Bureaucracy
 > Bureaucracy is the understanding of organizational operation.
 #### Culture
 > Culture is the understanding of norms and ideology.
-#### Engineering
-> Engineering is the understanding of physical mechanics.
+
 #### Medical
 > Medical is the understanding of medical processes and effects.
 #### Natural
