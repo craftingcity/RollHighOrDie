@@ -33,10 +33,14 @@ Terrain is the ground we walk through and upon. Mechanically, each space of an e
 #### Solid Terrain
 Solid Terrain can be walked upon, and not through. Solid Terrain is used as the floors and walls of constructed buildings, common areas, and most open ground. Examples of Solid Terrain include grass, concrete, stone, or metal. 
 
+
+
 #### Shifting Terrain
-Shifting Terrain can be walked upon at great difficulty at the risk of falling Prone. Shifting Terrain is typically a natural phenomenon
+Shifting Terrain can be walked upon at great difficulty at the risk of falling Prone. Shifting Terrain is typically a natural phenomenon, or as a simply constructed trap. Examples of Shifting Terrain include loose rocks, wet soil and sand, or slippery stone or metal.
 
 #### Difficult Terrain
+
+
 #### Open Air
 #### Flammable
 #### Enflamed
