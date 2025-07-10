@@ -35,7 +35,7 @@ Your character's Armoring will depend on your currently worn Equipment.
 When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Modifier or 1, whichever is greater, multiplied by your Constitution Score.
 
 `this looks weird, but the math works out? never negative, but the jumps are weird. 
-`1 through 13 are MOD as HP, 14/15 SCR is 28/30 HP (+15/17), 16/17 SCR is 48/51 HP (+20/21), 18/19 SCR is 68/72 HP (+20/25), and so on. 
+`1 through 13 are MOD as HP, 14/15 SCR is 28/30 HP (+15/17), 16/17 SCR is 48/51 HP (+20/21), 18/19 SCR is 68/72 HP (+20/21), and so on. 
 `having at least +2 MOD is really good, and kind of the only way you dont just die? is that okay? 
 `i guess, right? you need a high CON to not just die in sustained combat, thats what CON is representing. `
 
@@ -53,7 +53,7 @@ You have a number of Hit Die equal to half your Constitution Score. Unless other
 While you are not in an Encounter, you may expend any number of Hit Die you have to regain missing Vitality. When you expend a Hit Die this way, gain the number rolled plus your Constitution Modifier as Vitality.
 
 ###### Resolving Wounds
-During an Encounter, at the beginning of your turn, you may choose to make an Endurance Skill Check. If you do, you do not gain Action Points this turn. Then, if the result is 16 or greater, you resolve a Wound, and if the result is 24 or greater, you resolve two Wounds.
+During an Encounter, at the beginning of your turn, you may choose to make an Endurance Skill Check. If you do, you do not gain Action Points this turn. Then, if the result is 16 or greater, you resolve a Wound. If the result is 24 or greater, you resolve two Wounds instead.
 
 While you are not in an Encounter, when you would regain any number of Hit Dice, for each Hit Die you would regain, you may choose to resolve a Wound instead. If you do, you do not regain that Hit Die.
 
