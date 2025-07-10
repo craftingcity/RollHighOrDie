@@ -28,9 +28,11 @@ Darkness is little to no light, where you cannot reasonably be certain of what y
 While you are in a space lit by Darkness, you have Advantage on Stealth, Thievery, and Intimidation Skill Checks, and you have Disadvantage on Manipulation, Perception, and Investigation Skill Checks. In addition, you impose Disadvantage on Attacks against you.
 
 ## Terrain
-Terrain is the ground we walk through and upon. 
+Terrain is the ground we walk through and upon. Mechanically, each space of an environment is defined as one of the following types of Terrain.
 
 #### Solid Terrain
+Solid Terrain can be walked upon, but not throug
+
 #### Shifting Terrain
 #### Difficult Terrain
 #### Open Air
