@@ -33,7 +33,3 @@ While you are 'Starving', you have Disadvantage on all Checks, and your Reflex, 
 
 #### Dehydrated
 While you are 'Dehydrated', your Ability Scores are reduced by one for each stack of 'Dehydrated' you have.
-
-
-## Arcane Conditions
-#### Flux Overpressure

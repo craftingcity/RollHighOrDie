@@ -18,6 +18,3 @@ While you are 'Rallied', when you next make an Attack Roll, you have advantage o
 
 #### Encouraged
 While you are 'Encouraged', when you gain Action Points at the beginning of your turn, you gain an additional Action Point for each stack of 'Encouraged' you have. Then, you Naturally Resolve any stacks of 'Encouraged' you have.
-
-## Arcane Emboldenments
-## Divine Emboldenments
