@@ -43,7 +43,7 @@ When you run into Shifting Terrain, make an Acrobatics Skill Check. If the resul
 #### Difficult Terrain
 Difficult Terrain can be walked upon or through at great effort. Difficult Terrain is a typically natural phenomenon. Examples of Difficult Terrain include thick bushes or precarious stonework.
 
-When you run into Difficult Terrain, 
+When you run into Difficult Terrain, pay an Action Point, or end your Turn.
 
 #### Open Air
 
