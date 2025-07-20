@@ -83,9 +83,93 @@
               "icon": "lucide-file",
               "title": "Skills"
             }
+          },
+          {
+            "id": "61d5765e09ba7218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Offense"
+            }
+          },
+          {
+            "id": "80bd696e1286f331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Defense"
+            }
+          },
+          {
+            "id": "5a39c2b600439784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Utility"
+            }
+          },
+          {
+            "id": "e5e34b202e19329e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Traits - Physicality"
+            }
+          },
+          {
+            "id": "f65a4507899c4b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Traits - Mentality"
+            }
+          },
+          {
+            "id": "78b9a46f96dc9cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Traits - Training"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,27 +324,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b29127a6d094f41c",
+  "active": "61d5765e09ba7218",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Character Rules/Features.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+    "Core RHoD/Character Rules/Traits.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Defenses.md",
-    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Character Rules/Creating A Character.md",
-    "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Surviving.md",
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
