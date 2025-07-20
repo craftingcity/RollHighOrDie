@@ -57,48 +57,6 @@
         "dimension": 79.369918699187,
         "children": [
           {
-            "id": "92adbd6762288398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Offense"
-            }
-          },
-          {
-            "id": "eb12d9972f3803ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Experience.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Experience"
-            }
-          },
-          {
-            "id": "60137d7616e3cb9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Defenses.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Defenses"
-            }
-          },
-          {
             "id": "4f0a8f13fc743aa4",
             "type": "leaf",
             "state": {
@@ -111,8 +69,23 @@
               "icon": "lucide-file",
               "title": "Ability Scores"
             }
+          },
+          {
+            "id": "b29127a6d094f41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Skills.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Skills"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,14 +240,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92adbd6762288398",
+  "active": "b29127a6d094f41c",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Ability Scores.md",
-    "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Defenses.md",
-    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Character Rules/Creating A Character.md",
+    "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
