@@ -12,7 +12,7 @@ Inventory Slots may be used to store Items of smaller size categories:
 ```
 
 #### Item Stacks
-Some items should be contained together for ease of access and use, and are light enough that this is a possibility. These items are considered 'stackable' and will have a number after their Size that indicates that maximum number of these items that can fit together in one stack. Once this number is exceeded, excess items must be stored in another stack in a different Slot.
+Some items should be contained together for ease of access and use, and are of a form that presents this possibility. These items are considered 'stackable' and will have a number after their Size that indicates that maximum number of these items that can fit together in one stack. Once this number is exceeded, excess items must be stored in another stack in a different Slot.
 
 #### Character Inventory
 Every character in RHoD is given four 'Equipment' Slots under the assumption that items stored in these Slots are being carried, worn, or held. In addition to these 'Equipment' Slots, a character gains a number of 'Strength Based' slots equal to their Strength Modifier.

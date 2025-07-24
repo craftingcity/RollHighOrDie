@@ -4,172 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "91decf3f4cb453ed",
-        "type": "split",
-        "dimension": 20.630081300813007,
-        "children": [
-          {
-            "id": "f510f7daef8f4b5b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dd7a4b40afcd32f6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Character Rules/Features.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Features"
-                }
-              }
-            ]
-          },
-          {
-            "id": "4742c4b0fd9f07b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cc2921bac4cb6be0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Character Rules/Traits.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Traits"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "0dce1eee998f99c4",
+        "id": "833d3798ab0e49e9",
         "type": "tabs",
-        "dimension": 79.369918699187,
         "children": [
           {
-            "id": "4f0a8f13fc743aa4",
+            "id": "06d692553da63b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Ability Scores.md",
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ability Scores"
-            }
-          },
-          {
-            "id": "b29127a6d094f41c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Skills"
-            }
-          },
-          {
-            "id": "61d5765e09ba7218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Offense"
-            }
-          },
-          {
-            "id": "80bd696e1286f331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Defense"
-            }
-          },
-          {
-            "id": "5a39c2b600439784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Utility"
-            }
-          },
-          {
-            "id": "e5e34b202e19329e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits - Physicality"
-            }
-          },
-          {
-            "id": "f65a4507899c4b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits - Mentality"
-            }
-          },
-          {
-            "id": "78b9a46f96dc9cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits - Training"
+              "title": "Inventory Management"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -324,18 +176,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f65a4507899c4b29",
+  "active": "06d692553da63b35",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-    "Core RHoD/Character Rules/Skills.md",
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "Core RHoD/Character Rules/Features.md",
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+    "Core RHoD/Character Rules/Features.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Character Rules/Ability Scores.md",
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Character Rules/Creating A Character.md",
