@@ -45,8 +45,12 @@ Items stored in 'Container' Slots cannot be accessed without first performing th
 | Slingbag          | Medium            | 1x Medium, 2x Small           |
 | Satchel           | Medium            | 1x Medium, 3x Small           |
 | Duffle            | Large             | 3x Medium, 2x Small           |
-| Small Backpack    | Small             | 5x Small                      |
-| Medium Backpack   | Medium            | 2x Medium, 3x Small           |
+| Small Backpack    | Small             | 3x Small                      |
+| Medium Backpack   | Medium            | 2x Medium, 2x Small           |
 | Large Backpack    | Large             | 3x Medium, 5x Small           |
 | Military Backpack | Large             | 1x Large, 3x Medium, 3x Small |
+| Beltbag           | Small             | 2x Small                      |
+| Bandolier         | Medium            | 8x Small                      |
+| Chest Rig         | Large             | 2x Medium, 4x Small           |
+|                   |                   |                               |
 
