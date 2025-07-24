@@ -42,6 +42,7 @@ Items stored in 'Container' Slots cannot be accessed without first performing th
 | Title    | Size of Container | # of X Size Slots   |
 | -------- | ----------------- | ------------------- |
 | Handbag  | Small             | 3x Small            |
-| Slingbag | Medium            | 1x Medium, 3x Small |
-| Basket   |                   |                     |
+| Slingbag | Medium            | 1x Medium, 2x Small |
+| Basket   | Medium            | 1x Medium, 3x Small |
+| Satchel  | Medium            |                     |
 
