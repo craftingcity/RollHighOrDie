@@ -39,5 +39,7 @@ A Container has a number of Slots as indicated in it's description that can be u
 Items stored in 'Container' Slots cannot be accessed without first performing the 'UNPACK' Interact Action. 'Container' Slots may have restrictions on the Size or Type of Item stored within it, as defined in it's description.
 
 # Example Containers
-| Title | Size of Container | 
+| Title    | Size of Container | # of X Size Slots |
+| -------- | ----------------- | ----------------- |
+| Coin bag |                   |                   |
 
