@@ -41,6 +41,7 @@ Items stored in 'Container' Slots cannot be accessed without first performing th
 # Example Containers
 | Title              | Size of Container | # of X Size Slots             |
 | ------------------ | ----------------- | ----------------------------- |
+| Sack               | Small             | 3x Tiny                       |
 | Handbag            | Small             | 6x Tiny                       |
 | Beltbag            | Small             | 2x Small, 2x Tiny             |
 | Small Backpack     | Small             | 3x Small, 3x Tiny             |
