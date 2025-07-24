@@ -137,8 +137,8 @@ When you deal Damage with this Weapon, you apply one stack of the 'Dazed' [[Ailm
 | Scimitar       | Long Blade  | Medium | Melee - 5'  | STR/DEX   | Reflex  | 1d8     | Slashing    | Light                  |
 | Greatsword     | Long Blade  | Large  | Melee - 10' | Strength  | Reflex  | 2d6     | Slashing    | Heavy, Two-Handed      |
 | Hooksword      | Long Blade  | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Heavy, Two-Handed      |
-| Hatchet        | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    |                        |
-| Work Axe       | Axe         | Large | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Two-Handed             |
+| Hatchet        | Axe         | Small | Melee - 5'  | Strength  | Reflex  | 1d6     | Slashing    |                        |
+| Work Axe       | Axe         | Medium | Melee - 5'  | Strength  | Reflex  | 1d8     | Slashing    | Two-Handed             |
 | Broadaxe       | Axe         | Large  | Melee - 5'  | Strength  | Reflex  | 1d10    | Slashing    | Heavy, Two-Handed      |
 | Bo Staff       | Polearm     | Medium | Melee - 10' | STR/DEX   | Reflex  | 1d4     | Bludgeoning | Light                  |
 | Spear          | Polearm     | Medium | Melee - 10' | STR/DEX   | Reflex  | 1d6     | Slashing    | Light, Versatile (1d8) |
