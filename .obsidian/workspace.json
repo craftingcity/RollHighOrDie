@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "b6fbadd19415dc10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425e51706f89ae3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Melee Weapons"
+            }
+          }
+        ]
+      },
+      {
         "id": "833d3798ab0e49e9",
         "type": "tabs",
         "children": [
@@ -178,6 +198,8 @@
   },
   "active": "06d692553da63b35",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
@@ -197,13 +219,11 @@
     "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Character Rules/Surviving.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Sheet.md",
     "Core RHoD/Selections Glossary/Condition.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
