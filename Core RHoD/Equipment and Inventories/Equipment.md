@@ -220,49 +220,6 @@ Creation:
 	- Tools with *TAILOR*
 	- 2x "Leather Sheet" -> 1x Harness
 
-#### Pouch
-Small, 1 Action Cost (UNPACK / PACK)
-
-> A Pouch has three Slots that may be used to store Small or Tiny Items.
-
-Creation:
-	- 1 Watch spent at 8+ Leatherworking *OR* 2 Watches spent at 12+ Weaving
-
-#### Quiver
-Medium, 1 Action Cost (UNPACK / PACK)
-
-> A Quiver has five Slots that may be used to Store Small or Tiny Ammunition Items.
-
-#### Small Organizer
-Medium, 1 Action Cost (UNPACK / PACK)
-
-> A Small Organizer has six Slots that may be used to store Small or Tiny Items.
-
-#### Large Organizer
-Large, 1 Action Cost (UNPACK / PACK)
-
-> A Large Organizer has twenty-four Slots that may be used to store Small or Tiny Items.
-
-#### Small Bag
-Medium, 1 Action Cost (UNPACK / PACK)
-
-> A Small Bag has five Slots that may be used to store Small or Tiny Items.
-
-#### Large Bag
-Large, 1 Action Cost (UNPACK / PACK)
-
-> A Large Bag has two Slots that may be used for Medium Items, and four Slots that may be used to store Small or Tiny Items.
-
-#### Huge Bag
-Large, 1 Action Cost (UNPACK / PACK)
-
-> A Huge Bag has four Slots that may be used for Medium Items, and six Slots that may be used to store Small or Tiny Items.
-
-#### Chest
-Large, 1 Action Cost (UNPACK / PACK)
-
-> A Chest has two Slots that may be used for Large Items, six Slots that may be used for Medium Items, and twelve Slots that may be used to store Small or Tiny Items.
-
 ### Lights
 #### Candle
 Small, 2 Action Cost (UNPACK > LIGHT)
