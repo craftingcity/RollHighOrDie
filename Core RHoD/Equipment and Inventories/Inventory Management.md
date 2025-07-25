@@ -44,13 +44,13 @@ Items stored in 'Container' Slots cannot be accessed without first performing th
 | Sack               | Small             | 3x Tiny                       |                    |
 | Handbag            | Small             | 6x Tiny                       |                    |
 | Beltbag            | Small             | 2x Small, 2x Tiny             | Smaller Containers |
-| Small Backpack     | Small             | 3x Small, 3x Tiny             |                    |
-| Satchel            | Medium            | 4x Small, 4x Tiny             |                    |
-| Duffle / Rucksack  | Medium            | 1x Medium, 2x Small           |                    |
-| Medium Backpack    | Medium            | 2x Medium, 2x Small           |                    |
-| Bandolier / Quiver | Medium            | 8x Small                      |                    |
-| Large Backpack     | Large             | 3x Medium, 5x Small           |                    |
-| Military Backpack  | Large             | 1x Large, 3x Medium, 3x Small |                    |
-| Chest Rig          | Large             | 2x Medium, 4x Small           |                    |
+| Small Backpack     | Small             | 3x Small, 3x Tiny             | Smaller Containers |
+| Satchel            | Medium            | 4x Small, 4x Tiny             | Smaller Containers |
+| Duffle / Rucksack  | Medium            | 1x Medium, 2x Small           | Smaller Containers |
+| Medium Backpack    | Medium            | 2x Medium, 2x Small           | Smaller Containers |
+| Bandolier / Quiver | Medium            | 8x Small                      | Smaller Containers |
+| Large Backpack     | Large             | 3x Medium, 5x Small           | Smaller Containers |
+| Military Backpack  | Large             | 1x Large, 3x Medium, 3x Small | Smaller Containers |
+| Chest Rig          | Large             | 2x Medium, 4x Small           | Smaller Containers |
 
 
