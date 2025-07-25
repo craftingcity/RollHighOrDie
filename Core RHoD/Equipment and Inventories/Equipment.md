@@ -218,7 +218,7 @@ APPLY: You apply the harness to an adjacent creature.
 Creation:
 	- 3 Watches spent at 14+ Leatherworking
 	- Tools with *TAILOR*
-	- 2x "Textiles" -> 1x Harness
+	- 2x "Fiber Sheet" -> 1x Harness
 
 ### Lights
 #### Candle
@@ -251,7 +251,8 @@ APPLY: You cover or uncover the lamp.
 Creation:
 	- 0 Watches
 	- Tools with *TAILOR*
-	- 1x Open Lamp + 1x "Textiles" -> 1x Hooded Lamp
+	- 1x "Fiber Sheet"
+	- 1x Open Lamp -> 1x Hooded Lamp
 
 #### Bullseye Lamp
 Small, 2 Action Cost (UNPACK > LIGHT)
@@ -275,7 +276,7 @@ THROW: You throw the Ball Bearings. Choose a space within 20 feet of you. Make a
 Creation:
 	- 1 Watch spent at 12+ Smithing
 	- Tools with *FORGE*
-	- 1x "Steel Bar" -> 1x Ball Bearings
+	- 1x "Steel Plate" -> 2x Ball Bearings
 
 #### Beartrap
 Medium, X Action Cost (UNPACK > PLACE > PREP I > PREP II)
@@ -289,7 +290,7 @@ PREP II: You continue preparing the Beartrap. Make a Manipulation Skill Check. I
 Creation:
 	- 2 Watches spent at 14+ Smithing
 	- Tools with *FORGE*
-	- 4x "Steel Bar" -> Beartrap
+	- 4x "Steel Plate" -> 1x Beartrap
 
 #### Caltrops
 Tiny, 2 Action Cost (UNPACK > THROW)
@@ -299,7 +300,7 @@ THROW: You throw the Caltrops. Choose a space within 20 feet of you. Make a Thro
 Creation:
 	- 1 Watch spent at 12+ Smithing
 	- Tools with *FORGE*
-	- 1x "Steel Bar" -> 2x Caltrops
+	- 1x "Steel Plate" -> 2x Caltrops
 
 #### Hand Grenade
 Small, 3 Action Cost (UNPACK > PREP > THROW)
@@ -319,7 +320,7 @@ PREP II: You finish preparing the Snare, and it is now Set.
 Creation:
 	- 1 Watch spent at 12+ Smithing
 	- Tools with *FORGE*
-	- 1x "Steel Bar" -> 12x Light Snare
+	- 1x "Steel Plate" -> 12x Light Snare
 
 #### Heavy Snare
 Tiny, 4 Action Cost (UNPACK > PLACE > PREP I > PREP II) 
@@ -333,7 +334,7 @@ PREP II: You finish preparing the Snare, and it is now Set.
 Creation:
 	- 1 Watch spent at 12+ Smithing
 	- Tools with *FORGE*
-	- 1x "Steel Bar" -> 4x Heavy Snare
+	- 1x "Steel Plate" -> 4x Heavy Snare
 
 #### Vial of Acid
 Tiny, 2 Action Cost (UNPACK > THROW or SPLASH)
