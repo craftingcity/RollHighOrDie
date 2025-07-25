@@ -224,15 +224,33 @@ Creation:
 #### Candle
 Small, 2 Action Cost (UNPACK > LIGHT)
 
-LIGHT: You light the candle. While the candle is lit, it emits dim light for 5'.
+LIGHT: You light the candle. While the candle is lit, it emits a radius of dim light for 5'.
 
 Creation:
 	- 1 Watch spent at 8+ Crafting
 	- Tools with *CONTAIN*
-	- 2x "Wax" __
+	- 2x "Wax" -> 1x Candle
 
 #### Open Lamp
+Small, 2 Action Cost (UNPACK > LIGHT)
+
+LIGHT: You light the lamp. While the lamp is lit, it emits a radius of bright light for 5', and dim light for another 5'.
+
+Creation:
+	- 1 Watch spent at 14+ Smithing
+	- Tools with *FORGE*
+	- 1x "Steel Plate" -> 1x Open Lamp
+
 #### Hooded Lamp
+Small, 2 Action Cost (UNPACK > LIGHT)
+
+LIGHT: You light the lamp. While the lamp is lit, it emits a radius of bright light for 5', and dim light for another 5'.
+
+Creation:
+	- 1 Watch spent at 14+ Smithing
+	- Tools with *FORGE*
+	- 1x "Steel Plate" -> 1x Open Lamp
+
 #### Bullseye Lamp
 #### Torch
 ### Traps & Throwables
