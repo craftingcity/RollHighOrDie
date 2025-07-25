@@ -34,12 +34,12 @@ The slots given are as follows;
 
 
 #### Containers
-A Container has a number of Slots as indicated in it's description that can be used to store other non-Container items. Containers are considered Equipment and must be stored in a character's Inventory, but allow a character to bend the "one item per slot" rule in their favor. 
+A Container has a number of Slots as indicated in it's description that can be used to store other items. Containers are considered Equipment and must be stored in a character's Inventory, but allow a character to bend the "one item per slot" rule in their favor. 
 
 Items stored in 'Container' Slots cannot be accessed without first performing the 'UNPACK' Interact Action. 'Container' Slots may have restrictions on the Size or Type of Item stored within it, as defined in it's description.
 
 # Example Containers
-| Title              | Size of Container | # of X Size Slots             |
+| Title              | Size of Container | # of X Size Slots             | 
 | ------------------ | ----------------- | ----------------------------- |
 | Sack               | Small             | 3x Tiny                       |
 | Handbag            | Small             | 6x Tiny                       |
