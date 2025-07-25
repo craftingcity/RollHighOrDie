@@ -201,7 +201,7 @@ Creation:
 #### Manacles / Handcuffs
 Small, 4+ Action Cost (UNPACK > PREP > FORCE > APPLY)
 
-FORCE: You attempt to force an adjacent creature into a restrictive position. Make an Athletics Check. If the creature is 
+FORCE: You attempt to force an adjacent creature into a restrictive position. Make an Athletics Check. If the creature is under the 'Grappled' [[Ailment]], 
 
 APPLY:
 
