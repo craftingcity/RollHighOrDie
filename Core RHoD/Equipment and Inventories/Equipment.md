@@ -213,7 +213,7 @@ Creation:
 #### Harness
 Medium, x Action Cost (UNPACK > PREP > APPLY)
 
-APPLY: You
+APPLY: You apply the harness to an adjacent creature. 
 
 Creation:
 	- 3 Watches spent at 14+ Leatherworking
@@ -223,6 +223,8 @@ Creation:
 ### Lights
 #### Candle
 Small, 2 Action Cost (UNPACK > LIGHT)
+
+LIGHT: You light the candle. While the candle is lit, it emits 5' of dim light
 
 #### Open Lamp
 #### Hooded Lamp
