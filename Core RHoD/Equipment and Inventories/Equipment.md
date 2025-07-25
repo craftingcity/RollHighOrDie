@@ -224,7 +224,12 @@ Creation:
 #### Candle
 Small, 2 Action Cost (UNPACK > LIGHT)
 
-LIGHT: You light the candle. While the candle is lit, it emits 5' of dim light
+LIGHT: You light the candle. While the candle is lit, it emits dim light for 5'.
+
+Creation:
+	- 1 Watch spent at 8+ Crafting
+	- Tools with *CONTAIN*
+	- 2x "Wax" __
 
 #### Open Lamp
 #### Hooded Lamp
