@@ -80,7 +80,7 @@ Creation:
 	- 1x "Fiber Sheet" -> 3x Bandage
 
 #### Bloodbag
-Medium (3), 4 Action Cost (UNPACK > PREP > LOCATE > APPLY)
+Medium (3), 4+ Action Cost (UNPACK > PREP > LOCATE > APPLY)
 Bloodbag has 3 Charges
 
 LOCATE: You attempt to find a vein. Make a Medicine Check. If the result is 14 or higher, continue. Otherwise, you failed to locate a vein, and must spend another Action Point to retry.
@@ -201,7 +201,7 @@ Creation:
 #### Manacles / Handcuffs
 Small, 4+ Action Cost (UNPACK > PREP > FORCE > APPLY)
 
-FORCE: 
+FORCE: You attempt to force an adjacent creature into a restrictive posi
 
 APPLY:
 
