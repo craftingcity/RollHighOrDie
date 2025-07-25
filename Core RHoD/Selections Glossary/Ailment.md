@@ -53,3 +53,6 @@ While you are 'Poisoned', at the beginning of your turn, you take 1d4 Necrotic D
 
 #### Spotted
 While you are 'Spotted', you grant Attack Rolls against you +2.
+
+#### Restrained
+While you are Restrained, you cannot make Attacks.
