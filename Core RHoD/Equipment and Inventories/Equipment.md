@@ -267,6 +267,17 @@ Creation:
 	- 1x "Steel Plate" -> 1x Bullseye Lamp
 
 #### Torch
+Medium, 2 Action Cost (UNPACK > LIGHT)
+
+LIGHT: You light the torch. While the torch is lit, it emits a 5' radius of bright light, and an additional 10' of dim light beyond that.
+
+Creation:
+	- 1 Watch spent at 8+ Crafting
+	- Tools with *CONTAIN*
+	- 1x "Plank"
+	- 1x "Fiber Sheet"
+	- 1x (any Fuel)
+
 ### Traps & Throwables
 #### Ball Bearings
 Tiny, 2 Action Cost (UNPACK > THROW)
