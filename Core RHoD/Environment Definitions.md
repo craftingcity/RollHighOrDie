@@ -45,6 +45,8 @@ Difficult Terrain can be walked upon or through at great effort. Difficult Terra
 
 When you run into Difficult Terrain, make an Athletics check. If the result is less than 12, you pay an Action Point, or end your Turn.
 
+#### Sharp Terrain
+
 #### Open Air
 Open Air can be passed through, but not walked upon.
 

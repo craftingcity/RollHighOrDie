@@ -282,7 +282,7 @@ Creation:
 #### Ball Bearings
 Tiny, 2 Action Cost (UNPACK > THROW)
 
-THROW: You throw the Ball Bearings. Choose a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 10, you throw accurately. Otherwise, choose another space that is adjacent to you. The space you chose becomes 'Unstable' until you recover the Ball Bearings.
+THROW: You throw the Ball Bearings. Choose a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 10, you throw accurately. Otherwise, choose another space that is adjacent to you. The space you chose becomes 'Shifting Terrain' until you recover the Ball Bearings.
 
 Creation:
 	- 1 Watch spent at 12+ Smithing
@@ -306,7 +306,7 @@ Creation:
 #### Caltrops
 Tiny, 2 Action Cost (UNPACK > THROW)
 
-THROW: You throw the Caltrops. Choose a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 14, you throw accurately. Otherwise, choose another space that is adjacent to you. The space you chose becomes 'Sharp' until you recover the Caltrops.
+THROW: You throw the Caltrops. Choose a space within 20 feet of you. Make a Throw Skill Check. If the result is equal to or greater than 14, you throw accurately. Otherwise, choose another space that is adjacent to you. The space you chose becomes 'Sharp Terrain' until you recover the Caltrops.
 
 Creation:
 	- 1 Watch spent at 12+ Smithing
@@ -316,8 +316,12 @@ Creation:
 #### Hand Grenade
 Small, 3 Action Cost (UNPACK > PREP > THROW)
 
+==tbd==
+
 #### Molotov Grenade
 Small, 3 Action Cost (UNPACK > LIGHT > THROW)
+
+==tbd==
 
 #### Light Snare
 Tiny (3), 4 Action Cost (UNPACK > PLACE > PREP I > PREP II) 
