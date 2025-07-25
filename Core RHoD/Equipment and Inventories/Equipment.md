@@ -203,7 +203,7 @@ Small, 4+ Action Cost (UNPACK > PREP > FORCE > APPLY)
 
 FORCE: You attempt to force an adjacent creature into a restrictive position. Make an Athletics Check. If the creature is under the 'Grappled' [[Ailment]], you have Advantage on that Check. If the result is 14 or greater, continue. Otherwise, you failed to restrict the creature, and must spend another Action Point to retry.
 
-APPLY: You apply the manacles to an adjacent creature. You impose the 'Restrained' [[Ailment]] until the M
+APPLY: You apply the manacles to an adjacent creature. You impose the 'Restrained' [[Ailment]] until the Manacles are removed.
 
 Creation:
 	- 1 Watch spent at 14+ Smithing
