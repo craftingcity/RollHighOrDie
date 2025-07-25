@@ -199,9 +199,9 @@ Creation:
 
 ### Gear
 #### Manacles / Handcuffs
-Small, x Action Cost (UNPACK > PREP > FORCE > APPLY)
+Small, 4+ Action Cost (UNPACK > PREP > FORCE > APPLY)
 
-FORCE:
+FORCE: 
 
 APPLY:
 

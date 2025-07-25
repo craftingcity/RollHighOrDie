@@ -39,21 +39,21 @@
         "currentTab": 1
       },
       {
-        "id": "833d3798ab0e49e9",
+        "id": "c3e3dc511800f891",
         "type": "tabs",
         "children": [
           {
-            "id": "06d692553da63b35",
+            "id": "3406cbf85f0459ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inventory Management"
+              "title": "Equipment"
             }
           }
         ]
@@ -211,9 +211,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74beb0eee479c0d8",
+  "active": "3406cbf85f0459ad",
   "lastOpenFiles": [
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
+    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Character Rules/Features.md",
@@ -236,7 +237,6 @@
     "Core RHoD/Character Rules/Surviving.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Character Sheet.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "featuresNtraits.ods",
