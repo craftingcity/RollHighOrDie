@@ -39,18 +39,18 @@ A Container has a number of Slots as indicated in it's description that can be u
 Items stored in 'Container' Slots cannot be accessed without first performing the 'UNPACK' Interact Action. 'Container' Slots may have restrictions on the Size or Type of Item stored within it, as defined in it's description.
 
 # Example Containers
-| Title              | Size of Container | # of X Size Slots             | 
-| ------------------ | ----------------- | ----------------------------- |
-| Sack               | Small             | 3x Tiny                       |
-| Handbag            | Small             | 6x Tiny                       |
-| Beltbag            | Small             | 2x Small, 2x Tiny             |
-| Small Backpack     | Small             | 3x Small, 3x Tiny             |
-| Satchel            | Medium            | 4x Small, 4x Tiny             |
-| Duffle / Rucksack  | Medium            | 1x Medium, 2x Small           |
-| Medium Backpack    | Medium            | 2x Medium, 2x Small           |
-| Bandolier / Quiver | Medium            | 8x Small                      |
-| Large Backpack     | Large             | 3x Medium, 5x Small           |
-| Military Backpack  | Large             | 1x Large, 3x Medium, 3x Small |
-| Chest Rig          | Large             | 2x Medium, 4x Small           |
+| Title              | Size of Container | # of X Size Slots             | Restrictions       |
+| ------------------ | ----------------- | ----------------------------- | ------------------ |
+| Sack               | Small             | 3x Tiny                       |                    |
+| Handbag            | Small             | 6x Tiny                       |                    |
+| Beltbag            | Small             | 2x Small, 2x Tiny             | Smaller Containers |
+| Small Backpack     | Small             | 3x Small, 3x Tiny             |                    |
+| Satchel            | Medium            | 4x Small, 4x Tiny             |                    |
+| Duffle / Rucksack  | Medium            | 1x Medium, 2x Small           |                    |
+| Medium Backpack    | Medium            | 2x Medium, 2x Small           |                    |
+| Bandolier / Quiver | Medium            | 8x Small                      |                    |
+| Large Backpack     | Large             | 3x Medium, 5x Small           |                    |
+| Military Backpack  | Large             | 1x Large, 3x Medium, 3x Small |                    |
+| Chest Rig          | Large             | 2x Medium, 4x Small           |                    |
 
 
