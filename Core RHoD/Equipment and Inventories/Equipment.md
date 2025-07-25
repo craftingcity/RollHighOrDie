@@ -213,7 +213,7 @@ Creation:
 #### Harness
 Medium, x Action Cost (UNPACK > PREP > APPLY)
 
-APPLY:
+APPLY: You
 
 Creation:
 	- 3 Watches spent at 14+ Leatherworking
