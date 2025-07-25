@@ -218,7 +218,7 @@ APPLY: You apply the harness to an adjacent creature.
 Creation:
 	- 3 Watches spent at 14+ Leatherworking
 	- Tools with *TAILOR*
-	- 2x "Leather Sheet" -> 1x Harness
+	- 2x "Textiles" -> 1x Harness
 
 ### Lights
 #### Candle
@@ -234,7 +234,7 @@ Creation:
 #### Open Lamp
 Small, 2 Action Cost (UNPACK > LIGHT)
 
-LIGHT: You light the lamp. While the lamp is lit, it emits a 10' radius of bright light, and a 5' radius of dim light beyond that.
+LIGHT: You light the lamp. While the lamp is lit, it emits a 10' radius of bright light, and an additional 5' of dim light beyond that.
 
 Creation:
 	- 1 Watch spent at 14+ Smithing
@@ -244,22 +244,26 @@ Creation:
 #### Hooded Lamp
 Small, 2 Action Cost (UNPACK > LIGHT)
 
-LIGHT: You light the lamp. While the lamp is lit and uncovered, it emits a 10' radius of bright light, and a 5' radius of dim light beyond that.
+LIGHT: You light the lamp. While the lamp is lit and uncovered, it emits a 10' radius of bright light, and an additional 5' of dim light beyond that.
 
 APPLY: You cover or uncover the lamp.
 
 Creation:
-	- 1x Open Lamp + 1x "Leather Sheet" -> 1x Hooded Lamp
+	- 0 Watches
+	- Tools with *TAILOR*
+	- 1x Open Lamp + 1x "Textiles" -> 1x Hooded Lamp
 
 #### Bullseye Lamp
 Small, 2 Action Cost (UNPACK > LIGHT)
 
-LIGHT: You light the lamp. While the lamp is lit, it emits a 15' cone of bright light, and a 5' radius of dim light beyond that.
+LIGHT: You light the lamp. While the lamp is lit and uncovered, it emits a 15' cone of bright light, and an additional 10' of dim light beyond that.
+
+APPLY: You cover or uncover the lamp.
 
 Creation:
-	- 1 Watch spent at 14+ Smithing
+	- 1 Watch spent at 18+ Smithing
 	- Tools with *FORGE*
-	- 1x "Steel Plate" -> 1x Open Lamp
+	- 1x "Steel Plate" -> 1x Bullseye Lamp
 
 #### Torch
 ### Traps & Throwables
