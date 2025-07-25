@@ -244,14 +244,23 @@ Creation:
 #### Hooded Lamp
 Small, 2 Action Cost (UNPACK > LIGHT)
 
-LIGHT: You light the lamp. While the lamp is lit, it emits a 10' radius of bright light, and a 5' radius of dim light beyond that.
+LIGHT: You light the lamp. While the lamp is lit and uncovered, it emits a 10' radius of bright light, and a 5' radius of dim light beyond that.
+
+APPLY: You cover or uncover the lamp.
+
+Creation:
+	- 1x Open Lamp + 1x "Leather Sheet" -> 1x Hooded Lamp
+
+#### Bullseye Lamp
+Small, 2 Action Cost (UNPACK > LIGHT)
+
+LIGHT: You light the lamp. While the lamp is lit, it emits a 15' cone of bright light, and a 5' radius of dim light beyond that.
 
 Creation:
 	- 1 Watch spent at 14+ Smithing
 	- Tools with *FORGE*
 	- 1x "Steel Plate" -> 1x Open Lamp
 
-#### Bullseye Lamp
 #### Torch
 ### Traps & Throwables
 #### Ball Bearings
