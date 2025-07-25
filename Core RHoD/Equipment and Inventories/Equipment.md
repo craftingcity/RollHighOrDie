@@ -244,7 +244,7 @@ Creation:
 #### Hooded Lamp
 Small, 2 Action Cost (UNPACK > LIGHT)
 
-LIGHT: You light the lamp. While the lamp is lit, it emits a radius of bright light for 5', and dim light for another 5'.
+LIGHT: You light the lamp. While the lamp is lit, it emits a 10' radius of bright light, and a 5' radius of dim light beyond that.
 
 Creation:
 	- 1 Watch spent at 14+ Smithing
