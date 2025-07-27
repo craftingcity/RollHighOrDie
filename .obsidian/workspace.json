@@ -92,6 +92,20 @@
             }
           },
           {
+            "id": "27fd8adef496f06e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ammunition"
+            }
+          },
+          {
             "id": "1928eee3a5eb0b52",
             "type": "leaf",
             "state": {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dex",
+                "query": "wisdom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,8 +275,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d74d0ae1cff8de6",
+  "active": "c3a45a6297d87e1f",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Ammunition.md",
+    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Character Rules/Creating A Character.md",
@@ -274,7 +290,6 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Ailment.md",
@@ -288,7 +303,6 @@
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Core RHoD/Character Rules/Surviving.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
