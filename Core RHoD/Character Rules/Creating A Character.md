@@ -12,7 +12,7 @@ As a Player in the game of RHoD, you will act as a Character that you will work 
 	1. Who is your character in the setting?
 	2. What have they been doing before our story begins?
 	3. How does this character feel about what happened?
-3. Spend 4 [[Experience]].
+3. Spend 5 [[Experience]].
 	- It is recommended that you attain at least one [[Features]], one [[Traits]], and one or more Combat [[Skills]] for creating your first Character.
 4. Acquire Equipment?
 5. Calculate
