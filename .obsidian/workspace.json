@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "09d103c77c4e9dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ranged Weapons"
+            }
+          },
+          {
             "id": "59a701d5ca8ec717",
             "type": "leaf",
             "state": {
@@ -261,16 +275,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "59a701d5ca8ec717",
+  "active": "09d103c77c4e9dd9",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
+    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
-    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Character Rules/Creating A Character.md",
