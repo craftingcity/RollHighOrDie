@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,10 +274,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3a45a6297d87e1f",
+  "active": "0f43a9cdccaddba1",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Experience.md",
+    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
