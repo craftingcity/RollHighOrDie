@@ -49,8 +49,7 @@
               "title": "Defenses"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +204,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1928eee3a5eb0b52",
+  "active": "aeb55fce835ad443",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Character Sheet.md",
@@ -228,7 +228,6 @@
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Character Rules/Experience.md",
-    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
