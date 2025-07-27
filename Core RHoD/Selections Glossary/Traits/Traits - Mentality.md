@@ -26,23 +26,23 @@
 
 #### *4EXP*
 ## Biologist
-###### REQ: 2EXP
+###### REQ: 4EXP
 'xxx.'
 
 - When you make a Natural Knowledge Check while you are identifying an organism, you treat a roll of 7 or less as an 8.
 
 ## Theologist
-###### REQ: 2EXP
+###### REQ: 4EXP
 'xxx.'
 
 - When you make a Culture Knowledge Check while you are discussing religion, you treat a 7 or less as an 8.
 
 ## XXX
-###### REQ: 2EXP
+###### REQ: 4EXP
 'xxx.'
 
 ## XXX
-###### REQ: 2EXP
+###### REQ: 4EXP
 'xxx.'
 
 ## XXX
@@ -51,26 +51,26 @@
 
 #### *6EXP*
 ## Fast Learner
-###### REQ: 2EXP
+###### REQ: 6EXP
 'xxx.'
 
 - The number of Watches you must spend using a Professional Skill to become eligible to gain a Degree of Proficiency in that Skill is halved.
 - The Experience cost of improving your Degree of Proficiency in a Knowledge or Professional Skill is halved.
 
 ## XXX
-###### REQ: 2EXP
+###### REQ: 6EXP
 'xxx.'
 
 ## XXX
-###### REQ: 2EXP
+###### REQ: 6EXP
 'xxx.'
 
 ## XXX
-###### REQ: 2EXP
+###### REQ: 6EXP
 'xxx.'
 
 ## XXX
-###### REQ: 2EXP
+###### REQ: 6EXP
 'xxx.'
 
 
