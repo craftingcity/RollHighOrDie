@@ -11,13 +11,32 @@
             "id": "32749d3e5c70ec65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Defenses"
+            }
+          },
+          {
+            "id": "25daa2be0a29cc3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Inventory Management"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,9 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32749d3e5c70ec65",
+  "active": "25daa2be0a29cc3b",
   "lastOpenFiles": [
     "Core RHoD/Character Rules/Defenses.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
@@ -193,7 +213,6 @@
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Environment Definitions.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
