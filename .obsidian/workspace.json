@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "35194f8daf6354e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d103c77c4e9dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ranged Weapons"
+            }
+          }
+        ]
+      },
+      {
         "id": "b506cdfe0130215e",
         "type": "tabs",
         "children": [
@@ -64,17 +84,17 @@
             }
           },
           {
-            "id": "09d103c77c4e9dd9",
+            "id": "2d48e27a273950fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core RHoD/Equipment and Inventories/Ammunition.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ranged Weapons"
+              "title": "Ammunition"
             }
           },
           {
@@ -275,11 +295,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09d103c77c4e9dd9",
+  "active": "2d48e27a273950fb",
   "lastOpenFiles": [
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
-    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
