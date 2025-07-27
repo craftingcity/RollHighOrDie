@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "c3a45a6297d87e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Experience.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Experience"
+            }
+          },
+          {
             "id": "0f43a9cdccaddba1",
             "type": "leaf",
             "state": {
@@ -77,7 +91,8 @@
               "title": "Defenses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crouch",
+                "query": "dex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,10 +247,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2025be004c4ad39f",
+  "active": "c3a45a6297d87e1f",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Creating A Character.md",
+    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
