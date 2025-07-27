@@ -71,7 +71,7 @@ You manipulate an object.
 > 	- WRAP: You wrap the item around something.
 > 	- LOCATE: You spend time feeling or visually searching for a fine detail. (Investigation)
 > 	- LIGHT: You light an object aflame.
-> 	- TIE: You tie a knot. (Sleight of Hand)
+> 	- TIE: You tie a knot. (Manipulate)
 
 ## Reload
 ###### 2 AP
