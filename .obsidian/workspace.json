@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "59a701d5ca8ec717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Inventory Management"
+            }
+          },
+          {
             "id": "16de7c114dce4ca8",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,8 +261,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6aa83b9da91d1533",
+  "active": "59a701d5ca8ec717",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
@@ -267,7 +282,6 @@
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
