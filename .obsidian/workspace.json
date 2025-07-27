@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Creating A Character.md",
+                "file": "Core RHoD/Character Rules/Traits.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Creating A Character"
+              "title": "Traits"
             }
           },
           {
@@ -192,8 +192,8 @@
   },
   "active": "c625fe7dd042fb77",
   "lastOpenFiles": [
-    "Core RHoD/Character Sheet.md",
     "Core RHoD/Character Rules/Creating A Character.md",
+    "Core RHoD/Character Sheet.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
