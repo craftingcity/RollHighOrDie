@@ -4,143 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "35194f8daf6354e5",
+        "id": "b0d4dfcd29f0f813",
         "type": "tabs",
         "children": [
           {
-            "id": "09d103c77c4e9dd9",
+            "id": "5765fb59edac17b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ranged Weapons"
+              "title": "Armors"
             }
           }
         ]
-      },
-      {
-        "id": "b506cdfe0130215e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32749d3e5c70ec65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Defenses.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Defenses"
-            }
-          },
-          {
-            "id": "25daa2be0a29cc3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Inventory Management"
-            }
-          },
-          {
-            "id": "196d06651be0fe1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Skills"
-            }
-          },
-          {
-            "id": "6aa83b9da91d1533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Melee Weapons"
-            }
-          },
-          {
-            "id": "2d48e27a273950fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Ammunition.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ammunition"
-            }
-          },
-          {
-            "id": "59a701d5ca8ec717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Equipment and Inventories/Inventory Management.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Inventory Management"
-            }
-          },
-          {
-            "id": "16de7c114dce4ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Offense.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Offense"
-            }
-          },
-          {
-            "id": "acb285ec853a70c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Character Rules/Experience.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Experience"
-            }
-          }
-        ],
-        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -295,15 +176,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09d103c77c4e9dd9",
+  "active": "5765fb59edac17b5",
   "lastOpenFiles": [
-    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
-    "Core RHoD/Equipment and Inventories/Inventory Management.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-    "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
+    "Core RHoD/Equipment and Inventories/Inventory Management.md",
+    "Core RHoD/Equipment and Inventories/Ammunition.md",
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Character Rules/Skills.md",
+    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
@@ -322,7 +204,6 @@
     "Core RHoD/Selections Glossary/Features/Features - Utility.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "conflict-files-obsidian-git.md",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
