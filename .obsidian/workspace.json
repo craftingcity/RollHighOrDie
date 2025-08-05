@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Armors.md",
+                "file": "Apocalypse Expansion/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Armors"
+              "title": "Untitled"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,6 +177,13 @@
   },
   "active": "5765fb59edac17b5",
   "lastOpenFiles": [
+    "Stable Releases/Roll High or Die (COREvA01).pdf",
+    "Apocalypse Expansion/Untitled.md",
+    "Apocalypse Expansion/Character Rules/Untitled",
+    "Apocalypse Expansion/Character Rules",
+    "Apocalypse Expansion",
+    "Core RHoD/Equipment and Inventories/Armors.md",
+    "Referee Hanbook/Untitled.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
@@ -185,7 +191,6 @@
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Skills.md",
-    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
@@ -201,18 +206,11 @@
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "conflict-files-obsidian-git.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
     "Roll High or Die (GLOSSARY-CORE).odt",
     "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
-    "Stable Releases/Roll High or Die (COREvA01).pdf",
-    "RHoD Glossary (Magic).odt",
-    "RHoD Glossary (Low Fantasy).odt",
-    "Roll High or Die (GLOSSARY-TEMPLATE).odt",
-    "New OpenDocument Text.odt"
+    "RHoD Glossary (Magic).odt"
   ]
 }
