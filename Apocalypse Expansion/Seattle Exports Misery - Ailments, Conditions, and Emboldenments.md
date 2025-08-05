@@ -1,0 +1,4 @@
+# Preamble
+## Ailments
+## Conditions
+## Emboldenments

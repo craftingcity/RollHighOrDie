@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.50418853759766
   },
   "right": {
     "id": "eb5976c37e201ff3",
@@ -177,8 +177,13 @@
   },
   "active": "5765fb59edac17b5",
   "lastOpenFiles": [
-    "Stable Releases/Roll High or Die (COREvA01).pdf",
+    "Apocalypse Expansion/Seattle Exports Misery - Features and Traits.md",
     "Apocalypse Expansion/Untitled.md",
+    "Apocalypse Expansion/Untitled",
+    "Referee Hanbook/Specific or Generalized Items.md",
+    "Apocalypse Expansion/Seattle Exports Misery - Environment Definitions.md",
+    "Apocalypse Expansion/Seattle Exports Misery - Ailments, Conditions, and Emboldenments.md",
+    "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Apocalypse Expansion/Character Rules/Untitled",
     "Apocalypse Expansion/Character Rules",
     "Apocalypse Expansion",
@@ -202,15 +207,10 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Traits.md",
-    "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Environment Definitions.md",
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
     "Roll High or Die (GLOSSARY-CORE).odt",
-    "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt",
-    "RHoD Glossary (Magic).odt"
+    "Roll High or Die (GLOSSARY-TEMPLATE) - Copy.odt"
   ]
 }
