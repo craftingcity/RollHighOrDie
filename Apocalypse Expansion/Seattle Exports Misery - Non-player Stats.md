@@ -12,8 +12,9 @@
 | CHA | 11 (+0) |      |                  |
 
 - REFLEX I
-- SHORT BLUNT I / PISTOL I
+- SHORT BLUNT I
 - CULTURE I
 
 - Clothing (17/17)
-- Baton (+4, 1d4 bludgeon)
+- Baton (+2, 1d4 bludgeon)
+- Semi-Auto 9mm Pistol (+2, Capacity 7/7, Burst 2, Mechanical 1/16)
