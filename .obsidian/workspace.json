@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Skills.md",
+                "file": "Core RHoD/Equipment and Inventories/Melee Weapons.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Melee Weapons"
             }
           }
         ]
@@ -216,9 +216,9 @@
   },
   "active": "3f8d38e85962124e",
   "lastOpenFiles": [
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Skills.md",
     "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",

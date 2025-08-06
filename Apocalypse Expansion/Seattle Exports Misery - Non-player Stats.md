@@ -52,3 +52,5 @@
 - LONG BLUNT I
 
 - Clothing (17/17)
+- Dagger (+4, 1d4+2 slash, Light, Quick)
+- Baseball Bat (+4, 1d6+2 bludg, Versatile(d8))
