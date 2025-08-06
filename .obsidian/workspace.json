@@ -175,93 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "d71cee5936caeb74",
-    "type": "floating",
-    "children": [
-      {
-        "id": "939d8ffd8177f5f6",
-        "type": "window",
-        "children": [
-          {
-            "id": "d76ed36cdf23d24b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0f124cea804f1faf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Expansive Weapon and Ammunition Examples"
-                }
-              },
-              {
-                "id": "42218f0362ac85e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Melee Weapons"
-                }
-              },
-              {
-                "id": "1f7ac6139c4e185d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ranged Weapons"
-                }
-              },
-              {
-                "id": "529a421de384a9d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Equipment and Inventories/Ammunition.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ammunition"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
   "active": "5765fb59edac17b5",
   "lastOpenFiles": [
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
+    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Selections Glossary/Expansive Weapon and Ammunition Examples.md",
     "Apocalypse Expansion/Seattle Exports Misery - Features and Traits.md",

@@ -17,7 +17,7 @@
 
 - Clothing (17/17)
 - Baton (+2, 1d4 bludgeon)
-- Semi-Auto 9mm Pistol (+2, Capacity 7/7 (9mm FMJ 1d6), Burst 2, Mechanical 1/16)
+- Semi-Auto 9mm Pistol (+2, Capacity 7/7 (9mm FMJ; 1d6), Burst 2, Mechanical 1/16)
 
 ### Three Tree Ballers
 #### Banger
@@ -35,4 +35,4 @@
 
 - Clothing (17/17)
 - Knife (+1, 1d4+1, Light, Quick)
-- Semi-Auto 9mm Pistol (+3, Capacity 7/7 (9mm FMJ), Burst 2, Mechanical 1/16)
+- Semi-Auto 9mm Pistol (+3, Capacity 7/7 (9mm FMJ; 1d6+1), Burst 2, Mechanical 1/16)
