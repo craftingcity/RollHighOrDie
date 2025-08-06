@@ -68,3 +68,9 @@
 - REFLEX I
 
 - Quick Fingers
+
+- Clothing (17/17)
+- Dagger (+2, 1d4+2 slash, Light, Quick)
+- 2x Bandage
+- 1x Herbal Cream
+- 2x Crack Cocaine
