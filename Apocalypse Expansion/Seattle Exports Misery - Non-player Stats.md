@@ -9,7 +9,7 @@
 | CON | 12 (+1) | REFX | 11               |
 | WIS | 14 (+2) | FORT | 9                |
 | INT | 12 (+1) | WILL | 10               |
-| CHA | 11 (+0) |      |                  |
+| CHA | 11 (+0) | AP   | 5                |
 
 - REFLEX I
 - SHORT BLUNT I
@@ -28,7 +28,7 @@
 | CON | 14 (+2) | REFX | 11               |
 | WIS | 12 (+1) | FORT | 10               |
 | INT | 10 (+0) | WILL | 9                |
-| CHA | 11 (+0) |      |                  |
+| CHA | 11 (+0) | AP   | 6                |
 
 - REFLEX I
 - PISTOL I
@@ -36,3 +36,13 @@
 - Clothing (17/17)
 - Knife (+1, 1d4+1, Light, Quick)
 - Semi-Auto 9mm Pistol (+3, Capacity 7/7 (9mm FMJ; 1d6+1), Burst 2, Mechanical 1/16)
+
+#### Bruiser
+| x   | x       | x    | x                |
+| --- | ------- | ---- | ---------------- |
+| STR | 14 (+2) | ARM  | Clothing (17/17) |
+| DEX | 10 (+0) | VIT  | 28               |
+| CON | 14 (+2) | REFX | 11               |
+| WIS | 9 (-1)  | FORT | 9                |
+| INT | 12 (+1) | WILL | 10               |
+| CHA | 11 (+0) | AP   | 5                |
