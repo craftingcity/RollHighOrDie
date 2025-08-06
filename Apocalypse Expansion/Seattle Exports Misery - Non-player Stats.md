@@ -46,3 +46,9 @@
 | WIS | 9 (-1)  | FORT | 9                |
 | INT | 12 (+1) | WILL | 10               |
 | CHA | 11 (+0) | AP   | 5                |
+
+- REFLEX I
+- SHORT BLADE I
+- LONG BLUNT I
+
+- Clothing (17/17)
