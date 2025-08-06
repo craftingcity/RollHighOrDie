@@ -54,3 +54,17 @@
 - Clothing (17/17)
 - Dagger (+4, 1d4+2 slash, Light, Quick)
 - Baseball Bat (+4, 1d6+2 bludg, Versatile(d8))
+
+#### Druggie
+| x   | x       | x    | x                |
+| --- | ------- | ---- | ---------------- |
+| STR | 10 (+0) | ARM  | Clothing (17/17) |
+| DEX | 14 (+2) | VIT  | 10               |
+| CON | 10 (+0) | REFX | 12               |
+| WIS | 12 (+1) | FORT | 8                |
+| INT | 12 (+1) | WILL | 9                |
+| CHA | 11 (+0) | AP   | 7                |
+
+- REFLEX I
+
+- Quick Fingers
