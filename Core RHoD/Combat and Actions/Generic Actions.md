@@ -79,7 +79,7 @@ You manipulate an object.
 
 You reload a Weapon in your hand with as much ammunition as you can.
 
-You may increase that Weapon's Loaded Ammunition for as much Ammunition as you are carrying up to it's Maximum Capacity.
+You may increase that Weapon's Loaded Ammunition for as much Ammunition as you are carrying of a single type up to it's Maximum Capacity.
 
 ## Unjam
 ###### 2 AP

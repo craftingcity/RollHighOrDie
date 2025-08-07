@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "0eb89d36c84f8fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Ammunition.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ammunition"
+            }
+          },
+          {
             "id": "2ba2bf041ed75ece",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,11 +218,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86d953469253a8b5",
+  "active": "2ba2bf041ed75ece",
   "lastOpenFiles": [
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
-    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
+    "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "conflict-files-obsidian-git.md",
     "Apocalypse Expansion/Seattle Exports Misery - Features and Traits.md",
@@ -220,7 +235,6 @@
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
-    "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Character Rules/Creating A Character.md",
