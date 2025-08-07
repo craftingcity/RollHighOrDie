@@ -10,6 +10,8 @@ Ranged Weapons are married to [[Ammunition]], as both are required for either to
 
 When you make an Attack with a Ranged Weapon, you expend a piece of Loaded Ammunition if your Weapon has the 'Capacity' Tag, or you expend a piece of Ammunition from your Quiver Inventory Slot otherwise.
 
+When you make an Attack with a Ranged Weapon, if you a hostile creature is within 5' of you, you have Disadvantage on that Attack.
+
 ## Bases
 #### Sling
 Using the power of momentum, Slings fire a number of small projectiles, including scavenged pebbles, polished pellets, or even small explosives. 

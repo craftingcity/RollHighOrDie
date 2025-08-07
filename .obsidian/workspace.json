@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Equipment.md",
+                "file": "Core RHoD/Equipment and Inventories/Armors.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Equipment"
+              "title": "Armors"
             }
           }
         ]
@@ -177,8 +177,10 @@
   },
   "active": "5765fb59edac17b5",
   "lastOpenFiles": [
-    "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
+    "conflict-files-obsidian-git.md",
+    "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
+    "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Character Rules/Skills.md",
@@ -194,7 +196,6 @@
     "Apocalypse Expansion/Character Rules/Untitled",
     "Apocalypse Expansion/Character Rules",
     "Apocalypse Expansion",
-    "Core RHoD/Equipment and Inventories/Armors.md",
     "Referee Hanbook/Untitled.md",
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
@@ -207,7 +208,6 @@
     "Core RHoD/Character Sheet.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Character Rules/Ability Scores.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
