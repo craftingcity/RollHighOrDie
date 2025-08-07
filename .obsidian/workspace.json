@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,12 +218,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ba2bf041ed75ece",
+  "active": "86d953469253a8b5",
   "lastOpenFiles": [
-    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
+    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "conflict-files-obsidian-git.md",
     "Apocalypse Expansion/Seattle Exports Misery - Features and Traits.md",
