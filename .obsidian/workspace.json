@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
+                "file": "Core RHoD/Combat and Actions/Generic Actions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Combat Definitions"
+              "title": "Generic Actions"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "a0ef41c13885c8e4",
   "lastOpenFiles": [
+    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "conflict-files-obsidian-git.md",
     "Apocalypse Expansion/Seattle Exports Misery - Features and Traits.md",
     "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
@@ -193,7 +194,6 @@
     "Core RHoD/Character Rules/Skills.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
-    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
