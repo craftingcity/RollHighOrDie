@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0439df9755359efb",
+        "id": "10169f11ab19a649",
         "type": "tabs",
         "children": [
           {
-            "id": "4f9cb59482fdd457",
+            "id": "a0ef41c13885c8e4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -171,8 +171,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81be0ec429f61494",
+  "active": "a0ef41c13885c8e4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Apocalypse Expansion/Seattle Exports Misery - Features and Traits.md",
+    "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
+    "Apocalypse Expansion/Seattle Exports Misery - Environment Definitions.md",
+    "Apocalypse Expansion/Seattle Exports Misery - Ailments, Conditions, and Emboldenments.md",
+    "Apocalypse Expansion",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Character Rules/Experience.md",
@@ -194,11 +200,6 @@
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Environment Definitions.md",
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Core RHoD/Selections Glossary/Features/Features - Utility.md",
-    "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "conflict-files-obsidian-git.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
@@ -207,7 +208,6 @@
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "RHoD Glossary (Magic).odt",
     "RHoD Glossary (Low Fantasy).odt",
-    "Roll High or Die (GLOSSARY-TEMPLATE).odt",
-    "New OpenDocument Text.odt"
+    "Roll High or Die (GLOSSARY-TEMPLATE).odt"
   ]
 }
