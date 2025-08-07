@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Equipment and Inventories/Armors.md",
+                "file": "Core RHoD/Character Rules/Defenses.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Armors"
+              "title": "Defenses"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "5765fb59edac17b5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
+    "conflict-files-obsidian-git.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",

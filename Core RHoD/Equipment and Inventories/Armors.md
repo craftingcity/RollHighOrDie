@@ -27,6 +27,7 @@ Materials are considered either 'Light' or 'Heavy', which will determine an Armo
 ##### Example Materials
 | Material          | Toughness | L/H   | Tool Action |
 | ----------------- | --------- | ----- | ----------- |
+| Casual Cloth      | 0.2       | Light | *TAILOR*    | 
 | Padded Cloth      | 1         | Light | *TAILOR*    |
 | Beast Hide        | 2         | Light | *TAILOR*    |
 | Tanned Leather    | 3         | Light | *TAILOR*    |
