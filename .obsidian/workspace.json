@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "file": "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Features - Defense"
+              "title": "Ranged Weapons"
             }
           },
           {
@@ -220,6 +220,7 @@
   },
   "active": "a0ef41c13885c8e4",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
@@ -246,7 +247,6 @@
     "Core RHoD/Character Rules/Ability Scores.md",
     "Core RHoD/Character Rules/Traits.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
