@@ -76,37 +76,55 @@ There are times a character will take damage despite the condition of their Armo
 ###### Bludgeoning
 Bludgeoning Damage occurs as objects of significant mass contact their target at force.
 
-When a creature takes Bludgeoning damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain a stack of the 'Dazed' [[Ailment]].
+When a creature takes Bludgeoning damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Dazed' [[Ailment]].
 
 ###### Piercing
 Piercing Damage occurs as objects of minimal mass contact and enter their target with great velocity.
 
-When a creature takes Piercing damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain a stack of the 'Dazed' [[Ailment]].
+When a creature takes Piercing damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Bleeding' [[Ailment]].
 
 ###### Slashing
 Slashing Damage occurs as an object is pushed along and or into it's target.
 
+When a creature takes Slashing damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Bleeding' [[Ailment]].
+
 ###### Acid
 Acid Damage occurs as a target contacts and reacts with the acid, dissolving the portions of the target exposed to the acid.
+
+When a creature takes Acid damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Burning' [[Ailment]].
 
 ###### Cold
 Cold Damage occurs as a target's temperature decreases significantly.
 
+When a creature takes Cold damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Dazed' [[Ailment]].
+
 ###### Electric
 Electric Damage occurs when a target is exposed to an over-charged material.
+
+When a creature takes Electric damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Burning' [[Ailment]].
 
 ###### Fire
 Fire Damage occurs as a target's temperature increases significantly.
 
+When a creature takes Fire damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Burning' [[Ailment]].
+
 ###### Force
 Force Damage occurs as a target is presented with the reality of physics, even when those physics have been coerced.
+
+When a creature takes Force damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Dazed' [[Ailment]].
 
 ###### Necrotic
 Necrotic Damage occurs as the materials supporting a target's physical experience break, fail, rot, and die.
 
+When a creature takes Necrotic damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Poisoned' [[Ailment]].
+
 ###### Psychic
 Psychic Damage occurs as a target's perception of reality or state of mind is beyond function.
 
+When a creature takes Psychic damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Dazed' [[Ailment]].
+
 ###### Radiant
 Radiant Damage occurs as a target becomes purely unmade - as when interacting with a deity's wrath or incredibly intense explosions. 
+
+When a creature takes Electric damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Burning' [[Ailment]].
 
