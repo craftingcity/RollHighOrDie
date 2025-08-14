@@ -32,12 +32,9 @@ If you take damage that would reduce your Armoring to less than 0, instead, it r
 Your character's Armoring will depend on your currently worn Equipment. 
 
 #### Vitality & Wounds
-When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your half of your Constitution Score plus your Constitution Modifier or 1, whichever is greater.
+When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Score plus your Constitution Modifier or 1, whichever is greater.
 
-`this looks weird, but the math works out? never negative, but the jumps are weird. 
-`1 through 13 are MOD as HP, 14/15 SCR is 28/30 HP (+15/17), 16/17 SCR is 48/51 HP (+20/21), 18/19 SCR is 68/72 HP (+20/21), and so on. 
-`having at least +2 MOD is really good, and kind of the only way you dont just die? is that okay? 
-`i guess, right? you need a high CON to not just die in sustained combat, thats what CON is representing. `
+`8 CON = 7 vit, 10 CON = 10 vit, 12 CON = 13 vit, 14`
 
 When you take damage, if that damage would reduce your Vitality to a number less than 0, you take a Wound instead. When you take a Wound this way, expend a Hit Die and gain the number rolled plus your Constitution Modifier as Vitality.
 
