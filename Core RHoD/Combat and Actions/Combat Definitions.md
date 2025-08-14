@@ -76,10 +76,12 @@ There are times a character will take damage despite the condition of their Armo
 ###### Bludgeoning
 Bludgeoning Damage occurs as objects of significant mass contact their target at force.
 
-When a creature takes Bludgeoning damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw
+When a creature takes Bludgeoning damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain a stack of the 'Dazed' [[Ailment]].
 
 ###### Piercing
 Piercing Damage occurs as objects of minimal mass contact and enter their target with great velocity.
+
+When a creature takes Piercing damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain a stack of the 'Dazed' [[Ailment]].
 
 ###### Slashing
 Slashing Damage occurs as an object is pushed along and or into it's target.
