@@ -76,6 +76,8 @@ There are times a character will take damage despite the condition of their Armo
 ###### Bludgeoning
 Bludgeoning Damage occurs as objects of significant mass contact their target at force.
 
+When a creature takes Bludgeoning damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw
+
 ###### Piercing
 Piercing Damage occurs as objects of minimal mass contact and enter their target with great velocity.
 
