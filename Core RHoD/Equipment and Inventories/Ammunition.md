@@ -137,30 +137,30 @@ All Cartridge Ammunitions inherently have the 'Fragile' Tag.
 | 7.62x39mm USSR (JHP)        | high caliber | Tiny (10)  | 3d8     | Piercing    | Hollow Point                   |
 | 7.62x39mm USSR (AP)         | high caliber | Tiny (10)  | 3d8     | Piercing    | Armor Piercing                 |
 | 7.62x39mm USSR (AP+I)       | high caliber | Tiny (10)  | 3d8     | Piercing    | Armor Piercing, Incendiary (1) |
-| 7.62x51mm NATO (FMJ)        | high caliber | Tiny (10)  | 3d10     | Piercing    |                                |
-| 7.62x51mm NATO (JHP)        | high caliber | Tiny (10)  | 3d10     | Piercing    | Hollow Point                   |
-| 7.62x51mm NATO (AP)         | high caliber | Tiny (10)  | 3d10     | Piercing    | Armor Piercing                 |
-| 7.62x51mm NATO (AP+I)       | high caliber | Tiny (10)  | 3d10     | Piercing    | Armor Piercing, Incendiary (1) |
-| 7.62x54mmR USSR (FMJ)       | high caliber | Small (15) | 3d8     | Piercing    |                                |
-| 7.62x54mmR USSR (AP)        | high caliber | Small (15) | 3d8     | Piercing    | Armor Piercing                 |
-| .338 Lapua (FMJ)            | high caliber | Small (15) | 3d10    | Piercing    |                                |
-| .338 Lapua (JHP)            | high caliber | Small (15) | 3d10    | Piercing    | Hollow Point                   |
-| .338 Lapua (AP)             | high caliber | Small (15) | 3d10    | Piercing    | Armor Piercing                 |
-| .338 Lapua (AP+I)           | high caliber | Small (15) | 3d10    | Piercing    | Armor Piercing, Incendiary (1) |
-| .50 BMG (FMJ)               | high caliber | Small (15) | 3d12    | Piercing    |                                |
-| .50 BMG (AP)                | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing                 |
-| .50 BMG (AP+I)              | high caliber | Small (15) | 3d12    | Piercing    | Armor Piercing, Incendiary (1) |
-| Bottle Rocket               | high caliber | Small (30) | 2d6     | Force       | Explosive                      |
-| 12/70 Birdshot              | shotshell    | Tiny (15)  | 1d6     | Piercing    |                                |
+| 7.62x51mm NATO (FMJ)        | high caliber | Tiny (10)  | 3d10    | Piercing    |                                |
+| 7.62x51mm NATO (JHP)        | high caliber | Tiny (10)  | 3d10    | Piercing    | Hollow Point                   |
+| 7.62x51mm NATO (AP)         | high caliber | Tiny (10)  | 3d10    | Piercing    | Armor Piercing                 |
+| 7.62x51mm NATO (AP+I)       | high caliber | Tiny (10)  | 3d10    | Piercing    | Armor Piercing, Incendiary (1) |
+| 7.62x54mmR USSR (FMJ)       | high caliber | Small (15) | 3d10    | Piercing    |                                |
+| 7.62x54mmR USSR (AP)        | high caliber | Small (15) | 3d10    | Piercing    | Armor Piercing                 |
+| .338 Lapua (FMJ)            | high caliber | Small (15) | 5d6     | Piercing    |                                |
+| .338 Lapua (JHP)            | high caliber | Small (15) | 5d6     | Piercing    | Hollow Point                   |
+| .338 Lapua (AP)             | high caliber | Small (15) | 5d6     | Piercing    | Armor Piercing                 |
+| .338 Lapua (AP+I)           | high caliber | Small (15) | 5d6     | Piercing    | Armor Piercing, Incendiary (1) |
+| .50 BMG (FMJ)               | high caliber | Small (15) | 6d6     | Piercing    |                                |
+| .50 BMG (AP)                | high caliber | Small (15) | 6d6     | Piercing    | Armor Piercing                 |
+| .50 BMG (AP+I)              | high caliber | Small (15) | 6d6     | Piercing    | Armor Piercing, Incendiary (1) |
+| Bottle Rocket               | high caliber | Small (30) | 2d4     | Force       | Explosive                      |
+| 12/70 Birdshot              | shotshell    | Tiny (15)  | 1d8     | Piercing    |                                |
 | 12/70 Buckshot              | shotshell    | Tiny (12)  | 1d12    | Piercing    |                                |
-| 12/70 Full Slug             | shotshell    | Tiny (10)  | 2d6     | Piercing    |                                |
-| 12/70 Sabot Slug            | shotshell    | Tiny (8)   | 2d8     | Piercing    | Armor Piercing                 |
-| 12/70 Breach Slug           | shotshell    | Tiny (8)   | 2d4     | Piercing    |                                |
+| 12/70 Full Slug             | shotshell    | Tiny (10)  | 2d8     | Piercing    |                                |
+| 12/70 Sabot Slug            | shotshell    | Tiny (8)   | 2d10    | Piercing    | Armor Piercing                 |
+| 12/70 Breach Slug           | shotshell    | Tiny (8)   | 2d4     | Piercing    | Explosive                      |
 | 12/70 Flash Shot            | shotshell    | Tiny (12)  | 1d4     | Piercing    | Blinding (3)                   |
-| 12/70 Beanbag               | shotshell    | Tint (12)  | 1d8     | Bludgeoning |                                |
+| 12/70 Beanbag               | shotshell    | Tint (12)  | 1d6     | Bludgeoning |                                |
 | OG-7V Warhead               | shaped       | Medium     | 8d10    | Force       | Explosive                      |
 | PG-7VL Warhead              | shaped       | Medium     | 12d10   | Force       | Explosive, Incendiary (1)      |
-| 40mm High Explosive Grenade | shaped       | Small      | 4d8     | Force       | Explosive                      |
+| 40mm High Explosive Grenade | shaped       | Small      | 6d8     | Force       | Explosive                      |
 | 40mm Incendiary Grenade     | shaped       | Small      | 3d8     | Force       | Explosive, Incendiary (3)      |
 | 40mm Non-Lethal Grenade     | shaped       | Small      | 3d6     | Force       | Explosive, Concussive (5)      |
 | 40mm Smoke Grenade          | shaped       | Small      | -       | -           |                                |
