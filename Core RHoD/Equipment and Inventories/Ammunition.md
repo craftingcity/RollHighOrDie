@@ -66,9 +66,9 @@ If you hit with an Attack using this Ammunition, your target gains a number of s
 | Title                       | Base         | Size       | D. Dice | D. Type     | Other                              |
 | --------------------------- | ------------ | ---------- | ------- | ----------- | ---------------------------------- |
 | Pebble                      | sling-bullet | Tiny (15)  | 1d4     | Bludgeoning | Fragile                            |
-| Clay Bullet                 | sling-bullet | Tiny (6)  | 1d6     | Bludgeoning | Fragile                            |
-| Lead Bullet                 | sling-bullet | Tiny (3)  | 1d6     | Bludgeoning | Durable                            |
-| Cherry Bomb                 | sling-bullet | Tiny (8)  | 1d4     | Force       | Fragile, Explosive                 |
+| Clay Bullet                 | sling-bullet | Tiny (6)   | 1d6     | Bludgeoning | Fragile                            |
+| Lead Bullet                 | sling-bullet | Tiny (3)   | 1d6     | Bludgeoning | Durable                            |
+| Cherry Bomb                 | sling-bullet | Tiny (8)   | 1d4     | Force       | Fragile, Explosive                 |
 | Clay Bomb                   | sling-bullet | Small (4)  | 2d8     | Force       | Fragile, Explosive                 |
 | Clay Firebomb               | sling-bullet | Small (4)  | 2d4     | Force       | Fragile, Explosive, Incendiary (3) |
 | Sharpened Wooden Arrow      | arrow        | Small (30) | 1d4     | Piercing    | Fragile                            |
@@ -101,16 +101,16 @@ All Cartridge Ammunitions inherently have the 'Fragile' Tag.
 
 | Title                       | Base         | Size       | D. Dice | D. Type     | Other                          |
 | --------------------------- | ------------ | ---------- | ------- | ----------- | ------------------------------ |
-| Round Powder Shot           | powder-shot  | Tiny (15)  | 1d4     | Bludgeoning |                                |
-| Point Powder Shot           | powder-shot  | Tiny (15)  | 1d6     | Piercing    |                                |
-| Grape Powder Shot           | powder-shot  | Tiny (15)  | 1d10    | Piercing    |                                |
-| .22LR (FMJ)                 | low caliber  | Tiny (25)  | 1d4     | Piercing    |                                |
-| 9mm (FMJ)                   | low caliber  | Tiny (25)  | 1d6     | Piercing    |                                |
-| 9mm (JHP)                   | low caliber  | Tiny (25)  | 1d6     | Piercing    | Hollow Point                   |
-| 9mm (JHP+P)                 | low caliber  | Tiny (25)  | 2d4     | Piercing    | Hollow Point, Over-Pressured   |
-| 9mm (AP)                    | low caliber  | Tiny (25)  | 1d6     | Piercing    | Armor Piercing                 |
-| .357 Magnum (FMJ)           | low caliber  | Tiny (20)  | 1d8     | Piercing    |                                |
-| .357 Magnum (JHP)           | low caliber  | Tiny (20)  | 1d8     | Piercing    | Hollow Point                   |
+| Round Powder Shot           | powder-shot  | Tiny (15)  | 1d6     | Bludgeoning |                                |
+| Point Powder Shot           | powder-shot  | Tiny (15)  | 1d8     | Piercing    |                                |
+| Grape Powder Shot           | powder-shot  | Tiny (15)  | 2d4     | Piercing    |                                |
+| .22LR (FMJ)                 | low caliber  | Tiny (25)  | 1d6     | Piercing    |                                |
+| 9mm (FMJ)                   | low caliber  | Tiny (25)  | 1d8     | Piercing    |                                |
+| 9mm (JHP)                   | low caliber  | Tiny (25)  | 1d8     | Piercing    | Hollow Point                   |
+| 9mm (JHP+P)                 | low caliber  | Tiny (25)  | 2d6     | Piercing    | Hollow Point, Over-Pressured   |
+| 9mm (AP)                    | low caliber  | Tiny (25)  | 1d8     | Piercing    | Armor Piercing                 |
+| .357 Magnum (FMJ)           | low caliber  | Tiny (20)  | 2d4     | Piercing    |                                |
+| .357 Magnum (JHP)           | low caliber  | Tiny (20)  | 2d4     | Piercing    | Hollow Point                   |
 | .357 Magnum (JHP+P)         | low caliber  | Tiny (20)  | 2d6     | Piercing    | Hollow Point, Over-Pressured   |
 | 10mm (FMJ)                  | low caliber  | Tiny (25)  | 1d6     | Piercing    |                                |
 | 10mm (JHP)                  | low caliber  | Tiny (25)  | 1d6     | Piercing    | Hollow Point                   |

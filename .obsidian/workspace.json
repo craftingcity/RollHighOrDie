@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Defenses"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b18dec1b79b47eb1",
+        "type": "tabs",
+        "children": [
           {
             "id": "6a9ed0e0cb20d6d8",
             "type": "leaf",
@@ -34,13 +40,7 @@
               "icon": "lucide-file",
               "title": "Ammunition"
             }
-          }
-        ]
-      },
-      {
-        "id": "b18dec1b79b47eb1",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "4531bad778222635",
             "type": "leaf",
@@ -209,10 +209,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4531bad778222635",
+  "active": "6a9ed0e0cb20d6d8",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "conflict-files-obsidian-git.md",
