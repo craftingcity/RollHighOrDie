@@ -126,5 +126,4 @@ When a creature takes Psychic damage, if that damage is greater than or equal to
 ###### Radiant
 Radiant Damage occurs as a target becomes purely unmade - as when interacting with a deity's wrath or incredibly intense explosions. 
 
-When a creature takes Electric damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Burning' [[Ailment]].
-
+When a creature takes Radiant damage, if that damage is greater than or equal to half of their Maximum Vitality, they make a Constitution Saving Throw. If the result is less than 16, they gain three stacks of the 'Burning' [[Ailment]].
