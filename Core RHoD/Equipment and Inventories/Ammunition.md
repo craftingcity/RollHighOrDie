@@ -112,15 +112,15 @@ All Cartridge Ammunitions inherently have the 'Fragile' Tag.
 | .357 Magnum (FMJ)           | low caliber  | Tiny (20)  | 2d4     | Piercing    |                                |
 | .357 Magnum (JHP)           | low caliber  | Tiny (20)  | 2d4     | Piercing    | Hollow Point                   |
 | .357 Magnum (JHP+P)         | low caliber  | Tiny (20)  | 2d6     | Piercing    | Hollow Point, Over-Pressured   |
-| 10mm (FMJ)                  | low caliber  | Tiny (25)  | 1d6     | Piercing    |                                |
-| 10mm (JHP)                  | low caliber  | Tiny (25)  | 1d6     | Piercing    | Hollow Point                   |
+| 10mm (FMJ)                  | low caliber  | Tiny (25)  | 1d8     | Piercing    |                                |
+| 10mm (JHP)                  | low caliber  | Tiny (25)  | 1d8     | Piercing    | Hollow Point                   |
 | 10mm (JHP+P)                | low caliber  | Tiny (25)  | 2d6     | Piercing    | Hollow Point, Over-Pressured   |
-| 10mm (AP)                   | low caliber  | Tiny (25)  | 1d6     | Piercing    | Armor Piercing                 |
-| .45 ACP (FMJ)               | low caliber  | Tiny (25)  | 1d8     | Piercing    |                                |
-| .45 ACP (JHP)               | low caliber  | Tiny (25)  | 1d8     | Piercing    | Hollow Point                   |
+| 10mm (AP)                   | low caliber  | Tiny (25)  | 1d8     | Piercing    | Armor Piercing                 |
+| .45 ACP (FMJ)               | low caliber  | Tiny (25)  | 2d4     | Piercing    |                                |
+| .45 ACP (JHP)               | low caliber  | Tiny (25)  | 2d4     | Piercing    | Hollow Point                   |
 | .45 ACP (JHP+P)             | low caliber  | Tiny (25)  | 2d6     | Piercing    | Hollow Point, Over-Pressured   |
-| .45 ACP (AP)                | low caliber  | Tiny (25)  | 1d8     | Piercing    | Armor Piercing                 |
-| .45 ACP (HE)                | low caliber  | Tiny (25)  | 1d8     | Force       | Explosive                      |
+| .45 ACP (AP)                | low caliber  | Tiny (25)  | 2d4     | Piercing    | Armor Piercing                 |
+| .45 ACP (HE)                | low caliber  | Tiny (25)  | 2d6     | Force       | Explosive                      |
 | 5.45x39mm USSR (FMJ)        | high caliber | Tiny (15)  | 2d6     | Piercing    |                                |
 | 5.45x39mm USSR (JHP)        | high caliber | Tiny (15)  | 2d6     | Piercing    | Hollow Point                   |
 | 5.45x39mm USSR (AP)         | high caliber | Tiny (15)  | 2d6     | Piercing    | Armor Piercing                 |
@@ -133,14 +133,14 @@ All Cartridge Ammunitions inherently have the 'Fragile' Tag.
 | .303 British (JHP)          | high caliber | Tiny (10)  | 2d8     | Piercing    | Hollow Point                   |
 | .303 British (AP)           | high caliber | Tiny (10)  | 2d8     | Piercing    | Armor Piercing                 |
 | .303 British (AP+I)         | high caliber | Tiny (10)  | 2d8     | Piercing    | Armor Piercing, Incendiary (1) |
-| 7.62x39mm USSR (FMJ)        | high caliber | Tiny (10)  | 3d6     | Piercing    |                                |
-| 7.62x39mm USSR (JHP)        | high caliber | Tiny (10)  | 3d6     | Piercing    | Hollow Point                   |
-| 7.62x39mm USSR (AP)         | high caliber | Tiny (10)  | 3d6     | Piercing    | Armor Piercing                 |
-| 7.62x39mm USSR (AP+I)       | high caliber | Tiny (10)  | 3d6     | Piercing    | Armor Piercing, Incendiary (1) |
-| 7.62x51mm NATO (FMJ)        | high caliber | Tiny (10)  | 3d6     | Piercing    |                                |
-| 7.62x51mm NATO (JHP)        | high caliber | Tiny (10)  | 3d6     | Piercing    | Hollow Point                   |
-| 7.62x51mm NATO (AP)         | high caliber | Tiny (10)  | 3d6     | Piercing    | Armor Piercing                 |
-| 7.62x51mm NATO (AP+I)       | high caliber | Tiny (10)  | 3d6     | Piercing    | Armor Piercing, Incendiary (1) |
+| 7.62x39mm USSR (FMJ)        | high caliber | Tiny (10)  | 3d8     | Piercing    |                                |
+| 7.62x39mm USSR (JHP)        | high caliber | Tiny (10)  | 3d8     | Piercing    | Hollow Point                   |
+| 7.62x39mm USSR (AP)         | high caliber | Tiny (10)  | 3d8     | Piercing    | Armor Piercing                 |
+| 7.62x39mm USSR (AP+I)       | high caliber | Tiny (10)  | 3d8     | Piercing    | Armor Piercing, Incendiary (1) |
+| 7.62x51mm NATO (FMJ)        | high caliber | Tiny (10)  | 3d10     | Piercing    |                                |
+| 7.62x51mm NATO (JHP)        | high caliber | Tiny (10)  | 3d10     | Piercing    | Hollow Point                   |
+| 7.62x51mm NATO (AP)         | high caliber | Tiny (10)  | 3d10     | Piercing    | Armor Piercing                 |
+| 7.62x51mm NATO (AP+I)       | high caliber | Tiny (10)  | 3d10     | Piercing    | Armor Piercing, Incendiary (1) |
 | 7.62x54mmR USSR (FMJ)       | high caliber | Small (15) | 3d8     | Piercing    |                                |
 | 7.62x54mmR USSR (AP)        | high caliber | Small (15) | 3d8     | Piercing    | Armor Piercing                 |
 | .338 Lapua (FMJ)            | high caliber | Small (15) | 3d10    | Piercing    |                                |
