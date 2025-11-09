@@ -3,6 +3,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
+(Complexity )
 This Spell creates and launches a shaped force of magic from you to a point you choose within Range and Line of Sight, interacting on contact with obstacles along it's path.
 
 When you cast a Projectile Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your Target.
@@ -20,7 +21,7 @@ When you cast a Point Spell, your Casting Skill Check will determine the Spell's
 #### Seeker
 This spell forcefully imposes magical effects onto an entity you choose within Range.
 
-When you cast a Seeker Spell, your Casting S
+When you cast a Seeker Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your target.
 
 ## Spell Effects
 ### Range
