@@ -81,12 +81,12 @@ This spell's Consequence resolves within an hour.
 This spell's Consequence resolves within a Watch.
 
 #### Day Long
-(Complexity +0, Effort +0)
+(Complexity +8, Effort +6)
 
 This spell's Consequence resolves within a Day.
 
 #### Until Triggered
-(Complexity +0, Effort +0)
+(Complexity +6, Effort +4)
 
 This spell's Consequence applies under a given circumstance.
 
