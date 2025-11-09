@@ -3,13 +3,13 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
-(Complexity 8, Effort 1)
+(Complexity 4, Effort 1)
 This Spell creates and launches a shaped force of magic from you to a point you choose within Range and Line of Sight, interacting on contact with obstacles along it's path.
 
 When you cast a Projectile Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your Target.
 
 #### Beam
-(Complexity 12, Effort 3)
+(Complexity 6, Effort 3)
 This Spell creates a line of magic between yourself and a point you choose within Range, attempting to pierce or bore through obstacles along it's path. 
 
 When you cast a Beam Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. Entities within the path will make a Relevant Skill Check in an attempt to avoid the Beam. If the total of their Skill Check is greater than your Casting Skill Check, they successfully dodge the Beam.
@@ -46,6 +46,7 @@ Your target or targets must be within 180' of you.
 
 ### Shape
 #### Sphere (x)
+
 #### Cone (x)
 #### Cube (x)
 #### Plane (x)
