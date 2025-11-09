@@ -96,6 +96,10 @@ This spell's Consequence applies under a given circumstance.
 This spell's Consequence resolves when Saved.
 
 #### Permanent
+(Complexity +0, Effort +0)
+
+This spell's Consequence never resolves.
+
 ### Consequence
 ##### Ailment
 ##### Conditions
