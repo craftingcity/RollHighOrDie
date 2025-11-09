@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0d4dfcd29f0f813",
+        "id": "9d537b016ad86ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "5765fb59edac17b5",
+            "id": "5d4a09f5b31b9a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Character Rules/Defenses.md",
+                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Defenses"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b18dec1b79b47eb1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a9ed0e0cb20d6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core RHoD/Combat and Actions/Combat Definitions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combat Definitions"
+              "title": "Features - Defense"
             }
           }
         ]
@@ -196,11 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a9ed0e0cb20d6d8",
+  "active": "5d4a09f5b31b9a35",
   "lastOpenFiles": [
+    "Core RHoD/Character Rules/Defenses.md",
+    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
-    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "conflict-files-obsidian-git.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
@@ -222,7 +203,6 @@
     "Core RHoD/Character Rules/Experience.md",
     "Core RHoD/Selections Glossary/Features/Features - Offense.md",
     "Core RHoD/Equipment and Inventories/Inventory Management.md",
-    "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
