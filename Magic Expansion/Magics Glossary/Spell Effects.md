@@ -37,11 +37,11 @@ Your target or targets must be within 5' of you.
 Your target or targets must be within 30' of you.
 
 #### Long Range
-(Complexity +6, Effort +1)
+(Complexity +6, Effort +2)
 Your target or targets must be within 90' of you.
 
 #### Extreme Range
-(Complexity +8, Effort +1)
+(Complexity +8, Effort +3)
 Your target or targets must be within 180' of you.
 
 ### Shape
