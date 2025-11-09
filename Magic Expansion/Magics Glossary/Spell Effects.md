@@ -10,15 +10,17 @@ When you cast a Projectile Spell, your Casting Skill Check will determine the ac
 #### Beam
 This Spell creates a line of magic between yourself and a point you choose within Range, attempting to pierce or bore through obstacles along it's path. 
 
-When you cast a Beam Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. Entities with the path will make a Relevant Skill Check in an attempt to avoid the Beam. If the total of their Skill Check is greater than your Casting Skill Check, they successfully dodge the Beam.
+When you cast a Beam Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. Entities within the path will make a Relevant Skill Check in an attempt to avoid the Beam. If the total of their Skill Check is greater than your Casting Skill Check, they successfully dodge the Beam.
 
 #### Point
 This spell forcefully imposes magical effects at a point you choose within Range and Line of Sight.
 
 When you cast a Point Spell, your Casting Skill Check will determine the Spell's ability to effect Targets. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your target.
 
-#### Known Target / Invocation
+#### Seeker
 This spell forcefully imposes magical effects onto an entity you choose within Range.
+
+When you cast a Seeker Spell, your Casting S
 
 ## Spell Effects
 ### Range

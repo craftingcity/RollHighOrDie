@@ -6,9 +6,10 @@
       {
         "id": "817ade5cc5b97aa0",
         "type": "tabs",
+        "dimension": 42.676431424766974,
         "children": [
           {
-            "id": "4f60f7300de049eb",
+            "id": "d38edcb0cb65deb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,19 +27,20 @@
       {
         "id": "9d537b016ad86ef0",
         "type": "tabs",
+        "dimension": 57.32356857523302,
         "children": [
           {
-            "id": "5d4a09f5b31b9a35",
+            "id": "4f60f7300de049eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
+                "file": "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Traits - Training"
+              "title": "Defined Arcane Spells"
             }
           },
           {
@@ -55,8 +57,7 @@
               "title": "Spellcasting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f60f7300de049eb",
+  "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
     "Magic Expansion/Features - Arcane.md",
@@ -238,8 +241,6 @@
     "Apocalypse Expansion/Seattle Exports Misery - Features and Traits.md",
     "Apocalypse Expansion/Untitled",
     "Referee Hanbook/Specific or Generalized Items.md",
-    "Apocalypse Expansion/Seattle Exports Misery - Environment Definitions.md",
-    "Apocalypse Expansion/Seattle Exports Misery - Ailments, Conditions, and Emboldenments.md",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Apocalypse Expansion/Character Rules/Untitled",
     "Apocalypse Expansion/Character Rules",
