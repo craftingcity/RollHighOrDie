@@ -50,15 +50,31 @@ Your target or targets must be within 180' of you.
 
 This spell creates a sphere with a radius of (X) feet. This spell's Consequence applies to each Target within this area.
 
-
-
 #### Cone (x)
+(Complexity +x/5, Effort +x/5)
+
 #### Cube (x)
+(Complexity +x/5, Effort +x/5)
+
 #### Plane (x)
+(Complexity +x/5, Effort +x/5)
+
 ### Duration
 #### Immediate
+(Complexity +0, Effort +0)
+
+This spell's Consequence resolves immediately.
+
 #### Minute Long
+(Complexity +4, Effort +1)
+
+This spell's Consequence resolves within a minute.
+
 #### Hour Long
+(Complexity +6, Effort +2)
+
+This spell's Consequence resolves immediately.
+
 #### Watch Long
 #### Day Long
 #### Until Triggered
