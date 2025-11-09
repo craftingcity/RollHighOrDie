@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core RHoD/Selections Glossary/Features/Features - Defense.md",
+                "file": "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Features - Defense"
+              "title": "Traits - Training"
             }
           }
         ]
@@ -178,6 +178,9 @@
   },
   "active": "5d4a09f5b31b9a35",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
+    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
@@ -206,9 +209,6 @@
     "Core RHoD/Character Rules/Creating A Character.md",
     "Core RHoD/Character Rules/Features.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
-    "Core RHoD/Character Sheet.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
-    "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
