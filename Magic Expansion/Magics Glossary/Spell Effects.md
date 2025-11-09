@@ -21,7 +21,7 @@ This spell forcefully imposes magical effects at a point you choose within Range
 When you cast a Point Spell, your Casting Skill Check will determine the Spell's ability to effect Targets. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your target.
 
 #### Seeker
-(Complexity 14, Effort 4)
+(Complexity 16, Effort 4)
 This spell forcefully imposes magical effects onto an entity you choose within Range.
 
 When you cast a Seeker Spell, your Casting Skill Check will determine the accuracy of the Spell's path to it's Target. You will compare your Casting Skill Check to your Target's Relevant Defense to determine if you have "hit" your target.
@@ -29,7 +29,8 @@ When you cast a Seeker Spell, your Casting Skill Check will determine the accura
 ## Spell Effects
 ### Range
 #### Touch Range
-This Spell has a 5' Range. This spell's 
+(Complexity +0, Effort +1)
+You may target your spell within 5' 
 
 #### Short Range
 #### Long Range

@@ -2,9 +2,9 @@
 ### subcat
 #### Force Bolt
 *Force Bolt*
-Complexity: 
-Effort: 4
-Speed: 2
+Complexity: 8+
+Effort: 1+
+Speed: 
 
 Long Range Projectile 
 Immediate Sphere (1')
