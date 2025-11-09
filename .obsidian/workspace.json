@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Expansion/Features - Arcane.md",
+                "file": "Magic Expansion/Magics Glossary/Spell Effects.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Features - Arcane"
+              "title": "Spell Effects"
             }
           }
         ]
@@ -213,9 +213,11 @@
   },
   "active": "4f60f7300de049eb",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
+    "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Features - Divine.md",
     "Magic Expansion/Spellcasting.md",
-    "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magical Equipment.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
@@ -242,8 +244,6 @@
     "Apocalypse Expansion/Character Rules/Untitled",
     "Apocalypse Expansion/Character Rules",
     "Apocalypse Expansion",
-    "Referee Hanbook/Untitled.md",
-    "Core RHoD/Character Rules/Experience.md",
     "featuresNtraits.ods",
     "New OpenDocument Spreadsheet.ods",
     "features.ods",
