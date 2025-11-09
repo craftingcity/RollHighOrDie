@@ -6,7 +6,7 @@
       {
         "id": "817ade5cc5b97aa0",
         "type": "tabs",
-        "dimension": 42.676431424766974,
+        "dimension": 42.67643142476698,
         "children": [
           {
             "id": "d38edcb0cb65deb1",
@@ -25,39 +25,66 @@
         ]
       },
       {
-        "id": "9d537b016ad86ef0",
-        "type": "tabs",
+        "id": "2903bb1d2a89a89b",
+        "type": "split",
         "dimension": 57.32356857523302,
         "children": [
           {
-            "id": "4f60f7300de049eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
-                "mode": "source",
-                "source": true
+            "id": "9d537b016ad86ef0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f60f7300de049eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Defined Arcane Spells"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Defined Arcane Spells"
-            }
+              {
+                "id": "416bf1404cedcc7a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Expansion/Spellcasting.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spellcasting"
+                }
+              }
+            ]
           },
           {
-            "id": "416bf1404cedcc7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Expansion/Spellcasting.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Spellcasting"
-            }
+            "id": "d9fb0cbd3c304516",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bbb288f2ff72b8e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Selections Glossary/Ailment.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ailment"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -213,10 +240,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38edcb0cb65deb1",
+  "active": "bbb288f2ff72b8e6",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",

@@ -90,13 +90,15 @@ This spell's Consequence resolves within a Day.
 
 This spell's Consequence applies under a given circumstance.
 
+This spell requires another Duration tag.
+
 #### Until Saved
-(Complexity +0, Effort +0)
+(Complexity +2, Effort +4)
 
 This spell's Consequence resolves when Saved.
 
 #### Permanent
-(Complexity +0, Effort +0)
+(Complexity +12, Effort +10)
 
 This spell's Consequence never resolves.
 
