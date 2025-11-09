@@ -46,7 +46,7 @@ Your target or targets must be within 180' of you.
 
 ### Shape
 #### Sphere (x)
-(Complexity +, Effort +3)
+(Complexity +x/5, Effort +x/5)
 
 This spell creates a sphere with a radius of (X) feet. This spell's Consequence applies to each Target within this area.
 
