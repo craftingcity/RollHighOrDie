@@ -30,11 +30,20 @@ When you cast a Seeker Spell, your Casting Skill Check will determine the accura
 ### Range
 #### Touch Range
 (Complexity +0, Effort +1)
-You may target your spell within 5' 
+Your target or targets must be within 5' of you.
 
 #### Short Range
+(Complexity +4, Effort +1)
+Your target or targets must be within 30' of you.
+
 #### Long Range
+(Complexity +6, Effort +1)
+Your target or targets must be within 90' of you.
+
 #### Extreme Range
+(Complexity +8, Effort +1)
+Your target or targets must be within 180' of you.
+
 ### Shape
 #### Sphere (x)
 #### Cone (x)
