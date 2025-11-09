@@ -111,6 +111,10 @@ This spell's Consequence never resolves.
 #### Entity Conversion
 ##### Damage
 #### Acid Damage
+(Complexity +12, Effort +10)
+
+This spell's Consequence never resolves.
+
 #### Cold Damage
 #### Electric Damage
 #### Fire Damage
