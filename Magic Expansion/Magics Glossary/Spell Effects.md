@@ -63,44 +63,42 @@ This spell creates a sphere with a radius of (X) feet. This spell's Consequence 
 #### Immediate
 (Complexity +0, Effort +0)
 
-This spell's Consequence resolves immediately.
+This spell's Consequence applies and resolves immediately.
 
 #### Minute Long
 (Complexity +2, Effort +1)
 
-This spell's Consequence resolves within a minute.
+This spell's Consequence applies every round, and resolves within a minute.
 
 #### Hour Long
 (Complexity +4, Effort +2)
 
-This spell's Consequence resolves within an hour.
+This spell's Consequence applies every round, and resolves within an hour.
 
 #### Watch Long
 (Complexity +4, Effort +4)
 
-This spell's Consequence resolves within a Watch.
+This spell's Consequence applies every round, and resolves within a Watch.
 
 #### Day Long
 (Complexity +8, Effort +6)
 
-This spell's Consequence resolves within a Day.
+This spell's Consequence applies every round, and resolves within a Day.
 
 #### Until Triggered
 (Complexity +6, Effort +4)
 
-This spell's Consequence applies under a given circumstance.
-
-This spell requires another Duration tag.
+This spell's Consequence begins to apply under a given defined circumstance. This spell requires another second Duration tag.
 
 #### Until Saved
 (Complexity +2, Effort +4)
 
-This spell's Consequence resolves when Saved.
+This spell's Consequence applies every round, and resolves when Saved.
 
 #### Permanent
 (Complexity +12, Effort +10)
 
-This spell's Consequence never resolves.
+This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
