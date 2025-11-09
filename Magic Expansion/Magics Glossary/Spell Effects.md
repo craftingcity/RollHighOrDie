@@ -113,7 +113,7 @@ This spell's Consequence never resolves.
 #### Acid Damage
 (Complexity +12, Effort +10)
 
-This spell's Consequence never resolves.
+This spell deals XdY Acid damage.
 
 #### Cold Damage
 #### Electric Damage
