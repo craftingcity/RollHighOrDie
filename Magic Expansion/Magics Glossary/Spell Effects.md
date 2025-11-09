@@ -96,7 +96,7 @@ This spell's Consequence begins to apply under a given defined circumstance. Thi
 This spell's Consequence applies every round, and resolves when Saved.
 
 #### Permanent
-(Complexity +12, Effort +10)
+(Complexity +24, Effort +20)
 
 This spell's Consequence applies every round, and never resolves.
 
@@ -109,15 +109,43 @@ This spell's Consequence applies every round, and never resolves.
 #### Entity Conversion
 ##### Damage
 #### Acid Damage
-(Complexity +12, Effort +10)
+(Complexity +Y/2, Effort +X)
 
 This spell deals XdY Acid damage.
 
 #### Cold Damage
+(Complexity +Y/2, Effort +X)
+
+This spell deals XdY Cold damage.
+
 #### Electric Damage
+(Complexity +Y/2, Effort +X)
+
+This spell deals XdY Electric damage.
+
 #### Fire Damage
+(Complexity +Y/2, Effort +X)
+
+This spell deals XdY Fire damage.
+
 #### Force Damage
+(Complexity +Y/2, Effort +X)
+
+This spell deals XdY Force damage.
+
 #### Necrotic Damage
+(Complexity +Y/2, Effort +X)
+
+This spell deals XdY Necrotic damage.
+
 #### Psychic Damage
+(Complexity +Y/2, Effort +X)
+
+This spell deals XdY Psychic damage.
+
 #### Radiant Damage
+(Complexity +Y/2, Effort +X)
+
+This spell deals XdY Radiant damage.
+
 ##### Emboldenment
