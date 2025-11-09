@@ -102,11 +102,16 @@ This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
+
 ##### Conditions
+
 ##### Conversion
 #### Compatible Conversion
+
 #### Incompatible Conversion
+
 #### Entity Conversion
+
 ##### Damage
 #### Acid Damage
 (Complexity +Y/2, Effort +X)
