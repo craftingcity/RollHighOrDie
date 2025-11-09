@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "817ade5cc5b97aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f60f7300de049eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Expansion/Features - Divine.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Divine"
+            }
+          }
+        ]
+      },
+      {
         "id": "9d537b016ad86ef0",
         "type": "tabs",
         "children": [
@@ -22,20 +42,6 @@
             }
           },
           {
-            "id": "4f60f7300de049eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Expansion/Features - Arcane.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Features - Arcane"
-            }
-          },
-          {
             "id": "416bf1404cedcc7a",
             "type": "leaf",
             "state": {
@@ -50,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +213,10 @@
   },
   "active": "416bf1404cedcc7a",
   "lastOpenFiles": [
-    "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Features - Divine.md",
-    "Magic Expansion/Magical Equipment.md",
+    "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Spellcasting.md",
+    "Magic Expansion/Magical Equipment.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
