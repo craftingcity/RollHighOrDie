@@ -99,7 +99,7 @@ This spell's Consequence begins to apply under a given defined circumstance. Thi
 #### Until Saved
 (Complexity +2, Effort -2)
 
-This spell's Consequence applies every round, and resolves when a relevant Saving Throw has been succeeded, the Difficulty Class of which is equal to 10 plus your Degree of Proficiency in the Casting Skill you used to cast this spell. This spell requires another Duration Tag.
+This spell's Consequence applies every round, and resolves when a If the total of their Skill Check is greater than your Casting Skill Check, they successfully dodge the Beam. This spell requires another Duration Tag.
 
 #### Permanent
 (Complexity +24, Effort +20)
