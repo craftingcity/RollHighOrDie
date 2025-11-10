@@ -5,10 +5,9 @@ Complexity: 12 (4+4+0+4)
 Effort: 4 (1+2+0+1)
 Speed: 2
 
-**Projectile, Long Range**.
+**Projectile, Sphere (1'), Long Range, Immediate Damage (Force)**.
 Target a creature or point within 90' of you and establish Line of Sight.
 
 Make a Casting Skill Check against your Target's Reflex.
 
-**Sphere (1'), Immediate Damage (Force)**.
 If you hit, you deal 1d8 force damage.
