@@ -99,7 +99,7 @@ This spell's Consequence begins to apply under a given defined circumstance. Thi
 #### Until Saved
 (Complexity +2, Effort +4)
 
-This spell's Consequence applies every round, and resolves when Saved.
+This spell's Consequence applies every round, and resolves when a relevant Saving Throw has been succeeded, the Difficulty Class of which is equal to 10 plus your Degree of Proficiency in the Casting Skill you used to cast this spell.
 
 #### Permanent
 (Complexity +24, Effort +20)
