@@ -61,7 +61,8 @@
                   "title": "Spellcasting"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "d9fb0cbd3c304516",
@@ -166,8 +167,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,14 +269,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38edcb0cb65deb1",
+  "active": "416bf1404cedcc7a",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
-    "Core RHoD/Selections Glossary/Condition.md",
     "Magic Expansion/Spellcasting.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
+    "Core RHoD/Selections Glossary/Condition.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
     "Magic Expansion/Features - Arcane.md",
