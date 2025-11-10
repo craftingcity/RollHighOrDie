@@ -53,8 +53,12 @@ This spell creates a sphere with a radius of (X) feet. This spell's Consequence 
 #### Cone (x)
 (Complexity +x/5, Effort +x/5)
 
+This spell creates a cone with a length and width of (X) feet, in a direction of your choice. This spell's Consequence applies to each Target within this area.
+
 #### Cube (x)
 (Complexity +x/5, Effort +x/5)
+
+This spell creates a cube with a length of (X) feet. This spell's Consequence applies to each Target within this area.
 
 #### Plane (x)
 (Complexity +x/5, Effort +x/5)
