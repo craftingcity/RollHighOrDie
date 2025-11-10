@@ -1,6 +1,6 @@
 ## CATEGOREY
 ### subcat
-#### Force Bolt
+#### Magic Missile
 Complexity: 12 (4+4+0+4)
 Effort: 4 (1+2+0+1)
 Speed: 2
