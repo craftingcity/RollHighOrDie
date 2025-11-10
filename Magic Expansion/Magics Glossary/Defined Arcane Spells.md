@@ -1,7 +1,7 @@
 ## CATEGOREY
 ### subcat
 #### Force Bolt
-Complexity: 14 (4+6+0+4)
+Complexity: 12 (4+4+0+4)
 Effort: 4 (1+2+0+1)
 Speed: 2
 
