@@ -30,23 +30,23 @@ When you cast a Seeker Spell, your Casting Skill Check will determine the accura
 ### Range
 #### Touch Range
 (Complexity +0, Effort +1)
-Your target or targets must be within 5' of you.
+This spell's target or targets must be within 5' of you.
 
 #### Short Range
 (Complexity +2, Effort +1)
-Your target or targets must be within 30' of you.
+This spell's target or targets must be within 30' of you.
 
 #### Long Range
 (Complexity +4, Effort +2)
-Your target or targets must be within 90' of you.
+This spell's target or targets must be within 90' of you.
 
 #### Extreme Range
 (Complexity +8, Effort +3)
-Your target or targets must be within 180' of you.
+This spell's target or targets must be within 180' of you.
 
 ### Shape
 #### Sphere (x)
-(Complexity +x/5, Effort +x/3)
+(Complexity +x/3, Effort +x/3)
 
 This spell creates a sphere with a radius of (X) feet. This spell's Consequence applies to each Target within this area.
 
@@ -56,12 +56,14 @@ This spell creates a sphere with a radius of (X) feet. This spell's Consequence 
 This spell creates a cone with a length and width of (X) feet, in a direction of your choice. This spell's Consequence applies to each Target within this area.
 
 #### Cube (x)
-(Complexity +x/5, Effort +x/5)
+(Complexity +x/4, Effort +x/4)
 
 This spell creates a cube with a length of (X) feet. This spell's Consequence applies to each Target within this area.
 
 #### Plane (x)
 (Complexity +x/5, Effort +x/5)
+
+This spell creates a square plane with a thickness of 1" and a length of (X) feet.
 
 ### Duration
 #### Immediate
