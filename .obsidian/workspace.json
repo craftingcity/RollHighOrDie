@@ -65,53 +65,80 @@
             "currentTab": 1
           },
           {
-            "id": "d9fb0cbd3c304516",
-            "type": "tabs",
+            "id": "f1105c15ce19199b",
+            "type": "split",
             "children": [
               {
-                "id": "bbb288f2ff72b8e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Ailment.md",
-                    "mode": "source",
-                    "source": true
+                "id": "d9fb0cbd3c304516",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "bbb288f2ff72b8e6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Selections Glossary/Ailment.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Ailment"
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Ailment"
-                }
+                  {
+                    "id": "0ad9cf6d8c54da3c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Selections Glossary/Condition.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Condition"
+                    }
+                  },
+                  {
+                    "id": "42bad5300ac01a05",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Selections Glossary/Emboldenment.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Emboldenment"
+                    }
+                  }
+                ],
+                "currentTab": 1
               },
               {
-                "id": "0ad9cf6d8c54da3c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Condition.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Condition"
-                }
-              },
-              {
-                "id": "42bad5300ac01a05",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Emboldenment.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Emboldenment"
-                }
+                "id": "ba5382c9fb93fb55",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b5782c0b90350b2a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Magical Ailments, Conditions, and Emboldenments"
+                    }
+                  }
+                ]
               }
             ],
-            "currentTab": 1
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -269,14 +296,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ad9cf6d8c54da3c",
+  "active": "b5782c0b90350b2a",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Condition.md",
+    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Core RHoD/Selections Glossary/Condition.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
     "Magic Expansion/Features - Arcane.md",
@@ -296,7 +324,6 @@
     "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
     "Core RHoD/Combat and Actions/Generic Actions.md",
     "Core RHoD/Character Rules/Skills.md",
-    "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Apocalypse Expansion/Untitled",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Apocalypse Expansion/Character Rules/Untitled",
