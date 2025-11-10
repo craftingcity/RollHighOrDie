@@ -25,11 +25,11 @@ The resource you use to pay for a Spell's costs depend on the Feature that grant
 To Cast a Spell, you must first expend Action Points equal to the Speed of the Spell, then increase or decrease your Spellcasting Resource. After expending these resources, make a Casting Skill Check. If you succeed, the Spell is Cast, and you apply it's Effects. If you fail, you do not cast the Spell, and there may be other consequences.
 
 #### Succeeding in Arcane Casting
-When you attempt to cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain the Spell's Effort Cost as Flux, your Spellcasting Resource. When you gain Flux, if your current total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressure' [[Condition]].
+When you attempt to cast Spells using 'Innate Spellcasting' or 'Learned Spellcasting', you gain the Spell's Effort Cost as Flux, your Spellcasting Resource. When you gain Flux, if your current total Flux is greater than your Flux Capacity, you gain a stack of the 'Flux Overpressured' [[Condition]].
 
 Then, if you are casting a Defined Spell, make a Static Casting Skill Check, or if you are casting a Spell you have constructed using Spell Effects, make a Fluid Casting Skill Check.
 
-If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressure' [[Condition]].
+If the result is equal to or greater than the Spell's Complexity, you succeed in casting the Spell. If the result is less than the Spell's Complexity, it fails, and you gain a stack of the 'Flux Overpressured' [[Condition]].
 
 ###### Reducing Flux
 The Flux you gain while casting spells will dissipate over time at rest.
