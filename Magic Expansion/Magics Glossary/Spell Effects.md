@@ -109,14 +109,7 @@ This spell's Consequence applies every round, and never resolves.
 ### Consequence
 ##### Ailment
 
-##### Conditions
-
-##### Conversion
-#### Compatible Conversion
-
-#### Incompatible Conversion
-
-#### Entity Conversion
+##### Emboldenment
 
 ##### Damage
 #### Acid Damage
@@ -158,5 +151,3 @@ This spell deals XdY Psychic damage.
 (Complexity +Y/2, Effort +X)
 
 This spell deals XdY Radiant damage.
-
-##### Emboldenment

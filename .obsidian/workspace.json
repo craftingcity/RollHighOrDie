@@ -109,7 +109,8 @@
                   "title": "Emboldenment"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -270,10 +271,10 @@
   },
   "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Ailment.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
+    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
