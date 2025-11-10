@@ -108,6 +108,9 @@ This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
+#### Hobbled
+#### Bleeding
+#### Flammab
 
 ##### Emboldenment
 
