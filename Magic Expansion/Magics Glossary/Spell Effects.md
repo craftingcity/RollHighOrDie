@@ -77,29 +77,29 @@ This spell's Consequence applies and resolves immediately.
 This spell's Consequence applies every round, and resolves within a minute.
 
 #### Hour Long
-(Complexity +4, Effort +2)
+(Complexity +4, Effort +4)
 
 This spell's Consequence applies every round, and resolves within an hour.
 
 #### Watch Long
-(Complexity +4, Effort +4)
+(Complexity +4, Effort +8)
 
 This spell's Consequence applies every round, and resolves within a Watch.
 
 #### Day Long
-(Complexity +8, Effort +6)
+(Complexity +8, Effort +12)
 
 This spell's Consequence applies every round, and resolves within a Day.
 
 #### Until Triggered
 (Complexity +6, Effort +4)
 
-This spell's Consequence begins to apply under a given defined circumstance. This spell requires another second Duration tag.
+This spell's Consequence begins to apply under a given defined circumstance. This spell requires another Duration tag.
 
 #### Until Saved
-(Complexity +2, Effort +4)
+(Complexity +2, Effort -2)
 
-This spell's Consequence applies every round, and resolves when a relevant Saving Throw has been succeeded, the Difficulty Class of which is equal to 10 plus your Degree of Proficiency in the Casting Skill you used to cast this spell.
+This spell's Consequence applies every round, and resolves when a relevant Saving Throw has been succeeded, the Difficulty Class of which is equal to 10 plus your Degree of Proficiency in the Casting Skill you used to cast this spell. This spell requires another Duration Tag.
 
 #### Permanent
 (Complexity +24, Effort +20)
