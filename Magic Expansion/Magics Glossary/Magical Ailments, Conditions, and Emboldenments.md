@@ -11,6 +11,9 @@ On your turn, if your current total Flux is less than your Flux Capacity, you ma
 #### Irreparable
 While you are 'Irreparable', you cannot regain Vitality.
 
+#### Misled
+While you are 'Misled', when you next make a Skill Check, you subtract 1d4 from the result. Then, you Naturally Resolve a stack of 'Misled'.
+
 ### Emboldenments
 #### Guided
-While you are 'Guided', when you next make a Skill Check, you may add 1d4 to the result. Then, you Naturally Resolve a stack of 'Guided'.
+While you are 'Guided', when you next make a Skill Check, you add 1d4 to the result. Then, you Naturally Resolve a stack of 'Guided'.

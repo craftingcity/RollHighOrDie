@@ -112,7 +112,8 @@ This spell's Consequence applies every round, and never resolves.
 #### Impose Irreparable
 #### Impose Guided
 #### Force Movement
-#### Friendly Charm
+#### Minor Charm
+#### Major Charm
 
 
 ##### Emboldenment
@@ -127,6 +128,10 @@ This spell grants X Damage Resistance of that Type.
 #### Light
 #### Darkness
 #### Push/Pull
+#### Mend Material
+#### Telepathy
+#### Minor Illusion
+#### Major Illusion
 
 ##### Damage
 #### Acid Damage
