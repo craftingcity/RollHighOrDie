@@ -118,6 +118,7 @@ This spell's Consequence applies every round, and never resolves.
 
 
 ##### Emboldenment
+#### Impose Rallied
 #### Resistance
 (Complexity +X, Effort +2)
 
@@ -125,7 +126,7 @@ Choose a Damage Type.
 
 This spell grants X Damage Resistance of that Type.
 
-#### Impose Rallied
+#### Shield
 #### 
 
 ##### Utility
