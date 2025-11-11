@@ -69,7 +69,7 @@ This spell creates a square plane with a thickness of 1" and a length of (X) fee
 #### Immediate
 (Complexity +0, Effort +0)
 
-This spell's Consequence applies and resolves immediately.
+This spell's Consequence applies now and resolves before the beginning of your next turn.
 
 #### Minute Long
 (Complexity +2, Effort +1)
