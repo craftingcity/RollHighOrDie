@@ -108,24 +108,10 @@ This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
-#### Hobbled
-#### Bleeding
-#### Flammable
-#### Caught
-#### Frightened
-#### Burning
-#### Blinded
-#### Dazed
-#### Infected
-#### Poisoned
-#### Spotted
-#### Restrained
+
 
 ##### Emboldenment
-#### Pain Dulled
-#### Regeneration
-#### Rallied
-#### Encouraged
+
 
 ##### Damage
 #### Acid Damage

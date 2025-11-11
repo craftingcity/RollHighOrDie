@@ -65,80 +65,24 @@
             "currentTab": 1
           },
           {
-            "id": "f1105c15ce19199b",
-            "type": "split",
+            "id": "ba5382c9fb93fb55",
+            "type": "tabs",
             "children": [
               {
-                "id": "d9fb0cbd3c304516",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "bbb288f2ff72b8e6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core RHoD/Selections Glossary/Ailment.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Ailment"
-                    }
+                "id": "b5782c0b90350b2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
+                    "mode": "source",
+                    "source": true
                   },
-                  {
-                    "id": "0ad9cf6d8c54da3c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core RHoD/Selections Glossary/Condition.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Condition"
-                    }
-                  },
-                  {
-                    "id": "42bad5300ac01a05",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Core RHoD/Selections Glossary/Emboldenment.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Emboldenment"
-                    }
-                  }
-                ],
-                "currentTab": 2
-              },
-              {
-                "id": "ba5382c9fb93fb55",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "b5782c0b90350b2a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Magical Ailments, Conditions, and Emboldenments"
-                    }
-                  }
-                ]
+                  "icon": "lucide-file",
+                  "title": "Magical Ailments, Conditions, and Emboldenments"
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           }
         ],
         "direction": "horizontal"
@@ -298,12 +242,12 @@
   },
   "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
-    "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Condition.md",
+    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
