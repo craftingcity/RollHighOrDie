@@ -12,3 +12,5 @@ On your turn, if your current total Flux is less than your Flux Capacity, you ma
 While you are 'Irreparable', you cannot regain Vitality.
 
 ### Emboldenments
+#### Guided
+While you are 'Guided', when you make a Skill Check, you may add 
