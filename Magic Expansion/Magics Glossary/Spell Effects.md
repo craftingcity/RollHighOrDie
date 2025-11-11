@@ -118,7 +118,10 @@ This spell's Consequence applies every round, and never resolves.
 
 
 ##### Emboldenment
+#### Impose Pain Dulled
+#### Impose Regeneration
 #### Impose Rallied
+#### Impose Encouraged
 #### Resistance
 (Complexity +X, Effort +2)
 
@@ -127,7 +130,6 @@ Choose a Damage Type.
 This spell grants X Damage Resistance of that Type.
 
 #### Shield
-#### 
 
 ##### Utility
 #### Light
