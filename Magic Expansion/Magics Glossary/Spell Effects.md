@@ -109,7 +109,7 @@ This spell's Consequence applies every round, and never resolves.
 ### Consequence
 ##### Ailment
 #### Impose Irreparable
-#### Impose Guided
+#### Impose Misled
 #### Impose Hobbled
 #### Impose Bleeding
 #### Impose Flammable
@@ -129,6 +129,7 @@ This spell's Consequence applies every round, and never resolves.
 
 
 ##### Emboldenment
+#### Impose Guided
 #### Impose Pain Dulled
 #### Impose Regeneration
 #### Impose Rallied
@@ -153,6 +154,8 @@ This spell grants X Damage Resistance of that Type.
 #### Minor Transmute
 #### Major Transmute
 #### Mortal Transmute
+#### Translate
+#### Detect Magic
 
 ##### Damage
 #### Acid Damage
