@@ -112,7 +112,7 @@ This spell's Consequence applies every round, and never resolves.
 
 ##### Emboldenment
 #### Resistance
-(Complexity +2, Effort +X)
+(Complexity +X, Effort +2)
 
 Choose a Damage Type. 
 
