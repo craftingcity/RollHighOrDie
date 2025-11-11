@@ -1,7 +1,5 @@
 # Preamble
-Conditions in RHoD are the temporary afflictions or effects that characters may experience during your game.
-
-While [[Ailment]] and [[Emboldenment]] are imparted by one character onto another, Conditions reflect the current status of a given character.
+The following Conditions, Ailments, and Emboldenments are related to explicitly magical occurrences or effects.
 
 ### Conditions
 #### Flux Overpressured
@@ -10,5 +8,7 @@ While you are 'Flux Overpressured', at the beginning of your turn you take a num
 On your turn, if your current total Flux is less than your Flux Capacity, you may spend 2 AP to Manually Resolve a stack of 'Flux Overpressured'.
 
 ### Ailments
+#### Irreparable
+While you are 'Irreparable', you cannot regain Vitality.
 
 ### Emboldenments
