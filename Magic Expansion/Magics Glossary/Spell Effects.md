@@ -108,8 +108,8 @@ This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
-#### Faltering
-#### Irreparable
+#### Impose Faltering
+#### Impose Irreparable
 #### Friendly Charm
 
 
