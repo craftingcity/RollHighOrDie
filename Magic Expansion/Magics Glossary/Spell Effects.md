@@ -134,6 +134,7 @@ This spell's Consequence applies every round, and never resolves.
 #### Impose Regeneration
 #### Impose Rallied
 #### Impose Encouraged
+#### Grant Vitality
 #### Resistance
 (Complexity +X, Effort +2)
 
