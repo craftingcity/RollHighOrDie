@@ -135,6 +135,7 @@ This spell's Consequence applies every round, and never resolves.
 #### Impose Rallied
 #### Impose Encouraged
 #### Grant Vitality
+#### Grant Armoring
 #### Resistance
 (Complexity +X, Effort +2)
 
