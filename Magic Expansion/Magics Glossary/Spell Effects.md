@@ -111,7 +111,10 @@ This spell's Consequence applies every round, and never resolves.
 
 
 ##### Emboldenment
+#### Resistance
+(Complexity, Effort)
 
+Choose a Damage Type. You gain X Damage Resistance of that Type.
 
 ##### Damage
 #### Acid Damage

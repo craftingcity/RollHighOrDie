@@ -25,67 +25,68 @@
         ]
       },
       {
-        "id": "2903bb1d2a89a89b",
-        "type": "split",
+        "id": "9d537b016ad86ef0",
+        "type": "tabs",
         "dimension": 57.32356857523302,
         "children": [
           {
-            "id": "9d537b016ad86ef0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4f60f7300de049eb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Defined Arcane Spells"
-                }
+            "id": "4f60f7300de049eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
+                "mode": "source",
+                "source": true
               },
-              {
-                "id": "416bf1404cedcc7a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Spellcasting.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Spellcasting"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "Defined Arcane Spells"
+            }
           },
           {
-            "id": "ba5382c9fb93fb55",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b5782c0b90350b2a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Magical Ailments, Conditions, and Emboldenments"
-                }
-              }
-            ]
+            "id": "416bf1404cedcc7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Expansion/Spellcasting.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spellcasting"
+            }
+          },
+          {
+            "id": "b5782c0b90350b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Ailments, Conditions, and Emboldenments"
+            }
+          },
+          {
+            "id": "1b26864c03dd403d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Selections Glossary/Emboldenment.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Emboldenment"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,13 +241,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38edcb0cb65deb1",
+  "active": "1b26864c03dd403d",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
