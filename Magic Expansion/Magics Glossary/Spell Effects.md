@@ -108,6 +108,8 @@ This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
+#### 
+#### Void Healing
 
 
 ##### Emboldenment
