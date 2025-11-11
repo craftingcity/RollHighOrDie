@@ -12,9 +12,9 @@ Make a Casting Skill Check against your Target's Reflex.
 
 If you hit, you deal 1d8 force damage.
 
-#### Booming Blade
-Complexity:
+#### Boom Hold
+Complexity: (4+)
 Effort:
 Speed:
 
-**Projectile, Sphere (1'), Touch Range, 
+**Projectile, Sphere (1'), Touch Range, Until Triggered, Minute Long, Damage (Force)**
