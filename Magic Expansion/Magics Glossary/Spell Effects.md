@@ -112,7 +112,8 @@ This spell's Consequence applies every round, and never resolves.
 #### Impose Irreparable
 #### Impose Guided
 #### Impose Hobbled
-#### Force Movement
+#### Compel Movement
+#### Compel Action
 #### Minor Charm
 #### Major Charm
 
