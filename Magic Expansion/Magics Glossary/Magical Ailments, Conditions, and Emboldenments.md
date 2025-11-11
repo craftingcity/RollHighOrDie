@@ -13,4 +13,4 @@ While you are 'Irreparable', you cannot regain Vitality.
 
 ### Emboldenments
 #### Guided
-While you are 'Guided', when you make a Skill Check, you may add 
+While you are 'Guided', when you next make a Skill Check, you may add 1d4 to the result. Then, you Naturally Resolve a stack of 'Guided'.

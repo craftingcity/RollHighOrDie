@@ -110,6 +110,8 @@ This spell's Consequence applies every round, and never resolves.
 ##### Ailment
 #### Impose Faltering
 #### Impose Irreparable
+#### Impose Guided
+#### Force Movement
 #### Friendly Charm
 
 
@@ -124,6 +126,7 @@ This spell grants X Damage Resistance of that Type.
 ##### Utility
 #### Light
 #### Darkness
+#### Push/Pull
 
 ##### Damage
 #### Acid Damage
