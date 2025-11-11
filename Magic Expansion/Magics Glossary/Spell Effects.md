@@ -108,8 +108,9 @@ This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
-#### 
+#### Disadvantage Attacks
 #### Void Healing
+#### 
 
 
 ##### Emboldenment
@@ -119,6 +120,10 @@ This spell's Consequence applies every round, and never resolves.
 Choose a Damage Type. 
 
 This spell grants X Damage Resistance of that Type.
+
+##### Utility
+#### Light
+#### Darkness
 
 ##### Damage
 #### Acid Damage
