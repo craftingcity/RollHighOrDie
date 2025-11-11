@@ -111,6 +111,7 @@ This spell's Consequence applies every round, and never resolves.
 #### Impose Faltering
 #### Impose Irreparable
 #### Impose Guided
+#### Impose Hobbled
 #### Force Movement
 #### Minor Charm
 #### Major Charm
@@ -124,14 +125,20 @@ Choose a Damage Type.
 
 This spell grants X Damage Resistance of that Type.
 
+#### Impose Rallied
+#### 
+
 ##### Utility
 #### Light
 #### Darkness
 #### Push/Pull
-#### Mend Material
+#### Manipulate Material
 #### Telepathy
 #### Minor Illusion
 #### Major Illusion
+#### Minor Transmute
+#### Major Transmute
+#### Mortal Transmute
 
 ##### Damage
 #### Acid Damage

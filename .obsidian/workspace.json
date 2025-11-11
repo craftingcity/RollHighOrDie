@@ -74,7 +74,14 @@
                   "icon": "lucide-file",
                   "title": "Magical Ailments, Conditions, and Emboldenments"
                 }
-              },
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "27be870c40b693a6",
+            "type": "tabs",
+            "children": [
               {
                 "id": "3adc3cbf40219686",
                 "type": "leaf",
@@ -88,14 +95,7 @@
                   "icon": "lucide-file",
                   "title": "Ailment"
                 }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "27be870c40b693a6",
-            "type": "tabs",
-            "children": [
+              },
               {
                 "id": "1b26864c03dd403d",
                 "type": "leaf",
@@ -110,7 +110,8 @@
                   "title": "Emboldenment"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -270,10 +271,10 @@
   },
   "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
