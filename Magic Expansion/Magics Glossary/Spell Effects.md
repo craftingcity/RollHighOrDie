@@ -110,7 +110,7 @@ This spell's Consequence applies every round, and never resolves.
 ##### Ailment
 #### Disadvantage Attacks
 #### Void Healing
-#### 
+#### Friendly Charm
 
 
 ##### Emboldenment

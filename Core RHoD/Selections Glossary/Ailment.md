@@ -22,6 +22,8 @@ On your turn, you may spend 2 AP to attempt to Manually Resolve this Ailment. Ma
 #### Frightened
 While you are 'Frightened', you cannot voluntarily move closer to the creature or object that imposed this Ailment upon you, and you make Attacks against that creature or object with Disadvantage.
 
+#### 
+
 #### Grappled
 While you are 'Grappled', you cannot make Maneuvers.
 
