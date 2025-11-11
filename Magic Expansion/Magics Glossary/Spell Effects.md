@@ -108,10 +108,20 @@ This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
-#### Impose Faltering
 #### Impose Irreparable
 #### Impose Guided
 #### Impose Hobbled
+#### Impose Bleeding
+#### Impose Flammable
+#### Impose Caught
+#### Impose Frightened
+#### Impose Faltering
+#### Impose Blinded
+#### Impose Dazed
+#### Impose Infected
+#### Impose Poisoned
+#### Impose Spotted
+#### Impose Restrained
 #### Compel Movement
 #### Compel Action
 #### Minor Charm
