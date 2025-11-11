@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,7 +255,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3adc3cbf40219686",
+  "active": "b5782c0b90350b2a",
   "lastOpenFiles": [
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Selections Glossary/Ailment.md",

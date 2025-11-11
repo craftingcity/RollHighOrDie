@@ -108,7 +108,7 @@ This spell's Consequence applies every round, and never resolves.
 
 ### Consequence
 ##### Ailment
-#### Disadvantage Attacks
+#### Faltering
 #### Void Healing
 #### Friendly Charm
 
