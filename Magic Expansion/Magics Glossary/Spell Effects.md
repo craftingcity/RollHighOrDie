@@ -74,27 +74,29 @@ This spell lasts until your next turn.
 #### Minute Long
 (Complexity +2, Effort +1)
 
-This spell's lasts for a minute.
+This spell lasts for a minute.
 
 #### Hour Long
 (Complexity +4, Effort +4)
 
-This spell's lasts for an hour.
+This spell lasts for an hour.
 
 #### Watch Long
 (Complexity +4, Effort +8)
 
-This spell's lasts for a Watch.
+This spell lasts for a Watch.
 
 #### Day Long
 (Complexity +8, Effort +12)
 
-This spell's lasts for a Day.
+This spell lasts for a Day.
 
 #### When Triggered
 (Complexity +6, Effort +4)
 
-This spell's Consequence begins to apply under a given defined circumstance. Define another Duration Tag as the length of this spell, and another as the length of this spell's Consequence.
+This spell's Consequence begins to apply under a given defined circumstance. 
+
+Define a second Duration Tag as the length of this spell, and a third as the length of this spell's Consequence.
 
 #### Until Saved
 (Complexity +2, Effort -2)
