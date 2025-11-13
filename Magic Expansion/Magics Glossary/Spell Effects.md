@@ -91,10 +91,10 @@ This spell's Consequence applies every round, and resolves within a Watch.
 
 This spell's Consequence applies every round, and resolves within a Day.
 
-#### Until Triggered
+#### When Triggered
 (Complexity +6, Effort +4)
 
-This spell's Consequence begins to apply under a given defined circumstance. This spell requires another Duration tag.
+This spell's Consequence begins to apply under a given defined circumstance.
 
 #### Until Saved
 (Complexity +2, Effort -2)
