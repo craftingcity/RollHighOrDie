@@ -118,42 +118,42 @@ This spell imposes the 'Irreparable' Ailment.
 #### Impose Misled
 (Complexity +#, Effort +#)
 
-You impose a stack of the 'Misled'
+This spell imposes a stack of the 'Misled' Ailment.
 
 #### Impose Hobbled
 (Complexity +#, Effort +#)
 
-...
+This spell imposes the 'Hobbled' Ailment.
 
 #### Impose Bleeding
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Bleeding' Ailment.
 
 #### Impose Flammable
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Flammable' Ailment.
 
 #### Impose Caught
 (Complexity +#, Effort +#)
 
-...
+This spell imposes the 'Caught' Ailment. The "final DC of setting the trap" is equal to the result of your Casting Skill Check when you cast this spell.
 
 #### Impose Frightened
 (Complexity +#, Effort +#)
 
-...
+This spell imposes the 'Frightened' Ailment.
 
 #### Impose Faltering
 (Complexity +#, Effort +#)
 
-...
+This spell imposes the 'Faltering' Ailment.
 
 #### Impose Blinded
 (Complexity +#, Effort +#)
 
-...
+This spell imposes the 'Blinded' Ailment.
 
 #### Impose Dazed
 (Complexity +#, Effort +#)
