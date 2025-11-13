@@ -21,4 +21,5 @@ While you are 'Guided', when you next make a Skill Check, you add 1d4 to the res
 #### Quickened
 While you are 'Quickened', when you make a Maneuver, the distance you travel is doubled.
 
-#### 
+#### 'Slowfall'
+While you are 'Slowfall', you cannot be pushed downward more than 15' in a round.

@@ -164,6 +164,7 @@ This spell grants X Damage Resistance of that Type.
 #### Gain Information
 #### Detect Magic
 #### Detect Extraplanar
+#### Detect Thoughts
 
 ##### Damage
 #### Acid Damage
