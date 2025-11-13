@@ -69,27 +69,27 @@ This spell creates a square plane with a thickness of 1" and a length of (X) fee
 #### Immediate
 (Complexity +0, Effort +0)
 
-This spell's Consequence applies now and resolves before the beginning of your next turn.
+This spell lasts until your next turn.
 
 #### Minute Long
 (Complexity +2, Effort +1)
 
-This spell's Consequence applies every round, and resolves within a minute.
+This spell's lasts for a minute.
 
 #### Hour Long
 (Complexity +4, Effort +4)
 
-This spell's Consequence applies every round, and resolves within an hour.
+This spell's lasts for an hour.
 
 #### Watch Long
 (Complexity +4, Effort +8)
 
-This spell's Consequence applies every round, and resolves within a Watch.
+This spell's lasts for a Watch.
 
 #### Day Long
 (Complexity +8, Effort +12)
 
-This spell's Consequence applies every round, and resolves within a Day.
+This spell's lasts for a Day.
 
 #### When Triggered
 (Complexity +6, Effort +4)
