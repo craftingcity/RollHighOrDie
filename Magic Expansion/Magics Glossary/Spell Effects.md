@@ -245,12 +245,12 @@ This spell imposes the 'Low-Light Vision' Condition.
 #### Grant Vitality
 (Complexity +#, Effort +#)
 
-This spell grants XdY
+This spell grants XdY Vitality.
 
 #### Grant Armoring
 (Complexity +#, Effort +#)
 
-...
+This spell grants XdY Armoring.
 
 #### Resistance
 (Complexity +X, Effort +2)
