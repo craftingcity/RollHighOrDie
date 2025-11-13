@@ -94,7 +94,7 @@ This spell's Consequence applies every round, and resolves within a Day.
 #### When Triggered
 (Complexity +6, Effort +4)
 
-This spell's Consequence begins to apply under a given defined circumstance.
+This spell's Consequence begins to apply under a given defined circumstance. Define another Duration as the length of this spell, and another as the length of this spell's Cons
 
 #### Until Saved
 (Complexity +2, Effort -2)
