@@ -158,32 +158,32 @@ This spell imposes the 'Blinded' Ailment.
 #### Impose Dazed
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Dazed' Ailment.
 
 #### Impose Infected
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Infected' Ailment.
 
 #### Impose Poisoned
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Poisoned' Ailment.
 
 #### Impose Spotted
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Spotted' Ailment.
 
 #### Impose Restrained
 (Complexity +#, Effort +#)
 
-...
+This spell imposes the 'Restrained' Ailment.
 
 #### Compel Movement
 (Complexity +#, Effort +#)
 
-...
+This spell forces 
 
 #### Compel Action
 (Complexity +#, Effort +#)
