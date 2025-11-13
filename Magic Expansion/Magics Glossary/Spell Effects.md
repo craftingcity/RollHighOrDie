@@ -158,6 +158,7 @@ This spell grants X Damage Resistance of that Type.
 #### Mortal Transmute
 #### Translate
 #### Detect Magic
+#### Detect Extraplanar
 
 ##### Damage
 #### Acid Damage
