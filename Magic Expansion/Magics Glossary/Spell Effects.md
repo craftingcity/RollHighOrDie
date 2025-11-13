@@ -160,6 +160,7 @@ This spell grants X Damage Resistance of that Type.
 #### Major Transmute
 #### Mortal Transmute
 #### Translate
+#### Gain Information
 #### Detect Magic
 #### Detect Extraplanar
 
