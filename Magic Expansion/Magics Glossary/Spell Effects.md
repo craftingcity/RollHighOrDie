@@ -131,6 +131,7 @@ This spell's Consequence applies every round, and never resolves.
 ##### Emboldenment
 #### Impose Guided
 #### Impose Quickened
+#### Impose 'Slowfall'
 #### Impose Pain Dulled
 #### Impose Regeneration
 #### Impose Rallied
