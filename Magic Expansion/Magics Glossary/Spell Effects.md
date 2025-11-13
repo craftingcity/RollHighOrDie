@@ -111,7 +111,7 @@ This spell's Consequence applies every round, and never resolves.
 #### Impose Irreparable
 (Complexity +4, Effort +2)
 
-This spell imposes the 'Irreparable' Ailment for it's duration.
+This spell imposes the 'Irreparable' Ailment.
 
 #### Impose Misled
 (Complexity +#, Effort +#)
