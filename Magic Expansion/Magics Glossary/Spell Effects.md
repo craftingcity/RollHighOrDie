@@ -118,7 +118,7 @@ This spell imposes the 'Irreparable' Ailment.
 #### Impose Misled
 (Complexity +#, Effort +#)
 
-...
+You impose a stack of the 'Misled'
 
 #### Impose Hobbled
 (Complexity +#, Effort +#)
