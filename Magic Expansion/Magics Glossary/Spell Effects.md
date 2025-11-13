@@ -136,6 +136,7 @@ This spell's Consequence applies every round, and never resolves.
 #### Impose Regeneration
 #### Impose Rallied
 #### Impose Encouraged
+#### Impose Low-Light Vision
 #### Grant Vitality
 #### Grant Armoring
 #### Resistance
