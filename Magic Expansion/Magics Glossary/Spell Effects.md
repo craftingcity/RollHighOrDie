@@ -150,6 +150,7 @@ This spell grants X Damage Resistance of that Type.
 #### Darkness
 #### Push/Pull
 #### Manipulate Material
+#### Manipulate Terrain
 #### Telepathy
 #### Minor Illusion
 #### Major Illusion

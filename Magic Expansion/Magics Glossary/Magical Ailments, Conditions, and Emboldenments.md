@@ -17,3 +17,6 @@ While you are 'Misled', when you next make a Skill Check, you subtract 1d4 from 
 ### Emboldenments
 #### Guided
 While you are 'Guided', when you next make a Skill Check, you add 1d4 to the result. Then, you Naturally Resolve a stack of 'Guided'.
+
+#### Quickened
+While you are 'Quickened', when you make a Manuever, the distance you travel is 
