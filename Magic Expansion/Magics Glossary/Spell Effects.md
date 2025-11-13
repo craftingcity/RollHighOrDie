@@ -205,47 +205,47 @@ This spell forces it's targets to take a Generic Action of your choice.
 #### Impose Guided
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Guided' Emboldenment.
 
 #### Impose Quickened
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Quickened' Emboldenment.
 
 #### Impose 'Slowfall'
 (Complexity +#, Effort +#)
 
-...
+This spell imposes the 'Slowfall' Emboldenment.
 
 #### Impose Pain Dulled
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Pain Dulled' Emboldenment.
 
 #### Impose Regeneration
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Regeneration' Emboldenment.
 
 #### Impose Rallied
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Rallied' Emboldenment.
 
 #### Impose Encouraged
 (Complexity +#, Effort +#)
 
-...
+This spell imposes a stack of the 'Encouraged' Emboldenment.
 
 #### Impose Low-Light Vision
 (Complexity +#, Effort +#)
 
-...
+This spell imposes the 'Low-Light Vision' Condition.
 
 #### Grant Vitality
 (Complexity +#, Effort +#)
 
-...
+This spell grants XdY
 
 #### Grant Armoring
 (Complexity +#, Effort +#)
