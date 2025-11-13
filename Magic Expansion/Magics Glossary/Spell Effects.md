@@ -109,9 +109,9 @@ This spell's Consequence applies every round, and never resolves.
 ### Consequence
 ##### Ailment
 #### Impose Irreparable
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +2)
 
-...
+This spell imposes the 'Irreparable' Ailment 
 
 #### Impose Misled
 (Complexity +#, Effort +#)
@@ -189,20 +189,67 @@ This spell's Consequence applies every round, and never resolves.
 ...
 
 #### Minor Charm
+(Complexity +#, Effort +#)
+
+...
+
 #### Major Charm
+(Complexity +#, Effort +#)
+
+...
 
 
 ##### Emboldenment
 #### Impose Guided
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Quickened
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose 'Slowfall'
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Pain Dulled
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Regeneration
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Rallied
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Encouraged
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Low-Light Vision
+(Complexity +#, Effort +#)
+
+...
+
 #### Grant Vitality
+(Complexity +#, Effort +#)
+
+...
+
 #### Grant Armoring
+(Complexity +#, Effort +#)
+
+...
+
 #### Resistance
 (Complexity +X, Effort +2)
 
@@ -211,24 +258,91 @@ Choose a Damage Type.
 This spell grants X Damage Resistance of that Type.
 
 #### Shield
+(Complexity +#, Effort +#)
+
+...
 
 ##### Utility
 #### Light
+(Complexity +#, Effort +#)
+
+...
+
 #### Darkness
+(Complexity +#, Effort +#)
+
+...
+
 #### Push/Pull
+(Complexity +#, Effort +#)
+
+...
+
 #### Manipulate Material
+(Complexity +#, Effort +#)
+
+...
+
 #### Manipulate Terrain
+(Complexity +#, Effort +#)
+
+...
+
 #### Telepathy
+(Complexity +#, Effort +#)
+
+...
+
 #### Minor Illusion
+(Complexity +#, Effort +#)
+
+...
+
 #### Major Illusion
+(Complexity +#, Effort +#)
+
+...
+
 #### Minor Transmute
+(Complexity +#, Effort +#)
+
+...
+
 #### Major Transmute
+(Complexity +#, Effort +#)
+
+...
+
 #### Mortal Transmute
+(Complexity +#, Effort +#)
+
+...
+
 #### Translate
+(Complexity +#, Effort +#)
+
+...
+
 #### Gain Information
+(Complexity +#, Effort +#)
+
+...
+
 #### Detect Magic
+(Complexity +#, Effort +#)
+
+...
+
 #### Detect Extraplanar
+(Complexity +#, Effort +#)
+
+...
+
 #### Detect Thoughts
+(Complexity +#, Effort +#)
+
+...
+
 
 ##### Damage
 #### Acid Damage
