@@ -109,21 +109,85 @@ This spell's Consequence applies every round, and never resolves.
 ### Consequence
 ##### Ailment
 #### Impose Irreparable
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Misled
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Hobbled
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Bleeding
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Flammable
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Caught
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Frightened
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Faltering
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Blinded
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Dazed
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Infected
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Poisoned
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Spotted
+(Complexity +#, Effort +#)
+
+...
+
 #### Impose Restrained
+(Complexity +#, Effort +#)
+
+...
+
 #### Compel Movement
+(Complexity +#, Effort +#)
+
+...
+
 #### Compel Action
+(Complexity +#, Effort +#)
+
+...
+
 #### Minor Charm
 #### Major Charm
 
