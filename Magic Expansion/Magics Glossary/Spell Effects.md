@@ -405,4 +405,4 @@ This spell deals XdY Radiant damage.
 #### Vampirism
 (Complexity +#, Effort +#)
 
-When a creature is dealt damage by this spell, you gain 
+When a creature is dealt damage by this spell, you regain a quarter of that amount as Vitality.
