@@ -188,7 +188,7 @@ This spell forces it's targets to take a Maneuver of your choice.
 #### Compel Action
 (Complexity +#, Effort +#)
 
-This spell forces it's targets to take a Generic Action of your choice.
+This spell forces it's targets to take an Action of your choice.
 
 #### Minor Charm
 (Complexity +#, Effort +#)
