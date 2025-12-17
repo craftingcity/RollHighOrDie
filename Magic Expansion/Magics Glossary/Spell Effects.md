@@ -355,6 +355,11 @@ This spell grants X Damage Resistance of that Type.
 
 ...
 
+#### Counter
+(Complexity +#, Effort +#)
+
+...
+
 
 ##### Damage
 #### Acid Damage
@@ -396,3 +401,8 @@ This spell deals XdY Psychic damage.
 (Complexity +Y/2, Effort +X)
 
 This spell deals XdY Radiant damage.
+
+#### Vampirism
+(Complexity +#, Effort +#)
+
+When a creature is dealt damage by this spell, you gain 
