@@ -320,12 +320,27 @@ This spell grants X Damage Resistance of that Type.
 
 ...
 
+#### Minor Conjuration
+(Complexity +#, Effort +#)
+
+...
+
+#### Major Conjuration
+(Complexity +#, Effort +#)
+
+...
+
 #### Translate Language
 (Complexity +#, Effort +#)
 
 ...
 
-#### Gain Information
+#### Gain Simple Information
+(Complexity +#, Effort +#)
+
+...
+
+#### Gain Complex Information
 (Complexity +#, Effort +#)
 
 ...
@@ -336,11 +351,6 @@ This spell grants X Damage Resistance of that Type.
 ...
 
 #### Detect Extraplanar
-(Complexity +#, Effort +#)
-
-...
-
-#### Detect Thoughts
 (Complexity +#, Effort +#)
 
 ...
