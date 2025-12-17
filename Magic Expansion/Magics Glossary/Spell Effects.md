@@ -320,7 +320,7 @@ This spell grants X Damage Resistance of that Type.
 
 ...
 
-#### Translate
+#### Translate Language
 (Complexity +#, Effort +#)
 
 ...
