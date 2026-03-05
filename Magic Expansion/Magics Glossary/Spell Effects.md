@@ -6,13 +6,17 @@ Within the fiction of the story you tell, your characters may use any number of 
 (Complexity +2, Effort +1)
 This spell creates a projectile that travels towards it's target or targets and enacts the spell's Consequence.
 
-- Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]]
+- Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]].
 
-A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Make a Spellcasting roll against that creature's Reflex. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Make a Spellcasting roll against that creature's Relevant Defense. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
-#### Point
+#### Sight Point
 (Complexity +N, Effort +N)
 This spell enacts its Consequence without vehicle, offering versatility and discretion in exchange for a higher skill-floor.
+
+- Sight Point spells must have a [[#Range]], [[#Duration]], and [[#Consequence]].
+
+A Sight Point spell reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight.'
 
 #### Radius
 (Complexity +N, Effort +N)
