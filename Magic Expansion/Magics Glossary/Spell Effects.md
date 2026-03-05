@@ -3,16 +3,19 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
-(Complexity +1, )
-This spell creates a projectile that travels towards it's target or targets and enacts its Consequence.
+(Complexity +2, Effort +1)
+This spell creates a projectile that travels towards it's target or targets and enacts the spell's Consequence.
 
 - Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]]
 
 A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Make a Spellcasting roll against that creature's Reflex. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 #### Point
+(Complexity +N, Effort +N)
+This spell enacts its Consequence without vehicle, 
 
 #### Radius
+(Complexity +N, Effort +N)
 
 ## Spell Effects
 ### Range
