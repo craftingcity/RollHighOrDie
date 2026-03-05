@@ -8,9 +8,9 @@ This spell creates a projectile that travels towards it's target or targets and 
 
 - Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]]
 
-A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Make a Spellcasting roll against that creature's Reflex. If you hit, ([[#Consequence]] and [[#Duration]]). '
+A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Make a Spellcasting roll against that creature's Reflex. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
-####
+#### 
 
 ## Spell Effects
 ### Range
