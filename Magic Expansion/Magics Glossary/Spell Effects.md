@@ -3,7 +3,7 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
-This spell creates a projectile that 
+This spell creates a projectile or projectiles that travels towards it's target or targets and inacts . You must establish Line of Sight on the target or targets.
 
 ## Spell Effects
 ### Range
