@@ -3,12 +3,12 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
-This spell creates a projectile or projectiles that travels towards it's target or targets and enacts its Consequence.
+(Complexity +1, )
+This spell creates a projectile that travels towards it's target or targets and enacts its Consequence.
 
 - Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]]
-- Projectile spells cannot have a [[#Shape]]
 
-''
+A Projectile spell reads as follows; ''
 
 ####
 
