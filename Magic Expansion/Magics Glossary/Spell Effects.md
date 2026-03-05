@@ -113,7 +113,7 @@ This spell's Consequence applies every round, and never resolves.
 #### Impose Irreparable
 (Complexity +4, Effort +2)
 
-This spell imposes the 'Irreparable' Ailment.
+This spell imposes the 'Irreparable' Ailment for the *Duration* of this spell.
 
 #### Impose Misled
 (Complexity +#, Effort +#)
@@ -123,7 +123,7 @@ This spell imposes a stack of the 'Misled' Ailment.
 #### Impose Hobbled
 (Complexity +#, Effort +#)
 
-This spell imposes the 'Hobbled' Ailment.
+This spell imposes the 'Hobbled' Ailment for the *Duration* of this spell.
 
 #### Impose Bleeding
 (Complexity +#, Effort +#)
@@ -143,17 +143,17 @@ This spell imposes the 'Caught' Ailment. The "final DC of setting the trap" is e
 #### Impose Frightened
 (Complexity +#, Effort +#)
 
-This spell imposes the 'Frightened' Ailment.
+This spell imposes the 'Frightened' Ailment for the *Duration* of this spell.
 
 #### Impose Faltering
 (Complexity +#, Effort +#)
 
-This spell imposes the 'Faltering' Ailment.
+This spell imposes the 'Faltering' Ailment for the *Duration* of this spell.
 
 #### Impose Blinded
 (Complexity +#, Effort +#)
 
-This spell imposes the 'Blinded' Ailment.
+This spell imposes the 'Blinded' Ailment for the *Duration* of this spell.
 
 #### Impose Dazed
 (Complexity +#, Effort +#)
@@ -178,7 +178,7 @@ This spell imposes a stack of the 'Spotted' Ailment.
 #### Impose Restrained
 (Complexity +#, Effort +#)
 
-This spell imposes the 'Restrained' Ailment.
+This spell imposes the 'Restrained' Ailment for the *Duration* of this spell.
 
 #### Compel Movement
 (Complexity +#, Effort +#)
@@ -188,7 +188,7 @@ This spell forces it's targets to take a Maneuver of your choice.
 #### Compel Action
 (Complexity +#, Effort +#)
 
-This spell forces it's targets to take an Action of your choice.
+This spell forces it's targets to take an Action (that costs 5 or less AP) of your choice.
 
 #### Minor Charm
 (Complexity +#, Effort +#)
