@@ -8,15 +8,15 @@ This spell creates a projectile that travels towards it's target or targets and 
 
 - Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]].
 
-A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Make a Spellcasting roll against that creature's Relevant Defense. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against that creature's Relevant Defense. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 #### Sight Point
 (Complexity +N, Effort +N)
 This spell enacts its Consequence without vehicle, offering versatility and discretion in exchange for a higher skill-floor.
 
-- Sight Point spells must have a [[#Range]], [[#Duration]], and [[#Consequence]].
+- Sight Point spells must have a [[#Range]], [[#Shape]], [[#Duration]], and [[#Consequence]].
 
-A Sight Point spell reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight.'
+A Sight Point spell reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against each creature within [[#Shape]]'
 
 #### Radius
 (Complexity +N, Effort +N)
