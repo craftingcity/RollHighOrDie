@@ -3,10 +3,12 @@ Within the fiction of the story you tell, your characters may use any number of 
 
 ## Spell Base
 #### Projectile
-This spell creates a projectile or projectiles that travels towards it's target or targets and enacts its Consequence. You must establish Line of Sight on the target or targets, and then make your Spellcasting Check. If the result is equal to or greater than your targets' Relevant Defense, apply the spell's Consequences.
+This spell creates a projectile or projectiles that travels towards it's target or targets and enacts its Consequence.
 
-- Projectile spells must have a [[#Range]], 
-- Projectile spells cannot have [[#Shape]]
+- Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]]
+- Projectile spells cannot have a [[#Shape]]
+
+''
 
 ####
 
