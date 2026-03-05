@@ -12,7 +12,7 @@ A Projectile spell reads as follows; 'Target a creature or point within [[#Range
 
 #### Point
 (Complexity +N, Effort +N)
-This spell enacts its Consequence without vehicle, 
+This spell enacts its Consequence without vehicle, offering versatility and discretion in exchange for a higher skill-floor.
 
 #### Radius
 (Complexity +N, Effort +N)
