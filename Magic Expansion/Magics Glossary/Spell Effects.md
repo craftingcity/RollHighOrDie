@@ -10,21 +10,21 @@ This spell creates a projectile that travels towards it's target or targets and 
 
 A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against that creature's Relevant Defense. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
-#### Sight Point
-(Complexity +N, Effort +N)
-This spell enacts its Consequence without vehicle, offering versatility and discretion in exchange for a higher skill-floor.
-
-- Sight Point spells must have a [[#Range]], [[#Shape]], [[#Duration]], and [[#Consequence]].
-
-A Sight Point spell reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
-
 #### Radius
-(Complexity +N, Effort +N)
+(Complexity +4, Effort +2)
 This spell uses your form as it's center, acting out it's Consequence directly around you.
 
 - Radius spells must have a [[#Shape]], [[#Duration]], and [[#Consequence]].
 
 A Radius spell reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
+
+#### Sight Point
+(Complexity +6, Effort +4)
+This spell enacts its Consequence without vehicle, offering versatility and discretion in exchange for a higher skill-floor.
+
+- Sight Point spells must have a [[#Range]], [[#Shape]], [[#Duration]], and [[#Consequence]].
+
+A Sight Point spell reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 ## Spell Effects
 ### Range
@@ -215,7 +215,7 @@ This spell imposes a stack of the 'Quickened' Emboldenment.
 #### Impose 'Slowfall'
 (Complexity +#, Effort +#)
 
-This spell imposes the 'Slowfall' Emboldenment.
+This spell imposes the 'Slowfall' Emboldenment for the *Duration* of the spell.
 
 #### Impose Pain Dulled
 (Complexity +#, Effort +#)
@@ -240,7 +240,7 @@ This spell imposes a stack of the 'Encouraged' Emboldenment.
 #### Impose Low-Light Vision
 (Complexity +#, Effort +#)
 
-This spell imposes the 'Low-Light Vision' Condition.
+This spell imposes the 'Low-Light Vision' Condition for the *Duration* of the spell.
 
 #### Grant Vitality
 (Complexity +#, Effort +#)
@@ -257,7 +257,7 @@ This spell grants XdY Armoring.
 
 Choose a Damage Type. 
 
-This spell grants X Damage Resistance of that Type.
+This spell grants X Damage Resistance of that Type for the *Duration* of the spell.
 
 #### Shield
 (Complexity +#, Effort +#)
