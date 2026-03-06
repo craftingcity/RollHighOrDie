@@ -92,16 +92,16 @@ This spell lasts for a Watch.
 This spell lasts for a Day.
 
 #### When Triggered
-(Complexity +6, Effort +4)
+(Complexity +6, Effort -2)
 
-This spell's Consequence begins to apply under a given defined circumstance. 
+This spell's Consequence begins to apply under a circumstance you define. 
 
 Define a second Duration Tag as the length of this spell, and a third as the length of this spell's Consequence.
 
 > For example, 
 
 #### Until Saved
-(Complexity +2, Effort -2)
+(Complexity +6, Effort +4)
 
 This spell's Consequence applies every round, and resolves when the target makes a defined Skill Check, the total of which is greater than this spell's Complexity, or when the spell ends. Define another Duration Tag as the length of this spell.
 
