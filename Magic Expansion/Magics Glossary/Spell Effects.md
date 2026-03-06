@@ -24,7 +24,7 @@ This spell uses your form as it's center, acting out it's Consequence directly a
 
 - Radius spells must have a [[#Shape]], [[#Duration]], and [[#Consequence]].
 
-A Radius spell reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. '
+A Radius spell reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 ## Spell Effects
 ### Range
@@ -53,7 +53,7 @@ This spell creates a sphere with a radius of (X) feet. This spell's Consequence 
 #### Cube (x)
 (Complexity +x/4, Effort +x/4)
 
-This spell creates a cube with a length of (X) feet. This spell's Consequence applies to each Target within this area.
+This spell creates a cube with a length and with of (X) feet. This spell's Consequence applies to each Target within this area.
 
 #### Cone (x)
 (Complexity +x/5, Effort +x/5)
