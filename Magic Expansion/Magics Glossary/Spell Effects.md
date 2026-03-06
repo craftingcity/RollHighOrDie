@@ -8,7 +8,7 @@ This spell creates a projectile that travels towards it's target or targets and 
 
 - Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]].
 
-A Projectile spell reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against that creature's Relevant Defense. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Projectile spell's Base Text reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against that creature's Relevant Defense. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 #### Radius
 (Complexity +4, Effort +2)
@@ -16,7 +16,7 @@ This spell uses your form as it's center, acting out it's Consequence directly a
 
 - Radius spells must have a [[#Shape]], [[#Duration]], and [[#Consequence]].
 
-A Radius spell reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Radius spell's Base Text reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 #### Sight Point
 (Complexity +6, Effort +4)
@@ -24,7 +24,7 @@ This spell enacts its Consequence without vehicle, offering versatility and disc
 
 - Sight Point spells must have a [[#Range]], [[#Shape]], [[#Duration]], and [[#Consequence]].
 
-A Sight Point spell reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Sight Point spell's Base Text reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 ## Spell Effects
 ### Range
