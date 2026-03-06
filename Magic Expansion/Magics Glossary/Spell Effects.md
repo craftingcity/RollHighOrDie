@@ -20,6 +20,9 @@ A Sight Point spell reads as follows; 'Choose a point within [[#Range]], and est
 
 #### Radius
 (Complexity +N, Effort +N)
+This spell uses your form as it's center, acting it's Consequence out around you.
+
+- Radius spells must have a [[#Shape]], [[#Duration]], and [[#Consequence]]
 
 ## Spell Effects
 ### Range
