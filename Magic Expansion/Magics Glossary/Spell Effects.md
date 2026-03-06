@@ -98,6 +98,8 @@ This spell's Consequence begins to apply under a given defined circumstance.
 
 Define a second Duration Tag as the length of this spell, and a third as the length of this spell's Consequence.
 
+> For example, ""
+
 #### Until Saved
 (Complexity +2, Effort -2)
 
