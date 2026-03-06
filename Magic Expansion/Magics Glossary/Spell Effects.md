@@ -98,12 +98,14 @@ This spell's Consequence begins to apply under a given defined circumstance.
 
 Define a second Duration Tag as the length of this spell, and a third as the length of this spell's Consequence.
 
-> For example, ""
+> For example, 
 
 #### Until Saved
 (Complexity +2, Effort -2)
 
 This spell's Consequence applies every round, and resolves when the target makes a defined Skill Check, the total of which is greater than this spell's Complexity, or when the spell ends. Define another Duration Tag as the length of this spell.
+
+> For example, 
 
 #### Permanent
 (Complexity +24, Effort +20)
