@@ -24,7 +24,7 @@ This spell uses your form as it's center, acting out it's Consequence directly a
 
 - Radius spells must have a [[#Shape]], [[#Duration]], and [[#Consequence]].
 
-A Radius spell reads as follows; ''
+A Radius spell reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. '
 
 ## Spell Effects
 ### Range
