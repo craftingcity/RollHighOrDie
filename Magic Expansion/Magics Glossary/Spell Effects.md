@@ -92,7 +92,7 @@ This spell lasts for a Watch.
 This spell lasts for a Day.
 
 #### When Triggered
-(Complexity +6, Effort -2)
+(Complexity +2, Effort -2)
 
 This spell's Consequence begins to apply under a circumstance you define. 
 
