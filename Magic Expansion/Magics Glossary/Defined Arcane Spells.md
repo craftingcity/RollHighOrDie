@@ -12,9 +12,10 @@ Make a Casting Skill Check against your Target's Reflex.
 
 If you hit, you deal 1d8 force damage.
 
-#### Explode
+#### Remote Explosion
 Complexity:
 Effort:
 Speed: 
 
-**Sight Point; Extreme Range
+**Sight Point; Extreme Range, Sphere (15'), Damage (Fire)**.
+Tar
