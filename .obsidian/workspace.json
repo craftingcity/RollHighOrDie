@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Spell Effects"
             }
+          },
+          {
+            "id": "323b6695d6a34dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Defenses"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2903bb1d2a89a89b",
@@ -172,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "martial",
+                "query": "wounds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -296,14 +311,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "416bf1404cedcc7a",
+  "floating": {
+    "id": "ece3854d788d9f09",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d31f93d69d2f9b83",
+        "type": "window",
+        "children": [
+          {
+            "id": "1162453f35fcfbce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3daa2b098693f6f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Character Rules/Defenses.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Defenses"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 56,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "3daa2b098693f6f1",
   "lastOpenFiles": [
     "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
-    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
