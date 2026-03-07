@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Spell Effects"
             }
+          },
+          {
+            "id": "1b5a67043f4c9e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Character Rules/Defenses.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Defenses"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2903bb1d2a89a89b",
@@ -193,8 +208,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -296,13 +310,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38edcb0cb65deb1",
+  "active": "1b5a67043f4c9e09",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Spellcasting.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
