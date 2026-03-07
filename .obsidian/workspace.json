@@ -75,7 +75,8 @@
                   "title": "Spellcasting"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f1105c15ce19199b",
@@ -308,10 +309,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f60f7300de049eb",
+  "active": "416bf1404cedcc7a",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Magic Expansion/Spellcasting.md",
     "Core RHoD/Character Rules/Defenses.md",
