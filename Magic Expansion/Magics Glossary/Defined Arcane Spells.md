@@ -1,6 +1,6 @@
 ## CATEGOREY
 ### Classical Wizardry
-#### Magic Missile
+#### Force Bolt
 Complexity: 12 (4+4+0+4)
 Effort: 4 (1+2+0+1)
 Speed: 2
@@ -12,15 +12,9 @@ Make a Casting Skill Check against your Target's Reflex.
 
 If you hit, you deal 1d8 force damage.
 
-#### Booming Hold
-Complexity: 16 (4+0+0+6+2+4)
-Effort: 8 (1+0+1+4+1+1)
-Speed: 4
+#### Explode
+Complexity:
+Effort:
+Speed: 
 
-**Projectile; Touch Range, When Triggered, Minute Long Spell, Immediate Consequence, Damage (Force)**
-
-Target a creature within 5' of you and establish Line of Sight.
-
-Make a Casting Skill Check against your Target's Reflex.
-
-If you hit, the next time the Target makes a Maneuver, they take 1d8 force damage.
+**Sight Point; Extreme Range
