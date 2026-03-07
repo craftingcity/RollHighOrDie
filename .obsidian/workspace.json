@@ -42,7 +42,7 @@
       {
         "id": "2903bb1d2a89a89b",
         "type": "split",
-        "dimension": 42.77673545966229,
+        "dimension": 42.776735459662284,
         "children": [
           {
             "id": "9d537b016ad86ef0",
@@ -311,46 +311,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "ece3854d788d9f09",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d31f93d69d2f9b83",
-        "type": "window",
-        "children": [
-          {
-            "id": "1162453f35fcfbce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3daa2b098693f6f1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Character Rules/Defenses.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Defenses"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 56,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "3daa2b098693f6f1",
+  "active": "323b6695d6a34dc7",
   "lastOpenFiles": [
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Spellcasting.md",
