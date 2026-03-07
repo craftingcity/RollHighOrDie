@@ -21,6 +21,20 @@
               "icon": "lucide-file",
               "title": "Spell Effects"
             }
+          },
+          {
+            "id": "f051cb3d5e75d599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Combat and Actions/Actions During Encounters.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Actions During Encounters"
+            }
           }
         ]
       },
@@ -295,14 +309,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "416bf1404cedcc7a",
+  "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
+    "Core RHoD/Combat and Actions/Actions During Encounters.md",
+    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
-    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Condition.md",
@@ -322,7 +337,6 @@
     "conflict-files-obsidian-git.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
     "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
-    "Core RHoD/Combat and Actions/Generic Actions.md",
     "Apocalypse Expansion/Untitled",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Apocalypse Expansion/Character Rules/Untitled",
