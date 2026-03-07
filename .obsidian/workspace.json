@@ -35,9 +35,23 @@
               "icon": "lucide-file",
               "title": "Defenses"
             }
+          },
+          {
+            "id": "da82a5474bfc2143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core RHoD/Equipment and Inventories/Melee Weapons.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Melee Weapons"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2903bb1d2a89a89b",
@@ -311,10 +325,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "323b6695d6a34dc7",
+  "active": "da82a5474bfc2143",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Character Rules/Defenses.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Spellcasting.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
