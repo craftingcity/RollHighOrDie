@@ -32,7 +32,7 @@ If you take damage that would reduce your Armoring to less than 0, instead, it r
 Your character's Armoring will depend on your currently worn Equipment. 
 
 #### Vitality & Wounds
-When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Score plus your Constitution Modifier or 1, whichever is greater.
+When your Armoring has been reduced to 0, you will begin to take damage to your Vitality instead. Your Maximum Vitality is equal to your Constitution Score plus your Constitution Modifier or 0, whichever is greater.
 
 `going from +0 to +1 is the wierd part, 11>12 and 12>13 are still only +1 vit, but thats ok`
 
