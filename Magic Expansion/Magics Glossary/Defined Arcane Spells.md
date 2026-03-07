@@ -18,4 +18,4 @@ Effort:
 Speed: 
 
 **Sight Point; Extreme Range, Sphere (15'), Damage (Fire)**.
-Tar
+Choose a point within 120', and establish Line of Sight. Compare your Spellcasting roll against each creature within a 15' radius sphere 

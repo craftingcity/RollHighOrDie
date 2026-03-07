@@ -24,7 +24,7 @@ This spell enacts its Consequence without vehicle, offering versatility and disc
 
 - Sight Point spells must have a [[#Range]], [[#Shape]], [[#Duration]], and [[#Consequence]].
 
-A Sight Point spell's Base Text reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Sight Point spell's Base Text reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against each creature within [[#Shape]], originating from the point you chose. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 ## Spell Effects
 ### Range
