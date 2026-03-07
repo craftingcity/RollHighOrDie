@@ -13,7 +13,7 @@ If you already have the 'Learned Spellcasting' Feature, you are not eligible to 
 ## Learned Spellcasting
 ###### REQ: 1EXP
 ###### VAR. AP
-'You have spent time and energy studying and practicing the manipulation of your local reality through Arcane means to the point of reasonable consistency.'
+'You have spent significant time and energy studying and practicing the manipulation of your local reality through Arcane means to the point of reasonable consistency.'
 
 When you gain this Feature, your Flux Capacity is equal to your Intelligence Modifier or 1, whichever is greater. You learn two Basic Arcane Techniques of your choice.
 
@@ -39,7 +39,7 @@ You may gain this Feature any number of times.
 ### EXP - 2
 ## Mental Management
 ###### REQ: 2EXP
-'You push the irrelevant sections of your mind into a condensed storage, allowing mental capacity for the control of Flux during Spellcasting.'
+'You can push the irrelevant sections of your mind away when you need to, freeing mental capacity for the control of Flux during Spellcasting.'
 
 You add your Degree of Proficiency in either the 'Static Casting' or 'Fluid Casting' skills, whichever is greater, to your Flux Capacity.
 

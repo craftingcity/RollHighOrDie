@@ -35,6 +35,20 @@
               "icon": "lucide-file",
               "title": "Actions During Encounters"
             }
+          },
+          {
+            "id": "e2b8e6231c863f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Expansion/Features - Arcane.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Features - Arcane"
+            }
           }
         ]
       },
@@ -309,12 +323,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "416bf1404cedcc7a",
+  "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
+    "Core RHoD/Combat and Actions/Actions During Encounters.md",
+    "Magic Expansion/Features - Arcane.md",
+    "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
@@ -325,7 +340,6 @@
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
-    "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Features - Divine.md",
     "Magic Expansion/Magical Equipment.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
