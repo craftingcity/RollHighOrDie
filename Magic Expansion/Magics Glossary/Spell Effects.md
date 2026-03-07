@@ -135,7 +135,7 @@ This spell imposes the 'Hobbled' Ailment for the *Duration* of this spell.
 This spell imposes a stack of the 'Bleeding' Ailment.
 
 #### Impose Flammable
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +2)
 
 This spell imposes a stack of the 'Flammable' Ailment.
 
