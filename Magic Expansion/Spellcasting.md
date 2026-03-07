@@ -6,7 +6,7 @@ Magic is an inherently setting-shaping concept. The rules provided here describe
 ## Understanding Spells
 Spells simply are the combination of a desired effect and magical effort. Some Spellcasters collect Defined Spells for their own use, while others gather potential Spell Effects and create unique Spells in and for the moment they need them.
 
-Mechanically, casting a Spell is an Attack. The target of the Spell can choose to fail, if they believe what you are doing wil
+Mechanically, casting a Spell is an Attack. The target of the Spell can choose to fail, and voluntarily experience the Effects of the Spell.
 
 ###### Techniques
 In the context of Spellcasting, Techniques are groups of Defined Spells or Spell Effects. Often, a Spellcaster will have access to multiple Techniques while specializing in a select few. Techniques are first categorized by complexity, one of Basic, Complex, or Epic, and then by Power Source.
