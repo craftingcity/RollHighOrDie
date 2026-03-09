@@ -98,7 +98,7 @@ This spell's Consequence begins to apply under a circumstance you define.
 
 Define a second Duration Tag as the length of this spell, and a third as the length of this spell's Consequence.
 
-> For example, see *Booming Hold*; "If you hit, the next time the Target makes a Maneuver, they take 1d8 force damage."
+> For example, 
 
 #### Until Saved
 (Complexity +6, Effort +4)
