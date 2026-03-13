@@ -49,7 +49,7 @@ You understand the following Spell Effects:
 	- *Shapes*; Sphere
 	- *Duration*; Immediate, Minute Long
 	- *Ailments*; Faltering
-	- *Emboldenments*; (n/a)
+	- *Emboldenments*; Slowfall
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold and Force
 
@@ -74,8 +74,8 @@ You understand the following Spell Effects:
 	- *Ranges*; Touch, Short
 	- *Shapes*; Sphere and Cone
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; 
-	- *Emboldenments*; (n/a)
+	- *Ailments*; Irreparable, Poisoned
+	- *Emboldenments*; Pain Dulled, Low-
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
 
