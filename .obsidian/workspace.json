@@ -139,7 +139,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -352,9 +352,10 @@
   },
   "active": "366362bde50a050f",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
@@ -365,7 +366,6 @@
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Selections Glossary/Condition.md",
-    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
     "Magic Expansion/Features - Divine.md",
     "Magic Expansion/Magical Equipment.md",

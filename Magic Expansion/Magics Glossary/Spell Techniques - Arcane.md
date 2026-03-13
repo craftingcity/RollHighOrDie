@@ -63,10 +63,22 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Blinded, Dazed
 	- *Emboldenments*; (n/a)
+	- *Utility*; Light, Minor Illusion
+	- *Damage*; Electric
+
+#### Biomancy I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere and Cone
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Hobbled, Faltering
+	- *Emboldenments*; (n/a)
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
 
-#### Biomancy I
 ### Taxonomy
 #### Abjuration I
 #### Conjuration I
