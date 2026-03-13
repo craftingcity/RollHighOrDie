@@ -10,7 +10,7 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Flammable, Blinded
 	- *Emboldenments*; (n/a)
-	- *Utility*; Light
+	- *Utility*; Light, Minor Illusion
 	- *Damage*; Fire
 
 #### Hydromancy I
@@ -23,8 +23,8 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; (n/a)
 	- *Emboldenments*; (n/a)
-	- *Utility*; Push-Pull
-	- *Damage*; Fire
+	- *Utility*; Push-Pull, Minor Illusion
+	- *Damage*; Cold
 
 #### Geomancy I
 #### Aeromancy I
