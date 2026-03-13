@@ -9,20 +9,6 @@
         "dimension": 57.223264540337716,
         "children": [
           {
-            "id": "d38edcb0cb65deb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Expansion/Magics Glossary/Spell Effects.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Spell Effects"
-            }
-          },
-          {
             "id": "f051cb3d5e75d599",
             "type": "leaf",
             "state": {
@@ -37,21 +23,21 @@
             }
           },
           {
-            "id": "e2b8e6231c863f35",
+            "id": "d38edcb0cb65deb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Expansion/Features - Arcane.md",
+                "file": "Magic Expansion/Magics Glossary/Spell Effects.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Features - Arcane"
+              "title": "Spell Effects"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2903bb1d2a89a89b",
@@ -62,6 +48,20 @@
             "id": "9d537b016ad86ef0",
             "type": "tabs",
             "children": [
+              {
+                "id": "e2b8e6231c863f35",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Expansion/Features - Arcane.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Features - Arcane"
+                }
+              },
               {
                 "id": "416bf1404cedcc7a",
                 "type": "leaf",
@@ -362,14 +362,14 @@
       }
     ]
   },
-  "active": "e2b8e6231c863f35",
+  "active": "366362bde50a050f",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Spellcasting.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
-    "Magic Expansion/Features - Arcane.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
