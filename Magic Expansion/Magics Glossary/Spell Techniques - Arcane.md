@@ -5,6 +5,9 @@ You understand the following Spell Bases:
 	- Projectile
 	- Radius
 You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere and Cone
+	- *Duration*; Immediate, Minute Long, 
 #### Hydromancy I
 #### Geomancy I
 #### Aeromancy I

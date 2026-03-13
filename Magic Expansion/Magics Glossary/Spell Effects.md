@@ -16,7 +16,7 @@ This spell uses your form as it's center, acting out it's Consequence directly a
 
 - Radius spells must have a [[#Shape]], [[#Duration]], and [[#Consequence]]. They cannot have a [[#Range]].
 
-A Radius spell's Base Text reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Radius spell's Base Text reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Relevant Defense of each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 #### Sight Point
 (Complexity +6, Effort +4)
