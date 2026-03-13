@@ -21,7 +21,7 @@ You understand the following Spell Effects:
 	- *Ranges*; Touch, Short, and Long
 	- *Shapes*; Sphere and Cone
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; (n/a)
+	- *Ailments*; Hobbled, Faltering
 	- *Emboldenments*; (n/a)
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
