@@ -35,9 +35,9 @@ You understand the following Spell Effects:
 	- *Shapes*; Sphere, Cone, and Cube
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Caught, Dazed, Restrained
-	- *Emboldenments*; (n/a)
-	- *Utility*; 
-	- *Damage*; Cold
+	- *Emboldenments*; Grant Armoring
+	- *Utility*; Manipulate Terrain
+	- *Damage*; Force
 
 #### Aeromancy I
 #### Electromancy I
