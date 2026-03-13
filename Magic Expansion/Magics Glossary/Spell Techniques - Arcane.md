@@ -102,10 +102,10 @@ You understand the following Spell Effects:
 	- *Ranges*; Touch, Short
 	- *Shapes*; Sphere and Cone
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; Hobbled, Faltering
-	- *Emboldenments*; (n/a)
-	- *Utility*; Push-Pull, Minor Illusion
-	- *Damage*; Cold
+	- *Ailments*; Faltering
+	- *Emboldenments*; Pain Dulled, Shield
+	- *Utility*; (n/a)
+	- *Damage*; (n/a)
 
 #### Conjuration I
 #### Divination I
