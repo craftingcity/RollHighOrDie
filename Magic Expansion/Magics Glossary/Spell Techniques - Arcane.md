@@ -71,10 +71,10 @@ You understand the following Spell Bases:
 	- Projectile
 	- Radius
 You understand the following Spell Effects:
-	- *Ranges*; Touch, Short, and Long
+	- *Ranges*; Touch, Short
 	- *Shapes*; Sphere and Cone
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; Hobbled, Faltering
+	- *Ailments*; 
 	- *Emboldenments*; (n/a)
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
