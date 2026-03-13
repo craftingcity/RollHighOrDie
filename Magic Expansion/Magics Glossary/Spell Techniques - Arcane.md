@@ -76,7 +76,21 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Irreparable, Poisoned
 	- *Emboldenments*; Pain Dulled, Low-Light Vision
-	- *Utility*; 
+	- *Utility*; (n/a)
+	- *Damage*; Acid
+
+#### Psychomancy I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+	- Sight Point
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Misled, Frightened
+	- *Emboldenments*; Guided
+	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
 
 ### Taxonomy
