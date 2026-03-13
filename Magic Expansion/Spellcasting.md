@@ -9,7 +9,7 @@ Spells simply are the combination of a desired effect and magical effort. Some S
 Mechanically, casting a Spell is an Attack. The target of the Spell can choose to fail, and voluntarily experience the Effects of the Spell.
 
 ###### Techniques
-In the context of Spellcasting, Techniques are groups of Defined Spells or Spell Effects. Often, a Spellcaster will have access to multiple Techniques while specializing in a select few. Techniques are first categorized by complexity, one of Basic, Complex, or Epic, and then by Power Source.
+In the context of Spellcasting, Techniques are groups of Defined Spells, Spell Effects, or Both. Often, a Spellcaster will have access to multiple Techniques while specializing in a select few. Techniques are first categorized by complexity, one of Basic, Complex, or Epic, and then by Power Source.
 
 ###### Spell Effects
 Spell Effects are the resulting truth of reality when a Spell is cast. Spellcasters use Spell Effects to create and cast Spells.
