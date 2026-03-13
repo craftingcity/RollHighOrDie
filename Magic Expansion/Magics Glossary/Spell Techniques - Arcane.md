@@ -89,12 +89,24 @@ You understand the following Spell Effects:
 	- *Shapes*; Sphere
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Misled, Frightened
-	- *Emboldenments*; Guided
+	- *Emboldenments*; Guided, Rallied
+	- *Utility*; Telepathy, Minor Illusion, Gain Simple Information
+	- *Damage*; Psychic
+
+### Taxonism
+#### Abjuration I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short
+	- *Shapes*; Sphere and Cone
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Hobbled, Faltering
+	- *Emboldenments*; (n/a)
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
 
-### Taxonomy
-#### Abjuration I
 #### Conjuration I
 #### Divination I
 #### Enchantment I

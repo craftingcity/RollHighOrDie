@@ -76,7 +76,8 @@
                   "title": "Spellcasting"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "d9fb0cbd3c304516",
@@ -139,7 +140,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -352,14 +353,14 @@
   },
   "active": "366362bde50a050f",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
-    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
+    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
-    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
