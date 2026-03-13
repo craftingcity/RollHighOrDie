@@ -47,13 +47,25 @@ You understand the following Spell Bases:
 You understand the following Spell Effects:
 	- *Ranges*; Touch, Short, and Long
 	- *Shapes*; Sphere
-	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Duration*; Immediate, Minute Long
 	- *Ailments*; Faltering
+	- *Emboldenments*; (n/a)
+	- *Utility*; Push-Pull, Minor Illusion
+	- *Damage*; Cold and Force
+
+#### Electromancy I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short
+	- *Shapes*; Sphere and Cone
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Blinded, Dazed
 	- *Emboldenments*; (n/a)
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
 
-#### Electromancy I
 #### Biomancy I
 ### Taxonomy
 #### Abjuration I
