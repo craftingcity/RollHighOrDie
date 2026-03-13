@@ -6,7 +6,7 @@
       {
         "id": "817ade5cc5b97aa0",
         "type": "tabs",
-        "dimension": 57.223264540337716,
+        "dimension": 52.04626334519573,
         "children": [
           {
             "id": "f051cb3d5e75d599",
@@ -42,7 +42,7 @@
       {
         "id": "2903bb1d2a89a89b",
         "type": "split",
-        "dimension": 42.776735459662284,
+        "dimension": 47.95373665480427,
         "children": [
           {
             "id": "9d537b016ad86ef0",
@@ -354,10 +354,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1720,
+        "x": 1139,
         "y": 0,
-        "width": 1024,
-        "height": 800,
+        "width": 397,
+        "height": 912,
         "maximize": false,
         "zoom": -1
       }
@@ -365,10 +365,10 @@
   },
   "active": "366362bde50a050f",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Spellcasting.md",

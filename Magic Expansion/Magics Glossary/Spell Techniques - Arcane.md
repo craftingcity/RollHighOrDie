@@ -27,6 +27,18 @@ You understand the following Spell Effects:
 	- *Damage*; Cold
 
 #### Geomancy I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere, Cone, and Cube
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Caught, Dazed, Restrained
+	- *Emboldenments*; (n/a)
+	- *Utility*; 
+	- *Damage*; Cold
+
 #### Aeromancy I
 #### Electromancy I
 #### Biomancy I
