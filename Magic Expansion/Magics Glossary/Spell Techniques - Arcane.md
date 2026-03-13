@@ -31,7 +31,7 @@ You understand the following Spell Bases:
 	- Projectile
 	- Radius
 You understand the following Spell Effects:
-	- *Ranges*; Touch, Short, and Long
+	- *Ranges*; Touch and Short
 	- *Shapes*; Sphere, Cone, and Cube
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Caught, Dazed, Restrained
@@ -40,6 +40,18 @@ You understand the following Spell Effects:
 	- *Damage*; Force
 
 #### Aeromancy I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere and Cone
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Hobbled, Faltering
+	- *Emboldenments*; (n/a)
+	- *Utility*; Push-Pull, Minor Illusion
+	- *Damage*; Cold
+
 #### Electromancy I
 #### Biomancy I
 ### Taxonomy
