@@ -50,7 +50,8 @@
               "title": "Features - Arcane"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2903bb1d2a89a89b",
@@ -321,6 +322,20 @@
             "type": "tabs",
             "children": [
               {
+                "id": "366362bde50a050f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spell Techniques - Arcane"
+                }
+              },
+              {
                 "id": "cefef5d63e5dfc7c",
                 "type": "leaf",
                 "state": {
@@ -347,13 +362,14 @@
       }
     ]
   },
-  "active": "416bf1404cedcc7a",
+  "active": "e2b8e6231c863f35",
   "lastOpenFiles": [
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Magic Expansion/Features - Arcane.md",
-    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
@@ -362,7 +378,6 @@
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Condition.md",
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
     "Magic Expansion/Features - Divine.md",
     "Magic Expansion/Magical Equipment.md",
