@@ -108,6 +108,7 @@ You understand the following Spell Effects:
 	- *Damage*; (n/a)
 
 #### Conjuration I
+
 #### Divination I
 #### Enchantment I
 #### Evocation I
