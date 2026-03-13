@@ -43,11 +43,12 @@ You understand the following Spell Effects:
 You understand the following Spell Bases:
 	- Projectile
 	- Radius
+	- Sight Point
 You understand the following Spell Effects:
 	- *Ranges*; Touch, Short, and Long
-	- *Shapes*; Sphere and Cone
+	- *Shapes*; Sphere
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; Hobbled, Faltering
+	- *Ailments*; Faltering
 	- *Emboldenments*; (n/a)
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
