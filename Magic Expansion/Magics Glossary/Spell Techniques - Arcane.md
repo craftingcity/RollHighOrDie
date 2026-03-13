@@ -75,8 +75,8 @@ You understand the following Spell Effects:
 	- *Shapes*; Sphere and Cone
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Irreparable, Poisoned
-	- *Emboldenments*; Pain Dulled, Low-
-	- *Utility*; Push-Pull, Minor Illusion
+	- *Emboldenments*; Pain Dulled, Low-Light Vision
+	- *Utility*; 
 	- *Damage*; Cold
 
 ### Taxonomy
