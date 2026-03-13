@@ -3,7 +3,7 @@
 #### Pyromancy I
 You understand the following Spell Bases:
 	- Projectile
-	- 
+	- Radius
 You understand the following Spell Effects:
 #### Hydromancy I
 #### Geomancy I

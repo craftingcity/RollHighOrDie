@@ -6,15 +6,15 @@ Within the fiction of the story you tell, your characters may use any number of 
 (Complexity +2, Effort +1)
 This spell creates a projectile that travels towards it's target or targets and enacts the spell's Consequence.
 
-- Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]].
+- Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]]. They can have a [[#Shape]]
 
-A Projectile spell's Base Text reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against that creature's Relevant Defense. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Projectile spell's Base Text reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting  roll against the Relevant Defense of (that creature / each creature within [[#Shape]]). If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 #### Radius
 (Complexity +4, Effort +2)
 This spell uses your form as it's center, acting out it's Consequence directly around you.
 
-- Radius spells must have a [[#Shape]], [[#Duration]], and [[#Consequence]].
+- Radius spells must have a [[#Shape]], [[#Duration]], and [[#Consequence]]. They cannot have a [[#Range]].
 
 A Radius spell's Base Text reads as follows; 'Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against each creature within [[#Shape]]. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
@@ -24,7 +24,7 @@ This spell enacts its Consequence without vehicle, offering versatility and disc
 
 - Sight Point spells must have a [[#Range]], [[#Shape]], [[#Duration]], and [[#Consequence]].
 
-A Sight Point spell's Base Text reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against each creature within [[#Shape]], originating from the point you chose. If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Sight Point spell's Base Text reads as follows; 'Choose a point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against the Relevant Defense of each creature within [[#Shape]], originating from the point you chose. If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 ## Spell Effects
 ### Range
