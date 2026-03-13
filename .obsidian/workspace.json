@@ -128,8 +128,7 @@
                       "title": "Emboldenment"
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               },
               {
                 "id": "ba5382c9fb93fb55",
@@ -363,10 +362,10 @@
       }
     ]
   },
-  "active": "366362bde50a050f",
+  "active": "bbb288f2ff72b8e6",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
