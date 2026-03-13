@@ -7,7 +7,11 @@ You understand the following Spell Bases:
 You understand the following Spell Effects:
 	- *Ranges*; Touch, Short, and Long
 	- *Shapes*; Sphere and Cone
-	- *Duration*; Immediate, Minute Long, 
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Flammable, Blinded
+	- *Emboldenments*; (n/a)
+	- *Utility*; Light
+	- *Damage*; Fire
 #### Hydromancy I
 #### Geomancy I
 #### Aeromancy I
