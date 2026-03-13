@@ -12,7 +12,20 @@ You understand the following Spell Effects:
 	- *Emboldenments*; (n/a)
 	- *Utility*; Light
 	- *Damage*; Fire
+
 #### Hydromancy I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere and Cone
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; (n/a)
+	- *Emboldenments*; (n/a)
+	- *Utility*; Push-Pull
+	- *Damage*; Fire
+
 #### Geomancy I
 #### Aeromancy I
 #### Electromancy I
