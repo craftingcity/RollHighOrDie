@@ -1,7 +1,10 @@
 ## Basic Arcane Techniques
 ### Elementalism
 #### Pyromancy I
-You 
+You understand the following Spell Bases:
+	- Projectile
+	- 
+You understand the following Spell Effects:
 #### Hydromancy I
 #### Geomancy I
 #### Aeromancy I
