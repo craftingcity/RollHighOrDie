@@ -16,7 +16,9 @@ You know the following Defined Spells:
 	- **Firebolt** (Projectile, Long Range, Immediate, Impose Flammable, Fire Damage)
 		- 11 Complexity, 5 Effort (Speed 3)
 		- Target a creature or point within 90', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you impose a stack of the 'Flammable' [[Ailment]], and then you deal 2d6 Fire Damage.
-	- ****
+	- **Fry** (Radius, Cone 15', Immediate, Fire Damage)
+		- x Complexity, X Effort (Speed X)
+		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against the Reflex of each creature within a 15' cone, originati. 
 	- **Illuminate** (Projectile, Touch, Hour Long, Light)
 		- 8 Complexity, 4 Effort (Speed 2)
 		- Target a creature, object, or point you are adjacent to, and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, the target of your spell emits bright light for 10', and then an additional 20' of dim light beyond that.
