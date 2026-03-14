@@ -272,7 +272,7 @@ This spell grants X Damage Resistance of that Type for the *Duration* of the spe
 #### Light
 (Complexity +#, Effort +#)
 
-...
+This spell generates Bright Light
 
 #### Darkness
 (Complexity +#, Effort +#)
