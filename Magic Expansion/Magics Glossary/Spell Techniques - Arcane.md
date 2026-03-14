@@ -12,6 +12,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; (n/a)
 	- *Utility*; Light, Minor Illusion
 	- *Damage*; Fire
+You know the following Defined Spells:
+	- 
 
 #### Hydromancy I
 You understand the following Spell Bases:
