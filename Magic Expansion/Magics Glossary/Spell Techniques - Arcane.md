@@ -206,6 +206,8 @@ You understand the following Spell Effects:
 	- *Duration*; When Triggered, Until Saved
 	- *Ailments*; (n/a)
 	- *Emboldenments*; (n/a)
-	- *Utility*; Light
-	- *Damage*; Acid, Cold, Electric, Fire
+	- *Utility*; Gain Simple Information, Detect Magic, Counter
+	- *Damage*; (n/a)
 
+### Complex Arcane Techniques
+### Epic Arcane Techniques
