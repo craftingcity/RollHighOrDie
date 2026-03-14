@@ -14,6 +14,7 @@ You understand the following Spell Effects:
 	- *Damage*; Fire
 You know the following Defined Spells:
 	- **Firebolt** (Projectile, Long Range, Immediate, Impose Flammable, Fire Damage)
+	- 10 Complexity, 5 Effort (Speed X)
 	- Target a creature or point within 90', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you impose a stack of the 'Flammable' [[Ailment]], and then you deal .
 
 #### Hydromancy I
