@@ -74,7 +74,7 @@ You understand the following Spell Effects:
 	- *Ranges*; Touch, Short
 	- *Shapes*; Sphere and Cone
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; Irreparable, Poisoned
+	- *Ailments*; Irreparable, Bleeding, Poisoned
 	- *Emboldenments*; Pain Dulled, Low-Light Vision
 	- *Utility*; (n/a)
 	- *Damage*; Acid
@@ -140,12 +140,24 @@ You understand the following Spell Effects:
 	- *Ranges*; Touch, Short, and Long
 	- *Shapes*; Sphere
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; Misled, Frightened, Dazed
+	- *Ailments*; Misled, Frightened, Dazed, Minor Charm
 	- *Emboldenments*; Guided
 	- *Utility*; Light, Darkness, Minor Illusion
-	- *Damage*; Radiant
+	- *Damage*; Psychic
 
 #### Evocation I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere, Cone, Cube
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Bleeding, Flammable, Poisoned
+	- *Emboldenments*; (n/a)
+	- *Utility*; Light
+	- *Damage*; Acid, Cold, Electric, Fire
+
 #### Illusion I
 #### Necromancy I
 #### Transmutation I
