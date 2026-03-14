@@ -108,6 +108,16 @@ You understand the following Spell Effects:
 	- *Damage*; (n/a)
 
 #### Conjuration I
+You understand the following Spell Bases:
+	- Projectile
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short
+	- *Shapes*; (n/a)
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; 
+	- *Emboldenments*; Pain Dulled, Shield
+	- *Utility*; (n/a)
+	- *Damage*; (n/a)
 
 #### Divination I
 #### Enchantment I
