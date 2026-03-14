@@ -172,5 +172,29 @@ You understand the following Spell Effects:
 	- *Damage*; (n/a)
 
 #### Necromancy I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short
+	- *Shapes*; Sphere, Cone
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Irreparable, Bleeding, Infected, Poisoned
+	- *Emboldenments*; Pain Dulled
+	- *Utility*; Darkness
+	- *Damage*; Necrotic
+
 #### Transmutation I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short
+	- *Shapes*; Sphere
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; (n/a)
+	- *Emboldenments*; (n/a)
+	- *Utility*; Light
+	- *Damage*; Acid, Cold, Electric, Fire
+
 #### Metamancy I
