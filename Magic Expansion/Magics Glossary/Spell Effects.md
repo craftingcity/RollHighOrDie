@@ -61,7 +61,7 @@ This spell creates a cube with a length and with of (X) feet. This spell's Conse
 This spell creates a cone with a length and width of (X) feet, in a direction of your choice. This spell's Consequence applies to each Target within this area.
 
 #### Rectangle (x\*y)
-(Complexity +x, Effort +y)
+(Complexity +x/5, Effort +y/5)
 
 This spell creates a rectangle with a length of (Y) feet and a width of (X) feet. This spell's Consequence applies to each Target within this area.
 

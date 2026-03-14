@@ -104,7 +104,7 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Faltering
 	- *Emboldenments*; Pain Dulled, Shield
-	- *Utility*; (n/a)
+	- *Utility*; Counter
 	- *Damage*; (n/a)
 
 #### Conjuration I
@@ -140,9 +140,9 @@ You understand the following Spell Effects:
 	- *Ranges*; Touch, Short, and Long
 	- *Shapes*; Sphere
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; Misled, Spotted
+	- *Ailments*; Misled, Frightened, Dazed
 	- *Emboldenments*; Guided
-	- *Utility*; Minor Illusion, Translate Language, Gain Simple Information
+	- *Utility*; Light, Darkness, Minor Illusion
 	- *Damage*; Radiant
 
 #### Evocation I

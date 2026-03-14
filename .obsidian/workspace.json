@@ -6,7 +6,7 @@
       {
         "id": "817ade5cc5b97aa0",
         "type": "tabs",
-        "dimension": 52.04626334519573,
+        "dimension": 57.223264540337716,
         "children": [
           {
             "id": "f051cb3d5e75d599",
@@ -42,7 +42,7 @@
       {
         "id": "2903bb1d2a89a89b",
         "type": "split",
-        "dimension": 47.95373665480427,
+        "dimension": 42.776735459662284,
         "children": [
           {
             "id": "9d537b016ad86ef0",
@@ -76,71 +76,83 @@
                   "title": "Spellcasting"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "d9fb0cbd3c304516",
-            "type": "tabs",
+            "id": "f1105c15ce19199b",
+            "type": "split",
             "children": [
               {
-                "id": "bbb288f2ff72b8e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Ailment.md",
-                    "mode": "source",
-                    "source": true
+                "id": "d9fb0cbd3c304516",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "bbb288f2ff72b8e6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Selections Glossary/Ailment.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Ailment"
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Ailment"
-                }
+                  {
+                    "id": "0ad9cf6d8c54da3c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Selections Glossary/Condition.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Condition"
+                    }
+                  },
+                  {
+                    "id": "42bad5300ac01a05",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Core RHoD/Selections Glossary/Emboldenment.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Emboldenment"
+                    }
+                  }
+                ],
+                "currentTab": 2
               },
               {
-                "id": "0ad9cf6d8c54da3c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Condition.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Condition"
-                }
-              },
-              {
-                "id": "42bad5300ac01a05",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Selections Glossary/Emboldenment.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Emboldenment"
-                }
-              },
-              {
-                "id": "b5782c0b90350b2a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Magical Ailments, Conditions, and Emboldenments"
-                }
+                "id": "ba5382c9fb93fb55",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b5782c0b90350b2a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Magical Ailments, Conditions, and Emboldenments"
+                    }
+                  }
+                ]
               }
             ],
-            "currentTab": 2
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -303,15 +315,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "1039787ae45f7972",
+        "id": "916239f484d5a48e",
         "type": "window",
         "children": [
           {
-            "id": "648b2f4a59f777be",
+            "id": "2393a4dfef9df4f6",
             "type": "tabs",
             "children": [
               {
-                "id": "366362bde50a050f",
+                "id": "7dfb9caa5779e553",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -323,50 +335,36 @@
                   "icon": "lucide-file",
                   "title": "Spell Techniques - Arcane"
                 }
-              },
-              {
-                "id": "cefef5d63e5dfc7c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Defined Arcane Spells"
-                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1139,
+        "x": 1720,
         "y": 0,
-        "width": 397,
-        "height": 912,
+        "width": 840,
+        "height": 1400,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "366362bde50a050f",
+  "active": "7dfb9caa5779e553",
   "lastOpenFiles": [
-    "Magic Expansion/Spellcasting.md",
-    "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
+    "Magic Expansion/Spellcasting.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
     "Core RHoD/Equipment and Inventories/Ammunition.md",
     "Core RHoD/Equipment and Inventories/Ranged Weapons.md",
     "Core RHoD/Selections Glossary/Condition.md",
+    "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Divine.md",
     "Magic Expansion/Features - Divine.md",
     "Magic Expansion/Magical Equipment.md",
