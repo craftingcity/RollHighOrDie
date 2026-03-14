@@ -77,7 +77,7 @@ This spell lasts until your next turn.
 This spell lasts for a minute.
 
 #### Hour Long
-(Complexity +4, Effort +4)
+(Complexity +4, Effort +2)
 
 This spell lasts for an hour.
 
@@ -272,7 +272,7 @@ This spell grants X Damage Resistance of that Type for the *Duration* of the spe
 #### Light
 (Complexity +x/5, Effort +X/5)
 
-This spell emits bright light for X feet, and then an additional (X\*2) feet of dim light.
+This spell emits bright light for X feet, and then an additional (X\*2) feet of dim light beyond that.
 
 #### Darkness
 (Complexity +#, Effort +#)
