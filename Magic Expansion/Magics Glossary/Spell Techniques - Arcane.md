@@ -87,7 +87,7 @@ You understand the following Spell Bases:
 You understand the following Spell Effects:
 	- *Ranges*; Touch, Short, and Long
 	- *Shapes*; Sphere
-	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Duration*; Immediate, Minute Long
 	- *Ailments*; Misled, Frightened
 	- *Emboldenments*; Guided, Rallied
 	- *Utility*; Telepathy, Minor Illusion, Gain Simple Information
@@ -115,8 +115,8 @@ You understand the following Spell Effects:
 	- *Shapes*; (n/a)
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; (n/a)
-	- *Emboldenments*; (n/a)
-	- *Utility*; Light, 
+	- *Emboldenments*; Grant Vitality
+	- *Utility*; Light, Minor Conjuration,
 	- *Damage*; (n/a)
 
 #### Divination I
