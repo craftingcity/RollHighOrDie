@@ -159,6 +159,18 @@ You understand the following Spell Effects:
 	- *Damage*; Acid, Cold, Electric, Fire
 
 #### Illusion I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Frightened, Minor Charm
+	- *Emboldenments*; Low-Light Vision
+	- *Utility*; Light, Darkness, Minor Illusion
+	- *Damage*; (n/a)
+
 #### Necromancy I
 #### Transmutation I
 #### Metamancy I
