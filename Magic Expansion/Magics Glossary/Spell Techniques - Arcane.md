@@ -130,9 +130,21 @@ You understand the following Spell Effects:
 	- *Ailments*; Misled, Spotted
 	- *Emboldenments*; Guided
 	- *Utility*; Minor Illusion, Translate Language, Gain Simple Information
-	- *Damage*; (n/a)
+	- *Damage*; Radiant
 
 #### Enchantment I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Misled, Spotted
+	- *Emboldenments*; Guided
+	- *Utility*; Minor Illusion, Translate Language, Gain Simple Information
+	- *Damage*; Radiant
+
 #### Evocation I
 #### Illusion I
 #### Necromancy I
