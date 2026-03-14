@@ -50,16 +50,16 @@ You can increase your Piety by performing actions for the favor of your patron. 
 
 | P.V. | Favorable Action                        | Ideo.       |
 | ---- | --------------------------------------- | ----------- |
-| +1   | Uphold moral law.                       | Lawful      |
-| +1   | Punish wrongdoing.                      | Good        |
-| +1   | Break moral law.                        | Chaos       |
-| +1   | Conduct wrongdoing.                     | Evil        |
+| +1   | Uphold moral law.                       | Lawful/Good |
+| +1   | Punish wrongdoing.                      | Lawful/Good |
+| +1   | Break moral law.                        | Chaos/Evil  |
+| +1   | Conduct wrongdoing.                     | Chaos/Evil  |
 | +2   | Execute an immoral entity.              | Lawful/Good |
 | +2   | Execute a moral innocent.               | Chaos/Evil  |
 | +2   | Participate in community assembly.      | Lawful/Good |
 | +2   | Destroy significant community property. | Chaos/Evil  |
-| +2   | Spare the surrendered.                  | Lawful      |
-| +2   | Execute the surrendered.                | Chaos       |
+| +2   | Spare the surrendered.                  | Lawful/Good |
+| +2   | Execute the surrendered.                | Chaos/Evil  |
 
 ## Constructing Spells
 At any time, your character can mentally construct unique Spells using the Spell Effects they have learned through their Techniques.

@@ -61,23 +61,8 @@
                   "icon": "lucide-file",
                   "title": "Features - Arcane"
                 }
-              },
-              {
-                "id": "416bf1404cedcc7a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Spellcasting.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Spellcasting"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f1105c15ce19199b",
@@ -350,15 +335,15 @@
       }
     ]
   },
-  "active": "416bf1404cedcc7a",
+  "active": "7dfb9caa5779e553",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Magic Expansion/Features - Arcane.md",
+    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Spellcasting.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
-    "Magic Expansion/Features - Arcane.md",
-    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
