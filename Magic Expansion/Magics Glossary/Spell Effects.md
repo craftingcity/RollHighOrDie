@@ -8,7 +8,7 @@ This spell creates a projectile that travels towards it's target or targets and 
 
 - Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]]. They can have a [[#Shape]]
 
-A Projectile spell's Base Text reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting  roll against the Relevant Defense of (that creature / each creature within [[#Shape]]). If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Projectile spell's Base Text reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against the Relevant Defense of (that creature / each creature within [[#Shape]]). If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 #### Radius
 (Complexity +4, Effort +2)
