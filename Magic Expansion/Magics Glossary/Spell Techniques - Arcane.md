@@ -104,7 +104,7 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Faltering
 	- *Emboldenments*; Pain Dulled, Shield
-	- *Utility*; Counter
+	- *Utility*; Counter, Detect Extraplanar
 	- *Damage*; (n/a)
 
 #### Conjuration I
@@ -194,7 +194,18 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; (n/a)
 	- *Emboldenments*; (n/a)
-	- *Utility*; Light
+	- *Utility*; Manipulate Material, Manipulate Terrain, Minor Transmute
 	- *Damage*; Acid, Cold, Electric, Fire
 
 #### Metamancy I
+You understand the following Spell Bases:
+	- Sight Point
+You understand the following Spell Effects:
+	- *Ranges*; Extreme
+	- *Shapes*; Rectangle
+	- *Duration*; When Triggered, Until Saved
+	- *Ailments*; (n/a)
+	- *Emboldenments*; (n/a)
+	- *Utility*; Light
+	- *Damage*; Acid, Cold, Electric, Fire
+
