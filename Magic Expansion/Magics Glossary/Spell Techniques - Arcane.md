@@ -13,7 +13,8 @@ You understand the following Spell Effects:
 	- *Utility*; Light, Minor Illusion
 	- *Damage*; Fire
 You know the following Defined Spells:
-	- **Firebolt**
+	- **Firebolt** (Projectile, Long Range, Immediate, Impose Flammable, Fire Damage)
+	- 
 
 #### Hydromancy I
 You understand the following Spell Bases:
