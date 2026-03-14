@@ -17,7 +17,7 @@ You know the following Defined Spells:
 		- 11 Complexity, 5 Effort (Speed 3)
 		- Target a creature or point within 90', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you impose a stack of the 'Flammable' [[Ailment]], and then you deal 2d6 Fire Damage.
 	- **Fry** (Radius, Cone 15', Immediate, Fire Damage)
-		- 10 Complexity, 8 Effort (Speed 4)
+		- 10 Complexity, 7 Effort (Speed 4)
 		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against the Reflex of each creature within a 15' cone, originating from the point you chose. If you hit, you deal 3d6 Fire Damage.
 	- **Illuminate** (Projectile, Touch, Hour Long, Light)
 		- 8 Complexity, 4 Effort (Speed 2)

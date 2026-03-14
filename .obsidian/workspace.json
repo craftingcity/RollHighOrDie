@@ -61,8 +61,23 @@
                   "icon": "lucide-file",
                   "title": "Features - Arcane"
                 }
+              },
+              {
+                "id": "e4d3b979ea6377c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Expansion/Spellcasting.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spellcasting"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f1105c15ce19199b",
@@ -336,13 +351,13 @@
       }
     ]
   },
-  "active": "e2b8e6231c863f35",
+  "active": "e4d3b979ea6377c2",
   "lastOpenFiles": [
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Magic Expansion/Features - Arcane.md",
-    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Spellcasting.md",
+    "Magic Expansion/Features - Arcane.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",

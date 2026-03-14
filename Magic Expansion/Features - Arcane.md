@@ -6,7 +6,7 @@
 
 When you gain this Feature, your Flux Capacity is equal to your Charisma Modifier or 1, whichever is greater. You learn one Basic Technique of your choice.
 
-You can cast Spells using this FOeature. The Action Point Cost to cast a given Spell is listed alongside it's Effort and Complexity as Speed.
+You can cast Spells using this Feature. The Action Point Cost to cast a given Spell is listed alongside it's Effort and Complexity as Speed.
 
 If you already have the 'Learned Spellcasting' Feature, you are not eligible to gain this Feature.
 
