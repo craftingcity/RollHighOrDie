@@ -120,6 +120,18 @@ You understand the following Spell Effects:
 	- *Damage*; (n/a)
 
 #### Divination I
+You understand the following Spell Bases:
+	- Projectile
+	- Radius
+You understand the following Spell Effects:
+	- *Ranges*; Touch, Short, and Long
+	- *Shapes*; Sphere
+	- *Duration*; Immediate, Minute Long, Hour Long
+	- *Ailments*; Misled, Spotted
+	- *Emboldenments*; Guided
+	- *Utility*; Minor Illusion, Translate Language, Gain Simple Information
+	- *Damage*; (n/a)
+
 #### Enchantment I
 #### Evocation I
 #### Illusion I
