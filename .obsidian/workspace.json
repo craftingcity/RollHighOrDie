@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wounds",
+                "query": "\"Bright Light\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +194,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -335,10 +336,10 @@
       }
     ]
   },
-  "active": "d38edcb0cb65deb1",
+  "active": "7dfb9caa5779e553",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Magic Expansion/Spellcasting.md",

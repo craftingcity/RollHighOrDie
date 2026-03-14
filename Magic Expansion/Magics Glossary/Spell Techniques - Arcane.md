@@ -18,7 +18,7 @@ You know the following Defined Spells:
 		- Target a creature or point within 90', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you impose a stack of the 'Flammable' [[Ailment]], and then you deal 2d6 Fire Damage.
 	- **Illuminate** (Projectile, Touch, Hour Long, Light)
 		- xx Complexity, x Effort (Speed x)
-		- Target a creature or point you are adjacent to, and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, ([[#Consequence]] and [[#Duration]]).
+		- Target a creature, object, or point you are adjacent to, and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, the target of your spell emits bright light for 
 
 #### Hydromancy I
 You understand the following Spell Bases:

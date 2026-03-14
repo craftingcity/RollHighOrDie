@@ -270,9 +270,9 @@ This spell grants X Damage Resistance of that Type for the *Duration* of the spe
 
 ##### Utility
 #### Light
-(Complexity +#, Effort +#)
+(Complexity +x/5, Effort +X/5)
 
-This spell generates Bright Light
+This spell emits bright light for X feet, and then an additional (X\*2) feet of dim light.
 
 #### Darkness
 (Complexity +#, Effort +#)
