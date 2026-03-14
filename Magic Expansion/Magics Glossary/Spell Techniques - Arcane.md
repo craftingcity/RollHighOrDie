@@ -114,9 +114,9 @@ You understand the following Spell Effects:
 	- *Ranges*; Touch, Short
 	- *Shapes*; (n/a)
 	- *Duration*; Immediate, Minute Long, Hour Long
-	- *Ailments*; 
-	- *Emboldenments*; Pain Dulled, Shield
-	- *Utility*; (n/a)
+	- *Ailments*; (n/a)
+	- *Emboldenments*; (n/a)
+	- *Utility*; Light, 
 	- *Damage*; (n/a)
 
 #### Divination I
