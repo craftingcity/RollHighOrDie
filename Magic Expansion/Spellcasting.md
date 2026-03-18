@@ -50,16 +50,16 @@ You can increase your Piety by performing actions for the favor of your patron. 
 
 | P.V. | Favorable Action                        | Ideo.       |
 | ---- | --------------------------------------- | ----------- |
-| +1   | Uphold moral law.                       | Lawful      |
-| +1   | Punish wrongdoing.                      | Good        |
-| +1   | Break moral law.                        | Chaos       |
-| +1   | Conduct wrongdoing.                     | Evil        |
+| +1   | Uphold moral law.                       | Lawful/Good |
+| +1   | Punish wrongdoing.                      | Lawful/Good |
+| +1   | Break moral law.                        | Chaos/Evil  |
+| +1   | Conduct wrongdoing.                     | Chaos/Evil  |
 | +2   | Execute an immoral entity.              | Lawful/Good |
 | +2   | Execute a moral innocent.               | Chaos/Evil  |
 | +2   | Participate in community assembly.      | Lawful/Good |
 | +2   | Destroy significant community property. | Chaos/Evil  |
-| +2   | Spare the surrendered.                  | Lawful      |
-| +2   | Execute the surrendered.                | Chaos       |
+| +2   | Spare the surrendered.                  | Lawful/Good |
+| +2   | Execute the surrendered.                | Chaos/Evil  |
 
 ## Constructing Spells
 At any time, your character can mentally construct unique Spells using the Spell Effects they have learned through their Techniques.
@@ -67,8 +67,6 @@ At any time, your character can mentally construct unique Spells using the Spell
 A Spell's Base determines a number of core features of casting a given spell, such as the "Base Text" of the spell.
 
 After you have selected a Spell Base, you may choose any number of Spell Effects you know to add to the Spell. As you do, the Spell Effects you choose will add to the Spell's total Complexity and or Effort. You will use these total values when you are Casting this Spell.
-
-> Using Defined Spells is typically safer and more efficient than creating unique Spells due to their communal nature...
 
 After finalizing your Spell Effects and totaling your Spell's Complexity and Effort, you must calculate the Spell's Speed - the number of Action Points you must spend Casting the Spell. A Spell's Speed is equal to half it's Effort.
 

@@ -8,7 +8,7 @@ This spell creates a projectile that travels towards it's target or targets and 
 
 - Projectile spells must have a [[#Range]], [[#Duration]], and [[#Consequence]]. They can have a [[#Shape]]
 
-A Projectile spell's Base Text reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting  roll against the Relevant Defense of (that creature / each creature within [[#Shape]]). If you hit, ([[#Consequence]] and [[#Duration]]).'
+A Projectile spell's Base Text reads as follows; 'Target a creature or point within [[#Range]], and establish Line of Sight. Compare your Spellcasting roll against the Relevant Defense of (that creature / each creature within [[#Shape]]). If you hit, ([[#Consequence]] and [[#Duration]]).'
 
 #### Radius
 (Complexity +4, Effort +2)
@@ -61,7 +61,7 @@ This spell creates a cube with a length and with of (X) feet. This spell's Conse
 This spell creates a cone with a length and width of (X) feet, in a direction of your choice. This spell's Consequence applies to each Target within this area.
 
 #### Rectangle (x\*y)
-(Complexity +x, Effort +y)
+(Complexity +x/4, Effort +y/5)
 
 This spell creates a rectangle with a length of (Y) feet and a width of (X) feet. This spell's Consequence applies to each Target within this area.
 
@@ -77,7 +77,7 @@ This spell lasts until your next turn.
 This spell lasts for a minute.
 
 #### Hour Long
-(Complexity +4, Effort +4)
+(Complexity +4, Effort +2)
 
 This spell lasts for an hour.
 
@@ -270,9 +270,9 @@ This spell grants X Damage Resistance of that Type for the *Duration* of the spe
 
 ##### Utility
 #### Light
-(Complexity +#, Effort +#)
+(Complexity +x/5, Effort +X/5)
 
-...
+This spell emits bright light for X feet, and then an additional (X\*2) feet of dim light beyond that.
 
 #### Darkness
 (Complexity +#, Effort +#)
