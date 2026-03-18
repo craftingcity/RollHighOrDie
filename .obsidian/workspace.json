@@ -298,64 +298,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "6527f227a4a086c7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1039787ae45f7972",
-        "type": "window",
-        "children": [
-          {
-            "id": "648b2f4a59f777be",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "366362bde50a050f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Spell Techniques - Arcane"
-                }
-              },
-              {
-                "id": "cefef5d63e5dfc7c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Defined Arcane Spells"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1139,
-        "y": 0,
-        "width": 397,
-        "height": 912,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "366362bde50a050f",
+  "active": "416bf1404cedcc7a",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Spellcasting.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Core RHoD/Selections Glossary/Ailment.md",
