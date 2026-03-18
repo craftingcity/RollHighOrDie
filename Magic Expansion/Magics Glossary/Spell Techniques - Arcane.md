@@ -35,6 +35,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; (n/a)
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
+You know the following Defined Spells:
+	- **
 
 #### Geomancy I
 You understand the following Spell Bases:
