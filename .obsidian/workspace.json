@@ -75,23 +75,9 @@
                   "icon": "lucide-file",
                   "title": "Spellcasting"
                 }
-              },
-              {
-                "id": "060e8ac9cf271ee4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "conflict-files-obsidian-git.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "conflict-files-obsidian-git"
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "d9fb0cbd3c304516",
@@ -312,11 +298,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "060e8ac9cf271ee4",
+  "floating": {
+    "id": "e697450aa356feb7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c53a027cc26fb276",
+        "type": "window",
+        "children": [
+          {
+            "id": "e2a97cff89a7807b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45534e35c39dc13f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spell Techniques - Arcane"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1023,
+        "y": 0,
+        "width": 513,
+        "height": 912,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "416bf1404cedcc7a",
   "lastOpenFiles": [
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Spellcasting.md",
     "conflict-files-obsidian-git.md",
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
