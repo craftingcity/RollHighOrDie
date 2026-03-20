@@ -63,7 +63,7 @@ This spell creates a cone with a length and width of (X) feet, in a direction of
 #### Rectangle (x\*y)
 (Complexity +x/4, Effort +y/5)
 
-This spell creates a rectangle with a length of (Y) feet and a width of (X) feet. This spell's Consequence applies to each Target within this area.
+This spell creates a rectangle with a length of (Y) feet and a width of (X * 4) feet. This spell's Consequence applies to each Target within this area.
 
 ### Duration
 #### Immediate
@@ -270,9 +270,9 @@ This spell grants X Damage Resistance of that Type for the *Duration* of the spe
 
 ##### Utility
 #### Light
-(Complexity +x/5, Effort +X/5)
+(Complexity +X, Effort +X)
 
-This spell emits bright light for X feet, and then an additional (X\*2) feet of dim light beyond that.
+This spell emits bright light for X * 5 feet, and then an additional X * 10 feet of dim light beyond that.
 
 #### Darkness
 (Complexity +#, Effort +#)

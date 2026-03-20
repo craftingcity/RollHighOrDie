@@ -328,19 +328,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 1023,
+        "x": 1651,
         "y": 0,
-        "width": 513,
-        "height": 912,
+        "width": 909,
+        "height": 1400,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "416bf1404cedcc7a",
+  "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Spellcasting.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
