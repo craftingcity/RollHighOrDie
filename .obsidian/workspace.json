@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Spotted",
+                "query": "light",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,6 +312,20 @@
             "type": "tabs",
             "children": [
               {
+                "id": "155df8e21d3e9bb0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Core RHoD/Environment Definitions.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Environment Definitions"
+                }
+              },
+              {
                 "id": "45534e35c39dc13f",
                 "type": "leaf",
                 "state": {
@@ -340,13 +354,14 @@
   },
   "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
-    "Core RHoD/Character Rules/Defenses.md",
+    "Core RHoD/Environment Definitions.md",
+    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Spellcasting.md",
     "conflict-files-obsidian-git.md",
     "Magic Expansion/Features - Arcane.md",
@@ -365,7 +380,6 @@
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
-    "Apocalypse Expansion/Seattle Exports Misery - Non-player Stats.md",
     "Apocalypse Expansion/Untitled",
     "Stable Releases/Roll High or Die (COREvA01).pdf",
     "Apocalypse Expansion/Character Rules/Untitled",
