@@ -139,8 +139,7 @@
                   "title": "Magical Ailments, Conditions, and Emboldenments"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -337,15 +336,15 @@
       }
     ]
   },
-  "active": "45534e35c39dc13f",
+  "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
+    "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Magic Expansion/Spellcasting.md",
     "conflict-files-obsidian-git.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
-    "Core RHoD/Selections Glossary/Ailment.md",
     "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",

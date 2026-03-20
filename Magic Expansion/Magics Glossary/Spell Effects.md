@@ -115,17 +115,17 @@ This spell's Consequence applies every round, and never resolves.
 This spell imposes the 'Irreparable' Ailment for the *Duration* of this spell.
 
 #### Impose Misled
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +2)
 
 This spell imposes a stack of the 'Misled' Ailment.
 
 #### Impose Hobbled
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +2)
 
 This spell imposes the 'Hobbled' Ailment for the *Duration* of this spell.
 
 #### Impose Bleeding
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +4)
 
 This spell imposes a stack of the 'Bleeding' Ailment.
 
@@ -135,37 +135,37 @@ This spell imposes a stack of the 'Bleeding' Ailment.
 This spell imposes a stack of the 'Flammable' Ailment.
 
 #### Impose Caught
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +2)
 
-This spell imposes the 'Caught' Ailment. The "final DC of setting the trap" is equal to the result of your Casting Skill Check when you cast this spell.
+This spell imposes the 'Caught' Ailment for the *Duration* of the spell. The "final DC of setting the trap" is equal to the result of your Casting Skill Check when you cast this spell.
 
 #### Impose Frightened
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +1)
 
 This spell imposes the 'Frightened' Ailment for the *Duration* of this spell.
 
 #### Impose Faltering
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell imposes the 'Faltering' Ailment for the *Duration* of this spell.
 
 #### Impose Blinded
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell imposes the 'Blinded' Ailment for the *Duration* of this spell.
 
 #### Impose Dazed
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +2)
 
 This spell imposes a stack of the 'Dazed' Ailment.
 
 #### Impose Infected
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +2)
 
 This spell imposes a stack of the 'Infected' Ailment.
 
 #### Impose Poisoned
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +4)
 
 This spell imposes a stack of the 'Poisoned' Ailment.
 
