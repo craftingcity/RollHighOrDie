@@ -185,29 +185,29 @@ This spell imposes the 'Restrained' Ailment for the *Duration* of this spell.
 This spell forces it's targets to take a Maneuver of your choice.
 
 #### Compel Action
-(Complexity +#, Effort +6)
+(Complexity +4, Effort +6)
 
 This spell forces it's targets to take an Action (that costs 5 or less AP) of your choice.
 
 #### Minor Charm
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 ...
 
 #### Major Charm
-(Complexity +#, Effort +#)
+(Complexity +8, Effort +8)
 
 ...
 
 
 ##### Emboldenment
 #### Impose Guided
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +2)
 
 This spell imposes a stack of the 'Guided' Emboldenment.
 
 #### Impose Quickened
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell imposes a stack of the 'Quickened' Emboldenment.
 
