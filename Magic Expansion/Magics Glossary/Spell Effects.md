@@ -50,11 +50,6 @@ This spell's target or targets must be within 180' of you.
 
 This spell creates a sphere with a radius of (X * 5) feet. This spell's Consequence applies to each Target within this area.
 
-#### Cube (x)
-(Complexity +x, Effort +x)
-
-This spell creates a cube with a length and with of (X * 4) feet. This spell's Consequence applies to each Target within this area.
-
 #### Cone (x)
 (Complexity +X, Effort +X)
 
@@ -63,7 +58,7 @@ This spell creates a cone with a length and width of (X * 5) feet, in a directio
 #### Rectangle (x\*y)
 (Complexity +X, Effort +Y)
 
-This spell creates a rectangle with a length of (Y * 5) feet and a width of (X * 4) feet. This spell's Consequence applies to each Target within this area.
+This spell creates a rectangle with a length of (Y * 5) feet and a width of (X * 5) feet. This spell's Consequence applies to each Target within this area.
 
 ### Duration
 #### Immediate

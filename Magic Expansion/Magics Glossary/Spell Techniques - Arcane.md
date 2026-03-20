@@ -44,7 +44,7 @@ You understand the following Spell Bases:
 	- Radius
 You understand the following Spell Effects:
 	- *Ranges*; Touch and Short
-	- *Shapes*; Sphere, Cone, and Cube
+	- *Shapes*; Sphere, Cone, and Rectangle
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Caught, Dazed, Restrained
 	- *Emboldenments*; Grant Armoring
@@ -163,7 +163,7 @@ You understand the following Spell Bases:
 	- Radius
 You understand the following Spell Effects:
 	- *Ranges*; Touch, Short, and Long
-	- *Shapes*; Sphere, Cone, Cube
+	- *Shapes*; Sphere, Cone, and Rectangle
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Bleeding, Flammable, Poisoned
 	- *Emboldenments*; (n/a)
@@ -189,7 +189,7 @@ You understand the following Spell Bases:
 	- Radius
 You understand the following Spell Effects:
 	- *Ranges*; Touch, Short
-	- *Shapes*; Sphere, Cone
+	- *Shapes*; Sphere and Cone
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Irreparable, Bleeding, Infected, Poisoned
 	- *Emboldenments*; Pain Dulled
