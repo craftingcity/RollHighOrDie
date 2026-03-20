@@ -170,7 +170,7 @@ This spell imposes a stack of the 'Infected' Ailment.
 This spell imposes a stack of the 'Poisoned' Ailment.
 
 #### Impose Spotted
-(Complexity +#, Effort +#)
+(Complexity +2, Effort +1)
 
 This spell imposes a stack of the 'Spotted' Ailment.
 
