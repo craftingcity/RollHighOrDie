@@ -274,7 +274,7 @@ This spell emits bright light for X * 5 feet, and then an additional X * 10 feet
 #### Darkness
 (Complexity +#, Effort +#)
 
-...
+This spell creates 
 
 #### Push-Pull
 (Complexity +#, Effort +#)
