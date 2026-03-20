@@ -276,7 +276,7 @@ Target an adjacent ally who is holding a Shield. Until the beginning of your nex
 ###### 2 AP
 'xxx.'
 
-Target a creature you can see. Make a Deduction Skill Check against that target's Will. If you succeed, you impose the 'Spotted' [[Ailment]] until the beginning of your next turn.
+Target a creature you can see. Make a Deduction Skill Check against that target's Will. If you succeed, you impose a stack of the 'Spotted' [[Ailment]].
 
 ## XXX
 ###### REQ: 1EXP

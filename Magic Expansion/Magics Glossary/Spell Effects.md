@@ -175,17 +175,17 @@ This spell imposes a stack of the 'Poisoned' Ailment.
 This spell imposes a stack of the 'Spotted' Ailment.
 
 #### Impose Restrained
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell imposes the 'Restrained' Ailment for the *Duration* of this spell.
 
 #### Compel Movement
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell forces it's targets to take a Maneuver of your choice.
 
 #### Compel Action
-(Complexity +#, Effort +#)
+(Complexity +#, Effort +6)
 
 This spell forces it's targets to take an Action (that costs 5 or less AP) of your choice.
 

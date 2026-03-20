@@ -174,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wounds",
+                "query": "Spotted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -336,10 +337,11 @@
       }
     ]
   },
-  "active": "bbb288f2ff72b8e6",
+  "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Selections Glossary/Ailment.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
+    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
     "Magic Expansion/Spellcasting.md",
     "conflict-files-obsidian-git.md",
@@ -359,7 +361,6 @@
     "Core RHoD/Selections Glossary/Traits/Traits - Training.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Physicality.md",
     "Core RHoD/Selections Glossary/Traits/Traits - Mentality.md",
-    "Core RHoD/Selections Glossary/Features/Features - Defense.md",
     "Core RHoD/Combat and Actions/Combat Definitions.md",
     "Core RHoD/Equipment and Inventories/Armors.md",
     "Core RHoD/Equipment and Inventories/Equipment.md",
