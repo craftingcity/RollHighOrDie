@@ -269,12 +269,12 @@ This spell grants increases that Reactive Defense for the *Duration* of the spel
 #### Light
 (Complexity +X, Effort +X)
 
-This spell emits bright light for X * 5 feet, and then an additional X * 10 feet of dim light beyond that.
+This spell emits a radius of bright light for (X * 5) feet, and then an additional (X * 10) feet of dim light beyond that for the *Duration* of the spell.
 
 #### Darkness
 (Complexity +#, Effort +#)
 
-This spell diminishes any light present for 
+This spell diminishes any Lighting present in a radius of (X * 5) feet into Darkness for the *Duration* of the spell.
 
 #### Push-Pull
 (Complexity +#, Effort +#)
