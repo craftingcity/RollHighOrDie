@@ -263,7 +263,7 @@ This spell grants X Damage Resistance of that Type for the *Duration* of the spe
 
 Choose a Reactive Defense.
 
-This spell grants increases that Reactive Defense for the Duration of the spell.
+This spell grants increases that Reactive Defense for the *Duration* of the spell.
 
 ##### Utility
 #### Light
