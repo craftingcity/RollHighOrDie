@@ -195,7 +195,7 @@ This spell forces it's targets to take an Action (that costs 5 or less AP) of yo
 ...
 
 #### Major Charm
-(Complexity +8, Effort +8)
+(Complexity +8, Effort +6)
 
 ...
 
@@ -212,27 +212,27 @@ This spell imposes a stack of the 'Guided' Emboldenment.
 This spell imposes a stack of the 'Quickened' Emboldenment.
 
 #### Impose 'Slowfall'
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell imposes the 'Slowfall' Emboldenment for the *Duration* of the spell.
 
 #### Impose Pain Dulled
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell imposes a stack of the 'Pain Dulled' Emboldenment.
 
 #### Impose Regeneration
-(Complexity +#, Effort +#)
+(Complexity +8, Effort +6)
 
 This spell imposes a stack of the 'Regeneration' Emboldenment.
 
 #### Impose Rallied
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell imposes a stack of the 'Rallied' Emboldenment.
 
 #### Impose Encouraged
-(Complexity +#, Effort +#)
+(Complexity +8, Effort +6)
 
 This spell imposes a stack of the 'Encouraged' Emboldenment.
 
