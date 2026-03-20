@@ -339,7 +339,8 @@
                   "title": "Spell Techniques - Arcane"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -352,7 +353,7 @@
       }
     ]
   },
-  "active": "d38edcb0cb65deb1",
+  "active": "45534e35c39dc13f",
   "lastOpenFiles": [
     "Core RHoD/Environment Definitions.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
