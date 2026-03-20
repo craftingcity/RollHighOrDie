@@ -237,31 +237,33 @@ This spell imposes a stack of the 'Rallied' Emboldenment.
 This spell imposes a stack of the 'Encouraged' Emboldenment.
 
 #### Impose Low-Light Vision
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +4)
 
 This spell imposes the 'Low-Light Vision' Condition for the *Duration* of the spell.
 
 #### Grant Vitality
-(Complexity +#, Effort +#)
+(Complexity +X, Effort +Y)
 
 This spell grants XdY Vitality.
 
 #### Grant Armoring
-(Complexity +#, Effort +#)
+(Complexity +X, Effort +Y)
 
 This spell grants XdY Armoring.
 
 #### Resistance
-(Complexity +X, Effort +2)
+(Complexity +4, Effort +X)
 
 Choose a Damage Type. 
 
 This spell grants X Damage Resistance of that Type for the *Duration* of the spell.
 
 #### Shield
-(Complexity +#, Effort +#)
+(Complexity +4, Effort +X)
 
-...
+Choose a Reactive Defense.
+
+This spell grants increases that Reactive Defense for the Duration of the spell.
 
 ##### Utility
 #### Light
