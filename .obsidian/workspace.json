@@ -343,16 +343,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 1651,
+        "x": 1650,
         "y": 0,
-        "width": 909,
-        "height": 1400,
+        "width": 1028,
+        "height": 800,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "d38edcb0cb65deb1",
+  "active": "155df8e21d3e9bb0",
   "lastOpenFiles": [
     "Core RHoD/Environment Definitions.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
