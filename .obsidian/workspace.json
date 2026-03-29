@@ -326,6 +326,18 @@
                 }
               },
               {
+                "id": "e986eecc16574326",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.12.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.12.7"
+                }
+              },
+              {
                 "id": "45534e35c39dc13f",
                 "type": "leaf",
                 "state": {
@@ -339,20 +351,21 @@
                   "title": "Spell Techniques - Arcane"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1650,
+        "x": 1649,
         "y": 0,
-        "width": 1028,
+        "width": 1027,
         "height": 800,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "155df8e21d3e9bb0",
+  "active": "e986eecc16574326",
   "lastOpenFiles": [
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Environment Definitions.md",
