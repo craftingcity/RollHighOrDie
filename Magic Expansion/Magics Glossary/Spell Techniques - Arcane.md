@@ -40,8 +40,8 @@ You know the following Defined Spells:
 		- 10 Complexity, 4 Effort (Speed 2)
 		- Target a creature or point within 90', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you deal 2d8 Cold Damage.
 	- **Make Wave** (Radius, Cone, Immediate, Cold Damage, Push-Pull)
-		- X Complexity, X Effort (Speed X)
-		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Reflex of each creature within a 15' cone, originating from the point you chose. If you hit, you deal .
+		- 13 Complexity, 8 Effort (Speed 4)
+		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Reflex of each creature within a 15' cone, originating from the point you chose. If you hit, you deal 2d4 Cold Damage, and then you move that creature 5' away from you.
 
 #### Geomancy I
 You understand the following Spell Bases:
