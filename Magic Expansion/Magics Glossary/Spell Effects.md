@@ -364,19 +364,19 @@ This spell diminishes any Lighting present in a radius of (X * 5) feet into Dark
 
 ##### Damage
 #### Acid Damage
-(Complexity +Y/2, Effort +X)
+(Complexity +Y, Effort +X)
 
-This spell deals XdY Acid damage.
+This spell deals Xd(2 * Y) Acid damage.
 
 #### Cold Damage
-(Complexity +Y/2, Effort +X)
+(Complexity +Y, Effort +X)
 
-This spell deals XdY Cold damage.
+This spell deals Xd(2 * Y) Cold damage.
 
 #### Electric Damage
-(Complexity +Y/2, Effort +X)
+(Complexity +Y, Effort +X)
 
-This spell deals XdY Electric damage.
+This spell deals Xd(2 * Y) Electric damage.
 
 #### Fire Damage
 (Complexity +Y/2, Effort +X)
@@ -384,24 +384,24 @@ This spell deals XdY Electric damage.
 This spell deals XdY Fire damage.
 
 #### Force Damage
-(Complexity +Y/2, Effort +X)
+(Complexity +Y, Effort +X)
 
-This spell deals XdY Force damage.
+This spell deals Xd(2 * Y) Force damage.
 
 #### Necrotic Damage
-(Complexity +Y/2, Effort +X)
+(Complexity +Y, Effort +X)
 
-This spell deals XdY Necrotic damage.
+This spell deals Xd(2 * Y) Necrotic damage.
 
 #### Psychic Damage
-(Complexity +Y/2, Effort +X)
+(Complexity +Y, Effort +X)
 
-This spell deals XdY Psychic damage.
+This spell deals Xd(2 * Y) Psychic damage.
 
 #### Radiant Damage
-(Complexity +Y/2, Effort +X)
+(Complexity +Y, Effort +X)
 
-This spell deals XdY Radiant damage.
+This spell deals Xd(2 * Y) Radiant damage.
 
 #### Vampirism
 (Complexity +#, Effort +#)
