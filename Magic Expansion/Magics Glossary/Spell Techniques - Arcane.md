@@ -37,8 +37,9 @@ You understand the following Spell Effects:
 	- *Damage*; Cold
 You know the following Defined Spells:
 	- **Ice Spike** (Projectile, Long Range, Immediate, Cold Damage)
-		- 4 Complexity, 2 Effort (Speed X)
-		- Target a creature or point within 90', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you deal 
+		- 10 Complexity, 4 Effort (Speed 2)
+		- Target a creature or point within 90', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you deal 2d8 Cold Damage.
+	- 
 
 #### Geomancy I
 You understand the following Spell Bases:
