@@ -187,7 +187,7 @@ This spell forces it's targets to take a Maneuver of your choice.
 #### Compel Action
 (Complexity +4, Effort +6)
 
-This spell forces it's targets to take an Action (that costs 5 or less AP) of your choice.
+This spell forces it's targets to take an Action of your choice that costs 5 or less AP.
 
 #### Minor Charm
 (Complexity +4, Effort +4)

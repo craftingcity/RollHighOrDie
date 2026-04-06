@@ -36,7 +36,9 @@ You understand the following Spell Effects:
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
 You know the following Defined Spells:
-	- **Ice Spike** (Projectile, Long Range, Immediate, )
+	- **Ice Spike** (Projectile, Long Range, Immediate, Cold Damage)
+		- x Complexity, x Effort (Speed X)
+		- Target a creature or point within 90', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you deal 
 
 #### Geomancy I
 You understand the following Spell Bases:
