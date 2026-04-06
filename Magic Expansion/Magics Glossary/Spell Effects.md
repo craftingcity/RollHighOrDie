@@ -277,7 +277,7 @@ This spell emits a radius of bright light for (X * 5) feet, and then an addition
 This spell diminishes any Lighting present in a radius of (X * 5) feet into Darkness for the *Duration* of the spell.
 
 #### Push-Pull
-(Complexity +#, Effort +#)
+(Complexity +(X * 4), Effort +(X * 2))
 
 This spell moves a creature or object (5 * X) feet toward or away from you.
 
