@@ -21,7 +21,7 @@ You know the following Defined Spells:
 		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your spellcasting roll against the Reflex of each creature within a 15' cone, originating from the point you chose. If you hit, you deal 3d6 Fire Damage.
 	- **Illuminate** (Projectile, Touch, Hour Long, Light)
 		- 8 Complexity, 4 Effort (Speed 2)
-		- Target a creature, object, or point you are adjacent to, and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, the target of your spell emits a radius of bright light for 10', and then an additional 20' of dim light beyond that.
+		- Target a creature, object, or point you are adjacent to, and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, the target of your spell emits a radius of bright light for 10', and then an additional 20' of dim light beyond that for the duration of the spell.
 
 #### Hydromancy I
 You understand the following Spell Bases:
@@ -42,6 +42,7 @@ You know the following Defined Spells:
 	- **Make Wave** (Radius, Cone, Immediate, Cold Damage, Push-Pull)
 		- 13 Complexity, 8 Effort (Speed 4)
 		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Reflex of each creature within a 15' cone, originating from the point you chose. If you hit, you deal 2d4 Cold Damage, and then you move that creature 5' away from you.
+	- **Simple Image** ()
 
 #### Geomancy I
 You understand the following Spell Bases:
