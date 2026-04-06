@@ -272,14 +272,14 @@ This spell grants increases that Reactive Defense for the *Duration* of the spel
 This spell emits a radius of bright light for (X * 5) feet, and then an additional (X * 10) feet of dim light beyond that for the *Duration* of the spell.
 
 #### Darkness
-(Complexity +#, Effort +#)
+(Complexity +X, Effort +X)
 
 This spell diminishes any Lighting present in a radius of (X * 5) feet into Darkness for the *Duration* of the spell.
 
 #### Push-Pull
 (Complexity +#, Effort +#)
 
-...
+This spell moves a creature or object (5 * X) feet toward or away from you.
 
 #### Manipulate Material
 (Complexity +#, Effort +#)
