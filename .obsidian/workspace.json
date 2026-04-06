@@ -326,18 +326,6 @@
                 }
               },
               {
-                "id": "e986eecc16574326",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.12.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.12.7"
-                }
-              },
-              {
                 "id": "45534e35c39dc13f",
                 "type": "leaf",
                 "state": {
@@ -356,20 +344,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 1649,
+        "x": 1765,
         "y": 0,
-        "width": 1027,
-        "height": 800,
+        "width": 795,
+        "height": 1400,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "e986eecc16574326",
+  "active": "45534e35c39dc13f",
   "lastOpenFiles": [
     "Magic Expansion/Magics Glossary/Spell Effects.md",
-    "Core RHoD/Environment Definitions.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Core RHoD/Environment Definitions.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",

@@ -36,7 +36,7 @@ You understand the following Spell Effects:
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold
 You know the following Defined Spells:
-	- **
+	- **Ice Spike** (Projectile, Long Range, Immediate, )
 
 #### Geomancy I
 You understand the following Spell Bases:
@@ -50,6 +50,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Grant Armoring
 	- *Utility*; Manipulate Terrain
 	- *Damage*; Force
+You know the following Defined Spells:
+	- **
 
 #### Aeromancy I
 You understand the following Spell Bases:
@@ -64,6 +66,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Slowfall
 	- *Utility*; Push-Pull, Minor Illusion
 	- *Damage*; Cold and Force
+You know the following Defined Spells:
+	- **
 
 #### Electromancy I
 You understand the following Spell Bases:
@@ -77,6 +81,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; (n/a)
 	- *Utility*; Light, Minor Illusion
 	- *Damage*; Electric
+You know the following Defined Spells:
+	- **
 
 #### Biomancy I
 You understand the following Spell Bases:
@@ -90,6 +96,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Pain Dulled, Low-Light Vision
 	- *Utility*; (n/a)
 	- *Damage*; Acid
+You know the following Defined Spells:
+	- **
 
 #### Psychomancy I
 You understand the following Spell Bases:
@@ -104,6 +112,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Guided, Rallied
 	- *Utility*; Telepathy, Minor Illusion, Gain Simple Information
 	- *Damage*; Psychic
+You know the following Defined Spells:
+	- **
 
 ### Taxonism
 #### Abjuration I
@@ -118,6 +128,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Pain Dulled, Shield
 	- *Utility*; Counter, Detect Extraplanar
 	- *Damage*; (n/a)
+You know the following Defined Spells:
+	- **
 
 #### Conjuration I
 You understand the following Spell Bases:
@@ -130,6 +142,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Grant Vitality
 	- *Utility*; Light, Minor Conjuration,
 	- *Damage*; (n/a)
+You know the following Defined Spells:
+	- **
 
 #### Divination I
 You understand the following Spell Bases:
@@ -143,6 +157,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Guided
 	- *Utility*; Minor Illusion, Translate Language, Gain Simple Information
 	- *Damage*; Radiant
+You know the following Defined Spells:
+	- **
 
 #### Enchantment I
 You understand the following Spell Bases:
@@ -156,6 +172,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Guided
 	- *Utility*; Light, Darkness, Minor Illusion
 	- *Damage*; Psychic
+You know the following Defined Spells:
+	- **
 
 #### Evocation I
 You understand the following Spell Bases:
@@ -169,6 +187,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; (n/a)
 	- *Utility*; Light
 	- *Damage*; Acid, Cold, Electric, Fire
+You know the following Defined Spells:
+	- **
 
 #### Illusion I
 You understand the following Spell Bases:
@@ -182,6 +202,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Low-Light Vision
 	- *Utility*; Light, Darkness, Minor Illusion
 	- *Damage*; (n/a)
+You know the following Defined Spells:
+	- **
 
 #### Necromancy I
 You understand the following Spell Bases:
@@ -195,6 +217,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; Pain Dulled
 	- *Utility*; Darkness
 	- *Damage*; Necrotic
+You know the following Defined Spells:
+	- **
 
 #### Transmutation I
 You understand the following Spell Bases:
@@ -208,6 +232,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; (n/a)
 	- *Utility*; Manipulate Material, Manipulate Terrain, Minor Transmute
 	- *Damage*; Acid, Cold, Electric, Fire
+You know the following Defined Spells:
+	- **
 
 #### Metamancy I
 You understand the following Spell Bases:
@@ -220,6 +246,8 @@ You understand the following Spell Effects:
 	- *Emboldenments*; (n/a)
 	- *Utility*; Gain Simple Information, Detect Magic, Counter
 	- *Damage*; (n/a)
+You know the following Defined Spells:
+	- **
 
 ### Complex Arcane Techniques
 ### Epic Arcane Techniques
