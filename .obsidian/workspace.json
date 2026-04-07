@@ -299,64 +299,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "e697450aa356feb7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c53a027cc26fb276",
-        "type": "window",
-        "children": [
-          {
-            "id": "e2a97cff89a7807b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "155df8e21d3e9bb0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Core RHoD/Environment Definitions.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Environment Definitions"
-                }
-              },
-              {
-                "id": "45534e35c39dc13f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Spell Techniques - Arcane"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1765,
-        "y": 0,
-        "width": 795,
-        "height": 1400,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "45534e35c39dc13f",
+  "active": "d38edcb0cb65deb1",
   "lastOpenFiles": [
-    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Character Rules/Defenses.md",
     "Core RHoD/Selections Glossary/Emboldenment.md",
