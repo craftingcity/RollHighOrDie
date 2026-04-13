@@ -60,6 +60,8 @@ You understand the following Spell Effects:
 	- *Damage*; Force
 You know the following Defined Spells:
 	- **Fling Stones** (Projectile, Short, Immediate, Force Damage)
+		- 4 Complexity, 2 Effort (Speed X)
+		- Target a creature or point within 30', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you deal 2d4 Force Damage.
 
 #### Aeromancy I
 You understand the following Spell Bases:
