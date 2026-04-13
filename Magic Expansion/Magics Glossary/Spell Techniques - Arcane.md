@@ -43,6 +43,7 @@ You know the following Defined Spells:
 		- 13 Complexity, 8 Effort (Speed 4)
 		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Reflex of each creature within a 15' cone, originating from the point you chose. If you hit, you deal 2d4 Cold Damage, and then you move that creature 5' away from you.
 	- **Simple Image** (Projectile, Touch, Minute Long, Minor Illusion)
+		- x Complexity, x Effort (Speed x)
 		- 
 
 #### Geomancy I
