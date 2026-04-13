@@ -64,7 +64,7 @@ You know the following Defined Spells:
 		- Target a creature or point within 30', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you deal 2d4 Force Damage and impose a stack of the 'Dazed' [[Ailment]].
 	- **Stonewrap** (Radius, Sphere, Hour Long, Caught)
 		- x Complexity, x Effort (Speed x)
-		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Fortitude of each creature within a 20' sphere. If you hit, you impose the 'Caught' Ailment.
+		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Fortitude of each creature within a 20' sphere. If you hit, you impose the 'Caught' Ailment on that creature.
 
 #### Aeromancy I
 You understand the following Spell Bases:
