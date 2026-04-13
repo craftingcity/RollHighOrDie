@@ -10,7 +10,7 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Flammable, Blinded
 	- *Emboldenments*; (n/a)
-	- *Utility*; Light, Minor Illusion
+	- *Utility*; Light, Minor Illusion - Visual
 	- *Damage*; Fire
 You know the following Defined Spells:
 	- **Firebolt** (Projectile, Long Range, Immediate, Impose Flammable, Fire Damage)
@@ -33,7 +33,7 @@ You understand the following Spell Effects:
 	- *Duration*; Immediate, Minute Long, Hour Long
 	- *Ailments*; Hobbled, Faltering
 	- *Emboldenments*; (n/a)
-	- *Utility*; Push-Pull, Minor Illusion
+	- *Utility*; Push-Pull, Minor Illusion - Visual
 	- *Damage*; Cold
 You know the following Defined Spells:
 	- **Ice Spike** (Projectile, Long Range, Immediate, Cold Damage)
@@ -42,7 +42,7 @@ You know the following Defined Spells:
 	- **Make Wave** (Radius, Cone, Immediate, Cold Damage, Push-Pull)
 		- 13 Complexity, 8 Effort (Speed 4)
 		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Reflex of each creature within a 15' cone, originating from the point you chose. If you hit, you deal 2d4 Cold Damage, and then you move that creature 5' away from you.
-	- **Simple Image** (Projectile, Touch, Minute Long, Minor Illusion)
+	- **Simple Image** (Projectile, Touch, Minute Long, Minor Illusion - Visual)
 		- x Complexity, x Effort (Speed x)
 		- 
 
