@@ -244,7 +244,7 @@ This spell imposes the 'Low-Light Vision' Condition for the *Duration* of the sp
 #### Grant Vitality
 (Complexity +X, Effort +Y)
 
-This spell grants XdY Vitality.
+This spell grants (X / 3)dY Vitality.
 
 #### Grant Armoring
 (Complexity +X, Effort +Y)
