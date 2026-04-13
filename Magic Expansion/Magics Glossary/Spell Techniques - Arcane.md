@@ -43,8 +43,8 @@ You know the following Defined Spells:
 		- 13 Complexity, 8 Effort (Speed 4)
 		- Choose a point within or adjacent to the space you occupy as the origin of the spell. Compare your Spellcasting roll against the Reflex of each creature within a 15' cone, originating from the point you chose. If you hit, you deal 2d4 Cold Damage, and then you move that creature 5' away from you.
 	- **Simple Image** (Projectile, Touch, Minute Long, Minor Illusion - Visual)
-		- x Complexity, x Effort (Speed x)
-		- Target a point within 5', and establish Line of Sight. A static illusory image that fits within a 5-foot cube for apears  the *Duration* of the spell. Creatures may realize the illusory nature of the image by making a Perception Skill Check equal to or greater than the result of the Spellcasting roll you made to cast this spell.
+		- 8 Complexity, 4 Effort (Speed 2)
+		- Target a point within 5', and establish Line of Sight. A static illusory image that fits within a 5-foot cube appears at the point you chose for the *Duration* of the spell. Creatures may realize the illusory nature of the image by making a Perception Skill Check equal to or greater than the result of the Spellcasting roll you made to cast this spell.
 
 #### Geomancy I
 You understand the following Spell Bases:
