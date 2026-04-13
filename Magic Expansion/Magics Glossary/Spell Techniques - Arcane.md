@@ -62,7 +62,7 @@ You know the following Defined Spells:
 	- **Fling Stones** (Projectile, Short, Immediate, Force Damage, Dazed)
 		- 8 Complexity, 4 Effort (Speed 2)
 		- Target a creature or point within 30', and establish Line of Sight. Compare your Spellcasting roll against the Reflex of that creature. If you hit, you deal 2d4 Force Damage and impose a stack of the 'Dazed' [[Ailment]].
-	- ****
+	- **Stonewrap** (Radius, )
 
 #### Aeromancy I
 You understand the following Spell Bases:
