@@ -249,7 +249,7 @@ This spell grants XdY Vitality.
 #### Grant Armoring
 (Complexity +X, Effort +Y)
 
-This spell grants XdY Armoring.
+This spell grants (X / 3)dY Armoring.
 
 #### Resistance
 (Complexity +4, Effort +X)
