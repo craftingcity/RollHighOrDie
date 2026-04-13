@@ -59,7 +59,7 @@ You understand the following Spell Effects:
 	- *Utility*; Manipulate Terrain
 	- *Damage*; Force
 You know the following Defined Spells:
-	- **
+	- ****
 
 #### Aeromancy I
 You understand the following Spell Bases:
