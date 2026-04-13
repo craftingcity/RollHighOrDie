@@ -119,4 +119,4 @@ While you are wearing this Armor, you gain the indicated number (x) of Item Slot
 #### Powered (x)
 While you are Resting, you may Fuel your Armor by expending the indicated number and type (x) of items. If you do, your Armor is Fueled for one Day.
 
-If your Armor is not Fueled, you treat this Armor as if it had no other Mundane or Specialized Tags.
+If your Armor is not Fueled, you treat this Armor as if it had no other Specialized Tags.
