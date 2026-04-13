@@ -299,7 +299,7 @@ This spell moves a creature or object (5 * X) feet toward or away from you.
 #### Minor Illusion
 (Complexity +#, Effort +#)
 
-...
+This spell creates a static illusory image that fits within a 5-foot cube. 
 
 #### Major Illusion
 (Complexity +#, Effort +#)
