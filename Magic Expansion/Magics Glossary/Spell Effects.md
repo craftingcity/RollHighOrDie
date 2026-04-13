@@ -403,6 +403,11 @@ This spell deals Xd(2 * Y) Psychic damage.
 
 This spell deals Xd(2 * Y) Radiant damage.
 
+#### True Damage
+(Complexity +#, Effort +#)
+
+This spell deals True damage.
+
 #### Vampirism
 (Complexity +#, Effort +#)
 
