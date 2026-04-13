@@ -296,7 +296,7 @@ This spell moves a creature or object (5 * X) feet toward or away from you.
 
 ...
 
-#### Minor Illusion - Visual
+#### Minor Illusion - Visual 
 (Complexity +#, Effort +#)
 
 This spell creates a static illusory image that fits within a 5-foot cube for the *Duration* of the spell. Creatures may realize the illusory nature of the image by making a Perception Skill Check equal to or greater than the result of the Spellcasting roll you made to cast this spell.
