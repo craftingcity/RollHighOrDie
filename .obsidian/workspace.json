@@ -299,9 +299,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38edcb0cb65deb1",
+  "floating": {
+    "id": "4356d456561525ba",
+    "type": "floating",
+    "children": [
+      {
+        "id": "831aef36376b08ea",
+        "type": "window",
+        "children": [
+          {
+            "id": "a7ebe2b68e198a1c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1aa578877af63d1b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spell Techniques - Arcane"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1785,
+        "y": 0,
+        "width": 775,
+        "height": 1400,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "1aa578877af63d1b",
   "lastOpenFiles": [
+    "Magic Expansion/Spellcasting.md",
     "Magic Expansion/Magics Glossary/Spell Techniques - Arcane.md",
+    "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Spell Effects.md",
     "Core RHoD/Environment Definitions.md",
     "Core RHoD/Character Rules/Defenses.md",
@@ -309,9 +350,7 @@
     "Magic Expansion/Magics Glossary/Magical Ailments, Conditions, and Emboldenments.md",
     "Core RHoD/Selections Glossary/Ailment.md",
     "Core RHoD/Selections Glossary/Features/Features - Defense.md",
-    "Magic Expansion/Spellcasting.md",
     "conflict-files-obsidian-git.md",
-    "Magic Expansion/Features - Arcane.md",
     "Magic Expansion/Magics Glossary/Defined Arcane Spells.md",
     "Core RHoD/Combat and Actions/Actions During Encounters.md",
     "Core RHoD/Equipment and Inventories/Melee Weapons.md",
