@@ -289,7 +289,7 @@ This spell moves a creature or object (5 * X) feet toward or away from you.
 #### Manipulate Terrain
 (Complexity +#, Effort +#)
 
-...
+This spell 
 
 #### Telepathy
 (Complexity +#, Effort +#)
